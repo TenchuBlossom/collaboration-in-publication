@@ -1,0 +1,167 @@
+title,authors,date,target year
+Libra: scalable k-mer–based tool for massive all-vs-all metagenome comparisons,"Illyoung Choi, Alise J Ponsero, Matthew Bomhoff, Ken Youens-Clark, John H Hartman ...",28 December 2018,2018
+LR_Gapcloser: a tiling path-based gap closer that uses long reads to complete genome assembly,"Gui-Cai Xu, Tian-Jun Xu, Rui Zhu, Yan Zhang, Shang-Qi Li ...",21 December 2018,2018
+"Re-assembly, quality evaluation, and annotation of 678 microbial eukaryotic reference transcriptomes","Lisa K Johnson, Harriet Alexander, C Titus Brown",13 December 2018,2018
+Keeping it light: (re)analyzing community-wide datasets without major infrastructure,"Harriet Alexander, Lisa K Johnson, C Titus Brown",13 December 2018,2018
+"Calcium imaging, MEA recordings, and immunostaining images dataset of neuron-astrocyte networks in culture under the effect of norepinephrine","Yasmin Bar El, Sivan Kanner, Ari Barzilai, Yael Hanein",13 December 2018,2018
+Efficient and accurate detection of splice junctions from RNA-seq with Portcullis,"Daniel Mapleson, Luca Venturini, Gemy Kaithakottil, David Swarbreck",12 December 2018,2018
+BLINK: a package for the next level of genome-wide association studies with both individuals and markers in the millions,"Meng Huang, Xiaolei Liu, Yao Zhou, Ryan M Summers, Zhiwu Zhang",11 December 2018,2018
+Correction to: Population-wide sampling of retrotransposon insertion polymorphisms using deep sequencing and efficient detection,"Qichao Yu, Wei Zhang, Xiaolong Zhang, Yongli Zeng, Yeming Wang ...",11 December 2018,2018
+Human leukemia cells (HL-60) proteomic and biological signatures underpinning cryo-damage are differentially modulated by novel cryo-additives,"Noha A S Al-Otaibi, Juliana S Cassoli, Daniel Martins-de-Souza, Nigel K H Slater, Hassan Rahmoune",10 December 2018,2018
+Lilikoi: an R package for personalized pathway-based classification modeling using metabolomics data,"Fadhl M AlAkwaa, Breck Yunits, Sijia Huang, Hassam Alhajaji, Lana X Garmire",10 December 2018,2018
+"Divergent evolution in the genomes of closely related lacertids, Lacerta viridis and L. bilineata, and implications for speciation","Sree Rohit Raj Kolora, Anne Weigert, Amin Saffari, Stephanie Kehr, Maria Beatriz Walter Costa ...",10 December 2018,2018
+Prot-SpaM: fast alignment-free phylogeny reconstruction based on whole-proteome sequences,"Chris-Andre Leimeister, Jendrik Schellhorn, Svenja Dörrer, Michael Gerth, Christoph Bleidorn ...",07 December 2018,2018
+A micro X-ray computed tomography dataset of fossil echinoderms in an ancient obrution bed: a robust method for taphonomic and palaeoecologic analyses,"Mhairi Reid, Emese M Bordy, Wendy L Taylor, Stephan G le Roux, Anton du Plessis",07 December 2018,2018
+"Genome of the small hive beetle (Aethina tumida, Coleoptera: Nitidulidae), a worldwide parasite of social bee colonies, provides insights into detoxification and herbivory","Jay D Evans, Duane McKenna, Erin Scully, Steven C Cook, Benjamin Dainat ...",07 December 2018,2018
+Erratum to: Comparative performance of the BGISEQ-500 vs Illumina HiSeq2500 sequencing platforms for palaeogenomic sequencing,"Sarah Siu Tze Mak, Shyam Gopalakrishnan, Christian Carøe, Chunyu Geng, Shanlin Liu ...",07 December 2018,2018
+PhenoMeNal: processing and analysis of metabolomics data in the cloud,"Kristian Peters, James Bradbury, Sven Bergmann, Marco Capuccini, Marta Cascante ...",07 December 2018,2018
+The draft genomes of five agriculturally important African orphan crops,"Yue Chang, Huan Liu, Min Liu, Xuezhu Liao, Sunil Kumar Sahu ...",07 December 2018,2018
+A databank for intracellular electrophysiological mapping of the adult somatosensory cortex,"Angelica da Silva Lantyer, Niccolò Calcini, Ate Bijlsma, Koen Kole, Melanie Emmelkamp ...",06 December 2018,2018
+Whole-genome sequence of the oriental lung fluke Paragonimus westermani,"Harald Oey, Martha Zakrzewski, Kanwar Narain, K Rekha Devi, Takeshi Agatsuma ...",06 December 2018,2018
+Erratum to: The sponge microbiome project,"Lucas Moitinho-Silva, Shaun Nielsen, Amnon Amir, Antonio Gonzalez, Gail L Ackermann ...",06 December 2018,2018
+Advances in genomic hepatocellular carcinoma research,"Weitai Huang, Anders Jacobsen Skanderup, Caroline G Lee",06 December 2018,2018
+Annotation of the Giardia proteome through structure-based homology and machine learning,"Brendan R E Ansell, Bernard J Pope, Peter Georgeson, Samantha J Emery-Corbin, Aaron R Jex",06 December 2018,2018
+Computer vision-based phenotyping for improvement of plant productivity: a machine learning perspective,"Keiichi Mochida, Satoru Koda, Komaki Inoue, Takashi Hirayama, Shojiro Tanaka ...",06 December 2018,2018
+Erratum to: A reference human genome dataset of the BGISEQ-500 sequencer,"Jie Huang, Xinming Liang, Yuankai Xuan, Chunyu Geng, Yuxiang Li ...",30 November 2018,2018
+SMRT long reads and Direct Label and Stain optical maps allow the generation of a high-quality genome assembly for the European barn swallow (Hirundo rustica rustica),"Giulio Formenti, Matteo Chiara, Lucy Poveda, Kees-Jan Francoijs, Andrea Bonisoli-Alquati ...",29 November 2018,2018
+A network-based conditional genetic association analysis of the human metabolome,"Y A Tsepilov, S Z Sharapov, O O Zaytseva, J Krumsek, C Prehn ...",29 November 2018,2018
+"The genome of the tegu lizard Salvator merianae: combining Illumina, PacBio, and optical mapping data to generate a highly contiguous assembly","Juliana G Roscito, Katrin Sameith, Martin Pippel, Kees-Jan Francoijs, Sylke Winkler ...",27 November 2018,2018
+Dynamic transcriptome profiling dataset of vaccinia virus obtained from long-read sequencing techniques,"Dóra Tombácz, István Prazsák, Attila Szűcs, Béla Dénes, Michael Snyder ...",23 November 2018,2018
+NanoAmpli-Seq: a workflow for amplicon sequencing for mixed microbial communities on the nanopore sequencing platform,"Szymon T Calus, Umer Z Ijaz, Ameet J Pinto",23 November 2018,2018
+"The genome of an underwater architect, the caddisfly Stenopsyche tienmushanensis Hwang (Insecta: Trichoptera)","Shiqi Luo, Min Tang, Paul B Frandsen, Russell J Stewart, Xin Zhou",23 November 2018,2018
+Erratum to: Taxonomic structure and functional association of foxtail millet root microbiome,"Tao Jin, Yayu Wang, Yueying Huang, Jin Xu, Pengfan Zhang ...",19 November 2018,2018
+Erratum to: The genome sequence and transcriptome of Potentilla micrantha and their comparison to Fragaria vesca (the woodland strawberry),,16 November 2018,2018
+Genomes of trombidid mites reveal novel predicted allergens and laterally transferred genes associated with secondary metabolism,"Xiaofeng Dong, Kittipong Chaisiri, Dong Xia, Stuart D Armstrong, Yongxiang Fang ...",15 November 2018,2018
+Comprehensive evaluation of RNA-seq analysis pipelines in diploid and polyploid species,"Miriam Payá-Milans, James W Olmstead, Gerardo Nunez, Timothy A Rinehart, Margaret Staton",10 November 2018,2018
+An open-source high-speed infrared videography database to study the principles of active sensing in freely navigating rodents,"Alireza Azarfar, Yiping Zhang, Artoghrul Alishbayli, Stéphanie Miceli, Lara Kepser ...",10 November 2018,2018
+NAT/NCS2-hound: a webserver for the detection and evolutionary classification of prokaryotic and eukaryotic nucleobase-cation symporters of the NAT/NCS2 family,"A Chaliotis, P Vlastaridis, C Ntountoumi, M Botou, V Yalelis ...",10 November 2018,2018
+A parasite's perspective on data sharing,"YoSon Park, Casey S Greene",05 November 2018,2018
+Aequatus: an open-source homology browser,"Anil S Thanki, Nicola Soranzo, Javier Herrero, Wilfried Haerty, Robert P Davey",05 November 2018,2018
+Transfer learning improves resting-state functional connectivity pattern analysis using convolutional neural networks,"Pál Vakli, Regina J Deák-Meszlényi, Petra Hermann, Zoltán Vidnyánszky",05 November 2018,2018
+Editorial: We need to talk about authorship,"Hans Zauner, Nicole A Nogoy, Scott C Edmunds, Hongling Zhou, Laurie Goodman",02 November 2018,2018
+Erratum to: Transcriptional mapping of the primary somatosensory cortex upon sensory deprivation,"Koen Kole, Yutaro Komuro, Jan Provaznik, Jelena Pistolic, Vladimir Benes ...",27 October 2018,2018
+A benchmark study of k-mer counting methods for high-throughput sequencing,"Swati C Manekar, Shailesh R Sathe",22 October 2018,2018
+Cost-effective assembly of the African wild dog (Lycaon pictus) genome using linked reads,"Ellie E Armstrong, Ryan W Taylor, Stefan Prost, Peter Blinston, Esther van der Meer ...",22 October 2018,2018
+MetaPGN: a pipeline for construction and graphical visualization of annotated pangenome networks,"Ye Peng, Shanmei Tang, Dan Wang, Huanzi Zhong, Huijue Jia ...",02 October 2018,2018
+PiGx: reproducible genomics analysis pipelines with GNU Guix,"Ricardo Wurmus, Bora Uyar, Brendan Osberg, Vedran Franke, Alexander Gosdschan ...",02 October 2018,2018
+The genome of common long-arm octopus Octopus minor,"Bo-Mi Kim, Seunghyun Kang, Do-Hwan Ahn, Seung-Hyun Jung, Hwanseok Rhee ...",25 September 2018,2018
+Chromosomal-level assembly of yellow catfish genome using third-generation DNA sequencing and Hi-C analysis,"Gaorui Gong, Cheng Dan, Shijun Xiao, Wenjie Guo, Peipei Huang ...",20 September 2018,2018
+Exploring the genome and transcriptome of the cave nectar bat Eonycteris spelaea with PacBio long-read sequencing,"Ming Wen, Justin H J Ng, Feng Zhu, Yok Teng Chionh, Wan Ni Chia ...",20 September 2018,2018
+"Chromosome-level genome assembly of the spotted sea bass, Lateolabrax maculatus","Changwei Shao, Chang Li, Na Wang, Yating Qin, Wenteng Xu ...",18 September 2018,2018
+Single-cell RNA-seq reveals dynamic transcriptome profiling in human early neural differentiation,"Zhouchun Shang, Dongsheng Chen, Quanlei Wang, Shengpeng Wang, Qiuting Deng ...",18 September 2018,2018
+Extensive evaluation of the generalized relevance network approach to inferring gene regulatory networks,"Vladimir Kuzmanovski, Ljupčo Todorovski, Sašo Džeroski",18 September 2018,2018
+"A draft genome assembly of the Chinese sillago (Sillago sinica), the first reference genome for Sillaginidae fishes","Shengyong Xu, Shijun Xiao, Shilin Zhu, Xiaofei Zeng, Jing Luo ...",10 September 2018,2018
+Chromosome-level reference genome and alternative splicing atlas of moso bamboo (Phyllostachys edulis),"Hansheng Zhao, Zhimin Gao, Le Wang, Jiongliang Wang, Songbo Wang ...",08 September 2018,2018
+Metabolomics investigation of dietary effects on flesh quality in grass carp (Ctenopharyngodon idellus),"Honghao Zhao, Jasmine Chong, Rong Tang, Li Li, Jianguo Xia ...",06 September 2018,2018
+The metagenome of the female upper reproductive tract,"Fei Li, Chen Chen, Weixia Wei, Zirong Wang, Juanjuan Dai ...",06 September 2018,2018
+Ximmer: a system for improving accuracy and consistency of CNV calling from exome data,"Simon P Sadedin, Justine A Ellis, Seth L Masters, Alicia Oshlack",06 September 2018,2018
+Comparative genomics and transcriptomics of Chrysolophus provide insights into the evolution of complex plumage coloration,"Guangqi Gao, Meng Xu, Chunling Bai, Yulan Yang, Guangpeng Li ...",06 September 2018,2018
+Sequana coverage: detection and characterization of genomic variations using running median and mixture models,"Dimitri Desvillechabrol, Christiane Bouchier, Sean Kennedy, Thomas Cokelaer",06 September 2018,2018
+ANNOgesic: a Swiss army knife for the RNA-seq based annotation of bacterial/archaeal genomes,"Sung-Huan Yu, Jörg Vogel, Konrad U Förstner",30 August 2018,2018
+Fractalis: a scalable open-source service for platform-independent interactive visual analysis of biomedical data,"Sascha Herzinger, Valentin Grouès, Wei Gu, Venkata Satagopam, Peter Banda ...",27 August 2018,2018
+"Population genomics of wild Chinese rhesus macaques reveals a dynamic demographic history and local adaptation, with implications for biomedical research","Zhijin Liu, Xinxin Tan, Pablo Orozco-terWengel, Xuming Zhou, Liye Zhang ...",27 August 2018,2018
+"Genome-wide definition of selective sweeps reveals molecular evidence of trait-driven domestication among elite goat (Capra species) breeds for the production of dairy, cashmere, and meat","Bao Zhang, Liao Chang, Xianyong Lan, Nadeem Asif, Fanglin Guan ...",27 August 2018,2018
+PhenoSpD: an integrated toolkit for phenotypic correlation estimation and multiple testing correction using GWAS summary statistics,"Jie Zheng, Tom G Richardson, Louise A C Millard, Gibran Hemani, Benjamin L Elsworth ...",24 August 2018,2018
+Imaging tissues and cells beyond the diffraction limit with structured illumination microscopy and Bayesian image reconstruction,"Jakub Pospíšil, Tomáš Lukeš, Justin Bendesky, Karel Fliegel, Kathrin Spendier ...",23 August 2018,2018
+"Establishment of a Macaca fascicularis gut microbiome gene catalog and comparison with the human, pig, and mouse gut microbiomes","Xiaoping Li, Suisha Liang, Zhongkui Xia, Jing Qu, Huan Liu ...",18 August 2018,2018
+"Draft genome of Glyptosternon maculatum, an endemic fish from Tibet Plateau","Haiping Liu, Qiyong Liu, Zhiqiang Chen, Yanchao Liu, Chaowei Zhou ...",14 August 2018,2018
+Balancing sufficiency and impact in reporting standards for mass spectrometry imaging experiments,"Ove J R Gustafsson, Lyron J Winderbaum, Mark R Condina, Berin A Boughton, Brett R Hamilton ...",14 August 2018,2018
+"A near complete, chromosome-scale assembly of the black raspberry (Rubus occidentalis) genome","Robert VanBuren, Ching Man Wai, Marivi Colle, Jie Wang, Shawn Sullivan ...",09 August 2018,2018
+Monitoring changes in the Gene Ontology and their impact on genomic data analysis,"Matthew Jacobson, Adriana Estela Sedeño-Cortés, Paul Pavlidis",09 August 2018,2018
+The genome of the golden apple snail Pomacea canaliculata provides insight into stress tolerance and invasive adaptation,"Conghui Liu, Yan Zhang, Yuwei Ren, Hengchao Wang, Shuqu Li ...",09 August 2018,2018
+Bioinformatics applications on Apache Spark,"Runxin Guo, Yi Zhao, Quan Zou, Xiaodong Fang, Shaoliang Peng",07 August 2018,2018
+"Draft genome assembly of the invasive cane toad, Rhinella marina","Richard J Edwards, Daniel Enosi Tuipulotu, Timothy G Amos, Denis O'Meally, Mark F Richardson ...",07 August 2018,2018
+The chromosome-level genome assemblies of two rattans (Calamus simplicifolius and Daemonorops jenkinsiana),"Hansheng Zhao, Songbo Wang, Jiongliang Wang, Chunhai Chen, Shijie Hao ...",07 August 2018,2018
+Hot-starting software containers for STAR aligner,"Pai Zhang, Ling-Hong Hung, Wes Lloyd, Ka Yee Yeung",31 July 2018,2018
+eModel-BDB: a database of comparative structure models of drug-target interactions from the Binding Database,"Misagh Naderi, Rajiv Gandhi Govindaraj, Michal Brylinski",24 July 2018,2018
+Leveraging multiple transcriptome assembly methods for improved gene structure annotation,"Luca Venturini, Shabhonam Caim, Gemy George Kaithakottil, Daniel Lee Mapleson, David Swarbreck",24 July 2018,2018
+Erratum to: Deep machine learning provides state-of-the-art performance in image-based plant phenotyping,"Michael P Pound, Jonathan A Atkinson, Alexandra J Townsend, Michael H Wilson, Marcus Griffiths ...",20 July 2018,2018
+Erratum to: Combining semi-automated image analysis techniques with machine learning algorithms to accelerate large-scale genetic studies,"Jonathan A Atkinson, Guillaume Lobet, Manuel Noll, Patrick E Meyer, Marcus Griffiths ...",20 July 2018,2018
+Erratum to: Proteomic landscape of the primary somatosensory cortex upon sensory deprivation,"Koen Kole, Rik G H Lindeboom, Marijke P A Baltissen, Pascal W T C Jansen, Michiel Vermeulen ...",20 July 2018,2018
+Binning enables efficient host genome reconstruction in cnidarian holobionts,"Juan Sebastián Celis, Daniel Wibberg, Catalina Ramírez-Portilla, Oliver Rupp, Alexander Sczyrba ...",18 July 2018,2018
+SL-quant: a fast and flexible pipeline to quantify spliced leader trans-splicing events from RNA-seq data,"Carlo Yague-Sanz, Damien Hermand",11 July 2018,2018
+Clustering trees: a visualization for evaluating clusterings at multiple resolutions,"Luke Zappia, Alicia Oshlack",11 July 2018,2018
+"Chromosome-level reference genome of the Siamese fighting fish Betta splendens, a model species for the study of aggression","Guangyi Fan, Judy Chan, Kailong Ma, Binrui Yang, He Zhang ...",11 July 2018,2018
+A similarity-based approach to leverage multi-cohort medical data on the diagnosis and prognosis of Alzheimer's disease,"Hongjiu Zhang, Fan Zhu, Hiroko H Dodge, Gerald A Higgins, Gilbert S Omenn ...",11 July 2018,2018
+Whole genome and transcriptome maps of the entirely black native Korean chicken breed Yeonsan Ogye,"Jang-il Sohn, Kyoungwoo Nam, Hyosun Hong, Jun-Mo Kim, Dajeong Lim ...",11 July 2018,2018
+SVEngine: an efficient and versatile simulator of genome structural variations with features of cancer clonal evolution,"Li Charlie Xia, Dongmei Ai, Hojoon Lee, Noemi Andor, Chao Li ...",05 July 2018,2018
+Clinker: visualizing fusion genes detected in RNA-seq data,"Breon M Schmidt, Nadia M Davidson, Anthony D K Hawkins, Ray Bartolo, Ian J Majewski ...",04 July 2018,2018
+Nighres: processing tools for high-resolution neuroimaging,"Julia M Huntenburg, Christopher J Steele, Pierre-Louis Bazin",04 July 2018,2018
+"Long-read sequencing and de novo genome assembly of Ammopiptanthus nanus, a desert shrub","Fei Gao, Xue Wang, Xuming Li, Mingyue Xu, Huayun Li ...",28 June 2018,2018
+A workflow for simplified analysis of ATAC-cap-seq data in R,"Ram Krishna Shrestha, Pingtao Ding, Jonathan D G Jones, Dan MacLean",28 June 2018,2018
+Experimenting with reproducibility: a case study of robustness in bioinformatics,"Yang-Min Kim, Jean-Baptiste Poline, Guillaume Dumas",28 June 2018,2018
+Where is the human in the data? A guide to ethical data use,Angela Ballantyne,28 June 2018,2018
+KREAP: an automated Galaxy platform to quantify in vitro re-epithelialization kinetics,"Marcela M Fernandez-Gutierrez, David B H van Zessen, Peter van Baarlen, Michiel Kleerebezem, Andrew P Stubbs",28 June 2018,2018
+"High-quality assembly of the reference genome for scarlet sage, Salvia splendens, an economically important ornamental plant","Ai-Xiang Dong, Hai-Bo Xin, Zi-Jing Li, Hui Liu, Yan-Qiang Sun ...",19 June 2018,2018
+Genome of an allotetraploid wild peanut Arachis monticola: a de novo assembly,"Dongmei Yin, Changmian Ji, Xingli Ma, Hang Li, Wanke Zhang ...",19 June 2018,2018
+Consistent decreased activity in the putamen in Parkinson's disease: a meta-analysis and an independent validation of resting-state fMRI,"Jue Wang, Jia-Rong Zhang, Yu-Feng Zang, Tao Wu",18 June 2018,2018
+Arabidopsis phenotyping through geometric morphometrics,"Carlos A Manacorda, Sebastian Asurmendi",18 June 2018,2018
+YAMP: a containerized workflow enabling reproducibility in metagenomics research,"Alessia Visconti, Tiphaine C Martin, Mario Falchi",18 June 2018,2018
+MetaMap: an atlas of metatranscriptomic reads in human disease-related RNA-seq data,"L M Simon, S Karg, A J Westermann, M Engel, A H A Elbehery ...",12 June 2018,2018
+AMBER: Assessment of Metagenome BinnERs,"Fernando Meyer, Peter Hofmann, Peter Belmann, Ruben Garrido-Oter, Adrian Fritz ...",08 June 2018,2018
+"Improved de novo genome assembly and analysis of the Chinese cucurbit Siraitia grosvenorii, also known as monk fruit or luo-han-guo","Mian Xia, Xue Han, Hang He, Renbo Yu, Gang Zhen ...",08 June 2018,2018
+Massive NGS data analysis reveals hundreds of potential novel gene fusions in human cell lines,"Silvia Gioiosa, Marco Bolis, Tiziano Flati, Annalisa Massini, Enrico Garattini ...",01 June 2018,2018
+SV-plaudit: A cloud-based framework for manually curating thousands of structural variants,"Jonathan R Belyeu, Thomas J Nicholas, Brent S Pedersen, Thomas A Sasani, James M Havrilla ...",31 May 2018,2018
+1399 H&E-stained sentinel lymph node sections of breast cancer patients: the CAMELYON dataset,"Geert Litjens, Peter Bandi, Babak Ehteshami Bejnordi, Oscar Geessink, Maschenka Balkenhol ...",31 May 2018,2018
+A reference genome of the European beech (Fagus sylvatica L.),"Bagdevi Mishra, Deepak K Gupta, Markus Pfenninger, Thomas Hickler, Ewald Langer ...",28 May 2018,2018
+zUMIs - A fast and flexible pipeline to process RNA sequencing data with UMIs,"Swati Parekh, Christoph Ziegenhain, Beate Vieth, Wolfgang Enard, Ines Hellmann",26 May 2018,2018
+Error correcting optical mapping data,"Kingshuk Mukherjee, Darshan Washimkar, Martin D Muggli, Leena Salmela, Christina Boucher",25 May 2018,2018
+SILAC-based phosphoproteomics reveals new PP2A-Cdc55-regulated processes in budding yeast,"Barbara Baro, Soraya Játiva, Inés Calabria, Judith Vinaixa, Joan-Josep Bech-Serra ...",24 May 2018,2018
+"The research data management platform (RDMP): A novel, process driven, open-source tool for the management of longitudinal cohorts of clinical data","Thomas Nind, James Galloway, Gordon McAllister, Donald Scobbie, Wilfred Bonney ...",22 May 2018,2018
+Molecular modularity and asymmetry of the molluscan mantle revealed by a gene expression atlas,"Ines Herlitze, Benjamin Marie, Frédéric Marin, Daniel J Jackson",17 May 2018,2018
+Evidence of evolutionary history and selective sweeps in the genome of Meishan pig reveals its genetic and phenotypic characterization,"Pengju Zhao, Ying Yu, Wen Feng, Heng Du, Jian Yu ...",15 May 2018,2018
+ASaiM: a Galaxy-based framework to analyze microbiota data,"Bérénice Batut, Kévin Gravouil, Clémence Defois, Saskia Hiltemann, Jean-François Brugère ...",15 May 2018,2018
+Population genomic data reveal genes related to important traits of quail,"Yan Wu, Yaolei Zhang, Zhuocheng Hou, Guangyi Fan, Jinsong Pi ...",11 May 2018,2018
+Benchmarking taxonomic assignments based on 16S rRNA gene profiling of the microbiota from commonly sampled environments,"Alexandre Almeida, Alex L Mitchell, Aleksandra Tarkowska, Robert D Finn",11 May 2018,2018
+Independent assessment and improvement of wheat genome sequence assemblies using Fosill jumping libraries,"Fu-Hao Lu, Neil McKenzie, George Kettleborough, Darren Heavens, Matthew D Clark ...",11 May 2018,2018
+A gene catalogue of the Sprague-Dawley rat gut metagenome,"Hudan Pan, Ruijin Guo, Jie Zhu, Qi Wang, Yanmei Ju ...",11 May 2018,2018
+De novo genome assembly of the red silk cotton tree (Bombax ceiba),"Yong Gao, Haibo Wang, Chao Liu, Honglong Chu, Dongqin Dai ...",10 May 2018,2018
+The long noncoding RNA landscape of neuroendocrine prostate cancer and its clinical implications,"Varune Rohan Ramnarine, Mohammed Alshalalfa, Fan Mo, Noushin Nabavi, Nicholas Erho ...",10 May 2018,2018
+Optimized distributed systems achieve significant performance improvement on sorted merging of massive VCF files,"Xiaobo Sun, Jingjing Gao, Peng Jin, Celeste Eng, Esteban G Burchard ...",10 May 2018,2018
+Fast-SG: an alignment-free algorithm for hybrid assembly,"Alex Di Genova, Gonzalo A Ruz, Marie-France Sagot, Alejandro Maass",05 May 2018,2018
+Necklace: combining reference and assembled transcriptomes for more comprehensive RNA-Seq analysis,"Nadia M Davidson, Alicia Oshlack",02 May 2018,2018
+Whole-genome de novo sequencing reveals unique genes that contributed to the adaptive evolution of the Mikado pheasant,"Chien-Yueh Lee, Ping-Han Hsieh, Li-Mei Chiang, Amrita Chattopadhyay, Kuan-Yi Li ...",02 May 2018,2018
+Chromosome-scale assembly of the Monopterus genome,"Xueya Zhao, Majing Luo, Zhigang Li, Pei Zhong, Yibin Cheng ...",24 April 2018,2018
+Improving draft genome contiguity with reference-derived in silico mate-pair libraries,"José Horacio Grau, Thomas Hackl, Klaus-Peter Koepfli, Michael Hofreiter",21 April 2018,2018
+Comparative whole genome DNA methylation profiling of cattle sperm and somatic tissues reveals striking hypomethylated patterns in sperm,"Yang Zhou, Erin E Connor, Derek M Bickhart, Congjun Li, Ransom L Baldwin ...",10 April 2018,2018
+Chiron: translating nanopore raw signal directly into nucleotide sequence using deep learning,"Haotian Teng, Minh Duc Cao, Michael B Hall, Tania Duarte, Sheng Wang ...",10 April 2018,2018
+Whole-genome resequencing reveals signatures of selection and timing of duck domestication,"Zebin Zhang, Yaxiong Jia, Pedro Almeida, Judith E Mank, Marcel van Tuinen ...",09 April 2018,2018
+The draft genome sequence of forest musk deer (Moschus berezovskii),"Zhenxin Fan, Wujiao Li, Jiazheng Jin, Kai Cui, Chaochao Yan ...",09 April 2018,2018
+Field of genes: using Apache Kafka as a bioinformatic data repository,"Brendan Lawlor, Richard Lynch, Micheál Mac Aogáin, Paul Walsh",09 April 2018,2018
+Tracking the NGS revolution: managing life science research on shared high-performance computing clusters,"Martin Dahlö, Douglas G Scofield, Wesley Schaal, Ola Spjuth",05 April 2018,2018
+G-Anchor: a novel approach for whole-genome comparative mapping utilizing evolutionary conserved DNA sequences,"Vasileios Panagiotis E Lenis, Martin Swain, Denis M Larkin",03 April 2018,2018
+Real-time DNA barcoding in a rainforest using nanopore sequencing: opportunities for rapid biodiversity assessments and local capacity building,"Aaron Pomerantz, Nicolás Peñafiel, Alejandro Arteaga, Lucas Bustamante, Frank Pichardo ...",02 April 2018,2018
+Improving the annotation of the Heterorhabditis bacteriophora genome,"Florence McLean, Duncan Berger, Dominik R Laetsch, Hillel T Schwartz, Mark Blaxter",02 April 2018,2018
+A practical tool for maximal information coefficient analysis,"Davide Albanese, Samantha Riccadonna, Claudio Donati, Pietro Franceschi",02 April 2018,2018
+Draft genome of the Peruvian scallop Argopecten purpuratus,"Chao Li, Xiao Liu, Bo Liu, Bin Ma, Fengqiao Liu ...",02 April 2018,2018
+m6ASNP: a tool for annotating genetic variants by m6A function,"Shuai Jiang, Yubin Xie, Zhihao He, Ya Zhang, Yuli Zhao ...",02 April 2018,2018
+The first whole transcriptomic exploration of pre-oviposited early chicken embryos using single and bulked embryonic RNA-sequencing,"Young Sun Hwang, Minseok Seo, Hee Jung Choi, Sang Kyung Kim, Heebal Kim ...",24 March 2018,2018
+Boutiques: a flexible framework to integrate command-line applications in computing platforms,"Tristan Glatard, Gregory Kiar, Tristan Aumentado-Armstrong, Natacha Beck, Pierre Bellec ...",23 March 2018,2018
+The global catalogue of microorganisms 10K type strain sequencing project: closing the genomic gaps for the validly published prokaryotic and fungi species,"Linhuan Wu, Kevin McCluskey, Philippe Desmeth, Shuangjiang Liu, Sugawara Hideaki ...",22 March 2018,2018
+Innovative assembly strategy contributes to understanding the evolution and conservation genetics of the endangered Solenodon paradoxus from the island of Hispaniola,"Kirill Grigorev, Sergey Kliver, Pavel Dobrynin, Aleksey Komissarov, Walter Wolfsberger ...",16 March 2018,2018
+A micro X-ray computed tomography dataset of South African hermit crabs (Crustacea: Decapoda: Anomura: Paguroidea) containing scans of two rare specimens and three recently described species,"Jannes Landschoff, Anton Du Plessis, Charles L Griffiths",14 March 2018,2018
+Differential protein expression and post-translational modifications in metronidazole-resistant Giardia duodenalis,"Samantha J Emery, Louise Baker, Brendan R E Ansell, Mehdi Mirzaei, Paul A Haynes ...",13 March 2018,2018
+The Scientific Filesystem,Vanessa Sochat,13 March 2018,2018
+Genome-scale metabolic modeling of responses to polymyxins in Pseudomonas aeruginosa,"Yan Zhu, Tobias Czauderna, Jinxin Zhao, Matthias Klapperstueck, Mohd Hafidz Mahamad Maifiah ...",13 March 2018,2018
+Homoeolog-specific activation of genes for heat acclimation in the allopolyploid grass Brachypodium hybridum,"Kotaro Takahagi, Komaki Inoue, Minami Shimizu, Yukiko Uehara-Yamaguchi, Yoshihiko Onda ...",08 March 2018,2018
+Whole-genome sequences of 89 Chinese sheep suggest role of RXFP2 in the development of unique horn phenotype as response to semi-feralization,"Zhangyuan Pan, Shengdi Li, Qiuyue Liu, Zhen Wang, Zhengkui Zhou ...",07 March 2018,2018
+"Piggy: a rapid, large-scale pan-genome analysis tool for intergenic regions in bacteria","Harry A Thorpe, Sion C Bayliss, Samuel K Sheppard, Edward J Feil",04 March 2018,2018
+Genome Annotation Generator: a simple tool for generating and correcting WGS annotation tables for NCBI submission,"Scott M Geib, Brian Hall, Theodore Derego, Forest T Bremer, Kyle Cannoles ...",04 March 2018,2018
+Galaxy mothur Toolset (GmT): a user-friendly application for 16S rRNA gene sequencing analysis using mothur,"Saskia D Hiltemann, Stefan A Boers, Peter J van der Spek, Ruud Jansen, John P Hays ...",28 February 2018,2018
+"Draft genome of the protandrous Chinese black porgy, Acanthopagrus schlegelii","Zhiyong Zhang, Kai Zhang, Shuyin Chen, Zhiwei Zhang, Jinyong Zhang ...",26 February 2018,2018
+10KP: A phylodiverse genome sequencing plan,"Shifeng Cheng, Michael Melkonian, Stephen A Smith, Samuel Brockington, John M Archibald ...",20 February 2018,2018
+Genome-wide determination of on-target and off-target characteristics for RNA-guided DNA methylation by dCas9 methyltransferases,"Lin Lin, Yong Liu, Fengping Xu, Jinrong Huang, Tina Fuglsang Daugaard ...",19 February 2018,2018
+Bipartite graphs in systems biology and medicine: a survey of methods and applications,"Georgios A Pavlopoulos, Panagiota I Kontou, Athanasia Pavlopoulou, Costas Bouyioukos, Evripides Markou ...",19 February 2018,2018
+"Mammalian genomic regulatory regions predicted by utilizing human genomics, transcriptomics, and epigenetics data","Quan H Nguyen, Ross L Tellam, Marina Naval-Sanchez, Laercio R Porto-Neto, William Barendse ...",16 February 2018,2018
+The developmental transcriptome atlas of the spoon worm Urechis unicinctus (Echiurida: Annelida),"Chungoo Park, Yong-Hee Han, Sung-Gwon Lee, Kyoung-Bin Ry, Jooseong Oh ...",15 February 2018,2018
+"Single-molecule, full-length transcript sequencing provides insight into the extreme metabolism of the ruby-throated hummingbird Archilochus colubris","Rachael E Workman, Alexander M Myrka, G William Wong, Elizabeth Tseng, Kenneth C Welch, Jr. ...",15 February 2018,2018
+"Draft genome assembly of the Bengalese finch, Lonchura striata domestica, a model for motor skill variability and learning","Bradley M Colquitt, David G Mets, Michael S Brainard",15 February 2018,2018
+Draft genomes of two blister beetles Hycleus cichorii and Hycleus phaleratus,"Yuan-Ming Wu, Jiang Li, Xiang-Sheng Chen",10 February 2018,2018
+Advanced lesion symptom mapping analyses and implementation as BCBtoolkit,"Chris Foulon, Leonardo Cerliani, Serge Kinkingnéhun, Richard Levy, Charlotte Rosso ...",08 February 2018,2018
+GeneSeqToFamily: a Galaxy workflow to find gene families based on the Ensembl Compara GeneTrees pipeline,"Anil S Thanki, Nicola Soranzo, Wilfried Haerty, Robert P Davey",07 February 2018,2018
+Giardia secretome highlights secreted tenascins as a key component of pathogenesis,"Audrey Dubourg, Dong Xia, John P Winpenny, Suha Al Naimi, Maha Bouzid ...",29 January 2018,2018
+Quantitative super-resolution single molecule microscopy dataset of YFP-tagged growth factor receptors,"Tomáš Lukeš, Jakub Pospíšil, Karel Fliegel, Theo Lasser, Guy M Hagen",19 January 2018,2018
+Predicting plant biomass accumulation from image-derived parameters,"Dijun Chen, Rongli Shi, Jean-Michel Pape, Kerstin Neumann, Daniel Arend ...",16 January 2018,2018
+Finding Nemo: hybrid assembly with Oxford Nanopore and Illumina reads greatly improves the clownfish (Amphiprion ocellaris) genome assembly,"Mun Hua Tan, Christopher M Austin, Michael P Hammer, Yin Peng Lee, Laurence J Croft ...",12 January 2018,2018
+Analysis of the Aedes albopictus C6/36 genome provides insight into cell line utility for viral propagation,"Jason R Miller, Sergey Koren, Kari A Dilley, Vinita Puri, David M Brown ...",10 January 2018,2018
+Efficient generation of complete sequences of MDR-encoding plasmids by rapid assembly of MinION barcoding sequencing data,"Ruichao Li, Miaomiao Xie, Ning Dong, Dachuan Lin, Xuemei Yang ...",09 January 2018,2018

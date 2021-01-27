@@ -1,0 +1,175 @@
+title,authors,date,target year
+On the critical review of five machine learning-based algorithms for predicting protein stability changes upon mutation,"Castrense Savojardo, Pier Luigi Martelli, Rita Casadio, Piero Fariselli",28 December 2019,2019
+Drug–target prediction utilizing heterogeneous bio-linked network embeddings,"Nansu Zong, Rachael Sze Nga Wong, Yue Yu, Andrew Wen, Ming Huang ...",27 December 2019,2019
+Computational resources and strategies to assess single-molecule dynamics of the translation process in S. cerevisiae,"Beatriz T  Magalhães, Anália Lourenço, Nuno F Azevedo",27 December 2019,2019
+Small noncoding RNA discovery and profiling with sRNAtools based on high-throughput sequencing,"Qi Liu, Changjun Ding, Xiaoqiang Lang, Ganggang Guo, Jiafei Chen ...",24 December 2019,2019
+BioMedR: an R/CRAN package for integrated data analysis pipeline in biomedical study,"Jie Dong, Min-Feng Zhu, Yong-Huan Yun, Ai-Ping Lu, Ting-Jun Hou ...",24 December 2019,2019
+DTI-CDF: a cascade deep forest model towards the prediction of drug-target interactions based on hybrid features,"Yanyi Chu, Aman Chandra Kaushik, Xiangeng Wang, Wei Wang, Yufang Zhang ...",23 December 2019,2019
+Deep learning for mining protein data,"Qiang Shi, Weiya Chen, Siqi Huang, Yan Wang, Zhidong Xue",20 December 2019,2019
+Current challenges and best-practice protocols for microbiome analysis,"Richa Bharti, Dominik G Grimm",18 December 2019,2019
+An extensive review of tools for manual annotation of documents,"Mariana Neves, Jurica Ševa",15 December 2019,2019
+"A survey on adverse drug reaction studies: data, tasks and machine learning methods","Duc Anh Nguyen, Canh Hao Nguyen, Hiroshi Mamitsuka",15 December 2019,2019
+Hybrid modelling of biological systems using fuzzy continuous Petri nets,"Fei Liu, Wujie Sun, Monika Heiner, David Gilbert",15 December 2019,2019
+"Improving drug response prediction by integrating multiple data sources: matrix factorization, kernel and network-based approaches","Betül Güvenç Paltun, Hiroshi Mamitsuka, Samuel Kaski",15 December 2019,2019
+Predicting drug-induced hepatotoxicity based on biological feature maps and diverse classification strategies,"Ran Su, Huichen Wu, Xinyi Liu, Leyi Wei",14 December 2019,2019
+Current RNA-seq methodology reporting limits reproducibility,"Joël Simoneau, Simon Dumontier, Ryan Gosselin, Michelle S Scott",10 December 2019,2019
+The effect of tissue composition on gene co-expression,"Yun Zhang, Jonavelle Cuerdo, Marc K Halushka, Matthew N McCall",08 December 2019,2019
+Landscape of cancer diagnostic biomarkers from specifically expressed genes,"Yao Lv, Sheng-Yan Lin, Fei-Fei Hu, Zheng Ye, Qiong Zhang ...",08 December 2019,2019
+Pathway Tools version 23.0 update: software for pathway/genome informatics and systems biology,"Peter D Karp, Peter E Midford, Richard Billington, Anamika Kothari, Markus Krummenacker ...",08 December 2019,2019
+Deep learning of pharmacogenomics resources: moving towards precision oncology,"Yu-Chiao Chiu, Hung-I Harry Chen, Aparna Gorthi, Milad Mostavi, Siyuan Zheng ...",08 December 2019,2019
+"Molecular dynamics simulations for genetic interpretation in protein coding regions: where we are, where to go and when","Juan J Galano-Frutos, Helena García-Cebollada, Javier Sancho",08 December 2019,2019
+Fold-LTR-TCP: protein fold recognition based on triadic closure principle,"Bin Liu, Yulin Zhu, Ke Yan",08 December 2019,2019
+Systematic evaluation of differential splicing tools for RNA-seq studies,"Arfa Mehmood, Asta Laiho, Mikko S Venäläinen, Aidan J McGlinchey, Ning Wang ...",05 December 2019,2019
+Cardioinformatics: the nexus of bioinformatics and precision cardiology,"Bohdan B Khomtchouk, Diem-Trang Tran, Kasra A Vand, Matthew Might, Or Gozani ...",04 December 2019,2019
+Critical assessment of bioinformatics methods for the characterization of pathological repeat expansions with single-molecule sequencing data,"Matteo Chiara, Federico Zambelli, Ernesto Picardi, David S Horner, Graziano Pesole",03 December 2019,2019
+What’s the target: understanding two decades of in silico microRNA-target prediction,"Fabian Kern, Christina Backes, Pascal Hirsch, Tobias Fehlmann, Martin Hart ...",03 December 2019,2019
+RNAactDrug: a comprehensive database of RNAs associated with drug sensitivity from multi-omics data,"Qun Dong, Feng Li, Yanjun Xu, Jing Xiao, Yingqi Xu ...",03 December 2019,2019
+Identification and comprehensive characterization of lncRNAs with copy number variations and their driving transcriptional perturbed subpathways reveal functional significance for cancer,"Yanjun Xu, Tan Wu, Feng Li, Qun Dong, Jingwen Wang ...",03 December 2019,2019
+A benchmarking of pipelines for detecting ncRNAs from RNA-Seq data,"Sebastiano Di Bella, Alessandro La Ferlita, Giovanni Carapezza, Salvatore Alaimo, Antonella Isacchi ...",03 December 2019,2019
+Clustering and variable selection evaluation of 13 unsupervised methods for multi-omics data integration,"Morgane Pierre-Jean, Jean-François Deleuze, Edith Le Floch, Florence Mauger",03 December 2019,2019
+LARMD: integration of bioinformatic resources to profile ligand-driven protein dynamics with a case on the activation of estrogen receptor,"Jing-Fang Yang, Fan Wang, Yu-Zong Chen, Ge-Fei Hao, Guang-Fu Yang",03 December 2019,2019
+MotifCNN-fold: protein fold recognition based on fold-specific features extracted by motif-based convolutional neural networks,"Chen-Chen Li, Bin Liu",28 November 2019,2019
+Managing batch effects in microbiome data,"Yiwen Wang, Kim-Anh LêCao",28 November 2019,2019
+A novel bioinformatics approach to identify the consistently well-performing normalization strategy for current metabolomic studies,"Qingxia Yang, Jiajun Hong, Yi Li, Weiwei Xue, Song Li ...",28 November 2019,2019
+FluReassort: a database for the study of genomic reassortments among influenza viruses,"Xiao Ding, Xuye Yuan, Longfei Mao, Aiping Wu, Taijiao Jiang",27 November 2019,2019
+A comprehensive evaluation of connectivity methods for L1000 data,"Kequan Lin, Lu Li, Yifei Dai, Huili Wang, Shuaishuai Teng ...",27 November 2019,2019
+An omics perspective on drug target discovery platforms,"Jussi Paananen, Vittorio Fortino",27 November 2019,2019
+A comparative study of multi-omics integration tools for cancer driver gene identification and tumour subtyping,"Anita Sathyanarayanan, Rohit Gupta, Erik W Thompson, Dale R Nyholt, Denis C Bauer ...",27 November 2019,2019
+Combining clinical and molecular data in regression prediction models: insights from a simulation study,"Riccardo De Bin, Anne-Laure Boulesteix, Axel Benner, Natalia Becker, Willi Sauerbrei",21 November 2019,2019
+Methods and resources to access mutation-dependent effects on cancer drug treatment,"Hongcheng Yao, Qian Liang, Xinyi Qian, Junwen Wang, Pak Chung Sham ...",21 November 2019,2019
+Towards scaling elementary flux mode computation,"Ehsan Ullah, Mona Yosafshahi, Soha Hassoun",20 November 2019,2019
+"Bioinformatics-assisted, integrated omics studies on medicinal plants","Xiaoxia Ma, Yijun Meng, Pu Wang, Zhonghai Tang, Huizhong Wang ...",18 November 2019,2019
+Comprehensive evaluation of the MM-GBSA method on bromodomain-inhibitor sets,"Süleyman Selim Çınaroğlu, Emel Timuçin",18 November 2019,2019
+A novel molecular representation with BiGRU neural networks for learning atom,"Xuan Lin, Zhe Quan, Zhi-Jie Wang, Huang Huang, Xiangxiang Zeng",15 November 2019,2019
+Decoding the similarities and specific differences between latent and active tuberculosis infections based on consistently differential expression networks,"Jun Sun, Qianqian Shi, Xi Chen, Rong Liu",13 November 2019,2019
+ACPred-Fuse: fusing multi-view information improves the prediction of anticancer peptides,"Bing Rao, Chen Zhou, Guoying Zhang, Ran Su, Leyi Wei",12 November 2019,2019
+Comprehensive review and assessment of computational methods for predicting RNA post-transcriptional modification sites from RNA sequences,"Zhen Chen, Pei Zhao, Fuyi Li, Yanan Wang, A Ian Smith ...",11 November 2019,2019
+Network control principles for identifying personalized driver genes in cancer,"Wei-Feng Guo, Shao-Wu Zhang, Tao Zeng, Tatsuya Akutsu, Luonan Chen",10 November 2019,2019
+Computational/in silico methods in drug target and lead prediction,"Francis E Agamah, Gaston K Mazandu, Radia Hassan, Christian D Bope, Nicholas E Thomford ...",10 November 2019,2019
+FRANC: a unified framework for multi-way local ancestry deconvolution with high density SNP data,"Ephifania Geza, Nicola J Mulder, Emile R Chimusa, Gaston K Mazandu",09 November 2019,2019
+Critical evaluation of web-based prediction tools for human protein subcellular localization,"Yinan Shen, Yijie Ding, Jijun Tang, Quan Zou, Fei Guo",06 November 2019,2019
+CrossICC: iterative consensus clustering of cross-platform gene expression data without adjusting batch effect,"Qi Zhao, Yu Sun, Zekun Liu, Hongwan Zhang, Xingyang Li ...",06 November 2019,2019
+Convolutional neural network-based annotation of bacterial type IV secretion system effectors with enhanced accuracy and reduced false discovery,"Jiajun Hong, Yongchao Luo, Minjie Mou, Jianbo Fu, Yang Zhang ...",06 November 2019,2019
+Genotype imputation and reference panel: a systematic evaluation on haplotype size and diversity,"Wei-Yang Bai, Xiao-Wei Zhu, Pei-Kuan Cong, Xue-Jun Zhang, J Brent Richards ...",06 November 2019,2019
+Deep learning based prediction of reversible HAT/HDAC-specific lysine acetylation,"Kai Yu, Qingfeng Zhang, Zekun Liu, Yimeng Du, Xinjiao Gao ...",06 November 2019,2019
+Flexible k-mers with variable-length indels for identifying binding sequences of protein dimers,"Chenyang Hong, Kevin Y Yip",05 November 2019,2019
+Deep learning for drug–drug interaction extraction from the literature: a review,"Tianlin Zhang, Jiaxu Leng, Ying Liu",04 November 2019,2019
+Optimization of in silico tools for predicting genetic variants: individualizing for genes with molecular sub-regional stratification,"Bin Tang, Bin Li, Liang-Di Gao, Na He, Xiao-Rong Liu ...",04 November 2019,2019
+Quantile regression for challenging cases of eQTL mapping,"Bo Sun, Liang Chen",03 November 2019,2019
+A beginner’s guide for FMDV quasispecies analysis: sub-consensus variant detection and haplotype reconstruction using next-generation sequencing,"Marco Cacciabue, Anabella Currá, Elisa Carrillo, Guido König, María Inés Gismondi",01 November 2019,2019
+Computational identification of mutator-derived lncRNA signatures of genome instability for improving the clinical outcome of cancers: a case study in breast cancer,"Siqi Bao, Hengqiang Zhao, Jian Yuan, Dandan Fan, Zicheng Zhang ...",28 October 2019,2019
+Predicting bacterial virulence factors – evaluation of machine learning and negative data strategies,"Robert Rentzsch, Carlus Deneke, Andreas Nitsche, Bernhard Y Renard",28 October 2019,2019
+DeepSVM-fold: protein fold recognition by combining support vector machines and pairwise sequence similarity scores generated by deep learning networks,"Bin Liu, Chen-Chen Li, Ke Yan",28 October 2019,2019
+Evaluation of single-cell classifiers for single-cell RNA sequencing data sets,"Xinlei Zhao, Shuang Wu, Nan Fang, Xiao Sun, Jue Fan",23 October 2019,2019
+A comparison and assessment of computational method for identifying recombination hotspots in Saccharomyces cerevisiae,"Hui Yang, Wuritu Yang, Fu-Ying Dao, Hao Lv, Hui Ding ...",21 October 2019,2019
+Computational approaches to therapeutic antibody design: established methods and emerging trends,"Richard A Norman, Francesco Ambrosetti, Alexandre M J J Bonvin, Lucy J Colwell, Sebastian Kelm ...",18 October 2019,2019
+"Corrigendum to: Comprehensive review and empirical analysis of hallmarks of DNA-, RNA- and protein-binding residues in protein chains","Jian Zhang, Ma Zhiqiang, Lukasz Kurgan",18 October 2019,2019
+Universal concept signature analysis: genome-wide quantification of new biological and pathological functions of genes and pathways,"Xu Chi, Maureen A Sartor, Sanghoon Lee, Meenakshi Anurag, Snehal Patil ...",18 October 2019,2019
+A comprehensive review and evaluation of computational methods for identifying protein complexes from protein–protein interaction networks,"Zhourun Wu, Qing Liao, Bin Liu",18 October 2019,2019
+Tools for fundamental analysis functions of TCR repertoires: a systematic comparison,"Yanfang Zhang, Xiujia Yang, Yanxia Zhang, Yan Zhang, Minhui Wang ...",18 October 2019,2019
+Beware the Jaccard: the choice of similarity measure is important and non-trivial in genomic colocalisation analysis,"Stefania Salvatore, Knut Dagestad Rand, Ivar Grytten, Egil Ferkingstad, Diana Domanska ...",17 October 2019,2019
+Community curation of bioinformatics software and data resources,"Jon Ison, Hervé Ménager, Bryan Brancotte, Erik Jaaniso, Ahto Salumets ...",16 October 2019,2019
+Accuracy of protein-level disorder predictions,"Akila Katuwawala, Christopher J Oldfield, Lukasz Kurgan",15 October 2019,2019
+Predicting disease-associated circular RNAs using deep forests combined with positive-unlabeled learning methods,"Xiangxiang Zeng, Yue Zhong, Wei Lin, Quan Zou",14 October 2019,2019
+Gene set analysis methods for the functional interpretation of non-mRNA data—Genomic range and ncRNA data,Antonio Mora,14 October 2019,2019
+Critical microRNAs and regulatory motifs in cleft palate identified by a conserved miRNA–TF–gene network approach in humans and mice,"Aimin Li, Peilin Jia, Saurav Mallik, Rong Fei, Hiroki Yoshioka ...",07 October 2019,2019
+MutEx: a multifaceted gateway for exploring integrative pan-cancer genomic data,"Jie Ping, Olufunmilola Oyebamiji, Hui Yu, Scott Ness, Jeremy Chien ...",07 October 2019,2019
+Heterogeneous information network and its application to human health and disease,"Pingjian Ding, Wenjue Ouyang, Jiawei Luo, Chee-Keong Kwoh",04 October 2019,2019
+A comprehensive method protocol for annotation and integrated functional understanding of lncRNAs,"Meik Kunz, Beat Wolf, Maximilian Fuchs, Jan Christoph, Ke Xiao ...",03 October 2019,2019
+Circulating microRNA trafficking and regulation: computational principles and practice,"Juan Cui, Jiang Shu",28 August 2019,2019
+New insights on human essential genes based on integrated analysis and the construction of the HEGIAP web-based platform,"Hebing Chen, Zhuo Zhang, Shuai Jiang, Ruijiang Li, Wanying Li ...",15 August 2019,2019
+"Protein functional annotation of simultaneously improved stability, accuracy and false discovery rate achieved by a sequence-based deep learning","Jiajun Hong, Yongchao Luo, Yang Zhang, Junbiao Ying, Weiwei Xue ...",02 August 2019,2019
+Location deviations of DNA functional elements affected SNP mapping in the published databases and references,"Hewei Zheng, Xueying Zhao, Hong Wang, Yu Ding, Xiaoyan Lu ...",02 August 2019,2019
+HiFreSP: A novel high-frequency sub-pathway mining approach to identify robust prognostic gene signatures,"Meng Li, Jianmei Zhao, Xuecang Li, Yang Chen, Chenchen Feng ...",27 July 2019,2019
+Some comments on certain statistical aspects of the study of the microbiome,"José A Ferreira, Susana Fuentes",10 July 2019,2019
+Simultaneous Enrichment Analysis of all Possible Gene-sets: Unifying Self-Contained and Competitive Methods,"Mitra Ebrahimpoor, Pietro Spitali, Kristina Hettne, Roula Tsonaka, Jelle Goeman",09 July 2019,2019
+Closing the gap between formats for storing layout information in systems biology,"David Hoksza, Piotr Gawron, Marek Ostaszewski, Jan Hasenauer, Reinhard Schneider",05 July 2019,2019
+"Genome-wide functional association networks: background, data & state-of-the-art resources","Dimitri Guala, Christoph Ogris, Nikola Müller, Erik L L Sonnhammer",05 July 2019,2019
+A critical review of five machine learning-based algorithms for predicting protein stability changes upon mutation,Jianwen Fang,05 July 2019,2019
+Clustering and classification methods for single-cell RNA-sequencing data,"Ren Qi, Anjun Ma, Qin Ma, Quan Zou",04 July 2019,2019
+Consistency and overfitting of multi-omics methods on experimental data,"Sean D McCabe, Dan-Yu Lin, Michael I Love",04 July 2019,2019
+A survey on identification and quantification of alternative polyadenylation sites from RNA-seq data,"Moliang Chen, Guoli Ji, Hongjuan Fu, Qianmin Lin, Congting Ye ...",02 July 2019,2019
+Data imbalance in CRISPR off-target prediction,"Yuli Gao, Guohui Chuai, Weichuan Yu, Shen Qu, Qi Liu",02 July 2019,2019
+Implementing the FAIR Data Principles in precision oncology: review of supporting initiatives,"Charles Vesteghem, Rasmus Froberg Brøndum, Mads Sønderkær, Mia Sommer, Alexander Schmitz ...",29 June 2019,2019
+Machine learning and statistical methods for clustering single-cell RNA-sequencing data,"Raphael Petegrosso, Zhuliu Li, Rui Kuang",27 June 2019,2019
+Data-driven rational biosynthesis design: from molecules to cell factories,"Fu Chen, Le Yuan, Shaozhen Ding, Yu Tian, Qian-Nan Hu",26 June 2019,2019
+Comparative assessment of long-read error correction software applied to Nanopore RNA-sequencing data,"Leandro Lima, Camille Marchet, Ségolène Caboche, Corinne Da Silva, Benjamin Istace ...",24 June 2019,2019
+RNA-mediated translation regulation in viral genomes: computational advances in the recognition of sequences and structures,"Asmita Gupta, Manju Bansal",17 June 2019,2019
+Trends in the development of miRNA bioinformatics tools,"Liang Chen, Liisa Heikkinen, Changliang Wang, Yang Yang, Huiyan Sun ...",17 June 2019,2019
+Landscape of the long non-coding RNA transcriptome in human heart,"Chunjie Jiang, Na Ding, Junyi Li, Xiyun Jin, Lili Li ...",14 June 2019,2019
+Review of applications of high-throughput sequencing in personalized medicine: barriers and facilitators of future progress in research and clinical application,"Gaye Lightbody, Valeriia Haberland, Fiona Browne, Laura Taggart, Huiru Zheng ...",14 June 2019,2019
+An overview of diffusion models for intracellular dynamics analysis,"Vincent Briane, Myriam Vimond, Charles Kervrann",14 June 2019,2019
+Mitochondrial DNA enrichment reduced NUMT contamination in porcine NGS analyses,"Dan Wang, Hai Xiang, Chao Ning, Hao Liu, Jian-Feng Liu ...",14 June 2019,2019
+A critical assessment of the feature selection methods used for biomarker discovery in current metaproteomics studies,"Jing Tang, Yunxia Wang, Jianbo Fu, Ying Zhou, Yongchao Luo ...",12 June 2019,2019
+Systematic analysis of supervised machine learning as an effective approach to predicate β-lactam resistance phenotype in Streptococcus pneumoniae,"Chaodong Zhang, Yingjiao Ju, Na Tang, Yun Li, Gang Zhang ...",11 June 2019,2019
+"Sepsis in the era of data-driven medicine: personalizing risks, diagnoses, treatments and prognoses","Andrew C Liu, Krishna Patel, Ramya Dhatri Vunikili, Kipp W Johnson, Fahad Abdu ...",11 June 2019,2019
+ATAC-pipe: general analysis of genome-wide chromatin accessibility,"Zuqi Zuo, Yonghao Jin, Wen Zhang, Yichen Lu, Bin Li ...",11 June 2019,2019
+dbCID: a manually curated resource for exploring the driver indels in human cancer,"Zhenyu Yue, Le Zhao, Na Cheng, Hua Yan, Junfeng Xia",11 June 2019,2019
+Versatile interactions and bioinformatics analysis of noncoding RNAs,"Qi Chen, Xianwen Meng, Qi Liao, Ming Chen",04 June 2019,2019
+A practical guide for DNase-seq data analysis: from data management to common applications,"Yongjing Liu, Liangyu Fu, Kerstin Kaufmann, Dijun Chen, Ming Chen",04 June 2019,2019
+PRISMOID: a comprehensive 3D structure database for post-translational modifications and mutations with functional impact,"Fuyi Li, Cunshuo Fan, Tatiana T Marquez-Lago, André Leier, Jerico Revote ...",04 June 2019,2019
+iCircDA-MF: identification of circRNA-disease associations based on matrix factorization,"Hang Wei, Bin Liu",04 June 2019,2019
+Connectome verification: inter-rater and connection reliability of tract-tracing-based intrinsic hypothalamic connectivity,"Oliver Schmitt, Peter Eipert, Sebastian Schwanke, Felix Lessmann, Jennifer Meinhardt ...",03 June 2019,2019
+Disease classification: from phenotypic similarity to integrative genomics and beyond,Mikhail G Dozmorov,03 June 2019,2019
+Consistent gene signature of schizophrenia identified by a novel feature selection strategy from comprehensive sets of transcriptomic data,"Qingxia Yang, Bo Li, Jing Tang, Xuejiao Cui, Yunxia Wang ...",03 June 2019,2019
+MENDA: a comprehensive curated resource of metabolic characterization in depression,"Juncai Pu, Yue Yu, Yiyun Liu, Lu Tian, Siwen Gui ...",03 June 2019,2019
+Exploring the functional impact of alternative splicing on human protein isoforms using available annotation sources,"Dinanath Sulakhe, Mark D’Souza, Sheng Wang, Sandhya Balasubramanian, Prashanth Athri ...",03 June 2019,2019
+The small peptide world in long noncoding RNAs,"Seo-Won Choi, Hyun-Woo Kim, Jin-Wu Nam",03 June 2019,2019
+Graph convolutional networks for computational drug development and discovery,"Mengying Sun, Sendong Zhao, Coryandar Gilvary, Olivier Elemento, Jiayu Zhou ...",03 June 2019,2019
+Characterization and identification of antimicrobial peptides with different functional activities,"Chia-Ru Chung, Ting-Rung Kuo, Li-Ching Wu, Tzong-Yi Lee, Jorng-Tzong Horng",03 June 2019,2019
+Comparison and integration of computational methods for deleterious synonymous mutation prediction,"Na Cheng, Menglu Li, Le Zhao, Bo Zhang, Yuhua Yang ...",03 June 2019,2019
+Evaluation of different computational methods on 5-methylcytosine sites identification,"Hao Lv, Zi-Mei Zhang, Shi-Hao Li, Jiu-Xin Tan, Wei Chen ...",03 June 2019,2019
+Evaluating the consistency of large-scale pharmacogenomic studies,"Raziur Rahman, Saugato Rahman Dhruba, Kevin Matlock, Carlos De-Niz, Souparno Ghosh ...",31 May 2019,2019
+A comprehensive overview of oncogenic pathways in human cancer,"Feng Li, Tan Wu, Yanjun Xu, Qun Dong, Jing Xiao ...",31 May 2019,2019
+Function determinants of TET proteins: the arrangements of sequence motifs with specific codes,"Dongyang Liu, Guangpeng Li, Yongchun Zuo",17 May 2019,2019
+"Bioinformatics: scalability, capabilities and training in the data-driven era","Maria Victoria Schneider, Rafael C Jimenez",17 May 2019,2019
+Transcription factors–DNA interactions in rice: identification and verification,"Zijie Shen, Yuan Lin, Quan Zou",15 May 2019,2019
+Genome-wide identification and analysis of the eQTL lncRNAs in multiple sclerosis based on RNA-seq data,"Zhijie Han, Weiwei Xue, Lin Tao, Yan Lou, Yunqing Qiu ...",24 April 2019,2019
+"iLearn: an integrated platform and meta-learner for feature engineering, machine-learning analysis and modeling of DNA, RNA and protein sequence data","Zhen Chen, Pei Zhao, Fuyi Li, Tatiana T Marquez-Lago, André Leier ...",24 April 2019,2019
+Single-cell transcriptome-based multilayer network biomarker for predicting prognosis and therapeutic response of gliomas,"Ji Zhang, Meige Guan, Qianliang Wang, Jiajun Zhang, Tianshou Zhou ...",18 April 2019,2019
+Comparison of haplotype-based tests for detecting gene–environment interactions with rare variants,"Charalampos Papachristou, Swati Biswas",18 April 2019,2019
+In silico signaling modeling to understand cancer pathways and treatment responses,"Meik Kunz, Julian Jeromin, Maximilian Fuchs, Jan Christoph, Giulia Veronesi ...",15 April 2019,2019
+100 Years of evolving gene–disease complexities and scientific debutants,"Saman Zeeshan, Ruoyun Xiong, Bruce T Liang, Zeeshan Ahmed",11 April 2019,2019
+Validation strategies for target prediction methods,"Neann Mathai, Ya Chen, Johannes Kirchmair",09 April 2019,2019
+DNA methylation analysis in plants: review of computational tools and future perspectives,"Jimmy Omony, Thomas Nussbaumer, Ruben Gutzat",09 April 2019,2019
+A feature-based approach to predict hot spots in protein–DNA binding interfaces,"Sijia Zhang, Le Zhao, Chun-Hou Zheng, Junfeng Xia",08 April 2019,2019
+MicroRNAs and nervous system diseases: network insights and computational challenges,"Jianjian Wang, Yuze Cao, Xiaoyu Lu, Tianfeng Wang, Shuang Li ...",05 April 2019,2019
+Identifying psychiatric disorder-associated gut microbiota using microbiota-related gene set enrichment analysis,"Shiqiang Cheng, Bei Han, Miao Ding, Yan Wen, Mei Ma ...",05 April 2019,2019
+Molecular Biology Information Service: an innovative medical library-based bioinformatics support service for biomedical researchers,"Ansuman Chattopadhyay, Carrie L Iwema, Barbara A Epstein, Adrian V Lee, Arthur S Levine",05 April 2019,2019
+"Integration of network models and evolutionary analysis into high-throughput modeling of protein dynamics and allosteric regulation: theory, tools and applications","Zhongjie Liang, Gennady M Verkhivker, Guang Hu",21 March 2019,2019
+Comparing enrichment analysis and machine learning for identifying gene properties that discriminate between gene classes,"Fabio Fabris, Daniel Palmer, João Pedro de Magalhães, Alex A Freitas",20 March 2019,2019
+Platform-independent approach for cancer detection from gene expression profiles of peripheral blood cells,"Yadong Yang, Tao Zhang, Rudan Xiao, Xiaopeng Hao, Huiqiang Zhang ...",20 March 2019,2019
+Sensitivity and specificity of information criteria,"John J Dziak, Donna L Coffman, Stephanie T Lanza, Runze Li, Lars S Jermiin",20 March 2019,2019
+Shaping the nebulous enhancer in the era of high-throughput assays and genome editing,"Edwin Yu-Kiu Ho, Qin Cao, Mengting Gu, Ricky Wai-Lun Chan, Qiong Wu ...",20 March 2019,2019
+Optimal selection of genetic variants for adjustment of population stratification in European association studies,"Regina Brinster, Dominique Scherer, Justo Lorenzo Bermejo",13 March 2019,2019
+Evaluation of drug efficacy based on the spatial position comparison of drug–target interaction centers,"Yu Ding, Hong Wang, Hewei Zheng, Lianzong Wang, Guosi Zhang ...",13 March 2019,2019
+Meta-GDBP: a high-level stacked regression model to improve anticancer drug response prediction,"Ran Su, Xinyi Liu, Guobao Xiao, Leyi Wei",13 March 2019,2019
+MinE-RFE: determine the optimal subset from RFE by minimizing the subset-accuracy–defined energy,"Ran Su, Xinyi Liu, Leyi Wei",12 March 2019,2019
+Assessment of metagenomic assemblers based on hybrid reads of real and simulated metagenomic sequences,"Ziye Wang, Ying Wang, Jed A Fuhrman, Fengzhu Sun, Shanfeng Zhu",11 March 2019,2019
+CAFU: a Galaxy framework for exploring unmapped RNA-Seq data,"Siyuan Chen, Chengzhi Ren, Jingjing Zhai, Jiantao Yu, Xuyang Zhao ...",28 February 2019,2019
+New approaches for metagenome assembly with short reads,"Martin Ayling, Matthew D Clark, Richard M Leggett",28 February 2019,2019
+MCAM abnormal expression and clinical outcome associations are highly cancer dependent as revealed through pan-cancer analysis,"Yunxia An, Nan Wei, Xiangsong Cheng, Ying Li, Haiyang Liu ...",28 February 2019,2019
+Network-based methods for predicting essential genes or proteins: a survey,"Xingyi Li, Wenkai Li, Min Zeng, Ruiqing Zheng, Min Li",18 February 2019,2019
+Delivering blended bioinformatics training in resource-limited settings: a case study on the University of Khartoum H3ABioNet node,"Azza E Ahmed, Ayah A Awadallah, Mawada Tagelsir, Maram A Suliman, Atheer Eltigani ...",15 February 2019,2019
+Evaluation of integrative clustering methods for the analysis of multi-omics data,"Cécile Chauvel, Alexei Novoloaca, Pierre Veyre, Frédéric Reynier, Jérémie Becker",14 February 2019,2019
+Computational methods for identifying the critical nodes in biological networks,"Xiangrong Liu, Zengyan Hong, Juan Liu, Yuan Lin, Alfonso Rodríguez-Patón ...",12 February 2019,2019
+Ensuring privacy and security of genomic data and functionalities,"Abukari Mohammed Yakubu, Yi-Ping Phoebe Chen",12 February 2019,2019
+In silico drug repositioning based on drug-miRNA associations,"Xu Zhou, Enyu Dai, Qian Song, Xueyan Ma, Qianqian Meng ...",11 February 2019,2019
+A comparison of deterministic and stochastic approaches for sensitivity analysis in computational systems biology,"Giulia Simoni, Hong Thanh Vo, Corrado Priami, Luca Marchetti",07 February 2019,2019
+Evaluation of ontology structural metrics based on public repository data,"Manuel Franco, Juana María Vivo, Manuel Quesada-Martínez, Astrid Duque-Ramos, Jesualdo Tomás Fernández-Breis",04 February 2019,2019
+Performance of gene expression–based single sample predictors for assessment of clinicopathological subgroups and molecular subtypes in cancers: a case comparison study in non-small cell lung cancer,"Helena Cirenajwis, Martin Lauss, Maria Planck, Johan Vallon-Christersson, Johan Staaf",04 February 2019,2019
+The global dissemination of bacterial infections necessitates the study of reverse genomic epidemiology,"Zhi Ruan, Yunsong Yu, Ye Feng",04 February 2019,2019
+Decoding competing endogenous RNA networks for cancer biomarker discovery,"Xin Qi, Yuxin Lin, Jiajia Chen, Bairong Shen",30 January 2019,2019
+Disentangling the complexity of low complexity proteins,"Pablo Mier, Lisanna Paladin, Stella Tamana, Sophia Petrosian, Borbála Hajdu-Soltész ...",30 January 2019,2019
+Computational medicine: quantitative modeling of complex diseases,Basant K Tiwary,30 January 2019,2019
+Cancer Target Gene Screening: a web application for breast cancer target gene screening using multi-omics data analysis,"Hyung-Yong Kim, Hee-Joo Choi, Jeong-Yeon Lee, Gu Kong",29 January 2019,2019
+"Clinical trials, progression-speed differentiating features and swiftness rule of the innovative targets of first-in-class drugs","Ying Hong Li, Xiao Xu Li, Jia Jun Hong, Yun Xia Wang, Jian Bo Fu ...",23 January 2019,2019
+Long non-coding RNA transcriptome of uncharacterized samples can be accurately imputed using protein-coding genes,"Aritro Nath, Paul Geeleher, R Stephanie Huang",17 January 2019,2019
+miR+Pathway: the integration and visualization of miRNA and KEGG pathways,"Cong Pian, Guangle Zhang, Libin Gao, Xiaodan Fan, Fei Li",16 January 2019,2019
+ANPELA: analysis and performance assessment of the label-free quantification workflow for metaproteomic studies,"Jing Tang, Jianbo Fu, Yunxia Wang, Bo Li, Yinghong Li ...",15 January 2019,2019
+Corrigendum to: gmRAD: an integrated SNP calling pipeline for genetic mapping with RADseq across a hybrid population,,14 January 2019,2019
+Corrigendum to: Dating admixture events is unsolved problem in multi-way admixed populations,,14 January 2019,2019
+Structure-based prediction of post-translational modification cross-talk within proteins using complementary residue- and residue pair-based features,"Hui-Fang Liu, Rong Liu",11 January 2019,2019
+Graph- and rule-based learning algorithms: a comprehensive review of their applications for cancer type classification and prognosis using genomic data,"Saurav Mallik, Zhongming Zhao",11 January 2019,2019
+Empirical comparison and analysis of web-based cell-penetrating peptide prediction tools,"Ran Su, Jie Hu, Quan Zou, Balachandran Manavalan, Leyi Wei",10 January 2019,2019
+Investigating the role of Simpson’s paradox in the analysis of top-ranked features in high-dimensional bioinformatics datasets,Alex A Freitas,09 January 2019,2019

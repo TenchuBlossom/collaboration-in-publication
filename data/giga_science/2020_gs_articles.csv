@@ -1,0 +1,164 @@
+title,authors,date,target year
+GALLO: An R package for genomic annotation and integration of multiple data sources in livestock for positional candidate loci,"Pablo A S Fonseca, Aroa Suárez-Vega, Gabriele Marras, Ángela Cánovas",30 December 2020,2020
+SoupX removes ambient RNA contamination from droplet-based single-cell RNA sequencing data,"Matthew D Young, Sam Behjati",26 December 2020,2020
+Comparison of long-read methods for sequencing and assembly of a plant genome,"Valentine Murigneux, Subash Kumar Rai, Agnelo Furtado, Timothy J C Bruxner, Wei Tian ...",21 December 2020,2020
+"Corrigendum to: PEMA: a flexible pipeline for environmental DNA metabarcoding analysis of the 16S/18S ribosomal RNA, ITS, and COI marker genes","Haris Zafeiropoulos, Ha Quoc Viet, Katerina Vasileiadou, Antonis Potirakis, Christos Arvanitidis ...",21 December 2020,2020
+Parliament2: Accurate structural variant calling at scale,"Samantha Zarate, Andrew Carroll, Medhat Mahmoud, Olga Krasheninina, Goo Jun ...",21 December 2020,2020
+"Toward a scalable framework for reproducible processing of volumetric, nanoscale neuroimaging datasets","Erik C Johnson, Miller Wilt, Luis M Rodriguez, Raphael Norman-Tenazas, Corban Rivera ...",21 December 2020,2020
+Genome sequencing of deep-sea hydrothermal vent snails reveals adaptions to extreme environments,"Xiang Zeng, Yaolei Zhang, Lingfeng Meng, Guangyi Fan, Jie Bai ...",15 December 2020,2020
+Identification of a differentiation stall in epithelial mesenchymal transition in histone H3–mutant diffuse midline glioma,"Lauren M Sanders, Allison Cheney, Lucas Seninge, Anouk van den Bout, Marissa Chen ...",15 December 2020,2020
+High-quality chromosome-level genome assembly and full-length transcriptome analysis of the pharaoh ant Monomorium pharaonis,"Qionghua Gao, Zijun Xiong, Rasmus Stenbak Larsen, Long Zhou, Jie Zhao ...",15 December 2020,2020
+Comparison of the two up-to-date sequencing technologies for genome assembly: HiFi reads of Pacific Biosciences Sequel II system and ultralong reads of Oxford Nanopore,"Dandan Lang, Shilai Zhang, Pingping Ren, Fan Liang, Zongyi Sun ...",15 December 2020,2020
+Making experimental data tables in the life sciences more FAIR: a pragmatic approach,"Daniel Jacob, Romain David, Sophie Aubin, Yves Gibon",15 December 2020,2020
+Long-read assembly of the Brassica napus reference genome Darmor-bzh,"Mathieu Rousseau-Gueutin, Caroline Belser, Corinne Da Silva, Gautier Richard, Benjamin Istace ...",15 December 2020,2020
+Chromosome-level draft genome of a diploid plum (Prunus salicina),"Chaoyang Liu, Chao Feng, Weizhuo Peng, Jingjing Hao, Juntao Wang ...",10 December 2020,2020
+DrivAER: Identification of driving transcriptional programs in single-cell RNA sequencing data,"Lukas M Simon, Fangfang Yan, Zhongming Zhao",10 December 2020,2020
+Accurate assembly of the olive baboon (Papio anubis) genome using long-read and Hi-C data,"Sanjit Singh Batra, Michal Levy-Sakin, Jacqueline Robinson, Joseph Guillory, Steffen Durinck ...",07 December 2020,2020
+iGenomics: Comprehensive DNA sequence analysis on your Smartphone,"Aspyn Palatnick, Bin Zhou, Elodie Ghedin, Michael C Schatz",07 December 2020,2020
+File-based localization of numerical perturbations in data analysis pipelines,"Ali Salari, Gregory Kiar, Lindsay Lewis, Alan C Evans, Tristan Glatard",02 December 2020,2020
+"Fractional ridge regression: a fast, interpretable reparameterization of ridge regression","Ariel Rokem, Kendrick Kay",30 November 2020,2020
+"Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology","Christina Weißbecker, Beatrix Schnabel, Anna Heintz-Buschart",30 November 2020,2020
+"Trajectories, bifurcations, and pseudo-time in large clinical datasets: applications to myocardial infarction and diabetes data","Sergey E Golovenkin, Jonathan Bac, Alexander Chervov, Evgeny M Mirkes, Yuliya V Orlova ...",25 November 2020,2020
+A methodological approach to correlate tumor heterogeneity with drug distribution profile in mass spectrometry imaging data,"Mridula Prasad, Geert Postma, Pietro Franceschi, Lavinia Morosi, Silvia Giordano ...",25 November 2020,2020
+Chromosomal genome of Triplophysa bleekeri provides insights into its evolution and environmental adaptation,"Dengyue Yuan, Xuehui Chen, Haoran Gu, Ming Zou, Yu Zou ...",24 November 2020,2020
+SSNOMBACTER: A collection of scattering-type scanning near-field optical microscopy and atomic force microscopy images of bacterial cells,"Massimiliano Lucidi, Denis E Tranca, Lorenzo Nichele, Devrim Ünay, George A Stanciu ...",24 November 2020,2020
+Localized effect of treated wastewater effluent on the resistome of an urban watershed,"Christopher N Thornton, Windy D Tanner, James A VanDerslice, William J Brazelton",19 November 2020,2020
+"Unifying package managers, workflow engines, and containers: Computational reproducibility with BioNix","Justin Bedő, Leon Di Stefano, Anthony T Papenfuss",18 November 2020,2020
+GigaSOM.jl: High-performance clustering and visualization of huge cytometry datasets,"Miroslav Kratochvíl, Oliver Hunewald, Laurent Heirendt, Vasco Verissimo, Jiří Vondrášek ...",18 November 2020,2020
+A proteomic approach reveals possible molecular mechanisms and roles for endosymbiotic bacteria in begomovirus transmission by whiteflies,"Adi Kliot, Richard S Johnson, Michael J MacCoss, Svetlana Kontsedalov, Galina Lebedev ...",13 November 2020,2020
+Efficient DNA sequence compression with neural networks,"Milton Silva, Diogo Pratas, Armando J Pinho",11 November 2020,2020
+Galaxy CLIP-Explorer: a web server for CLIP-Seq data analysis,"Florian Heyl, Daniel Maticzka, Michael Uhl, Rolf Backofen",11 November 2020,2020
+D-EE: Distributed software for visualizing intrinsic structure of large-scale single-cell data,"Shaokun An, Jizu Huang, Lin Wan",11 November 2020,2020
+"Adaptive venom evolution and toxicity in octopods is driven by extensive novel gene formation, expansion, and loss","Brooke L Whitelaw, Ira R Cooke, Julian Finn, Rute R da Fonseca, Elena A Ritschard ...",10 November 2020,2020
+Correcting for experiment-specific variability in expression compendia can remove underlying signals,"Alexandra J Lee, YoSon Park, Georgia Doing, Deborah A Hogan, Casey S Greene",03 November 2020,2020
+CopyDetective: Detection threshold–aware copy number variant calling in whole-exome sequencing data,"Sarah Sandmann, Marius Wöste, Aniek O de Graaf, Birgit Burkhardt, Joop H Jansen ...",02 November 2020,2020
+The Dynamic Proteome of Oligodendrocyte Lineage Differentiation Features Planar Cell Polarity and Macroautophagy Pathways,"Paria Pooyan, Razieh Karamzadeh, Mehdi Mirzaei, Anna Meyfour, Ardeshir Amirkhan ...",31 October 2020,2020
+A molecular map of lung neuroendocrine neoplasms,"Aurélie A G Gabriel, Emilie Mathian, Lise Mangiante, Catherine Voegele, Vincent Cahais ...",30 October 2020,2020
+Prediction of single-cell gene expression for transcription factor analysis,"Fatemeh Behjati Ardakani, Kathrin Kattler, Tobias Heinen, Florian Schmidt, David Feuerborn ...",30 October 2020,2020
+"Pacific Biosciences assembly with Hi-C mapping generates an improved, chromosome-level goose genome","Yan Li, Guangliang Gao, Yu Lin, Silu Hu, Yi Luo ...",24 October 2020,2020
+The on-premise data sharing infrastructure e!DAL: Foster FAIR data for faster data acquisition,"Daniel Arend, Patrick König, Astrid Junker, Uwe Scholz, Matthias Lange",22 October 2020,2020
+Pyntacle: a parallel computing-enabled framework for large-scale network biology analysis,"Luca Parca, Mauro Truglio, Tommaso Biagini, Stefano Castellana, Francesco Petrizzelli ...",21 October 2020,2020
+A single-cell RNA-sequencing training and analysis suite using the Galaxy framework,"Mehmet Tekman, Bérénice Batut, Alexander Ostrovsky, Christophe Antoniewski, Dave Clements ...",20 October 2020,2020
+The genetics-BIDS extension: Easing the search for genetic data associated with human brain imaging,"Clara A Moreau, Martineau Jean-Louis, Ross Blair, Christopher J Markiewicz, Jessica A Turner ...",17 October 2020,2020
+Interpreting k-mer–based signatures for antibiotic resistance prediction,"Magali Jaillard, Mattia Palmieri, Alex van Belkum, Pierre Mahé",17 October 2020,2020
+NanoGalaxy: Nanopore long-read sequencing data analysis in Galaxy,"Willem de Koning, Milad Miladi, Saskia Hiltemann, Astrid Heikema, John P Hays ...",17 October 2020,2020
+IDseq—An open source cloud-based pipeline and analysis service for metagenomic pathogen detection and monitoring,"Katrina L Kalantar, Tiago Carvalho, Charles F A de Bourcy, Boris Dimitrov, Greg Dingle ...",15 October 2020,2020
+A map of tumor–host interactions in glioma at single-cell resolution,"Francesca Pia Caruso, Luciano Garofano, Fulvio D'Angelo, Kai Yu, Fuchou Tang ...",14 October 2020,2020
+Gene-set Enrichment with Mathematical Biology (GEMB),"Amy L Cochran, Kenneth J Nieser, Daniel B Forger, Sebastian Zöllner, Melvin G McInnis",09 October 2020,2020
+Multimodal signal dataset for 11 intuitive movement tasks from single upper extremity during multiple recording sessions,"Ji-Hoon Jeong, Jeong-Hyun Cho, Kyung-Hwan Shim, Byoung-Hee Kwon, Byeong-Hoo Lee ...",07 October 2020,2020
+TRiCoLOR: tandem repeat profiling using whole-genome long-read sequencing data,"Davide Bolognini, Alberto Magi, Vladimir Benes, Jan O Korbel, Tobias Rausch",07 October 2020,2020
+An extensible big data software architecture managing a research resource of real-world clinical radiology data linked to other health data from the whole Scottish population,"Thomas Nind, James Sutherland, Gordon McAllister, Douglas Hardy, Ally Hume ...",29 September 2020,2020
+Construction of a chromosome-scale long-read reference genome assembly for potato,"Gina M Pham, John P Hamilton, Joshua C Wood, Joseph T Burke, Hainan Zhao ...",23 September 2020,2020
+3D Imaging and metabolomic profiling reveal higher neuroactive kavalactone contents in lateral roots and crown root peels of Piper methysticum (kava),"Yogini S Jaiswal, Aaron M Yerke, M Caleb Bagley, Måns Ekelöf, Daniel Weber ...",22 September 2020,2020
+Long-read only assembly of Drechmeria coniospora genomes reveals widespread chromosome plasticity and illustrates the limitations of current nanopore methods,"Damien Courtine, Jan Provaznik, Jerome Reboul, Guillaume Blanc, Vladimir Benes ...",18 September 2020,2020
+Corrigendum to: Recommendations to enhance rigor and reproducibility in biomedical research,"Jaqueline J Brito, Jun Li, Jason H Moore, Casey S Greene, Nicole A Nogoy ...",17 September 2020,2020
+Machado: Open source genomics data integration framework,"Mauricio de Alvarenga Mudadu, Adhemar Zerlotini",14 September 2020,2020
+"Generation of a chromosome-scale genome assembly of the insect-repellent terpenoid-producing Lamiaceae species, Callicarpa americana","John P Hamilton, Grant T Godden, Emily Lanier, Wajid Waheed Bhat, Taliesin J Kinser ...",07 September 2020,2020
+TGS-GapCloser: A fast and accurate gap closer for large genomes with low coverage of error-prone long reads,"Mengyang Xu, Lidong Guo, Shengqiang Gu, Ou Wang, Rui Zhang ...",07 September 2020,2020
+ScanITD: Detecting internal tandem duplication with robust variant allele frequency estimation,"Ting-You Wang, Rendong Yang",27 August 2020,2020
+Chromosome-level genome assembly of the female western mosquitofish (Gambusia affinis),"Feng Shao, Arne Ludwig, Yang Mao, Ni Liu, Zuogang Peng",27 August 2020,2020
+Hi-C chromosome conformation capture sequencing of avian genomes using the BGISEQ-500 platform,"Marcela Sandoval-Velasco, Juan Antonio Rodríguez, Cynthia Perez Estrada, Guojie Zhang, Erez Lieberman Aiden ...",26 August 2020,2020
+A hybrid pipeline for reconstruction and analysis of viral genomes at multi-organ level,"Diogo Pratas, Mari Toppinen, Lari Pyöriä, Klaus Hedman, Antti Sajantila ...",20 August 2020,2020
+Technical workflows for hyperspectral plant image assessment and processing on the greenhouse and laboratory scale,"Stefan Paulus, Anne-Katrin Mahlein",20 August 2020,2020
+"Initial data release and announcement of the 10,000 Fish Genomes Project (Fish10K)","Guangyi Fan, Yue Song, Liandong Yang, Xiaoyun Huang, Suyu Zhang ...",18 August 2020,2020
+The chromosome-level draft genome of Dalbergia odorifera,"Zhou Hong, Jiang Li, Xiaojin Liu, Jinmin Lian, Ningnan Zhang ...",18 August 2020,2020
+"A haplotype-resolved, de novo genome assembly for the wood tiger moth (Arctia plantaginis) through trio binning","Eugenie C Yen, Shane A McCarthy, Juan A Galarza, Tomas N Generalovic, Sarah Pelan ...",18 August 2020,2020
+Scientometric trends for coronaviruses and other emerging viral infections,"Dima Kagan, Jacob Moran-Gilad, Michael Fire",17 August 2020,2020
+Graph2GO: a multi-modal attributed network embedding method for inferring protein functions,"Kunjie Fan, Yuanfang Guan, Yan Zhang",08 August 2020,2020
+Genomic data imputation with variational auto-encoders,"Yeping Lina Qiu, Hong Zheng, Olivier Gevaert",06 August 2020,2020
+VariantSpark: Cloud-based machine learning for association study of complex phenotype and large-scale genomic data,"Arash Bayat, Piotr Szul, Aidan R O’Brien, Robert Dunne, Brendan Hosking ...",06 August 2020,2020
+The intersectional genetics landscape for humans,"Andre Macedo, Alisson M Gontijo",06 August 2020,2020
+EHRtemporalVariability: delineating temporal data-set shifts in electronic health records,"Carlos Sáez, Alba Gutiérrez-Sacristán, Isaac Kohane, Juan M García-Gómez, Paul Avillach",30 July 2020,2020
+PhaseME: Automatic rapid assessment of phasing quality and phasing improvement,"Sina Majidian, Fritz J Sedlazeck",24 July 2020,2020
+A generalizable data-driven multicellular model of pancreatic ductal adenocarcinoma,"Boris Aguilar, David L Gibbs, David J Reiss, Mark McConnell, Samuel A Danziger ...",22 July 2020,2020
+Comparative genomics and transcriptomics of 4 Paragonimus species provide insights into lung fluke parasitism and pathogenesis,"Bruce A Rosa, Young-Jun Choi, Samantha N McNulty, Hyeim Jung, John Martin ...",20 July 2020,2020
+Assessment of fecal DNA extraction protocols for metagenomic studies,"Fangming Yang, Jihua Sun, Huainian Luo, Huahui Ren, Hongcheng Zhou ...",13 July 2020,2020
+Imputing missing RNA-sequencing data from DNA methylation by using a transfer learning–based neural network,"Xiang Zhou, Hua Chai, Huiying Zhao, Ching-Hsing Luo, Yuedong Yang",10 July 2020,2020
+Chromosome-level de novo assembly of the pig-tailed macaque genome using linked-read sequencing and HiC proximity scaffolding,"Morteza Roodgar, Afshin Babveyh, Lan H Nguyen, Wenyu Zhou, Rahul Sinha ...",10 July 2020,2020
+Sequence Compression Benchmark (SCB) database—A comprehensive evaluation of reference-free compressors for FASTA-formatted sequences,"Kirill Kryukov, Mahoko Takahashi Ueda, So Nakagawa, Tadashi Imanishi",06 July 2020,2020
+Corrigendum to: Metagenomic analysis of planktonic riverine microbial consortia using nanopore sequencing reveals insight into river microbe taxonomy and function,"Kate Reddington, David Eccles, Justin O'Grady, Devin M Drown, Lars Hestbjerg Hansen ...",24 June 2020,2020
+CandiMeth: Powerful yet simple visualization and quantification of DNA methylation at candidate genes,"Sara-Jayne Thursby, Darin K Lobo, Kristina Pentieva, Shu-Dong Zhang, Rachelle E Irwin ...",22 June 2020,2020
+Reduced chromatin accessibility underlies gene expression differences in homologous chromosome arms of diploid Aegilops tauschii and hexaploid wheat,"Fu-Hao Lu, Neil McKenzie, Laura-Jayne Gardiner, Ming-Cheng Luo, Anthony Hall ...",20 June 2020,2020
+The democratization of bioinformatics: A software engineering perspective,"Brendan Lawlor, Roy D Sleator",20 June 2020,2020
+Draft genome assemblies using sequencing reads from Oxford Nanopore Technology and Illumina platforms for four species of North American Fundulus killifish,"Lisa K Johnson, Ruta Sahasrabudhe, James Anthony Gill, Jennifer L Roach, Lutz Froenicke ...",18 June 2020,2020
+CRISPRcasIdentifier: Machine learning for accurate identification and classification of CRISPR-Cas systems,"Victor A Padilha, Omer S Alkhnbashi, Shiraz A Shah, André C P L F de Carvalho, Rolf Backofen",17 June 2020,2020
+"Watchdog 2.0: New developments for reusability, reproducibility, and workflow execution","Michael Kluge, Marie-Sophie Friedl, Amrei L Menzel, Caroline C Friedel",17 June 2020,2020
+An improved pig reference genome sequence to enable pig genetics and genomics research,"Amanda Warr, Nabeel Affara, Bronwen Aken, Hamid Beiki, Derek M Bickhart ...",16 June 2020,2020
+Integrative computational epigenomics to build data-driven gene regulation hypotheses,"Tyrone Chen, Sonika Tyagi",16 June 2020,2020
+Bioentity2vec: Attribute- and behavior-driven representation for predicting multi-type relationships between bioentities,"Zhen-Hao Guo, Zhu-Hong You, Yan-Bin Wang, De-Shuang Huang, Hai-Cheng Yi ...",13 June 2020,2020
+Galactic Circos: User-friendly Circos plots within the Galaxy platform,"Helena Rasche, Saskia Hiltemann",12 June 2020,2020
+Trans-NanoSim characterizes and simulates nanopore RNA-sequencing data,"Saber Hafezqorani, Chen Yang, Theodora Lo, Ka Ming Nip, René L Warren ...",10 June 2020,2020
+Metagenomic analysis of planktonic riverine microbial consortia using nanopore sequencing reveals insight into river microbe taxonomy and function,"Kate Reddington, David Eccles, Justin O'Grady, Devin M Drown, Lars Hestbjerg Hansen ...",10 June 2020,2020
+Genomic consequences of dietary diversification and parallel evolution due to nectarivory in leaf-nosed bats,"Yocelyn T Gutiérrez-Guerrero, Enrique Ibarra-Laclette, Carlos Martínez del Río, Josué Barrera-Redondo, Eria A Rebollar ...",06 June 2020,2020
+SnpHub: an easy-to-set-up web server framework for exploring large-scale genomic variation data in the post-genomic era with applications in wheat,"Wenxi Wang, Zihao Wang, Xintong Li, Zhongfu Ni, Zhaorong Hu ...",05 June 2020,2020
+Education in the genomics era: Generating high-quality genome assemblies in university courses,"Stefan Prost, Sven Winter, Jordi De Raad, Raphael T F Coimbra, Magnus Wolf ...",03 June 2020,2020
+"Iterative hard thresholding in genome-wide association studies: Generalized linear models, prior weights, and double sparsity","Benjamin B Chu, Kevin L Keys, Christopher A German, Hua Zhou, Jin J Zhou ...",03 June 2020,2020
+Recommendations to enhance rigor and reproducibility in biomedical research,"Jaqueline J Brito, Jun Li, Jason H Moore, Casey S Greene, Nicole A Nogoy ...",01 June 2020,2020
+A catalog of microbial genes from the bovine rumen unveils a specialized and diverse biomass-degrading environment,"Junhua Li, Huanzi Zhong, Yuliaxis Ramayo-Caldas, Nicolas Terrapon, Vincent Lombard ...",30 May 2020,2020
+Fcirc: A comprehensive pipeline for the exploration of fusion linear and circular RNAs,"Zhaoqing Cai, Hongzhang Xue, Yue Xu, Jens Köhler, Xiaojie Cheng ...",29 May 2020,2020
+"halSynteny: a fast, easy-to-use conserved synteny block construction method for multiple whole-genome alignments","Ksenia Krasheninnikova, Mark Diekhans, Joel Armstrong, Aleksei Dievskii, Benedict Paten ...",28 May 2020,2020
+TinderMIX: Time-dose integrated modelling of toxicogenomics data,"Angela Serra, Michele Fratello, Giusy del Giudice, Laura Aliisa Saarimäki, Michelangelo Paci ...",25 May 2020,2020
+CSA: A high-throughput chromosome-scale assembly pipeline for vertebrate genomes,"Heiner Kuhl, Ling Li, Sven Wuertz, Matthias Stöck, Xu-Fang Liang ...",25 May 2020,2020
+"parSMURF, a high-performance computing tool for the genome-wide detection of pathogenic variants","Alessandro Petrini, Marco Mesiti, Max Schubach, Marco Frasca, Daniel Danis ...",23 May 2020,2020
+Smash++: an alignment-free and memory-efficient tool to find genomic rearrangements,"Morteza Hosseini, Diogo Pratas, Burkhard Morgenstern, Armando J Pinho",20 May 2020,2020
+High-quality chromosome-scale assembly of the walnut (Juglans regia L.) reference genome,"Annarita Marrano, Monica Britton, Paulo A Zaini, Aleksey V Zimin, Rachael E Workman ...",20 May 2020,2020
+Ewastools: Infinium Human Methylation BeadChip pipeline for population epigenetics integrated into Galaxy,"Katarzyna Murat, Björn Grüning, Paulina Wiktoria Poterlowicz, Gillian Westgate, Desmond J Tobin ...",13 May 2020,2020
+Community standards for open cell migration data,"Alejandra N Gonzalez-Beltran, Paola Masuzzo, Christophe Ampe, Gert-Jan Bakker, Sébastien Besson ...",12 May 2020,2020
+Sequencing smart: De novo sequencing and assembly approaches for a non-model mammal,"Graham J Etherington, Darren Heavens, David Baker, Ashleigh Lister, Rose McNelly ...",12 May 2020,2020
+Biospytial: spatial graph-based computing for ecological Big Data,"Juan M Escamilla Molgora, Luigi Sedda, Peter M Atkinson",11 May 2020,2020
+Global ocean resistome revealed: Exploring antibiotic resistance gene abundance and distribution in TARA Oceans samples,"Rafael R C Cuadrat, Maria Sorokina, Bruno G Andrade, Tobias Goris, Alberto M R Dávila",11 May 2020,2020
+Antibiotic resistomes discovered in the gut microbiomes of Korean swine and cattle,"Suk-Kyung Lim, Dongjun Kim, Dong-Chan Moon, Youna Cho, Mina Rho",05 May 2020,2020
+MaRe: Processing Big Data with application containers on Apache Spark,"Marco Capuccini, Martin Dahlö, Salman Toor, Ola Spjuth",05 May 2020,2020
+Multi-dimensional machine learning approaches for fruit shape phenotyping in strawberry,"Mitchell J Feldmann, Michael A Hardigan, Randi A Famula, Cindy M López, Amy Tabb ...",30 April 2020,2020
+The gene-rich genome of the scallop Pecten maximus,"Nathan J Kenny, Shane A McCarthy, Olga Dudchenko, Katherine James, Emma Betteridge ...",30 April 2020,2020
+Expression of concern: Dissection of soybean populations according to selection signatures based on whole-genome sequences,"Jae-Yoon Kim, Seongmun Jeong, Kyoung Hyoun Kim, Won-Jun Lim, Ho-Yeon Lee ...",29 April 2020,2020
+SRPRISM (Single Read Paired Read Indel Substitution Minimizer): an efficient aligner for assemblies with explicit guarantees,"Aleksandr Morgulis, Richa Agarwala",21 April 2020,2020
+Chromosome-level reference genome of the jellyfish Rhopilema esculentum,"Yunfeng Li, Lei Gao, Yongjia Pan, Meilin Tian, Yulong Li ...",21 April 2020,2020
+Species-level evaluation of the human respiratory microbiome,"Olufunmilola Ibironke, Lora R McGuinness, Shou-En Lu, Yaquan Wang, Sabiha Hussain ...",16 April 2020,2020
+Artifact-free whole-slide imaging with structured illumination microscopy and Bayesian image reconstruction,"Karl A Johnson, Guy M Hagen",14 April 2020,2020
+Laniakea: an open solution to provide Galaxy “on-demand” instances over heterogeneous cloud infrastructures,"Marco Antonio Tangaro, Giacinto Donvito, Marica Antonacci, Matteo Chiara, Pietro Mandreoli ...",06 April 2020,2020
+ShinyLearner: A containerized benchmarking tool for machine-learning classification of tabular data,"Stephen R Piccolo, Terry J Lee, Erica Suh, Kimball Hill",06 April 2020,2020
+Continuous chromosome-scale haplotypes assembled from a single interspecies F1 hybrid of yak and cattle,"Edward S Rice, Sergey Koren, Arang Rhie, Michael P Heaton, Theodore S Kalbfleisch ...",03 April 2020,2020
+"Canfam_GSD: De novo chromosome-length genome assembly of the German Shepherd Dog (Canis lupus familiaris) using a combination of long reads, optical mapping, and Hi-C","Matt A Field, Benjamin D Rosen, Olga Dudchenko, Eva K F Chan, Andre E Minoche ...",01 April 2020,2020
+Binning unassembled short reads based on k-mer abundance covariance using sparse coding,"Olexiy Kyrgyzov, Vincent Prost, Stéphane Gazut, Bruno Farcy, Thomas Brüls",29 March 2020,2020
+Multi-omics Visualization Platform: An extensible Galaxy plug-in for multi-omics data visualization and exploration,"Thomas McGowan, James E Johnson, Praveen Kumar, Ray Sajulga, Subina Mehta ...",28 March 2020,2020
+"Chromosome-level genome assembly of Aldrichina grahami, a forensically important blowfly","Fanming Meng, Zhuoying Liu, Han Han, Dmitrijs Finkelbergs, Yangshuai Jiang ...",19 March 2020,2020
+De novo assembly of the cattle reference genome with single-molecule sequencing,"Benjamin D Rosen, Derek M Bickhart, Robert D Schnabel, Sergey Koren, Christine G Elsik ...",19 March 2020,2020
+Correction to: High-coverage genomes to elucidate the evolution of penguins,"Hailin Pan, Theresa L Cole, Xupeng Bi, Miaoquan Fang, Chengran Zhou ...",19 March 2020,2020
+"*-DCC: A platform to collect, annotate, and explore a large variety of sequencing experiments","Matthias Hörtenhuber, Abdul K Mukarram, Marcus H Stoiber, James B Brown, Carsten O Daub",14 March 2020,2020
+"PEMA: a flexible Pipeline for Environmental DNA Metabarcoding Analysis of the 16S/18S ribosomal RNA, ITS, and COI marker genes","Haris Zafeiropoulos, Ha Quoc Viet, Katerina Vasileiadou, Antonis Potirakis, Christos Arvanitidis ...",12 March 2020,2020
+An image dataset related to automated macrophage detection in immunostained lymphoma tissue samples,"Marcus Wagner, Sarah Reinke, René Hänsel, Wolfram Klapper, Ulf-Dietrich Braumann",12 March 2020,2020
+Interpretable and accurate prediction models for metagenomics data,"Edi Prifti, Yann Chevaleyre, Blaise Hanczar, Eugeni Belda, Antoine Danchin ...",09 March 2020,2020
+Chromosome-level genome assembly and annotation of the loquat (Eriobotrya japonica) genome,"Shuang Jiang, Haishan An, Fangjie Xu, Xueying Zhang",06 March 2020,2020
+Introgression of Eastern Chinese and Southern Chinese haplotypes contributes to the improvement of fertility and immunity in European modern pigs,"Hao Chen, Min Huang, Bin Yang, Zhongping Wu, Zheng Deng ...",06 March 2020,2020
+"Light-responsive expression atlas reveals the effects of light quality and intensity in Kalanchoë fedtschenkoi, a plant with crassulacean acid metabolism","Jin Zhang, Rongbin Hu, Avinash Sreedasyam, Travis M Garcia, Anna Lipzen ...",05 March 2020,2020
+A novel method for detecting morphologically similar crops and weeds based on the combination of contour masks and filtered Local Binary Pattern operators,"Vi Nguyen Thanh Le, Selam Ahderom, Beniamin Apopei, Kamal Alameh",04 March 2020,2020
+DeepPod: a convolutional neural network based quantification of fruit number in Arabidopsis,"Azam Hamidinekoo, Gina A Garzón-Martínez, Morteza Ghahremani, Fiona M K Corke, Reyer Zwiggelaar ...",04 March 2020,2020
+Comparative proteomics analysis of Tibetan hull-less barley under osmotic stress via data-independent acquisition mass spectrometry,"Yulin Wang, Zha Sang, Shaohang Xu, Qijun Xu, Xingquan Zeng ...",03 March 2020,2020
+Genome sequence of the agarwood tree Aquilaria sinensis (Lour.) Spreng: the first chromosome-level draft genome in the Thymelaeceae family,"Xupo Ding, Wenli Mei, Qiang Lin, Hao Wang, Jun Wang ...",02 March 2020,2020
+GADMA: Genetic algorithm for inferring demographic history of multiple populations from allele frequency spectrum data,"Ekaterina Noskova, Vladimir Ulyantsev, Klaus-Peter Koepfli, Stephen J O’Brien, Pavel Dobrynin",29 February 2020,2020
+"Chromosomal-level assembly of Juglans sigillata genome using Nanopore, BioNano, and Hi-C analysis","De-Lu Ning, Tao Wu, Liang-Jun Xiao, Ting Ma, Wen-Liang Fang ...",26 February 2020,2020
+Artificial intelligence deciphers codes for color and odor perceptions based on large-scale chemoinformatic data,"Xiayin Zhang, Kai Zhang, Duoru Lin, Yi Zhu, Chuan Chen ...",26 February 2020,2020
+Genomic analyses reveal distinct genetic architectures and selective pressures in buffaloes,"Ting Sun, Jiafei Shen, Alessandro Achilli, Ningbo Chen, Qiuming Chen ...",21 February 2020,2020
+"GC bias affects genomic and metagenomic reconstructions, underrepresenting GC-poor organisms","Patrick Denis Browne, Tue Kjærgaard Nielsen, Witold Kot, Anni Aggerholm, M Thomas P Gilbert ...",13 February 2020,2020
+De novo genome assembly and Hi-C analysis reveal an association between chromatin architecture alterations and sex differentiation in the woody plant Jatropha curcas,"Mao-Sheng Chen, Longjian Niu, Mei-Li Zhao, Chuanjia Xu, Bang-Zhen Pan ...",12 February 2020,2020
+Inferring putative ancient whole-genome duplications in the 1000 Plants (1KP) initiative: access to gene family phylogenies and age distributions,"Zheng Li, Michael S Barker",11 February 2020,2020
+HAMAP as SPARQL rules—A portable annotation pipeline for genomes and proteomes,"Jerven Bolleman, Edouard de Castro, Delphine Baratin, Sebastien Gehant, Beatrice A Cuche ...",08 February 2020,2020
+The Data Tags Suite (DATS) model for discovering data access and use requirements,"George Alter, Alejandra Gonzalez-Beltran, Lucila Ohno-Machado, Philippe Rocca-Serra",07 February 2020,2020
+Genomic diversity affects the accuracy of bacterial single-nucleotide polymorphism–calling pipelines,"Stephen J Bush, Dona Foster, David W Eyre, Emily L Clark, Nicola De Maio ...",06 February 2020,2020
+Evaluating the genome and resistome of extensively drug-resistant Klebsiella pneumoniae using native DNA and RNA Nanopore sequencing,"Miranda E Pitt, Son H Nguyen, Tânia P S Duarte, Haotian Teng, Mark A T Blaskovich ...",04 February 2020,2020
+Refgenie: a reference genome resource manager,"Michał Stolarczyk, Vincent P Reuter, Jason P Smith, Neal E Magee, Nathan C Sheffield",29 January 2020,2020
+Telescope: an interactive tool for managing large-scale analysis from mobile devices,"Jaqueline J Brito, Thiago Mosqueiro, Jeremy Rotman, Victor Xue, Douglas J Chapski ...",23 January 2020,2020
+Compartment and hub definitions tune metabolic networks for metabolomic interpretations,"T Cameron Waller, Jordan A Berg, Alexander Lex, Brian E Chapman, Jared Rutter",23 January 2020,2020
+A highly contiguous genome assembly of the bat hawkmoth Hyles vespertilio (Lepidoptera: Sphingidae),"Martin Pippel, David Jebb, Franziska Patzold, Sylke Winkler, Heiko Vogel ...",23 January 2020,2020
+"3D revelation of phenotypic variation, evolutionary allometry, and ancestral states of corolla shape: a case study of clade Corytholoma (subtribe Ligeriinae, family Gesneriaceae)","Hao-Chun Hsu, Wen-Chieh Chou, Yan-Fu Kuo",22 January 2020,2020
+Corrigendum to: Bipartite graphs in systems biology and medicine: a survey of methods and applications,,20 January 2020,2020
+"A draft genome sequence of the elusive giant squid, Architeuthis dux","Rute R da Fonseca, Alvarina Couto, Andre M Machado, Brona Brejova, Carolin B Albertin ...",16 January 2020,2020
+A high-quality chromosomal genome assembly of Diospyros oleifera Cheng,"Yujing Suo, Peng Sun, Huihui Cheng, Weijuan Han, Songfeng Diao ...",16 January 2020,2020
+Multifaceted Hi-C benchmarking: what makes a difference in chromosome-scale genome scaffolding?,"Mitsutaka Kadota, Osamu Nishimura, Hisashi Miura, Kaori Tanaka, Ichiro Hiratani ...",10 January 2020,2020
+CAMITAX: Taxon labels for microbial genomes,"Andreas Bremges, Adrian Fritz, Alice C McHardy",07 January 2020,2020
+Chromosome-level genome assembly reveals the unique genome evolution of the swimming crab (Portunus trituberculatus),"Boping Tang, Daizhen Zhang, Haorong Li, Senhao Jiang, Huabin Zhang ...",06 January 2020,2020
+"Data detectives, self-love, and humility: a research parasite's perspective",Claire Duvallet,03 January 2020,2020
+A genome alignment of 120 mammals highlights ultraconserved element variability and placenta-associated enhancers,"Nikolai Hecker, Michael Hiller",03 January 2020,2020
+Genome and population sequencing of a chromosome-level genome assembly of the Chinese tapertail anchovy (Coilia nasus) provides novel insights into migratory adaptation,"Gangchun Xu, Chao Bian, Zhijuan Nie, Jia Li, Yuyu Wang ...",02 January 2020,2020
+The draft nuclear genome assembly of Eucalyptus pauciflora: a pipeline for comparing de novo assemblies,"Weiwen Wang, Ashutosh Das, David Kainer, Miriam Schalamun, Alejandro Morales-Suarez ...",02 January 2020,2020

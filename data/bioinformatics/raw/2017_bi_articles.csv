@@ -1,0 +1,901 @@
+title,authors,date,target year
+PGA: post-GWAS analysis for disease gene identification,"Jhih-Rong Lin, Daniel Jaroslawicz, Ying Cai, Quanwei Zhang, Zhen Wang ...",29 December 2017,2017
+SV2: accurate structural variation genotyping and de novo mutation detection from whole genomes,"Danny Antaki, William M Brandler, Jonathan Sebat",29 December 2017,2017
+ChopStitch: exon annotation and splice graph construction using transcriptome assembly and whole genome sequencing data,"Hamza Khan, Hamid Mohamadi, Benjamin P Vandervalk, Rene L Warren, Justin Chu ...",29 December 2017,2017
+MIIC online: a web server to reconstruct causal or non-causal networks from non-perturbative data,"Nadir Sella, Louis Verny, Guido Uguzzoni, Séverine Affeldt, Hervé Isambert",29 December 2017,2017
+CHROMIXS: automatic and interactive analysis of chromatography-coupled small-angle X-ray scattering data,"Alejandro Panjkovich, Dmitri I Svergun",28 December 2017,2017
+Aligning dynamic networks with DynaWAVE,"Vipin Vijayan, Tijana Milenković",28 December 2017,2017
+ChronQC: a quality control monitoring system for clinical next generation sequencing,"Nilesh R Tawari, Justine Jia Wen Seow, Dharuman Perumal, Jack L Ow, Shimin Ang ...",28 December 2017,2017
+Towards self-learning based hypotheses generation in biomedical text domain,"Vishrawas Gopalakrishnan, Kishlay Jha, Guangxu Xun, Hung Q Ngo, Aidong Zhang",26 December 2017,2017
+"DyNetViewer: a Cytoscape app for dynamic network construction, analysis and visualization","Min Li, Jie Yang, Fang-Xiang Wu, Yi Pan, Jianxin Wang",23 December 2017,2017
+Ontological function annotation of long non-coding RNAs through hierarchical multi-label classification,"Jingpu Zhang, Zuping Zhang, Zixiang Wang, Yuting Liu, Lei Deng",23 December 2017,2017
+polyPK: an R package for pharmacokinetic analysis of multi-component drugs using a metabolomics approach,"Mengci Li, Shouli Wang, Guoxiang Xie, Xiaohui Ma, Tianlu Chen ...",23 December 2017,2017
+A benchmark for comparing precision medicine methods in thyroid cancer diagnosis using tissue microarrays,"Ching-Wei Wang, Yu-Ching Lee, Evelyne Calista, Fan Zhou, Hongtu Zhu ...",23 December 2017,2017
+Algorithmic identification of discrepancies between published ratios and their reported confidence intervals and P-values,"Constantin Georgescu, Jonathan D Wren",22 December 2017,2017
+myTAI: evolutionary transcriptomics with R,"Hajk-Georg Drost, Alexander Gabel, Jialin Liu, Marcel Quint, Ivo Grosse",22 December 2017,2017
+DiffGraph: an R package for identifying gene network rewiring using differential graphical models,"Xiao-Fei Zhang, Le Ou-Yang, Shuo Yang, Xiaohua Hu, Hong Yan",22 December 2017,2017
+Protein classification using modified n-grams and skip-grams,"S M Ashiqul Islam, Benjamin J Heil, Christopher Michel Kearney, Erich J Baker",22 December 2017,2017
+Mustguseal: a server for multiple structure-guided sequence alignment of protein families,"Dmitry A Suplatov, Kirill E Kopylov, Nina N Popova, Vladimir V Voevodin, Vytas K Švedas",22 December 2017,2017
+DeepSig: deep learning improves signal peptide detection in proteins,"Castrense Savojardo, Pier Luigi Martelli, Piero Fariselli, Rita Casadio",21 December 2017,2017
+Multiple hot-deck imputation for network inference from RNA sequencing data,"Alyssa Imbert, Armand Valsesia, Caroline Le Gall, Claudia Armenise, Gregory Lefebvre ...",21 December 2017,2017
+Computational identification of binding energy hot spots in protein–RNA complexes using an ensemble approach,"Yuliang Pan, Zixiang Wang, Weihua Zhan, Lei Deng",21 December 2017,2017
+R2DGC: threshold-free peak alignment and identification for 2D gas chromatography-mass spectrometry in R,"Ryne C Ramaker, Emily R Gordon, Sara J Cooper",21 December 2017,2017
+mTM-align: an algorithm for fast and accurate multiple protein structure alignment,"Runze Dong, Zhenling Peng, Yang Zhang, Jianyi Yang",21 December 2017,2017
+PINE-SPARKY.2 for automated NMR-based protein structure research,"Woonghee Lee, John L Markley",21 December 2017,2017
+PRAPI: post-transcriptional regulation analysis pipeline for Iso-Seq,"Yubang Gao, Huiyuan Wang, Hangxiao Zhang, Yongsheng Wang, Jinfeng Chen ...",21 December 2017,2017
+A high-resolution map of the human small non-coding transcriptome,"Tobias Fehlmann, Christina Backes, Julia Alles, Ulrike Fischer, Martin Hart ...",21 December 2017,2017
+An automated benchmarking platform for MHC class II binding prediction methods,"Massimo Andreatta, Thomas Trolle, Zhen Yan, Jason A Greenbaum, Bjoern Peters ...",21 December 2017,2017
+DPMIND: degradome-based plant miRNA–target interaction and network database,"Yuhan Fei, Rui Wang, Haoyuan Li, Shu Liu, Hongsheng Zhang ...",21 December 2017,2017
+CRNET: an efficient sampling approach to infer functional regulatory networks by integrating large-scale ChIP-seq and time-course RNA-seq data,"Xi Chen, Jinghua Gu, Xiao Wang, Jin-Gyoung Jung, Tian-Li Wang ...",21 December 2017,2017
+Genome U-Plot: a whole genome visualization,"Athanasios Gaitatzes, Sarah H Johnson, James B Smadbeck, George Vasmatzis",21 December 2017,2017
+Missing value imputation for LC-MS metabolomics data by incorporating metabolic network and adduct ion relations,"Zhuxuan Jin, Jian Kang, Tianwei Yu",20 December 2017,2017
+TCGA-assembler 2: software pipeline for retrieval and processing of TCGA/CPTAC data,"Lin Wei, Zhilin Jin, Shengjie Yang, Yanxun Xu, Yitan Zhu ...",20 December 2017,2017
+GRAM-CNN: a deep learning approach with local context for named entity recognition in biomedical text,"Qile Zhu, Xiaolin Li, Ana Conesa, Cécile Pereira",20 December 2017,2017
+Personal Cancer Genome Reporter: variant interpretation report for precision oncology,"Sigve Nakken, Ghislain Fournous, Daniel Vodák, Lars Birger Aasheim, Ola Myklebost ...",20 December 2017,2017
+Rcupcake: an R package for querying and analyzing biomedical data through the BD2K PIC-SURE RESTful API,"Alba Gutiérrez-Sacristán, Romain Guedj, Gabor Korodi, Jason Stedman, Laura I Furlong ...",18 December 2017,2017
+ProbAnnoWeb and ProbAnnoPy: probabilistic annotation and gap-filling of metabolic reconstructions,"Brendan King, Terry Farrah, Matthew A Richards, Michael Mundy, Evangelos Simeonidis ...",18 December 2017,2017
+GIGI-Quick: a fast approach to impute missing genotypes in genome-wide association family data,"Khalid Kunji, Ehsan Ullah, Alejandro Q Nato, Jr, Ellen M Wijsman, Mohamad Saad",18 December 2017,2017
+Computational identification of micro-structural variations and their proteogenomic consequences in cancer,"Yen-Yi Lin, Alexander Gawronski, Faraz Hach, Sujun Li, Ibrahim Numanagić ...",18 December 2017,2017
+Sequential feature selection and inference using multi-variate random forests,"Joshua Mayer, Raziur Rahman, Souparno Ghosh, Ranadip Pal",18 December 2017,2017
+JASPAR RESTful API: accessing JASPAR data from any programming language,"Aziz Khan, Anthony Mathelier",15 December 2017,2017
+K2 and K2*: efficient alignment-free sequence similarity measurement based on Kendall statistics,"Jie Lin, Donald A Adjeroh, Bing-Hua Jiang, Yue Jiang",15 December 2017,2017
+fMLC: fast multi-level clustering and visualization of large molecular datasets,"D Vu, S Georgievska, S Szoke, A Kuzniar, V Robert",15 December 2017,2017
+Delta: a new web-based 3D genome visualization and analysis platform,"Bixia Tang, Feifei Li, Jing Li, Wenming Zhao, Zhihua Zhang",15 December 2017,2017
+DeepSynergy: predicting anti-cancer drug synergy with Deep Learning,"Kristina Preuer, Richard P I Lewis, Sepp Hochreiter, Andreas Bender, Krishna C Bulusu ...",15 December 2017,2017
+Analyzing large scale genomic data on the cloud with Sparkhit,"Liren Huang, Jan Krüger, Alexander Sczyrba",15 December 2017,2017
+"Curatr: a web application for creating, curating and sharing a mass spectral library","Andrew Palmer, Prasad Phapale, Dominik Fay, Theodore Alexandrov",14 December 2017,2017
+A novel approach based on KATZ measure to predict associations of human microbiota with non-infectious diseases,"Xing Chen, Yu-An Huang, Zhu-Hong You, Gui-Ying Yan, Xue-Song Wang",14 December 2017,2017
+CscoreTool: fast Hi-C compartment analysis at high resolution,"Xiaobin Zheng, Yixian Zheng",13 December 2017,2017
+Machine learning for classifying tuberculosis drug-resistance from DNA sequencing data,"Yang Yang, Katherine E Niehaus, Timothy M Walker, Zamin Iqbal, A Sarah Walker ...",12 December 2017,2017
+GeoBoost: accelerating research involving the geospatial metadata of virus GenBank records,"Tasnia Tahsin, Davy Weissenbacher, Karen O’Connor, Arjun Magge, Matthew Scotch ...",12 December 2017,2017
+NGLview–interactive molecular graphics for Jupyter notebooks,"Hai Nguyen, David A Case, Alexander S Rose",11 December 2017,2017
+Outlier detection for improved differential splicing quantification from RNA-Seq experiments with replicates,"Scott S Norton, Jorge Vaquero-Garcia, Nicholas F Lahens, Gregory R Grant, Yoseph Barash",11 December 2017,2017
+"TarHunter, a tool for predicting conserved microRNA targets and target mimics in plants","Xuan Ma, Chunyan Liu, Lianfeng Gu, Beixin Mo, Xiaofeng Cao ...",11 December 2017,2017
+New algorithms to represent complex pseudoknotted RNA structures in dot-bracket notation,"Maciej Antczak, Mariusz Popenda, Tomasz Zok, Michal Zurkowski, Ryszard W Adamiak ...",11 December 2017,2017
+IndeCut evaluates performance of network motif discovery algorithms,"Mitra Ansariola, Molly Megraw, David Koslicki",11 December 2017,2017
+"DaMiRseq—an R/Bioconductor package for data mining of RNA-Seq data: normalization, feature selection and classification","Mattia Chiesa, Gualtiero I Colombo, Luca Piacentini",11 December 2017,2017
+gene2drug: a computational tool for pathway-based rational drug repositioning,"Francesco Napolitano, Diego Carrella, Barbara Mandriani, Sandra Pisonero-Vaquero, Francesco Sirci ...",11 December 2017,2017
+DeepSF: deep convolutional neural network for mapping protein sequences to folds,"Jie Hou, Badri Adhikari, Jianlin Cheng",08 December 2017,2017
+DNCON2: improved protein contact prediction using two-level deep convolutional neural networks,"Badri Adhikari, Jie Hou, Jianlin Cheng",08 December 2017,2017
+LitPathExplorer: a confidence-based visual text analytics tool for exploring literature-enriched pathway models,"Axel J Soto, Chrysoula Zerva, Riza Batista-Navarro, Sophia Ananiadou",08 December 2017,2017
+Accurate mapping of tRNA reads,"Anne Hoffmann, Jörg Fallmann, Elisa Vilardo, Mario Mörl, Peter F Stadler ...",08 December 2017,2017
+Aether: leveraging linear programming for optimal cloud computing in genomics,"Jacob M Luber, Braden T Tierney, Evan M Cofer, Chirag J Patel, Aleksandar D Kostic",08 December 2017,2017
+SANA NetGO: a combinatorial approach to using Gene Ontology (GO) terms to score network alignments,"Wayne B Hayes, Nil Mamano",07 December 2017,2017
+PEITH(Θ): perfecting experiments with information theory in Python with GPU support,"Leander Dony, Jonas Mackerodt, Scott Ward, Sarah Filippi, Michael P H Stumpf ...",07 December 2017,2017
+Gene Graphics: a genomic neighborhood data visualization web application,"Katherine J Harrison, Valérie de Crécy-Lagard, Rémi Zallot",07 December 2017,2017
+"FROGS: Find, Rapidly, OTUs with Galaxy Solution","Frédéric Escudié, Lucas Auer, Maria Bernard, Mahendra Mariadassou, Laurent Cauquil ...",07 December 2017,2017
+Matrix factorization-based data fusion for the prediction of lncRNA–disease associations,"Guangyuan Fu, Jun Wang, Carlotta Domeniconi, Guoxian Yu",07 December 2017,2017
+SPRING: a kinetic interface for visualizing high dimensional single-cell expression data,"Caleb Weinreb, Samuel Wolock, Allon M Klein",07 December 2017,2017
+Model-based design of bistable cell factories for metabolic engineering,"Shyam Srinivasan, William R Cluett, Radhakrishnan Mahadevan",06 December 2017,2017
+Integrating 5hmC and gene expression data to infer regulatory mechanisms,"Cristina Mitrea, Priyanga Wijesinghe, Greg Dyson, Adéle Kruger, Douglas M Ruden ...",06 December 2017,2017
+ASAR: visual analysis of metagenomes in R,"Askarbek N Orakov, Nazgul K Sakenova, Anatoly Sorokin, Igor I Goryanin",01 December 2017,2017
+Identifying functionally informative evolutionary sequence profiles,"Nelson Gil, Andras Fiser",01 December 2017,2017
+Bicycle: a bioinformatics pipeline to analyze bisulfite sequencing data,"Osvaldo Graña, Hugo López-Fernández, Florentino Fdez-Riverola, David González Pisano, Daniel Glez-Peña",01 December 2017,2017
+MOSAIC: a chemical-genetic interaction data repository and web resource for exploring chemical modes of action,"Justin Nelson, Scott W Simpkins, Hamid Safizadeh, Sheena C Li, Jeff S Piotrowski ...",30 November 2017,2017
+GenSSI 2.0: multi-experiment structural identifiability analysis of SBML models,"Thomas S Ligon, Fabian Fröhlich, Oana T Chiş, Julio R Banga, Eva Balsa-Canto ...",30 November 2017,2017
+Genome Context Viewer: visual exploration of multiple annotated genomes using microsynteny,"Alan Cleary, Andrew Farmer",29 November 2017,2017
+iDINGO—integrative differential network analysis in genomics with Shiny application,"Caleb A Class, Min Jin Ha, Veerabhadran Baladandayuthapani, Kim-Anh Do",29 November 2017,2017
+bioBakery: a meta’omic analysis environment,"Lauren J McIver, Galeb Abu-Ali, Eric A Franzosa, Randall Schwager, Xochitl C Morgan ...",29 November 2017,2017
+RecoverY: k-mer-based read classification for Y-chromosome-specific sequencing and assembly,"Samarth Rangavittal, Robert S Harris, Monika Cechova, Marta Tomaszkiewicz, Rayan Chikhi ...",28 November 2017,2017
+ThetaMater: Bayesian estimation of population size parameter θ from genomic data,"Richard H Adams, Drew R Schield, Daren C Card, Andrew Corbin, Todd A Castoe",28 November 2017,2017
+Power Analysis for Genetic Association Test (PAGEANT) provides insights to challenges for rare variant association studies,"Andriy Derkach, Haoyu Zhang, Nilanjan Chatterjee",28 November 2017,2017
+glactools: a command-line toolset for the management of genotype likelihoods and allele counts,Gabriel Renaud,27 November 2017,2017
+"Global proteomics profiling improves drug sensitivity prediction: results from a multi-omics, pan-cancer modeling approach","Mehreen Ali, Suleiman A Khan, Krister Wennerberg, Tero Aittokallio",27 November 2017,2017
+SimulaTE: simulating complex landscapes of transposable elements of populations,Robert Kofler,27 November 2017,2017
+Robust inference of population structure from next-generation sequencing data with systematic differences in sequencing,"Peizhou Liao, Glen A Satten, Yi-Juan Hu",27 November 2017,2017
+3dRPC: a web server for 3D RNA–protein structure prediction,"Yangyu Huang, Haotian Li, Yi Xiao",27 November 2017,2017
+Cpf1-Database: web-based genome-wide guide RNA library design for gene knockout screens using CRISPR-Cpf1,"Jeongbin Park, Sangsu Bae",27 November 2017,2017
+Identifying simultaneous rearrangements in cancer genomes,"Layla Oesper, Simone Dantas, Benjamin J Raphael",27 November 2017,2017
+Semi-supervised network inference using simulated gene expression dynamics,"Phan Nguyen, Rosemary Braun",27 November 2017,2017
+Classifying next-generation sequencing data using a zero-inflated Poisson model,"Yan Zhou, Xiang Wan, Baoxue Zhang, Tiejun Tong",27 November 2017,2017
+"bioalcidae, samjs and vcffilterjs: object-oriented formatters and filters for bioinformatics files","Pierre Lindenbaum, Richard Redon",24 November 2017,2017
+SPECTRE: a suite of phylogenetic tools for reticulate evolution,"Sarah Bastkowski, Daniel Mapleson, Andreas Spillner, Taoyang Wu, Monika Balvočiūtė ...",24 November 2017,2017
+MOCASSIN-prot: a multi-objective clustering approach for protein similarity networks,"Brittney N Keel, Bo Deng, Etsuko N Moriyama",24 November 2017,2017
+Efficiently counting all orbits of graphlets of any order in a graph using autogenerated equations,"Ine Melckenbeeck, Pieter Audenaert, Didier Colle, Mario Pickavet",24 November 2017,2017
+An attention-based BiLSTM-CRF approach to document-level chemical named entity recognition,"Ling Luo, Zhihao Yang, Pei Yang, Yin Zhang, Lei Wang ...",24 November 2017,2017
+shinyCircos: an R/Shiny application for interactive creation of Circos plot,"Yiming Yu, Yidan Ouyang, Wen Yao",24 November 2017,2017
+The systematic analysis of ultraconserved genomic regions in the budding yeast,"Zhi-Kai Yang, Feng Gao",24 November 2017,2017
+"FUn: a framework for interactive visualizations of large, high-dimensional datasets on the web","Daniel Probst, Jean-Louis Reymond",24 November 2017,2017
+MOAT: efficient detection of highly mutated regions with the Mutations Overburdening Annotations Tool,"Lucas Lochovsky, Jing Zhang, Mark Gerstein",24 November 2017,2017
+DDR: efficient computational method to predict drug–target interactions using graph mining and machine learning approaches,"Rawan S Olayan, Haitham Ashoor, Vladimir B Bajic",24 November 2017,2017
+Phenotypic stability and plasticity in GMP-derived cells as determined by their underlying regulatory network,"Carlos Ramírez, Luis Mendoza",24 November 2017,2017
+PlanNET: homology-based predicted interactome for multiple planarian transcriptomes,"S Castillo-Lara, J F Abril",24 November 2017,2017
+The OncoPPi Portal: an integrative resource to explore and prioritize protein–protein interactions for cancer target discovery,"Andrei A Ivanov, Brian Revennaugh, Lauren Rusnak, Valentina Gonzalez-Pecchi, Xiulei Mo ...",24 November 2017,2017
+GDSCTools for mining pharmacogenomic interactions in cancer,"Thomas Cokelaer, Elisabeth Chen, Francesco Iorio, Michael P Menden, Howard Lightfoot ...",24 November 2017,2017
+Mapping-free variant calling using haplotype reconstruction from k-mer frequencies,"Peter A Audano, Shashidhar Ravishankar, Fredrik O Vannberg",24 November 2017,2017
+CALQ: compression of quality values of aligned sequencing data,"Jan Voges, Jörn Ostermann, Mikel Hernaez",23 November 2017,2017
+Myriads: P-value-based multiple testing correction,Antonio Carvajal-Rodríguez,23 November 2017,2017
+Reactome diagram viewer: data structures and strategies to boost performance,"Antonio Fabregat, Konstantinos Sidiropoulos, Guilherme Viteri, Pablo Marin-Garcia, Peipei Ping ...",23 November 2017,2017
+PipelineDog: a simple and flexible graphic pipeline construction and maintenance tool,"Anbo Zhou, Yeting Zhang, Yazhou Sun, Jinchuan Xing",23 November 2017,2017
+CytoCtrlAnalyser: a Cytoscape app for biomolecular network controllability analysis,"Lin Wu, Min Li, Jianxin Wang, Fang-Xiang Wu",23 November 2017,2017
+Reproducible and flexible simulation experiments with ML-Rules and SESSL,"T Warnke, T Helms, A M Uhrmacher",23 November 2017,2017
+scHiCNorm: a software package to eliminate systematic biases in single-cell Hi-C data,"Tong Liu, Zheng Wang",23 November 2017,2017
+ASElux: an ultra-fast and accurate allelic reads counter,"Zong Miao, Marcus Alvarez, Päivi Pajukanta, Arthur Ko",23 November 2017,2017
+SATORI: a system for ontology-guided visual exploration of biomedical data repositories,"Fritz Lekschas, Nils Gehlenborg",23 November 2017,2017
+Meta-analytic principal component analysis in integrative omics application,"SungHwan Kim, Dongwan Kang, Zhiguang Huo, Yongseok Park, George C Tseng",23 November 2017,2017
+SAPP: functional genome annotation and analysis through a semantic framework using FAIR principles,"Jasper J Koehorst, Jesse C J van Dam, Edoardo Saccenti, Vitor A P Martins dos Santos, Maria Suarez-Diez ...",23 November 2017,2017
+Extreme learning machines for reverse engineering of gene regulatory networks from expression time series,"M Rubiolo, D H Milone, G Stegmayer",22 November 2017,2017
+QVZ: lossy compression of quality values,"Greg Malysa, Mikel Hernaez, Idoia Ochoa, Milind Rao, Karthik Ganesan ...",21 November 2017,2017
+Modeling positional effects of regulatory sequences with spline transformations increases prediction accuracy of deep neural networks,"Žiga Avsec, Mohammadamin Barekatain, Jun Cheng, Julien Gagneur",16 November 2017,2017
+Predicting loop conformational ensembles,"Claire Marks, Jiye Shi, Charlotte M Deane",10 November 2017,2017
+"Sequential search leads to faster, more efficient fragment-based de novo protein structure prediction","Saulo H P de Oliveira, Eleanor C Law, Jiye Shi, Charlotte M Deane",09 November 2017,2017
+Identification of topological features in renal tumor microenvironment associated with patient survival,"Jun Cheng, Xiaokui Mo, Xusheng Wang, Anil Parwani, Qianjin Feng ...",09 November 2017,2017
+microRPM: a microRNA prediction model based only on plant small RNA sequencing data,"Kuan-Chieh Tseng, Yi-Fan Chiang-Hsieh, Hsuan Pai, Chi-Nga Chow, Shu-Chuan Lee ...",09 November 2017,2017
+PREFMD: a web server for protein structure refinement via molecular dynamics simulations,"Lim Heo, Michael Feig",08 November 2017,2017
+Cost-effective and accurate method of measuring fetal fraction using SNP imputation,"Minjeong Kim, Jai-Hoon Kim, Kangseok Kim, Sunshin Kim",08 November 2017,2017
+Complex analyses of inverted repeats in mitochondrial genomes revealed their importance and variability,"Jana Čechová, Jiří Lýsek, Martin Bartas, Václav Brázda",08 November 2017,2017
+Deep learning for tumor classification in imaging mass spectrometry,"Jens Behrmann, Christian Etmann, Tobias Boskamp, Rita Casadonte, Jörg Kriegsmann ...",08 November 2017,2017
+PERF: an exhaustive algorithm for ultra-fast and efficient identification of microsatellites from large DNA sequences,"Akshay Kumar Avvaru, Divya Tej Sowpati, Rakesh Kumar Mishra",07 November 2017,2017
+LIBRA-WA: a web application for ligand binding site detection and protein function recognition,"Daniele Toti, Le Viet Hung, Valentina Tortosa, Valentina Brandi, Fabio Polticelli",06 November 2017,2017
+AIRVF: a filtering toolbox for precise variant calling in Ion Torrent sequencing,"Sunguk Shin, Hanna Lee, Hyeonju Son, Soonmyung Paik, Sangwoo Kim",06 November 2017,2017
+Membranome 2.0: database for proteome-wide profiling of bitopic proteins and their dimers,"Andrei L Lomize, Jacob M Hage, Irina D Pogozheva",06 November 2017,2017
+RepLong: de novo repeat identification using long read sequencing data,"Rui Guo, Yan-Ran Li, Shan He, Le Ou-Yang, Yiwen Sun ...",06 November 2017,2017
+Bringing numerous methods for expression and promoter analysis to a public cloud computing service,"Krzysztof Polański, Bo Gao, Sam A Mason, Paul Brown, Sascha Ott ...",06 November 2017,2017
+CommWalker: correctly evaluating modules in molecular networks in light of annotation bias,"M D Luecken, M J T Page, A J Crosby, S Mason, G Reinert ...",03 November 2017,2017
+NanoStringNormCNV: pre-processing of NanoString CNV data,"Dorota H Sendorek, Emilie Lalonde, Cindy Q Yao, Veronica Y Sabelnykova, Robert G Bristow ...",03 November 2017,2017
+Identifying structural variants using linked-read sequencing data,"Rebecca Elyanow, Hsin-Ta Wu, Benjamin J Raphael",03 November 2017,2017
+TabPath: interactive tables for metabolic pathway analysis,"Lauro Ângelo Gonçalves de Moraes, Érica Barbosa Felestrino, Renata de Almeida Barbosa Assis, Diogo Matos, Joubert de Castro Lima ...",03 November 2017,2017
+Estimation of QTL heritability based on pooled sequencing data,"Weiqi Tang, Likun Huang, Suhong Bu, Xuzhang Zhang, Weiren Wu",02 November 2017,2017
+DFAST: a flexible prokaryotic genome annotation pipeline for faster genome publication,"Yasuhiro Tanizawa, Takatomo Fujisawa, Yasukazu Nakamura",02 November 2017,2017
+ViraPipe: scalable parallel pipeline for viral metagenome analysis from next generation sequencing reads,"Altti Ilari Maarala, Zurab Bzhalava, Joakim Dillner, Keijo Heljanko, Davit Bzhalava",02 November 2017,2017
+"Orchid: a novel management, annotation and machine learning framework for analyzing cancer mutations","Clinton L Cario, John S Witte",02 November 2017,2017
+FunImageJ: a Lisp framework for scientific image processing,"Kyle I S Harrington, Curtis T Rueden, Kevin W Eliceiri",02 November 2017,2017
+pLoc-mHum: predict subcellular localization of multi-location human proteins via general PseAAC to winnow out the crucial GO information,"Xiang Cheng, Xuan Xiao, Kuo-Chen Chou",02 November 2017,2017
+Mosdepth: quick coverage calculation for genomes and exomes,"Brent S Pedersen, Aaron R Quinlan",31 October 2017,2017
+BEAM web server: a tool for structural RNA motif discovery,"Marco Pietrosanto, Marta Adinolfi, Riccardo Casula, Gabriele Ausiello, Fabrizio Ferrè ...",31 October 2017,2017
+pedigreejs: a web-based graphical pedigree editor,"Tim Carver, Alex P Cunningham, Chantal Babb de Villiers, Andrew Lee, Simon Hartley ...",31 October 2017,2017
+"Visualization portal for genetic variation (VizGVar): a tool for interactive visualization of SNPs and somatic mutations in exons, genes and protein domains","Antonio Solano-Román, Verónica Alfaro-Arias, Carlos Cruz-Castillo, Allan Orozco-Solano",30 October 2017,2017
+Efficient comparative phylogenetics on large trees,"Stilianos Louca, Michael Doebeli",30 October 2017,2017
+Quantifying biological samples using Linear Poisson Independent Component Analysis for MALDI-ToF mass spectra,"S Deepaisarn, P D Tar, N A Thacker, A Seepujak, A W McMahon",28 October 2017,2017
+Simulating the dynamics of targeted capture sequencing with CapSim,"Minh Duc Cao, Devika Ganesamoorthy, Chenxi Zhou, Lachlan J M Coin",28 October 2017,2017
+"pStab: prediction of stable mutants, unfolding curves, stability maps and protein electrostatic frustration","Soundhararajan Gopi, Devanshu Devanshu, Praveen Krishna, Athi N Naganathan",28 October 2017,2017
+Predicting protein–DNA binding free energy change upon missense mutations using modified MM/PBSA approach: SAMPDI webserver,"Yunhui Peng, Lexuan Sun, Zhe Jia, Lin Li, Emil Alexov",28 October 2017,2017
+MetaCherchant: analyzing genomic context of antibiotic resistance genes in gut microbiota,"Evgenii I Olekhnovich, Artem T Vasilyev, Vladimir I Ulyantsev, Elena S Kostryukova, Alexander V Tyakht",28 October 2017,2017
+Machine learning annotation of human branchpoints,"Bethany Signal, Brian S Gloss, Marcel E Dinger, Tim R Mercer",28 October 2017,2017
+GRASS: semi-automated NMR-based structure elucidation of saccharides,"Roman R Kapaev, Philip V Toukach",28 October 2017,2017
+TMEM132: an ancient architecture of cohesin and immunoglobulin domains define a new family of neural adhesion molecules,"Luis Sanchez-Pulido, Chris P Ponting",27 October 2017,2017
+DIEGO: detection of differential alternative splicing using Aitchison’s geometry,"Gero Doose, Stephan H Bernhart, Rabea Wagener, Steve Hoffmann",27 October 2017,2017
+An exact test for comparing a fixed quantitative property between gene sets,Matthew M Parks,27 October 2017,2017
+Dynamic assessment of microbial ecology (DAME): a web app for interactive analysis and visualization of microbial sequencing data,"Brian D Piccolo, Umesh D Wankhade, Sree V Chintapalli, Sudeepa Bhattacharyya, Luo Chunqiao ...",26 October 2017,2017
+ViewBS: a powerful toolkit for visualization of high-throughput bisulfite sequencing data,"Xiaosan Huang, Shaoling Zhang, Kongqing Li, Jyothi Thimmapuram, Shaojun Xie",26 October 2017,2017
+ndexr—an R package to interface with the network data exchange,"Florian Auer, Zaynab Hammoud, Alexandr Ishkin, Dexter Pratt, Trey Ideker ...",26 October 2017,2017
+MutaNET: a tool for automated analysis of genomic mutations in gene regulatory networks,"Markus Hollander, Mohamed Hamed, Volkhard Helms, Kerstin Neininger",26 October 2017,2017
+ChIPWig: a random access-enabling lossless and lossy compression method for ChIP-seq data,"Vida Ravanmehr, Minji Kim, Zhiying Wang, Olgica Milenković",26 October 2017,2017
+Drug–drug interaction extraction via hierarchical RNNs on sequence and shortest dependency paths,"Yijia Zhang, Wei Zheng, Hongfei Lin, Jian Wang, Zhihao Yang ...",25 October 2017,2017
+Group spike-and-slab lasso generalized linear models for disease prediction and associated genes detection by incorporating pathway information,"Zaixiang Tang, Yueping Shen, Yan Li, Xinyan Zhang, Jia Wen ...",25 October 2017,2017
+Unsupervised multiple kernel learning for heterogeneous data integration,"Jérôme Mariette, Nathalie Villa-Vialaneix",25 October 2017,2017
+netReg: network-regularized linear models for biological association studies,"Simon Dirmeier, Christiane Fuchs, Nikola S Mueller, Fabian J Theis",25 October 2017,2017
+Bayesian data integration for quantifying the contribution of diverse measurements to parameter estimates,"Bram Thijssen, Tjeerd M H Dijkstra, Tom Heskes, Lodewyk F A Wessels",24 October 2017,2017
+mORCA: sailing bioinformatics world with mobile devices,"Sergio Díaz-del-Pino, Juan Falgueras, Esteban Perez-Wohlfeil, Oswaldo Trelles",24 October 2017,2017
+Constructing prediction models from expression profiles for large scale lncRNA–miRNA interaction profiling,"Yu-An Huang, Keith C C Chan, Zhu-Hong You",23 October 2017,2017
+xMWAS: a data-driven integration and differential network analysis tool,"Karan Uppal, Chunyu Ma, Young-Mi Go, Dean P Jones",23 October 2017,2017
+"ArachnoServer 3.0: an online resource for automated discovery, analysis and annotation of spider toxins","Sandy S Pineda, Pierre-Alain Chaumeil, Anne Kunert, Quentin Kaas, Mike W C Thang ...",23 October 2017,2017
+Evaluation of tools for long read RNA-seq splice-aware alignment,"Krešimir Križanović, Amina Echchiki, Julien Roux, Mile Šikić",23 October 2017,2017
+VecScreen_plus_taxonomy: imposing a tax(onomy) increase on vector contamination screening,"Alejandro A Schäffer, Eric P Nawrocki, Yoon Choi, Paul A Kitts, Ilene Karsch-Mizrachi ...",23 October 2017,2017
+CLIFinder: identification of LINE-1 chimeric transcripts in RNA-seq data,"Marie-Elisa Pinson, Romain Pogorelcnik, Franck Court, Philippe Arnaud, Catherine Vaurs-Barrière",23 October 2017,2017
+SeqBox: RNAseq/ChIPseq reproducible analysis on a consumer game computer,"Marco Beccuti, Francesca Cordero, Maddalena Arigoni, Riccardo Panero, Elvio G Amparore ...",23 October 2017,2017
+ROSC-Pred: web-service for rodent organ-specific carcinogenicity prediction,"Alexey Lagunin, Anastasia Rudik, Dmitry Druzhilovsky, Dmitry Filimonov, Vladimir Poroikov",23 October 2017,2017
+ARCS: scaffolding genome drafts with linked reads,"Sarah Yeo, Lauren Coombe, René L Warren, Justin Chu, Inanç Birol",23 October 2017,2017
+A fast fiducial marker tracking model for fully automatic alignment in electron tomography,"Renmin Han, Fa Zhang, Xin Gao",23 October 2017,2017
+Bartender: a fast and accurate clustering algorithm to count barcode reads,"Lu Zhao, Zhimin Liu, Sasha F Levy, Song Wu",23 October 2017,2017
+heatmaply: an R package for creating interactive cluster heatmaps for online publishing,"Tal Galili, Alan O’Callaghan, Jonathan Sidi, Carson Sievert",23 October 2017,2017
+PROSPERous: high-throughput prediction of substrate cleavage sites for 90 proteases with improved accuracy,"Jiangning Song, Fuyi Li, André Leier, Tatiana T Marquez-Lago, Tatsuya Akutsu ...",23 October 2017,2017
+Chromatin accessibility prediction via a hybrid deep convolutional neural network,"Qiao Liu, Fei Xia, Qijin Yin, Rui Jiang",23 October 2017,2017
+PaRSnIP: sequence-based protein solubility prediction using gradient boosting machine,"Reda Rawi, Raghvendra Mall, Khalid Kunji, Chen-Hsiang Shen, Peter D Kwong ...",23 October 2017,2017
+DISC: DISulfide linkage Characterization from tandem mass spectra,"Yi Liu, Weiping Sun, Baozhen Shan, Kaizhong Zhang",23 October 2017,2017
+PESTO: Parameter EStimation TOolbox,"Paul Stapor, Daniel Weindl, Benjamin Ballnus, Sabine Hug, Carolin Loos ...",23 October 2017,2017
+DEEPre: sequence-based enzyme EC number prediction by deep learning,"Yu Li, Sheng Wang, Ramzan Umarov, Bingqing Xie, Ming Fan ...",23 October 2017,2017
+iSmaRT: a toolkit for a comprehensive analysis of small RNA-Seq data,"Riccardo Panero, Antonio Rinaldi, Domenico Memoli, Giovanni Nassa, Maria Ravo ...",20 October 2017,2017
+A probabilistic pathway score (PROPS) for classification with applications to inflammatory bowel disease,"Lichy Han, Mateusz Maciejewski, Christoph Brockel, William Gordon, Scott B Snapper ...",18 October 2017,2017
+SliceMap: an algorithm for automated brain region annotation,"Michaël Barbier, Astrid Bottelbergs, Rony Nuydens, Andreas Ebneth, Winnok H De Vos",18 October 2017,2017
+Identification of copy number variations and translocations in cancer cells from Hi-C data,"Abhijit Chakraborty, Ferhat Ay",18 October 2017,2017
+PyBEL: a computational framework for Biological Expression Language,"Charles Tapley Hoyt, Andrej Konotopez, Christian Ebeling",18 October 2017,2017
+Krait: an ultrafast tool for genome-wide survey of microsatellites and primer design,"Lianming Du, Chi Zhang, Qin Liu, Xiuyue Zhang, Bisong Yue",18 October 2017,2017
+Cancer progression models and fitness landscapes: a many-to-many relationship,Ramon Diaz-Uriarte,18 October 2017,2017
+Detection of sputum by interpreting the time-frequency distribution of respiratory sound signal using image processing techniques,"Jinglong Niu, Yan Shi, Maolin Cai, Zhixin Cao, Dandan Wang ...",13 October 2017,2017
+SAGE2: parallel human genome assembly,"Michael Molnar, Ehsan Haghshenas, Lucian Ilie",13 October 2017,2017
+Beyond similarity assessment: selecting the optimal model for sequence alignment via the Factorized Asymptotic Bayesian algorithm,"Taikai Takeda, Michiaki Hamada",12 October 2017,2017
+UC2 search: using unique connectivity of uncharged compounds for metabolite annotation by database searching in mass spectrometry-based metabolomics,"Nozomu Sakurai, Takafumi Narise, Joon-Soo Sim, Chang-Muk Lee, Chiaki Ikeda ...",12 October 2017,2017
+An omnibus test for differential distribution analysis of microbiome sequencing data,"Jun Chen, Emily King, Rebecca Deek, Zhi Wei, Yue Yu ...",12 October 2017,2017
+Robust and sparse correlation matrix estimation for the analysis of high-dimensional genomics data,"Angela Serra, Pietro Coretto, Michele Fratello, Roberto Tagliaferri",12 October 2017,2017
+Generalized correlation measure using count statistics for gene expression data with ordered samples,"Y X Rachel Wang, Ke Liu, Elizabeth Theusch, Jerome I Rotter, Marisa W Medina ...",12 October 2017,2017
+Machine learning accelerates MD-based binding pose prediction between ligands and proteins,"Kei Terayama, Hiroaki Iwata, Mitsugu Araki, Yasushi Okuno, Koji Tsuda",11 October 2017,2017
+SELANSI: a toolbox for simulation of stochastic gene regulatory networks,"Manuel Pájaro, Irene Otero-Muras, Carlos Vázquez, Antonio A Alonso",11 October 2017,2017
+MATAM: reconstruction of phylogenetic marker genes from short sequencing reads in metagenomes,"Pierre Pericard, Yoann Dufresne, Loïc Couderc, Samuel Blanquart, Hélène Touzet",11 October 2017,2017
+AEGS: identifying aberrantly expressed gene sets for differential variability analysis,"Jinting Guan, Moliang Chen, Congting Ye, James J Cai, Guoli Ji",11 October 2017,2017
+Compound image segmentation of published biomedical figures,"Pengyuan Li, Xiangying Jiang, Chandra Kambhamettu, Hagit Shatkay",10 October 2017,2017
+Detecting hidden batch factors through data-adaptive adjustment for biological effects,"Haidong Yi, Ayush T Raman, Han Zhang, Genevera I Allen, Zhandong Liu",09 October 2017,2017
+ThreaDNA: predicting DNA mechanics’ contribution to sequence selectivity of proteins along whole genomes,"Jasmin Cevost, Cédric Vaillant, Sam Meyer",09 October 2017,2017
+Squeakr: an exact and approximate k-mer counting system,"Prashant Pandey, Michael A Bender, Rob Johnson, Rob Patro",09 October 2017,2017
+findGSE: estimating genome size variation within human and Arabidopsis using k-mer frequencies,"Hequan Sun, Jia Ding, Mathieu Piednoël, Korbinian Schneeberger",09 October 2017,2017
+Compression of genomic sequencing reads via hash-based reordering: algorithm and analysis,"Shubham Chandak, Kedar Tatwawadi, Tsachy Weissman",09 October 2017,2017
+DIBS: a repository of disordered binding sites mediating interactions with ordered proteins,"Eva Schad, Erzsébet Fichó, Rita Pancsa, István Simon, Zsuzsanna Dosztányi ...",09 October 2017,2017
+diffuStats: an R package to compute diffusion-based scores on biological networks,"Sergio Picart-Armada, Wesley K Thompson, Alfonso Buil, Alexandre Perera-Lluna",05 October 2017,2017
+PyDREAM: high-dimensional parameter inference for biological models in python,"Erin M Shockley, Jasper A Vrugt, Carlos F Lopez",04 October 2017,2017
+MALDIrppa: quality control and robust analysis for mass spectrometry data,"Javier Palarea-Albaladejo, Kevin Mclean, Frank Wright, David G E Smith",04 October 2017,2017
+BetaSerpentine: a bioinformatics tool for reconstruction of amyloid structures,"Stanislav A Bondarev, Olga V Bondareva, Galina A Zhouravleva, Andrey V Kajava",04 October 2017,2017
+Towards unified quality verification of synthetic count data with countsimQC,"Charlotte Soneson, Mark D Robinson",04 October 2017,2017
+"Nephele: a cloud platform for simplified, standardized and reproducible microbiome data analysis","Nick Weber, David Liou, Jennifer Dommer, Philip MacMenamin, Mariam Quiñones ...",03 October 2017,2017
+Tumor origin detection with tissue-specific miRNA and DNA methylation markers,"Wei Tang, Shixiang Wan, Zhen Yang, Andrew E Teschendorff, Quan Zou",03 October 2017,2017
+DeepGO: predicting protein functions from sequence and interactions using a deep ontology-aware classifier,"Maxat Kulmanov, Mohammed Asif Khan, Robert Hoehndorf",03 October 2017,2017
+OncomiR: an online resource for exploring pan-cancer microRNA dysregulation,"Nathan W Wong, Yuhao Chen, Shuai Chen, Xiaowei Wang",03 October 2017,2017
+HiCapTools: a software suite for probe design and proximity detection for targeted chromosome conformation capture applications,"Anandashankar Anil, Rapolas Spalinskas, Örjan Åkerborg, Pelin Sahlén",03 October 2017,2017
+Identification of cancer driver genes in focal genomic aberrations from whole-exome sequencing data,"Ho Jang, Hyunju Lee",03 October 2017,2017
+A new haplotype block detection method for dense genome sequencing data based on interval graph modeling of clusters of highly correlated SNPs,"Sun Ah Kim, Chang-Sung Cho, Suh-Ryung Kim, Shelley B Bull, Yun Joo Yoo",29 September 2017,2017
+diffloop: a computational framework for identifying and analyzing differential DNA loops from sequencing data,"Caleb A Lareau, Martin J Aryee",29 September 2017,2017
+On the mechanisms of protein interactions: predicting their affinity from unbound tertiary structures,"Manuel Alejandro Marín-López, Joan Planas-Iglesias, Joaquim Aguirre-Plans, Jaume Bonet, Javier Garcia-Garcia ...",27 September 2017,2017
+DiversePathsJ: diverse shortest paths for bioimage analysis,"Virginie Uhlmann, Carsten Haubold, Fred A Hamprecht, Michael Unser",27 September 2017,2017
+Canvas SPW: calling de novo copy number variants in pedigrees,"Sergii Ivakhno, Eric Roller, Camilla Colombo, Philip Tedder, Anthony J Cox",27 September 2017,2017
+The systematic analysis of ultraconserved genomic regions in the budding yeast,"Zhi-Kai Yang, Feng Gao",27 September 2017,2017
+A collaborative filtering-based approach to biomedical knowledge discovery,"Jake Lever, Sitanshu Gakkhar, Michael Gottlieb, Tahereh Rashnavadi, Santina Lin ...",26 September 2017,2017
+Structure-based prediction of protein– peptide binding regions using Random Forest,"Ghazaleh Taherzadeh, Yaoqi Zhou, Alan Wee-Chung Liew, Yuedong Yang",26 September 2017,2017
+CCmiR: a computational approach for competitive and cooperative microRNA binding prediction,"Jun Ding, Xiaoman Li, Haiyan Hu",25 September 2017,2017
+Phandango: an interactive viewer for bacterial population genomics,"James Hadfield, Nicholas J Croucher, Richard J Goater, Khalil Abudahab, David M Aanensen ...",25 September 2017,2017
+"Quality of biological images, reconstructed using localization microscopy data","Błażej Ruszczycki, Tytus Bernas",25 September 2017,2017
+Genome-wide pre-miRNA discovery from few labeled examples,"C Yones, G Stegmayer, D H Milone",25 September 2017,2017
+In silico structural modeling of multiple epigenetic marks on DNA,"Konrad Krawczyk, Samuel Demharter, Bernhard Knapp, Charlotte M Deane, Peter Minary",25 September 2017,2017
+A Bayesian framework for the inference of gene regulatory networks from time and pseudo-time series data,"M Sanchez-Castillo, D Blanco, I M Tienda-Luna, M C Carrion, Yufei Huang",25 September 2017,2017
+AQUa: an adaptive framework for compression of sequencing quality scores with random access functionality,"Tom Paridaens, Glenn Van Wallendael, Wesley De Neve, Peter Lambert",25 September 2017,2017
+RRDB: a comprehensive and non-redundant benchmark for RNA–RNA docking and scoring,"Yumeng Yan, Sheng-You Huang",25 September 2017,2017
+Protein–protein interaction specificity is captured by contact preferences and interface composition,"Francesca Nadalin, Alessandra Carbone",22 September 2017,2017
+QuASAR-MPRA: accurate allele-specific analysis for massively parallel reporter assays,"Cynthia A Kalita, Gregory A Moyerbrailean, Christopher Brown, Xiaoquan Wen, Francesca Luca ...",22 September 2017,2017
+TROVE: a user-friendly tool for visualizing and analyzing cancer hallmarks in signaling networks,"Huey Eng Chua, Sourav S Bhowmick, Jie Zheng",22 September 2017,2017
+Detecting presence of mutational signatures in cancer with confidence,"Xiaoqing Huang, Damian Wojtowicz, Teresa M Przytycka",22 September 2017,2017
+RINspector: a Cytoscape app for centrality analyses and DynaMine flexibility prediction,"Guillaume Brysbaert, Kevin Lorgouilloux, Wim F Vranken, Marc F Lensink",22 September 2017,2017
+SNP genotyping and parameter estimation in polyploids using low-coverage sequencing data,"Paul D Blischak, Laura S Kubatko, Andrea D Wolfe",22 September 2017,2017
+HoTResDB: host transcriptional response database for viral hemorrhagic fevers,"Jonathan Lo, Deric Zhang, Emily Speranza, Jose A Negron, John H Connor",22 September 2017,2017
+Sipros Ensemble improves database searching and filtering for complex metaproteomics,"Xuan Guo, Zhou Li, Qiuming Yao, Ryan S Mueller, Jimmy K Eng ...",22 September 2017,2017
+graphkernels: R and Python packages for graph comparison,"Mahito Sugiyama, M Elisabetta Ghisu, Felipe Llinares-López, Karsten Borgwardt",22 September 2017,2017
+Segway 2.0: Gaussian mixture models and minibatch training,"Rachel C W Chan, Maxwell W Libbrecht, Eric G Roberts, Jeffrey A Bilmes, William Stafford Noble ...",22 September 2017,2017
+ZCCHC17 is a master regulator of synaptic gene expression in Alzheimer’s disease,"Zeljko Tomljanovic, Mitesh Patel, William Shin, Andrea Califano, Andrew F Teich",22 September 2017,2017
+DeepLoc: prediction of protein subcellular localization using deep learning,"Jose Juan Almagro Armenteros, Casper Kaae Sønderby, Søren Kaae Sønderby, Henrik Nielsen, Ole Winther",19 September 2017,2017
+IntPred: a structure-based predictor of protein–protein interaction sites,"Thomas C Northey, Anja Barešić, Andrew C R Martin",18 September 2017,2017
+GradDock: rapid simulation and tailored ranking functions for peptide-MHC Class I docking,"Hyun-Ho Kyeong, Yoonjoo Choi, Hak-Sung Kim",18 September 2017,2017
+"Mobi 2.0: an improved method to define intrinsic disorder, mobility and linear binding regions in protein structures","Damiano Piovesan, Silvio C E Tosatto",18 September 2017,2017
+FMtree: a fast locating algorithm of FM-indexes for genomic data,"Haoyu Cheng, Ming Wu, Yun Xu",18 September 2017,2017
+A comprehensive assessment of long intrinsic protein disorder from the DisProt database,"Marco Necci, Damiano Piovesan, Zsuzsanna Dosztányi, Peter Tompa, Silvio C E Tosatto",18 September 2017,2017
+"Meta-server for automatic analysis, scoring and ranking of docking models","Anastasia A Anashkina, Yuri Kravatsky, Eugene Kuznetsov, Alexander A Makarov, Alexei A Adzhubei",18 September 2017,2017
+A novel SCCA approach via truncated ℓ1-norm and truncated group lasso for brain imaging genetics,"Lei Du, Kefei Liu, Tuo Zhang, Xiaohui Yao, Jingwen Yan ...",18 September 2017,2017
+CGmapTools improves the precision of heterozygous SNV calls and supports allele-specific methylation detection and visualization in bisulfite-sequencing data,"Weilong Guo, Ping Zhu, Matteo Pellegrini, Michael Q Zhang, Xiangfeng Wang ...",18 September 2017,2017
+Phosphonormalizer: an R package for normalization of MS-based label-free phosphoproteomics,"Sohrab Saraei, Tomi Suomi, Otto Kauko, Laura L Elo",15 September 2017,2017
+MetExploreViz: web component for interactive metabolic network visualization,"Maxime Chazalviel, Clément Frainay, Nathalie Poupin, Florence Vinson, Benjamin Merlet ...",15 September 2017,2017
+MemBrain-contact 2.0: a new two-stage machine learning model for the prediction enhancement of transmembrane protein residue contacts in the full chain,"Jing Yang, Hong-Bin Shen",15 September 2017,2017
+SiNoPsis: Single Nucleotide Polymorphisms selection and promoter profiling,"Daniel Boloc, Natalia Rodríguez, Patricia Gassó, Josep F Abril, Miquel Bernardo ...",14 September 2017,2017
+Kfits: a software framework for fitting and cleaning outliers in kinetic measurements,"Oded Rimon, Dana Reichmann",14 September 2017,2017
+"Novel features and enhancements in BioBin, a tool for the biologically inspired binning and association analysis of rare variants","Anna O Basile, Marta Byrska-Bishop, John Wallace, Alexander T Frase, Marylyn D Ritchie",14 September 2017,2017
+PySCeSToolbox: a collection of metabolic pathway analysis tools,"Carl D Christensen, Jan-Hendrik S Hofmeyr, Johann M Rohwer",14 September 2017,2017
+SINCERITIES: inferring gene regulatory networks from time-stamped single cell transcriptional expression profiles,"Nan Papili Gao, S M Minhaz Ud-Dean, Olivier Gandrillon, Rudiyanto Gunawan",14 September 2017,2017
+iPromoter-2L: a two-layer predictor for identifying promoters and their types by multi-window-based PseKNC,"Bin Liu, Fan Yang, De-Shuang Huang, Kuo-Chen Chou",14 September 2017,2017
+CRISPR-RT: a web application for designing CRISPR-C2c2 crRNA with improved target specificity,"Houxiang Zhu, Emily Richmond, Chun Liang",14 September 2017,2017
+SNPDelScore: combining multiple methods to score deleterious effects of noncoding mutations in the human genome,"Roberto Vera Alvarez, Shan Li, David Landsman, Ivan Ovcharenko",14 September 2017,2017
+JEPEGMIX2: improved gene-level joint analysis of eQTLs in cosmopolitan cohorts,"Chris Chatzinakos, Donghyung Lee, Bradley T Webb, Vladimir I Vladimirov, Kenneth S Kendler ...",14 September 2017,2017
+Applying family analyses to electronic health records to facilitate genetic research,"Xiayuan Huang, Robert C Elston, Guilherme J Rosa, John Mayer, Zhan Ye ...",14 September 2017,2017
+Interactive network visualization in Jupyter notebooks: visJS2jupyter,"Sara Brin Rosenthal, Julia Len, Mikayla Webster, Aaron Gary, Amanda Birmingham ...",14 September 2017,2017
+Identification and visualization of differential isoform expression in RNA-seq time series,"María José Nueda, Jordi Martorell-Marugan, Cristina Martí, Sonia Tarazona, Ana Conesa",14 September 2017,2017
+Ms2lda.org: web-based topic modelling for substructure discovery in mass spectrometry,"Joe Wandy, Yunfeng Zhu, Justin J J van der Hooft, Rónán Daly, Michael P Barrett ...",14 September 2017,2017
+NavMol 3.0: enabling the representation of metabolic reactions by blind users,"Yuri Binev, Daniela Peixoto, Florbela Pereira, Ian Rodrigues, Sofia Cavaco ...",13 September 2017,2017
+High dimensional classification with combined adaptive sparse PLS and logistic regression,"Ghislain Durif, Laurent Modolo, Jakob Michaelsson, Jeff E Mold, Sophie Lambert-Lacroix ...",13 September 2017,2017
+Temporal probabilistic modeling of bacterial compositions derived from 16S rRNA sequencing,"Tarmo Äijö, Christian L Müller, Richard Bonneau",13 September 2017,2017
+LinkageMapView—rendering high-resolution linkage and QTL maps,"Lisa A Ouellette, Robert W Reid, Steven G Blanchard, Cory R Brouwer",13 September 2017,2017
+Genome-scale fluxes predicted under the guidance of enzyme abundance using a novel hyper-cube shrink algorithm,"Zhengwei Xie, Tianyu Zhang, Qi Ouyang",13 September 2017,2017
+biospear: an R package for biomarker selection in penalized Cox regression,"Nils Ternès, Federico Rotolo, Stefan Michiels",12 September 2017,2017
+LDassoc: an online tool for interactively exploring genome-wide association study results and prioritizing variants for functional investigation,"Mitchell J Machiela, Stephen J Chanock",12 September 2017,2017
+NetProphet 2.0: mapping transcription factor networks by exploiting scalable data resources,"Yiming Kang, Hien-Haw Liow, Ezekiel J Maier, Michael R Brent",12 September 2017,2017
+A utility maximizing and privacy preserving approach for protecting kinship in genomic databases,"Gulce Kale, Erman Ayday, Oznur Tastan",12 September 2017,2017
+Omics AnalySIs System for PRecision Oncology (OASISPRO): a web-based omics analysis tool for clinical phenotype prediction,"Kun-Hsing Yu, Michael R Fitzpatrick, Luke Pappas, Warren Chan, Jessica Kung ...",12 September 2017,2017
+MAJIQ-SPEL: web-tool to interrogate classical and complex splicing variations from RNA-Seq data,"Christopher J Green, Matthew R Gazzara, Yoseph Barash",11 September 2017,2017
+Integrating splice-isoform expression into genome-scale models characterizes breast cancer metabolism,Claudio Angione,08 September 2017,2017
+Enhanced guide-RNA design and targeting analysis for precise CRISPR genome editing of single and consortia of industrially relevant and non-model organisms,"Brian J Mendoza, Cong T Trinh",08 September 2017,2017
+An automated tool for obtaining QSAR-ready series of compounds using semantic web technologies,"Oriol López-Massaguer, Ferran Sanz, Manuel Pastor",07 September 2017,2017
+DART: a fast and accurate RNA-seq mapper with a partitioning strategy,"Hsin-Nan Lin, Wen-Lian Hsu",05 September 2017,2017
+FATHMM-XF: accurate prediction of pathogenic point mutations via extended features,"Mark F Rogers, Hashem A Shihab, Matthew Mort, David N Cooper, Tom R Gaunt ...",05 September 2017,2017
+"SMLocalizer, a GPU accelerated ImageJ plugin for single molecule localization microscopy","Kristoffer Bernhem, Hjalmar Brismar",04 September 2017,2017
+"Dugong: a Docker image, based on Ubuntu Linux, focused on reproducibility and replicability for bioinformatics analyses","Fabiano B Menegidio, Daniela L Jabes, Regina Costa de Oliveira, Luiz R Nunes",04 September 2017,2017
+CCFold: rapid and accurate prediction of coiled-coil structures and application to modelling intermediate filaments,"Dmytro Guzenko, Sergei V Strelkov",04 September 2017,2017
+Three-dimensional cardiovascular imaging-genetics: a mass univariate framework,"Carlo Biffi, Antonio de Marvao, Mark I Attard, Timothy J W Dawes, Nicola Whiffin ...",04 September 2017,2017
+LightDock: a new multi-scale approach to protein–protein docking,"Brian Jiménez-García, Jorge Roel-Touris, Miguel Romero-Durana, Miquel Vidal, Daniel Jiménez-González ...",04 September 2017,2017
+SparseIso: a novel Bayesian approach to identify alternatively spliced isoforms from RNA-seq data,"Xu Shi, Xiao Wang, Tian-Li Wang, Leena Hilakivi-Clarke, Robert Clarke ...",04 September 2017,2017
+Morphologically constrained and data informed cell segmentation of budding yeast,"Elco Bakker, Peter S Swain, Matthew M Crane",04 September 2017,2017
+Snaptron: querying splicing patterns across tens of thousands of RNA-seq samples,"Christopher Wilks, Phani Gaddipati, Abhinav Nellore, Ben Langmead",01 September 2017,2017
+tmVar 2.0: integrating genomic variant information from literature with dbSNP and ClinVar for precision medicine,"Chih-Hsuan Wei, Lon Phan, Juliana Feltz, Rama Maiti, Tim Hefferon ...",01 September 2017,2017
+A graph regularized non-negative matrix factorization method for identifying microRNA-disease associations,"Qiu Xiao, Jiawei Luo, Cheng Liang, Jie Cai, Pingjian Ding",01 September 2017,2017
+A non-negative matrix factorization based method for predicting disease-associated miRNAs in miRNA-disease bilayer network,"Yingli Zhong, Ping Xuan, Xiao Wang, Tiangang Zhang, Jianzhong Li ...",01 September 2017,2017
+regNet: an R package for network-based propagation of gene expression alterations,"Michael Seifert, Andreas Beyer",31 August 2017,2017
+CSAR: a contig scaffolding tool using algebraic rearrangements,"Kun-Tze Chen, Chia-Liang Liu, Shang-Hao Huang, Hsin-Ting Shen, Yi-Kung Shieh ...",31 August 2017,2017
+Comparison of methods for phylogenetic B-cell lineage inference using time-resolved antibody repertoire simulations (AbSim),"Alexander Yermanos, Victor Greiff, Nike Julia Krautler, Ulrike Menzel, Andreas Dounas ...",31 August 2017,2017
+RUCS: rapid identification of PCR primers for unique core sequences,"Martin Christen Frølund Thomsen, Henrik Hasman, Henrik Westh, Hülya Kaya, Ole Lund",30 August 2017,2017
+Kmer-SSR: a fast and exhaustive SSR search algorithm,"Brandon D Pickett, Justin B Miller, Perry G Ridge",30 August 2017,2017
+Gearing up to handle the mosaic nature of life in the quest for orthologs,"Kristoffer Forslund, Cecile Pereira, Salvador Capella-Gutierrez, Alan Sousa da Silva, Adrian Altenhoff ...",30 August 2017,2017
+An improved compound Poisson model for the number of motif hits in DNA sequences,"Wolfgang Kopp, Martin Vingron",28 August 2017,2017
+"NGS-pipe: a flexible, easily extendable and highly configurable framework for NGS analysis","Jochen Singer, Hans-Joachim Ruscheweyh, Ariane L Hofmann, Thomas Thurnherr, Franziska Singer ...",28 August 2017,2017
+Orthologue chemical space and its influence on target prediction,"Lewis H Mervin, Krishna C Bulusu, Leen Kalash, Avid M Afzal, Fredrik Svensson ...",26 August 2017,2017
+Efficient inference for sparse latent variable models of transcriptional regulation,"Zhenwen Dai, Mudassar Iqbal, Neil D Lawrence, Magnus Rattray",26 August 2017,2017
+CESAR 2.0 substantially improves speed and accuracy of comparative gene annotation,"Virag Sharma, Peter Schwede, Michael Hiller",26 August 2017,2017
+Enabling reproducible real-time quantitative PCR research: the RDML package,"Stefan Rödiger, Michał Burdukiewicz, Andrej-Nikolai Spiess, Konstantin Blagodatskikh",26 August 2017,2017
+PhyloGeoTool: interactively exploring large phylogenies in an epidemiological context,"Pieter Libin, Ewout Vanden Eynden, Francesca Incardona, Ann Nowé, Antonia Bezenchek ...",26 August 2017,2017
+FIRE: functional inference of genetic variants that regulate gene expression,"Nilah M Ioannidis, Joe R Davis, Marianne K DeGorter, Nicholas B Larson, Shannon K McDonnell ...",24 August 2017,2017
+Real-time demultiplexing Nanopore barcoded sequencing data with npBarcode,"Son Hoang Nguyen, Tania P S Duarte, Lachlan J M Coin, Minh Duc Cao",24 August 2017,2017
+"clustComp, a bioconductor package for the comparison of clustering results","Aurora Torrente, Alvis Brazma",23 August 2017,2017
+An introduction to deep learning on biological sequence data: examples and solutions,"Vanessa Isabell Jurtz, Alexander Rosenberg Johansen, Morten Nielsen, Jose Juan Almagro Armenteros, Henrik Nielsen ...",23 August 2017,2017
+Deconvolution of multiple infections in Plasmodium falciparum from high throughput sequencing data,"Sha Joe Zhu, Jacob Almagro-Garcia, Gil McVean",22 August 2017,2017
+ReMILO: reference assisted misassembly detection algorithm using short and long reads,"Ergude Bao, Changjin Song, Lingxiao Lan",21 August 2017,2017
+Integrative structural and dynamical biology with PLUMED-ISDB,"Massimiliano Bonomi, Carlo Camilloni",21 August 2017,2017
+MetaCache: context-aware classification of metagenomic reads using minhashing,"André Müller, Christian Hundt, Andreas Hildebrandt, Thomas Hankeln, Bertil Schmidt",17 August 2017,2017
+psygenet2r: a R/Bioconductor package for the analysis of psychiatric disease genes,"Alba Gutiérrez-Sacristán, Carles Hernández-Ferrer, Juan R González, Laura I Furlong",17 August 2017,2017
+MIRMMR: binary classification of microsatellite instability using methylation and mutations,"Steven M Foltz, Wen-Wei Liang, Mingchao Xie, Li Ding",17 August 2017,2017
+ncDR: a comprehensive resource of non-coding RNAs involved in drug resistance,"Enyu Dai, Feng Yang, Jing Wang, Xu Zhou, Qian Song ...",17 August 2017,2017
+Genome-wide association studies using a penalized moving-window regression,"Minli Bao, Kai Wang",17 August 2017,2017
+Improving protein fold recognition by extracting fold-specific features from predicted residue–residue contacts,"Jianwei Zhu, Haicang Zhang, Shuai Cheng Li, Chao Wang, Lupeng Kong ...",16 August 2017,2017
+ALIGNSEC: viewing protein secondary structure predictions within large multiple sequence alignments,Gilbert Deléage,16 August 2017,2017
+Prediction of delayed retention of antibodies in hydrophobic interaction chromatography from sequence using machine learning,"Tushar Jain, Todd Boland, Asparouh Lilov, Irina Burnina, Michael Brown ...",16 August 2017,2017
+Genome-scale regression analysis reveals a linear relationship for promoters and enhancers after combinatorial drug treatment,"Trisevgeni Rapakoulia, Xin Gao, Yi Huang, Michiel de Hoon, Mariko Okada-Hatakeyama ...",14 August 2017,2017
+LLR: a latent low-rank approach to colocalizing genetic risk variants in multiple GWAS,"Jin Liu, Xiang Wan, Chaolong Wang, Chao Yang, Xiaowei Zhou ...",14 August 2017,2017
+In silico identification of rescue sites by double force scanning,"Matteo Tiberti, Alessandro Pandini, Franca Fraternali, Arianna Fornili",14 August 2017,2017
+PyLasso: a PyMOL plugin to identify lassos,"Aleksandra M Gierut, Wanda Niemyska, Pawel Dabrowski-Tumanski, Piotr Sułkowski, Joanna I Sulkowska",14 August 2017,2017
+"PiMP my metabolome: an integrated, web-based tool for LC-MS metabolomics data","Yoann Gloaguen, Fraser Morton, Rónán Daly, Ross Gurden, Simon Rogers ...",14 August 2017,2017
+Conditional asymptotic inference for the kernel association test,Kai Wang,14 August 2017,2017
+CRISPR-DAV: CRISPR NGS data analysis and visualization pipeline,"Xuning Wang, Charles Tilford, Isaac Neuhaus, Gabe Mintier, Qi Guo ...",14 August 2017,2017
+Novel approaches for bioinformatic analysis of salivary RNA sequencing data for development,"Karolina Elżbieta Kaczor-Urbanowicz, Yong Kim, Feng Li, Timur Galeev, Rob R Kitchen ...",14 August 2017,2017
+HaploForge: a comprehensive pedigree drawing and haplotype visualization web application,"Mehmet Tekman, Alan Medlar, Monika Mozere, Robert Kleta, Horia Stanescu",14 August 2017,2017
+ChAMP: updated methylation analysis pipeline for Illumina BeadChips,"Yuan Tian, Tiffany J Morris, Amy P Webster, Zhen Yang, Stephan Beck ...",14 August 2017,2017
+"MAPseq: highly efficient k-mer search with confidence estimates, for rRNA sequence analysis","João F Matias Rodrigues, Thomas S B Schmidt, Janko Tackmann, Christian von Mering",14 August 2017,2017
+"BSviewer: a genotype-preserving, nucleotide-level visualizer for bisulfite sequencing data","Kun Sun, Fiona F M Lun, Peiyong Jiang, Hao Sun",08 August 2017,2017
+Molecular signatures that can be transferred across different omics platforms,"M Altenbuchinger, P Schwarzfischer, T Rehberg, J Reinders, Ch. W Kohler ...",08 August 2017,2017
+"Holmes: a graphical tool for development, simulation and analysis of Petri net based models of complex biological systems","Marcin Radom, Agnieszka Rybarczyk, Bartłomiej Szawulak, Hubert Andrzejewski, Piotr Chabelski ...",07 August 2017,2017
+EMHP: an accurate automated hole masking algorithm for single-particle cryo-EM image processing,"Zachary Berndsen, Charles Bowman, Haerin Jang, Andrew B Ward",07 August 2017,2017
+Metagene projection characterizes GEN2.2 and CAL-1 as relevant human plasmacytoid dendritic cell models,"Pedro Carmona-Sáez, Nieves Varela, María José Luque, Daniel Toro-Domínguez, Jordi Martorell-Marugan ...",07 August 2017,2017
+HiDi: an efficient reverse engineering schema for large-scale dynamic regulatory network reconstruction using adaptive differentiation,"Yue Deng, Hector Zenil, Jesper Tegnér, Narsis A Kiani",07 August 2017,2017
+DelPhiForce web server: electrostatic forces and energy calculations and visualization,"Lin Li, Zhe Jia, Yunhui Peng, Arghya Chakravorty, Lexuan Sun ...",03 August 2017,2017
+MusiteDeep: a deep-learning framework for general and kinase-specific phosphorylation site prediction,"Duolin Wang, Shuai Zeng, Chunhui Xu, Wangren Qiu, Yanchun Liang ...",03 August 2017,2017
+MFIB: a repository of protein complexes with mutual folding induced by binding,"Erzsébet Fichó, István Reményi, István Simon, Bálint Mészáros",03 August 2017,2017
+Lep-MAP3: robust linkage mapping even for low-coverage whole genome sequencing data,Pasi Rastas,03 August 2017,2017
+ComplexViewer: visualization of curated macromolecular complexes,"Colin W Combe, Marine (Dumousseau) Sivade, Henning Hermjakob, Joshua Heimbach, Birgit H M Meldal ...",03 August 2017,2017
+Motif independent identification of potential RNA G-quadruplexes by G4RNA screener,"Jean-Michel Garant, Jean-Pierre Perreault, Michelle S Scott",03 August 2017,2017
+"LRCstats, a tool for evaluating long reads correction methods","Sean La, Ehsan Haghshenas, Cedric Chauve",02 August 2017,2017
+DIMM-SC: a Dirichlet mixture model for clustering droplet-based single cell transcriptomic data,"Zhe Sun, Ting Wang, Ke Deng, Xiao-Feng Wang, Robert Lafyatis ...",02 August 2017,2017
+fastNGSadmix: admixture proportions and principal component analysis of a single NGS sample,"Emil Jørsboe, Kristian Hanghøj, Anders Albrechtsen",02 August 2017,2017
+BiobankUniverse: automatic matchmaking between datasets for biobank data discovery and integration,"Chao Pang, Fleur Kelpin, David van Enckevort, Niina Eklund, Kaisa Silander ...",02 August 2017,2017
+RealityConvert: a tool for preparing 3D models of biochemical structures for augmented and virtual reality,"Alexandre Borrel, Denis Fourches",02 August 2017,2017
+Reference genome assessment from a population scale perspective: an accurate profile of variability and noise,"José Carbonell-Caballero, Alicia Amadoz, Roberto Alonso, Marta R Hidalgo, Cankut Çubuk ...",29 July 2017,2017
+Improved prediction of breast cancer outcome by identifying heterogeneous biomarkers,"Jonghwan Choi, Sanghyun Park, Youngmi Yoon, Jaegyoon Ahn",29 July 2017,2017
+FAF-Drugs4: free ADME-tox filtering computations for chemical biology and early stages drug discovery,"David Lagorce, Lina Bouslama, Jerome Becot, Maria A Miteva, Bruno O Villoutreix",29 July 2017,2017
+4D nucleome Analysis Toolbox: analysis of Hi-C data with abnormal karyotype and time series capabilities,"Laura Seaman, Indika Rajapakse",28 July 2017,2017
+3DBIONOTES v2.0: a web server for the automatic annotation of macromolecular structures,"Joan Segura, Ruben Sanchez-Garcia, Marta Martinez, Jesus Cuenca-Alba, Daniel Tabas-Madrid ...",28 July 2017,2017
+pgRNAFinder: a web-based tool to design distance independent paired-gRNA,"Yuanyan Xiong, Xiaowei Xie, Yanzhi Wang, Wenbing Ma, Puping Liang ...",27 July 2017,2017
+Predicting novel metabolic pathways through subgraph mining,"Aravind Sankar, Sayan Ranu, Karthik Raman",27 July 2017,2017
+Sequence2Vec: a novel embedding approach for modeling transcription factor binding affinity landscape,"Hanjun Dai, Ramzan Umarov, Hiroyuki Kuwahara, Yu Li, Le Song ...",27 July 2017,2017
+Cloud-based interactive analytics for terabytes of genomic variants data,"Cuiping Pan, Gregory McInnes, Nicole Deflaux, Michael Snyder, Jonathan Bingham ...",26 July 2017,2017
+iDNA4mC: identifying DNA N4-methylcytosine sites based on nucleotide chemical properties,"Wei Chen, Hui Yang, Pengmian Feng, Hui Ding, Hao Lin",26 July 2017,2017
+MWASTools: an R/bioconductor package for metabolome-wide association studies,"Andrea Rodriguez-Martinez, Joram M Posma, Rafael Ayala, Ana L Neves, Maryam Anwar ...",26 July 2017,2017
+Towards clinically more relevant dissection of patient heterogeneity via survival-based Bayesian clustering,"Ashar Ahmad, Holger Fröhlich",26 July 2017,2017
+wft4galaxy: a workflow testing tool for galaxy,"Marco Enrico Piras, Luca Pireddu, Gianluigi Zanetti",24 July 2017,2017
+pLoc-mAnimal: predict subcellular localization of animal proteins with both single and multiple sites,"Xiang Cheng, Shu-Guang Zhao, Wei-Zhong Lin, Xuan Xiao, Kuo-Chen Chou",24 July 2017,2017
+CrocoBLAST: Running BLAST efficiently in the age of next-generation sequencing,"Ravi José Tristão Ramos, Allan Cézar de Azevedo Martins, Gabrielle da Silva Delgado, Crina-Maria Ionescu, Turán Peter Ürményi ...",24 July 2017,2017
+Using uncertainty to link and rank evidence from biomedical literature for model curation,"Chrysoula Zerva, Riza Batista-Navarro, Philip Day, Sophia Ananiadou",24 July 2017,2017
+Faucet: streaming de novo assembly graph construction,"Roye Rozov, Gil Goldshlager, Eran Halperin, Ron Shamir",24 July 2017,2017
+SPRINT: an SNP-free toolkit for identifying RNA editing sites,"Feng Zhang, Yulan Lu, Sijia Yan, Qinghe Xing, Weidong Tian",24 July 2017,2017
+myVCF: a desktop application for high-throughput mutations data management,"Alessandro Pietrelli, Luca Valenti",24 July 2017,2017
+PLACNETw: a web-based tool for plasmid reconstruction from bacterial genomes,"Luis Vielva, María de Toro, Val F Lanza, Fernando de la Cruz",21 July 2017,2017
+PySeqLab: an open source Python package for sequence labeling and segmentation,"Ahmed Allam, Michael Krauthammer",21 July 2017,2017
+Mechanisms to protect the privacy of families when using the transmission disequilibrium test in genome-wide association studies,"Meng Wang, Zhanglong Ji, Shuang Wang, Jihoon Kim, Hai Yang ...",21 July 2017,2017
+"Tissue-specific network-based genome wide study of amygdala imaging
+          phenotypes to identify functional interaction modules","Xiaohui Yao, Jingwen Yan, Kefei Liu, Sungeun Kim, Kwangsik Nho ...",20 July 2017,2017
+Comparison of pre-processing methods for Infinium HumanMethylation450 BeadChip array,"Yu-Jia Shiah, Michael Fraser, Robert G Bristow, Paul C Boutros",20 July 2017,2017
+Detect differentially methylated regions using non-homogeneous hidden Markov model for methylation array data,"Linghao Shen, Jun Zhu, Shuo-Yen Robert Li, Xiaodan Fan",20 July 2017,2017
+FOLD: a method to optimize power in meta-analysis of genetic association studies with overlapping subjects,"Emma E Kim, Seunghoon Lee, Cue Hyunkyu Lee, Hyunjung Oh, Kyuyoung Song ...",20 July 2017,2017
+ggseqlogo: a versatile R package for drawing sequence logos,Omar Wagih,20 July 2017,2017
+Phylotyper: in silico predictor of gene subtypes,"Matthew D Whiteside, Victor P J Gannon, Chad R Laing",18 July 2017,2017
+SPATKIN: a simulator for rule-based modeling of biomolecular site dynamics on surfaces,"Marek Kochańczyk, William S Hlavacek, Tomasz Lipniacki",17 July 2017,2017
+Prediction and modeling of pre-analytical sampling errors as a strategy to improve plasma NMR metabolomics data,"Carl Brunius, Anders Pedersen, Daniel Malmodin, B Göran Karlsson, Lars I Andersson ...",14 July 2017,2017
+SVmine improves structural variation detection by integrative mining of predictions from multiple algorithms,"Yuchao Xia, Yun Liu, Minghua Deng, Ruibin Xi",14 July 2017,2017
+A robust DF-REML framework for variance components estimation in genetic studies,"V M Lourenço, P C Rodrigues, A M Pires, H -P Piepho",14 July 2017,2017
+ScanGEO: parallel mining of high-throughput gene expression data,"Katja Koeppen, Bruce A Stanton, Thomas H Hampton",14 July 2017,2017
+Standardizing biomass reactions and ensuring complete mass balance in genome-scale metabolic models,"Siu H J Chan, Jingyi Cai, Lin Wang, Margaret N Simons-Senftle, Costas D Maranas",14 July 2017,2017
+proFIA: a data preprocessing workflow for flow injection analysis coupled to high-resolution mass spectrometry,"Alexis Delabrière, Ulli M Hohenester, Benoit Colsch, Christophe Junot, François Fenaille ...",14 July 2017,2017
+VariantTools: an extensible framework for developing and testing variant callers,"Michael Lawrence, Robert Gentleman",14 July 2017,2017
+Cancer Hallmarks Analytics Tool (CHAT): a text mining approach to organize and evaluate scientific literature on cancer,"Simon Baker, Imran Ali, Ilona Silins, Sampo Pyysalo, Yufan Guo ...",14 July 2017,2017
+Analysis and prediction of protein folding energy changes upon mutation by element specific persistent homology,"Zixuan Cang, Guo-Wei Wei",14 July 2017,2017
+WIsH: who is the host? Predicting prokaryotic hosts from metagenomic phage contigs,"Clovis Galiez, Matthias Siebert, François Enault, Jonathan Vincent, Johannes Söding",13 July 2017,2017
+GLASS: assisted and standardized assessment of gene variations from Sanger sequence trace data,"Karol Pal, Vojtech Bystry, Tomas Reigl, Martin Demko, Adam Krejci ...",13 July 2017,2017
+On expert curation and scalability: UniProtKB/Swiss-Prot as a case study,"Sylvain Poux, Cecilia N Arighi, Michele Magrane, Alex Bateman, Chih-Hsuan Wei ...",13 July 2017,2017
+cgHeliParm: analysis of dsDNA helical parameters for coarse-grained MARTINI molecular dynamics simulations,"Ignacio Faustino, S J Marrink",13 July 2017,2017
+Gating mass cytometry data by deep learning,"Huamin Li, Uri Shaham, Kelly P Stanton, Yi Yao, Ruth R Montgomery ...",13 July 2017,2017
+MethRaFo: MeDIP-seq methylation estimate using a Random Forest Regressor,"Jun Ding, Ziv Bar-Joseph",13 July 2017,2017
+Identification of associations between genotypes and longitudinal phenotypes via temporally-constrained group sparse canonical correlation analysis,"Xiaoke Hao, Chanxiu Li, Jingwen Yan, Xiaohui Yao, Shannon L Risacher ...",12 July 2017,2017
+"Estimation of time-varying growth, uptake and excretion rates from dynamic metabolomics data","Eugenio Cinquemani, Valérie Laroute, Muriel Cocaign-Bousquet, Hidde de Jong, Delphine Ropers",12 July 2017,2017
+Discovery and genotyping of novel sequence insertions in many sequenced individuals,"Pınar Kavak, Yen-Yi Lin, Ibrahim Numanagić, Hossein Asghari, Tunga Güngör ...",12 July 2017,2017
+Exploiting sequence-based features for predicting enhancer–promoter interactions,"Yang Yang, Ruochi Zhang, Shashank Singh, Jian Ma",12 July 2017,2017
+Genomes as documents of evolutionary history: a probabilistic macrosynteny model for the reconstruction of ancestral genomes,"Yoichiro Nakatani, Aoife McLysaght",12 July 2017,2017
+Improved data-driven likelihood factorizations for transcript abundance estimation,"Mohsen Zakeri, Avi Srivastava, Fatemeh Almodaresi, Rob Patro",12 July 2017,2017
+Systematic identification of feature combinations for predicting drug response with Bayesian multi-view multi-task linear regression,"Muhammad Ammad-ud-din, Suleiman A Khan, Krister Wennerberg, Tero Aittokallio",12 July 2017,2017
+Efficient approximations of RNA kinetics landscape using non-redundant sampling,"Juraj Michálik, Hélène Touzet, Yann Ponty",12 July 2017,2017
+Tumor phylogeny inference using tree-constrained importance sampling,"Gryte Satas, Benjamin J Raphael",12 July 2017,2017
+Author Index,,12 July 2017,2017
+StereoGene: rapid estimation of genome-wide correlation of continuous or interval feature data,"Elena D Stavrovskaya, Tejasvi Niranjan, Elana J Fertig, Sarah J Wheelan, Alexander V Favorov ...",12 July 2017,2017
+Rectified factor networks for biclustering of omics data,"Djork-Arné Clevert, Thomas Unterthiner, Gundula Povysil, Sepp Hochreiter",12 July 2017,2017
+DextMP: deep dive into text for predicting moonlighting proteins,"Ishita K Khan, Mansurul Bhuiyan, Daisuke Kihara",12 July 2017,2017
+Chromatin accessibility prediction via convolutional long short-term memory networks with k-mer embedding,"Xu Min, Wanwen Zeng, Ning Chen, Ting Chen, Rui Jiang",12 July 2017,2017
+Modelling haplotypes with respect to reference cohort variation graphs,"Yohei Rosen, Jordan Eizenga, Benedict Paten",12 July 2017,2017
+Abundance estimation and differential testing on strain level in metagenomics data,"Martina Fischer, Benjamin Strauch, Bernhard Y Renard",12 July 2017,2017
+BIOSSES: a semantic sentence similarity estimation system for the biomedical domain,"Gizem Soğancıoğlu, Hakime Öztürk, Arzucan Özgür",12 July 2017,2017
+Applying meta-analysis to genotype-tissue expression data from multiple tissues to identify eQTLs and increase the number of eGenes,"Dat Duong, Lisa Gai, Sagi Snir, Eun Yong Kang, Buhm Han ...",12 July 2017,2017
+SnapDock—template-based docking by Geometric Hashing,"Michael Estrin, Haim J Wolfson",12 July 2017,2017
+Improving the performance of minimizers and winnowing schemes,"Guillaume Marçais, David Pellow, Daniel Bork, Yaron Orenstein, Ron Shamir ...",12 July 2017,2017
+Molecular signatures that can be transferred across different omics platforms,"M Altenbuchinger, P Schwarzfischer, T Rehberg, J Reinders, Ch W Kohler ...",12 July 2017,2017
+Incorporating interaction networks into the determination of functionally related hit genes in genomic experiments with Markov random fields,"Sean Robinson, Jaakko Nevalainen, Guillaume Pinna, Anna Campalans, J Pablo Radicella ...",12 July 2017,2017
+Association testing of bisulfite-sequencing methylation data via a Laplace approximation,"Omer Weissbrod, Elior Rahmani, Regev Schweiger, Saharon Rosset, Eran Halperin",12 July 2017,2017
+A scalable moment-closure approximation for large-scale biochemical reaction networks,"Atefeh Kazeroonian, Fabian J Theis, Jan Hasenauer",12 July 2017,2017
+A new method to study the change of miRNA–mRNA interactions due to environmental exposures,"Francesca Petralia, Vasily N Aushev, Kalpana Gopalakrishnan, Maya Kappil, Nyan W Khin ...",12 July 2017,2017
+deBGR: an efficient and near-exact representation of the weighted de Bruijn graph,"Prashant Pandey, Michael A Bender, Rob Johnson, Rob Patro",12 July 2017,2017
+miniMDS: 3D structural inference from high-resolution Hi-C data,"Lila Rieber, Shaun Mahony",12 July 2017,2017
+CATS (Coordinates of Atoms by Taylor Series): protein design with backbone flexibility in all locally feasible directions,"Mark A Hallen, Bruce R Donald",12 July 2017,2017
+ISMB/ECCB 2017 PROCEEDINGS PAPERS COMMITTEE,,12 July 2017,2017
+CircPro: an integrated tool for the identification of circRNAs with protein-coding potential,"Xianwen Meng, Qi Chen, Peijing Zhang, Ming Chen",12 July 2017,2017
+Deep learning with word embeddings improves biomedical named entity recognition,"Maryam Habibi, Leon Weber, Mariana Neves, David Luis Wiegandt, Ulf Leser",12 July 2017,2017
+Orthologous Matrix (OMA) algorithm 2.0: more robust to asymmetric evolutionary rates and more scalable hierarchical orthologous group inference,"Clément-Marie Train, Natasha M Glover, Gaston H Gonnet, Adrian M Altenhoff, Christophe Dessimoz",12 July 2017,2017
+Deep learning-based subdivision approach for large scale macromolecules structure recovery from electron cryo tomograms,"Min Xu, Xiaoqi Chai, Hariank Muthakana, Xiaodan Liang, Ge Yang ...",12 July 2017,2017
+HopLand: single-cell pseudotime recovery using continuous Hopfield network-based modeling of Waddington’s epigenetic landscape,"Jing Guo, Jie Zheng",12 July 2017,2017
+Large-scale structure prediction by improved contact predictions and model quality assessment,"Mirco Michel, David Menéndez Hurtado, Karolis Uziela, Arne Elofsson",12 July 2017,2017
+Increasing the power of meta-analysis of genome-wide association studies to detect heterogeneous effects,"C H Lee, E Eskin, B Han",12 July 2017,2017
+Denoising genome-wide histone ChIP-seq with convolutional neural networks,"Pang Wei Koh, Emma Pierson, Anshul Kundaje",12 July 2017,2017
+Alignment of dynamic networks,"V Vijayan, D Critchlow, T Milenković",12 July 2017,2017
+TITER: predicting translation initiation sites by deep learning,"Sai Zhang, Hailin Hu, Tao Jiang, Lei Zhang, Jianyang Zeng",12 July 2017,2017
+popFBA: tackling intratumour heterogeneity with Flux Balance Analysis,"Chiara Damiani, Marzia Di Filippo, Dario Pescini, Davide Maspero, Riccardo Colombo ...",12 July 2017,2017
+Predicting multicellular function through multi-layer tissue networks,"Marinka Zitnik, Jure Leskovec",12 July 2017,2017
+"Efficient simulation of intrinsic, extrinsic and external noise in biochemical systems","Dennis Pischel, Kai Sundmacher, Robert J Flassig",12 July 2017,2017
+Direct AUC optimization of regulatory motifs,"Lin Zhu, Hong-Bo Zhang, De-Shuang Huang",12 July 2017,2017
+Image-based spatiotemporal causality inference for protein signaling networks,"Xiongtao Ruan, Christoph Wülfing, Robert F Murphy",12 July 2017,2017
+Multiple network-constrained regressions expand insights into influenza vaccination responses,"Stefan Avey, Subhasis Mohanty, Jean Wilson, Heidi Zapata, Samit R Joshi ...",12 July 2017,2017
+"Predicting phenotypes from microarrays using amplified, initially marginal, eigenvector regression","Lei Ding, Daniel J McDonald",12 July 2017,2017
+DeepBound: accurate identification of transcript boundaries via deep convolutional neural fields,"Mingfu Shao, Jianzhu Ma, Sheng Wang",12 July 2017,2017
+Integrative deep models for alternative splicing,"Anupama Jha, Matthew R Gazzara, Yoseph Barash",12 July 2017,2017
+When loss-of-function is loss of function: assessing mutational signatures and impact of loss-of-function genetic variants,"Kymberleigh A Pagel, Vikas Pejaver, Guan Ning Lin, Hyun-Jun Nam, Matthew Mort ...",12 July 2017,2017
+ISMB/ECCB 2017 proceedings,"Niko Beerenwinkel, Yana Bromberg",12 July 2017,2017
+Irys Extract,"Rani Arielly, Yuval Ebenstein",11 July 2017,2017
+nandb—number and brightness in R with a novel automatic detrending algorithm,"Rory Nolan, Luis A J Alvarez, Jonathan Elegheert, Maro Iliopoulou, G Maria Jakobsdottir ...",11 July 2017,2017
+"Kollector: transcript-informed, targeted de novo assembly of gene loci","Erdi Kucuk, Justin Chu, Benjamin P Vandervalk, S Austin Hammond, René L Warren ...",11 July 2017,2017
+powsimR: power analysis for bulk and single cell RNA-seq experiments,"Beate Vieth, Christoph Ziegenhain, Swati Parekh, Wolfgang Enard, Ines Hellmann",11 July 2017,2017
+An accurate algorithm for the detection of DNA fragments from dilution pool sequencing experiments,Vikas Bansal,11 July 2017,2017
+TeachEnG: a Teaching Engine for Genomics,"Minji Kim, Yeonsung Kim, Lei Qian, Jun S Song",11 July 2017,2017
+DeepLoc: prediction of protein subcellular localization using deep learning,"José Juan Almagro Armenteros, Casper Kaae Sønderby, Søren Kaae Sønderby, Henrik Nielsen, Ole Winther",07 July 2017,2017
+The value of prior knowledge in machine learning of complex network systems,"Dana Ferranti, David Krane, David Craft",07 July 2017,2017
+VICTOR: genome-based phylogeny and classification of prokaryotic viruses,"Jan P Meier-Kolthoff, Markus Göker",07 July 2017,2017
+gVolante for standardizing completeness assessment of genome and transcriptome assemblies,"Osamu Nishimura, Yuichiro Hara, Shigehiro Kuraku",07 July 2017,2017
+VCF-Explorer: filtering and analysing whole genome VCF files,"Mete Akgün, Hüseyin Demirci",07 July 2017,2017
+A novel data structure to support ultra-fast taxonomic classification of metagenomic sequences with k-mer signatures,"Xinan Liu, Ye Yu, Jinpeng Liu, Corrine F Elliott, Chen Qian ...",07 July 2017,2017
+A nonparametric significance test for sampled networks,"Andrew Elliott, Elizabeth Leicht, Alan Whitmore, Gesine Reinert, Felix Reed-Tsochas",07 July 2017,2017
+DynaPho: a web platform for inferring the dynamics of time-series phosphoproteomics,"Chia-Lang Hsu, Jian-Kai Wang, Pei-Chun Lu, Hsuan-Cheng Huang, Hsueh-Fen Juan",07 July 2017,2017
+AlloSigMA: allosteric signaling and mutation analysis server,"Enrico Guarnera, Zhen Wah Tan, Zejun Zheng, Igor N Berezovsky",06 July 2017,2017
+ISEScan: automated identification of insertion sequence elements in prokaryotic genomes,"Zhiqun Xie, Haixu Tang",06 July 2017,2017
+Reactome enhanced pathway visualization,"Konstantinos Sidiropoulos, Guilherme Viteri, Cristoffer Sevilla, Steve Jupe, Marissa Webber ...",06 July 2017,2017
+iATC-mISF: a multi-label classifier for predicting the classes of anatomical therapeutic chemicals,"Xiang Cheng, Shu-Guang Zhao, Xuan Xiao, Kuo-Chen Chou",04 July 2017,2017
+TITINdb—a computational tool to assess titin’s role as a disease gene,"Anna Laddach, Mathias Gautel, Franca Fraternali",04 July 2017,2017
+pqsfinder: an exhaustive and imperfection-tolerant search tool for potential quadruplex-forming sequences in R,"Jiří Hon, Tomáš Martínek, Jaroslav Zendulka, Matej Lexa",04 July 2017,2017
+Linking metabolic network features to phenotypes using sparse group lasso,"Satya Swarup Samal, Ovidiu Radulescu, Andreas Weber, Holger Fröhlich",04 July 2017,2017
+ProtDec-LTR2.0: an improved method for protein remote homology detection by combining pseudo protein and supervised Learning to Rank,"Junjie Chen, Mingyue Guo, Shumin Li, Bin Liu",03 July 2017,2017
+ClusterSignificance: a bioconductor package facilitating statistical analysis of class cluster separations in dimensionality reduced data,"Jason T Serviss, Jesper R Gådin, Per Eriksson, Lasse Folkersen, Dan Grandér",03 July 2017,2017
+Quark enables semi-reference-based compression of RNA-seq data,"Hirak Sarkar, Rob Patro",03 July 2017,2017
+CausalR: extracting mechanistic sense from genome scale data,"Glyn Bradley, Steven J Barrett",29 June 2017,2017
+FALCON: a toolbox for the fast contextualization of logical networks,"Sébastien De Landtsheer, Panuwat Trairatphisan, Philippe Lucarelli, Thomas Sauter",29 June 2017,2017
+modPhEA: model organism Phenotype Enrichment Analysis of eukaryotic gene sets,"Meng-Pin Weng, Ben-Yang Liao",29 June 2017,2017
+SpaceScanner: COPASI wrapper for automated management of global stochastic optimization experiments,"Atis Elsts, Agris Pentjuss, Egils Stalidzans",29 June 2017,2017
+Inferring transcriptional logic from multiple dynamic experiments,"Giorgos Minas, Dafyd J Jenkins, David A Rand, Bärbel Finkenstädt",28 June 2017,2017
+GPU-powered model analysis with PySB/cupSODA,"Leonard A Harris, Marco S Nobile, James C Pino, Alexander L R Lubbock, Daniela Besozzi ...",28 June 2017,2017
+SVM-dependent pairwise HMM: an application to protein pairwise alignments,"Gabriele Orlando, Daniele Raimondi, Taushif Khan, Tom Lenaerts, Wim F Vranken",28 June 2017,2017
+ALTRE: workflow for defining ALTered regulatory elements using chromatin accessibility data,"Elizabeth Baskin, Rick Farouni, Ewy A Mathé",28 June 2017,2017
+TSIS: an R package to infer alternative splicing isoform switches for time-series data,"Wenbin Guo, Cristiane P G Calixto, John W S Brown, Runxuan Zhang",26 June 2017,2017
+The KSEA App: a web-based tool for kinase activity inference from quantitative phosphoproteomics,"Danica D Wiredja, Mehmet Koyutürk, Mark R Chance",26 June 2017,2017
+Forecasting residue–residue contact prediction accuracy,"P P Wozniak, B M Konopka, J Xu, G Vriend, M Kotulska",26 June 2017,2017
+HybridSim-VS: a web server for large-scale ligand-based virtual screening using hybrid similarity recognition techniques,"Jinling Shang, Xi Dai, Yecheng Li, Marco Pistolozzi, Ling Wang",26 June 2017,2017
+"CoreTracker: accurate codon reassignment prediction, applied to mitochondrial genomes","Emmanuel Noutahi, Virginie Calderon, Mathieu Blanchette, Franz B Lang, Nadia El-Mabrouk",26 June 2017,2017
+Partitioned learning of deep Boltzmann machines for SNP data,"Moritz Hess, Stefan Lenz, Tamara J Blätte, Lars Bullinger, Harald Binder",26 June 2017,2017
+Epigenomic annotation-based interpretation of genomic data: from enrichment analysis to machine learning,Mikhail G Dozmorov,26 June 2017,2017
+SCooP: an accurate and fast predictor of protein stability curves as a function of temperature,"Fabrizio Pucci, Jean Marc Kwasigroch, Marianne Rooman",26 June 2017,2017
+A multi-scenario genome-wide medical population genetics simulation framework,"Jacquiline W Mugo, Ephifania Geza, Joel Defo, Samar S M Elsheikh, Gaston K Mazandu ...",24 June 2017,2017
+pulseR: Versatile computational analysis of RNA turnover from metabolic labeling experiments,"Alexey Uvarovskii, Christoph Dieterich",24 June 2017,2017
+Identification of transcript regulatory patterns in cell differentiation,"Arief Gusnanto, John Paul Gosling, Christopher Pope",24 June 2017,2017
+Spliceman2: a computational web server that predicts defects in pre-mRNA splicing,"Kamil Jan Cygan, Clayton Hendrick Sanford, William Guy Fairbrother",24 June 2017,2017
+Multimodal mechanistic signatures for neurodegenerative diseases (NeuroMMSig): a web server for mechanism enrichment,"Daniel Domingo-Fernández, Alpha Tom Kodamullil, Anandhi Iyappan, Mufassra Naz, Mohammad Asif Emon ...",23 June 2017,2017
+TSGSIS: a high-dimensional grouped variable selection approach for detection of whole-genome SNP–SNP interactions,"Yao-Hwei Fang, Jie-Huei Wang, Chao A Hsiung",23 June 2017,2017
+High-speed and high-ratio referential genome compression,"Yuansheng Liu, Hui Peng, Limsoon Wong, Jinyan Li",23 June 2017,2017
+Panoptes: web-based exploration of large scale genome variation data,"Paul Vauterin, Ben Jeffery, Alistair Miles, Roberto Amato, Lee Hart ...",23 June 2017,2017
+GfaPy: a flexible and extensible software library for handling sequence graphs in Python,"Giorgio Gonnella, Stefan Kurtz",22 June 2017,2017
+UpSetR: an R package for the visualization of intersecting sets and their properties,"Jake R Conway, Alexander Lex, Nils Gehlenborg",22 June 2017,2017
+NucliTrack: an integrated nuclei tracking application,"Sam Cooper, Alexis R Barr, Robert Glen, Chris Bakal",20 June 2017,2017
+The International Society for Computational Biology and WikiProject Computational Biology: celebrating 10 years of collaboration towards open access,"Kieran O’Neill, Vivek Rai, Alastair M Kilpatrick",19 June 2017,2017
+BioQueue: a novel pipeline framework to accelerate bioinformatics analysis,"Li Yao, Heming Wang, Yuanyuan Song, Guangchao Sui",19 June 2017,2017
+BPP: a sequence-based algorithm for branch point prediction,"Qing Zhang, Xiaodan Fan, Yejun Wang, Ming-an Sun, Jianlin Shao ...",19 June 2017,2017
+SANDPUMA: ensemble predictions of nonribosomal peptide chemistry reveal biosynthetic diversity across Actinobacteria,"Marc G Chevrette, Fabian Aicheler, Oliver Kohlbacher, Cameron R Currie, Marnix H Medema",19 June 2017,2017
+QUENTIN: reconstruction of disease transmissions from viral quasispecies genomic data,"Pavel Skums, Alex Zelikovsky, Rahul Singh, Walker Gussler, Zoya Dimitrova ...",19 June 2017,2017
+Probability Map Viewer: near real-time probability map generator of serial block electron microscopy collections,"Christopher Churas, Alex J Perez, Hiroyuki Hakozaki, Willy Wong, David Lee ...",16 June 2017,2017
+Matrix completion with side information and its applications in predicting the antigenicity of influenza viruses,"Li Huang, Xianhong Li, Pengfei Guo, Yuhua Yao, Bo Liao ...",16 June 2017,2017
+EDEN: evolutionary dynamics within environments,"Philipp C Münch, Bärbel Stecher, Alice C McHardy",16 June 2017,2017
+The interfacial character of antibody paratopes: analysis of antibody–antigen structures,"Minh N Nguyen, Mohan R Pradhan, Chandra Verma, Pingyu Zhong",15 June 2017,2017
+TIminer: NGS data mining pipeline for cancer immunology and immunotherapy,"Elias Tappeiner, Francesca Finotello, Pornpimol Charoentong, Clemens Mayer, Dietmar Rieder ...",15 June 2017,2017
+kmerPyramid: an interactive visualization tool for nucleobase and k-mer frequencies,"Jochen Kruppa, Erhard van der Vries, Wendy K Jo, Alexander Postel, Paul Becher ...",15 June 2017,2017
+matter: an R package for rapid prototyping with larger-than-memory datasets on disk,"Kylie A Bemis, Olga Vitek",15 June 2017,2017
+omiXcore: a web server for prediction of protein interactions with large RNA,"Alexandros Armaos, Davide Cirillo, Gian Gaetano Tartaglia",15 June 2017,2017
+rqt: an R package for gene-level meta-analysis,"Ilya Y Zhbannikov, Konstantin G Arbeev, Anatoliy I Yashin",15 June 2017,2017
+PhylOligo: a package to identify contaminant or untargeted organism sequences in genome assemblies,"Ludovic Mallet, Tristan Bitard-Feildel, Franck Cerutti, Hélène Chiapello",15 June 2017,2017
+Detecting and removing multiplicative spatial bias in high-throughput screening technologies,"Iurie Caraus, Bogdan Mazoure, Robert Nadon, Vladimir Makarenkov",15 June 2017,2017
+Pheno4J: a gene to phenotype graph database,"Sajid Mughal, Ismail Moghul, Jing Yu, UKIRDC , Tristan Clark ...",15 June 2017,2017
+MotifHyades: expectation maximization for de novo DNA motif pair discovery on paired sequences,Ka-Chun Wong,13 June 2017,2017
+GraphSpace: stimulating interdisciplinary collaborations in network biology,"Aditya Bharadwaj, Divit P Singh, Anna Ritz, Allison N Tegge, Christopher L Poirel ...",13 June 2017,2017
+CloudNeo: a cloud pipeline for identifying patient-specific tumor neoantigens,"Preeti Bais, Sandeep Namburi, Daniel M Gatti, Xinyu Zhang, Jeffrey H Chuang",12 June 2017,2017
+Message from the ISCB: 2017 ISCB Innovator Award Given to Aviv Regev,"Christiana N Fogg, Diane E Kovats, Bonnie Berger",12 June 2017,2017
+"CancerSubtypes: an R/Bioconductor package for molecular cancer subtype identification, validation and visualization","Taosheng Xu, Thuc Duy Le, Lin Liu, Ning Su, Rujing Wang ...",12 June 2017,2017
+Sparse redundancy analysis of high-dimensional genetic and genomic data,"Attila Csala, Frans P J M Voorbraak, Aeilko H Zwinderman, Michel H Hof",12 June 2017,2017
+Message from the ISCB: 2017 ISCB Accomplishment by a Senior Scientist Award Given to Pavel Pevzner,"Christiana N Fogg, Diane E Kovats, Bonnie Berger",10 June 2017,2017
+Message from the ISCB: 2017 Outstanding Contributions to ISCB Award Given to Fran Lewitter,"Christiana N Fogg, Diane E Kovats, Bonnie Berger",10 June 2017,2017
+MoDMaps3D: an interactive webtool for the quantification and 3D visualization of interrelationships in a dataset of DNA sequences,"Rallis Karamichalis, Lila Kari",10 June 2017,2017
+A spectral algorithm for fast de novo layout of uncorrected long nanopore reads,"Antoine Recanati, Thomas Brüls, Alexandre d’Aspremont",10 June 2017,2017
+Message from the ISCB: 2017 ISCB Overton Prize Awarded to Christoph Bock,"Christiana N Fogg, Diane E Kovats, Bonnie Berger",10 June 2017,2017
+Fast bootstrapping-based estimation of confidence intervals of expression levels and differential expression from RNA-Seq data,"Igor Mandric, Yvette Temate-Tiagueu, Tatiana Shcheglova, Sahar Al Seesi, Alex Zelikovsky ...",10 June 2017,2017
+EpiCompare: an online tool to define and explore genomic regions with tissue or cell type-specific epigenomic features,"Yu He, Ting Wang",09 June 2017,2017
+"FQC Dashboard: integrates FastQC results into a web-based, interactive, and extensible FASTQ quality control tool","Joseph Brown, Meg Pirrung, Lee Ann McCue",09 June 2017,2017
+runBNG: a software package for BioNano genomic analysis on the command line,"Yuxuan Yuan, Philipp E Bayer, Huey-Tyng Lee, David Edwards",09 June 2017,2017
+DEIsoM: a hierarchical Bayesian model for identifying differentially expressed isoforms using biological replicates,"Hao Peng, Yifan Yang, Shandian Zhe, Jian Wang, Michael Gribskov ...",08 June 2017,2017
+Phantom: investigating heterogeneous gene sets in time-course data,"Jinghua Gu, Xuan Wang, Jinyan Chan, Nicole E Baldwin, Jacob A Turner",08 June 2017,2017
+FunGAP: Fungal Genome Annotation Pipeline using evidence-based gene model evaluation,"Byoungnam Min, Igor V Grigoriev, In-Geol Choi",05 June 2017,2017
+JDINAC: joint density-based non-parametric differential interaction network analysis and classification using high-dimensional sparse omics data,"Jiadong Ji, Di He, Yang Feng, Yong He, Fuzhong Xue ...",05 June 2017,2017
+COMPASS: the COMPletely Arbitrary Sequence Simulator,"Andrew Low, Nicolas Rodrigue, Alex Wong",05 June 2017,2017
+Glycan Reader is improved to recognize most sugar types and chemical modifications in the Protein Data Bank,"Sang-Jun Park, Jumin Lee, Dhilon S Patel, Hongjing Ma, Hui Sun Lee ...",05 June 2017,2017
+HUGIn: Hi-C Unifying Genomic Interrogator,"Joshua S Martin, Zheng Xu, Alex P Reiner, Karen L Mohlke, Patrick Sullivan ...",05 June 2017,2017
+BreakPoint Surveyor: a pipeline for structural variant visualization,"Matthew A Wyczalkowski, Kristine M Wylie, Song Cao, Michael D McLellan, Jennifer Flynn ...",05 June 2017,2017
+Model-based branching point detection in single-cell data by K-branches clustering,"Nikolaos K Chlis, F Alexander Wolf, Fabian J Theis",05 June 2017,2017
+"ISAMBARD: an open-source computational environment for biomolecular analysis, modelling and design","Christopher W Wood, Jack W Heal, Andrew R Thomson, Gail J Bartlett, Amaurys Á Ibarra ...",05 June 2017,2017
+PASTASpark: multiple sequence alignment meets Big Data,"José M Abuín, Tomás F Pena, Juan C Pichel",05 June 2017,2017
+Integrative analysis of multiple genomic variables using a hierarchical Bayesian model,"Martin Schäfer, Hans-Ulrich Klein, Holger Schwender",05 June 2017,2017
+GateKeeper: a new hardware architecture for accelerating pre-alignment in DNA short read mapping,"Mohammed Alser, Hasan Hassan, Hongyi Xin, Oğuz Ergin, Onur Mutlu ...",31 May 2017,2017
+Hierarchical probabilistic models for multiple gene/variant associations based on next-generation sequencing data,"Dimitrios V Vavoulis, Jenny C Taylor, Anna Schuh",31 May 2017,2017
+MD-TASK: a software suite for analyzing molecular dynamics trajectories,"David K Brown, David L Penkler, Olivier Sheik Amamuddy, Caroline Ross, Ali Rana Atilgan ...",31 May 2017,2017
+DeepSite: protein-binding site predictor using 3D-convolutional neural networks,"J Jiménez, S Doerr, G Martínez-Rosell, A S Rose, G De Fabritiis",31 May 2017,2017
+Moran’s I quantifies spatio-temporal pattern formation in neural imaging data,"Christoph Schmal, Jihwan Myung, Hanspeter Herzel, Grigory Bordyugov",31 May 2017,2017
+karyoploteR: an R/Bioconductor package to plot customizable genomes displaying arbitrary data,"Bernat Gel, Eduard Serra",29 May 2017,2017
+Structurexplor: a platform for the exploration of structural features of RNA secondary structures,"Jean-Pierre Séhi Glouzon, Jean-Pierre Perreault, Shengrui Wang",29 May 2017,2017
+Protein–Sol: a web tool for predicting protein solubility from sequence,"Max Hebditch, M Alejandro Carballo-Amador, Spyros Charonis, Robin Curtis, Jim Warwicker",29 May 2017,2017
+HEROD: a human ethnic and regional specific omics database,"Xian Zeng, Lin Tao, Peng Zhang, Chu Qin, Shangying Chen ...",26 May 2017,2017
+Computational modeling of immune system of the fish for a more effective vaccination in aquaculture,"Alice Madonia, Cristiano Melchiorri, Simone Bonamano, Marco Marcelli, Chiara Bulfon ...",26 May 2017,2017
+CWDPRNP: a tool for cervid prion sequence analysis in program R,"William L Miller, W David Walter",26 May 2017,2017
+ASAP: a web-based platform for the analysis and interactive visualization of single-cell RNA-seq data,"Vincent Gardeux, Fabrice P A David, Adrian Shajkofci, Petra C Schwalie, Bart Deplancke",24 May 2017,2017
+M2Align: parallel multiple sequence alignment with a multi-objective metaheuristic,"Cristian Zambrano-Vega, Antonio J Nebro, José García-Nieto, José F Aldana-Montes",24 May 2017,2017
+DNA sequence+shape kernel enables alignment-free modeling of transcription factor binding,"Wenxiu Ma, Lin Yang, Remo Rohs, William Stafford Noble",24 May 2017,2017
+GLANET: genomic loci annotation and enrichment tool,"Burçak Otlu, Can Firtina, Sündüz Keleş, Oznur Tastan",24 May 2017,2017
+Flexbar 3.0 – SIMD and multicore parallelization,"Johannes T Roehr, Christoph Dieterich, Knut Reinert",24 May 2017,2017
+CRISPRcloud: a secure cloud-based pipeline for CRISPR pooled screen deconvolution,"Hyun-Hwan Jeong, Seon Young Kim, Maxime W C Rousseaux, Huda Y Zoghbi, Zhandong Liu",24 May 2017,2017
+A fast and exhaustive method for heterogeneity and epistasis analysis based on multi-objective optimization,Xiong Li,24 May 2017,2017
+MetaSRA: normalized human sample-specific metadata for the Sequence Read Archive,"Matthew N Bernstein, AnHai Doan, Colin N Dewey",23 May 2017,2017
+"Molecular heterogeneity at the network level: high-dimensional testing, clustering and a TCGA case study","Nicolas Städler, Frank Dondelinger, Steven M Hill, Rehan Akbani, Yiling Lu ...",23 May 2017,2017
+Predicting accurate contacts in thousands of Pfam domain families using PconsC3,"Mirco Michel, Marcin J Skwark, David Menéndez Hurtado, Magnus Ekeberg, Arne Elofsson",23 May 2017,2017
+chimeraviz: a tool for visualizing chimeric RNA,"Stian Lågstad, Sen Zhao, Andreas M Hoff, Bjarne Johannessen, Ole Christian Lingjærde ...",19 May 2017,2017
+PhyD3: a phylogenetic tree viewer with extended phyloXML support for functional genomics data visualization,"Łukasz Kreft, Alexander Botzki, Frederik Coppens, Klaas Vandepoele, Michiel Van Bel",19 May 2017,2017
+On patterns and re-use in bioinformatics databases,"Michael J Bell, Phillip Lord",19 May 2017,2017
+Accelerating high-dimensional clustering with lossless data reduction,"Bahjat F Qaqish, Jonathon J O’Brien, Jonathan C Hibbard, Katie J Clowers",18 May 2017,2017
+The neXtProt peptide uniqueness checker: a tool for the proteomics community,"Mathieu Schaeffer, Alain Gateau, Daniel Teixeira, Pierre-André Michel, Monique Zahn-Zabal ...",17 May 2017,2017
+PIXiE: an algorithm for automated ion mobility arrival time extraction and collision cross section calculation using global data association,"Jian Ma, Cameron P Casey, Xueyun Zheng, Yehia M Ibrahim, Christopher S Wilkins ...",15 May 2017,2017
+HTSvis: a web app for exploratory data analysis and visualization of arrayed high-throughput screens,"Christian Scheeder, Florian Heigwer, Michael Boutros",15 May 2017,2017
+False discovery rate control incorporating phylogenetic tree increases detection power in microbiome-wide multiple testing,"Jian Xiao, Hongyuan Cao, Jun Chen",13 May 2017,2017
+Single-cell regulome data analysis by SCRAT,"Zhicheng Ji, Weiqiang Zhou, Hongkai Ji",12 May 2017,2017
+DIRECTION: a machine learning framework for predicting and characterizing DNA methylation and hydroxymethylation in mammalian genomes,"Milos Pavlovic, Pradipta Ray, Kristina Pavlovic, Aaron Kotamarti, Min Chen ...",12 May 2017,2017
+OMTools: a software package for visualizing and processing optical mapping data,"Alden King-Yung Leung, Nana Jin, Kevin Y Yip, Ting-Fung Chan",12 May 2017,2017
+PROXiMATE: a database of mutant protein–protein complex thermodynamics and kinetics,"Sherlyn Jemimah, K Yugandhar, M Michael Gromiha",11 May 2017,2017
+MAGenTA: a Galaxy implemented tool for complete Tn-Seq analysis and data visualization,"Katherine Maia McCoy, Margaret L Antonio, Tim van Opijnen",11 May 2017,2017
+IGESS: a statistical approach to integrating individual-level genotype data and summary statistics in genome-wide association studies,"Mingwei Dai, Jingsi Ming, Mingxuan Cai, Jin Liu, Can Yang ...",11 May 2017,2017
+E2FM: an encrypted and compressed full-text index for collections of genomic sequences,"Ferdinando Montecuollo, Giovannni Schmid, Roberto Tagliaferri",11 May 2017,2017
+POSSUM: a bioinformatics toolkit for generating numerical sequence feature descriptors based on PSSM profiles,"Jiawei Wang, Bingjiao Yang, Jerico Revote, André Leier, Tatiana T Marquez-Lago ...",10 May 2017,2017
+BioMake: a GNU make-compatible utility for declarative workflow management,"Ian H Holmes, Christopher J Mungall",09 May 2017,2017
+RankProd 2.0: a refactored bioconductor package for detecting differentially expressed features in molecular profiling datasets,"Francesco Del Carratore, Andris Jankevics, Rob Eisinga, Tom Heskes, Fangxin Hong ...",08 May 2017,2017
+Foldit Standalone: a video game-derived protein structure manipulation interface using Rosetta,"Robert Kleffner, Jeff Flatten, Andrew Leaver-Fay, David Baker, Justin B Siegel ...",08 May 2017,2017
+Application of the cghRA framework to the genomic characterization of Diffuse Large B-Cell Lymphoma,"Sylvain Mareschal, Philippe Ruminy, Marion Alcantara, Céline Villenet, Martin Figeac ...",08 May 2017,2017
+rMFilter: acceleration of long read-based structure variation calling by chimeric read filtering,"Bo Liu, Tao Jiang, S M Yiu, Junyi Li, Yadong Wang",08 May 2017,2017
+McPAS-TCR: a manually curated catalogue of pathology-associated T cell receptor sequences,"Nili Tickotsky, Tal Sagiv, Jaime Prilusky, Eric Shifrut, Nir Friedman",08 May 2017,2017
+MarDRe: efficient MapReduce-based removal of duplicate DNA reads in the cloud,"Roberto R Expósito, Jorge Veiga, Jorge González-Domínguez, Juan Touriño",05 May 2017,2017
+Assembling draft genomes using contiBAIT,"Kieran O’Neill, Mark Hills, Mike Gottlieb, Matthew Borkowski, Aly Karsan ...",05 May 2017,2017
+twoddpcr: an R/Bioconductor package and Shiny app for Droplet Digital PCR analysis,"Anthony Chiu, Mahmood Ayub, Caroline Dive, Ged Brady, Crispin J Miller",05 May 2017,2017
+An efficient graph kernel method for non-coding RNA functional prediction,"Nicolò Navarin, Fabrizio Costa",05 May 2017,2017
+FlashPCA2: principal component analysis of Biobank-scale genotype datasets,"Gad Abraham, Yixuan Qiu, Michael Inouye",05 May 2017,2017
+CMDR based differential evolution identifies the epistatic interaction in genome-wide association studies,"Cheng-Hong Yang, Li-Yeh Chuang, Yu-Da Lin",04 May 2017,2017
+Annotating function to differentially expressed LincRNAs in myelodysplastic syndrome using a network-based method,"Keqin Liu, Dominik Beck, Julie A I Thoms, Liang Liu, Weiling Zhao ...",04 May 2017,2017
+modlAMP: Python for antimicrobial peptides,"Alex T Müller, Gisela Gabernet, Jan A Hiss, Gisbert Schneider",04 May 2017,2017
+SinCHet: a MATLAB toolbox for single cell heterogeneity analysis in cancer,"Jiannong Li, Inna Smalley, Michael J Schell, Keiran S M Smalley, Y Ann Chen",04 May 2017,2017
+Differential privacy-based evaporative cooling feature selection and classification with relief-F and random forests,"Trang T Le, W Kyle Simmons, Masaya Misaki, Jerzy Bodurka, Bill C White ...",04 May 2017,2017
+"Accounting for tumor purity improves cancer subtype classification from DNA
+          methylation data","Weiwei Zhang, Hao Feng, Hao Wu, Xiaoqi Zheng",04 May 2017,2017
+Exploring spatially adjacent TFBS-clustered regions with Hi-C data,"Hebing Chen, Shuai Jiang, Zhuo Zhang, Hao Li, Yiming Lu ...",04 May 2017,2017
+Reliability of algorithmic somatic copy number alteration detection from targeted capture data,"Nora Rieber, Regina Bohnert, Ulrike Ziehm, Gunther Jansen",04 May 2017,2017
+The spike-and-slab lasso Cox model for survival prediction and associated genes detection,"Zaixiang Tang, Yueping Shen, Xinyan Zhang, Nengjun Yi",04 May 2017,2017
+PopFly: the Drosophila population genomics browser,"Sergi Hervas, Esteve Sanz, Sònia Casillas, John E Pool, Antonio Barbadilla",04 May 2017,2017
+KMC 3: counting and manipulating k-mer statistics,"Marek Kokot, Maciej Długosz, Sebastian Deorowicz",04 May 2017,2017
+OMSim: a simulator for optical map data,"Giles Miclotte, Stéphane Plaisance, Stephane Rombauts, Yves Van de Peer, Pieter Audenaert ...",03 May 2017,2017
+EBT: a statistic test identifying moderate size of significant features with balanced power and precision for genome-wide rate comparisons,"Xinjie Hui, Yueming Hu, Ming-An Sun, Xingsheng Shu, Rongfei Han ...",03 May 2017,2017
+A deep learning framework for improving long-range residue–residue contact prediction using a hierarchical strategy,"Dapeng Xiong, Jianyang Zeng, Haipeng Gong",03 May 2017,2017
+STOPGAP: a database for systematic target opportunity assessment by genetic association predictions,"Judong Shen, Kijoung Song, Andrew J Slater, Enrico Ferrero, Matthew R Nelson",02 May 2017,2017
+Constructing linkage maps in the genomics era with MapDisto 2.0,"Christopher Heffelfinger, Christopher A Fragoso, Mathias Lorieux",28 April 2017,2017
+RIblast: an ultrafast RNA–RNA interaction prediction system based on a seed-and-extension approach,"Tsukasa Fukunaga, Michiaki Hamada",28 April 2017,2017
+SigSeeker: a peak-calling ensemble approach for constructing epigenetic signatures,"Jens Lichtenberg, Laura Elnitski, David M Bodine",25 April 2017,2017
+Neuro-symbolic representation learning on biological knowledge graphs,"Mona Alshahrani, Mohammad Asif Khan, Omar Maddouri, Akira R Kinjo, Núria Queralt-Rosinach ...",25 April 2017,2017
+RNAblueprint: flexible multiple target nucleic acid sequence design,"Stefan Hammer, Birgit Tschiatschek, Christoph Flamm, Ivo L Hofacker, Sven Findeiß",25 April 2017,2017
+veqtl-mapper: variance association mapping for molecular phenotypes,Andrew Anand Brown,25 April 2017,2017
+Multi-label classifier based on histogram of gradients for predicting the anatomical therapeutic chemical class/classes of a given compound,"Loris Nanni, Sheryl Brahnam",24 April 2017,2017
+modSaRa: a computationally efficient R package for CNV identification,"Feifei Xiao, Yue Niu, Ning Hao, Yanxun Xu, Zhilin Jin ...",22 April 2017,2017
+HLA class I binding prediction via convolutional neural networks,"Yeeleng S Vang, Xiaohui Xie",21 April 2017,2017
+Mapping genes for calcium signaling and their associated human genetic disorders,"Matthias Hörtenhuber, Enrique M Toledo, Erik Smedler, Ernest Arenas, Seth Malmersjö ...",19 April 2017,2017
+A method for learning a sparse classifier in the presence of missing data for high-dimensional biological datasets,"Kristen A Severson, Brinda Monian, J Christopher Love, Richard D Braatz",18 April 2017,2017
+MOST-visualization: software for producing automated textbook-style maps of genome-scale metabolic networks,"James J Kelley, Shay Maor, Min Kyung Kim, Anatoliy Lane, Desmond S Lun",18 April 2017,2017
+ClusPro PeptiDock: efficient global docking of peptide recognition motifs using FFT,"Kathryn A Porter, Bing Xia, Dmitri Beglov, Tanggis Bohnuud, Nawsad Alam ...",18 April 2017,2017
+"Capturing non-local interactions by long short-term memory bidirectional recurrent neural networks for improving prediction of protein secondary structure, backbone angles, contact numbers and solvent accessibility","Rhys Heffernan, Yuedong Yang, Kuldip Paliwal, Yaoqi Zhou",18 April 2017,2017
+Deep mining heterogeneous networks of biomedical linked data to predict novel drug–target associations,"Nansu Zong, Hyeoneui Kim, Victoria Ngo, Olivier Harismendy",18 April 2017,2017
+A Bayesian group sparse multi-task regression model for imaging genetics,"Keelin Greenlaw, Elena Szefer, Jinko Graham, Mary Lesperance, Farouk S Nathoo ...",13 April 2017,2017
+EigenTHREADER: analogous protein fold recognition by efficient contact map threading,"Daniel W A Buchan, David T Jones",13 April 2017,2017
+SVMQA: support–vector-machine-based protein single-model quality assessment,"Balachandran Manavalan, Jooyoung Lee",13 April 2017,2017
+DMINDA 2.0: integrated and systematic views of regulatory DNA motif identification and analyses,"Jinyu Yang, Xin Chen, Adam McDermaid, Qin Ma",13 April 2017,2017
+Removal of batch effects using distribution-matching residual networks,"Uri Shaham, Kelly P Stanton, Jun Zhao, Huamin Li, Khadir Raddassi ...",13 April 2017,2017
+Pattern fusion analysis by adaptive alignment of multiple heterogeneous omics data,"Qianqian Shi, Chuanchao Zhang, Minrui Peng, Xiangtian Yu, Tao Zeng ...",12 April 2017,2017
+HaploMerger2: rebuilding both haploid sub-assemblies from high-heterozygosity diploid genome assembly,"Shengfeng Huang, Mingjing Kang, Anlong Xu",12 April 2017,2017
+BioCIDER: a Contextualisation InDEx for biological Resources discovery,"Carlos Horro, Martin Cook, Teresa K Attwood, Michelle D Brazas, John M Hancock ...",12 April 2017,2017
+Chainy: an universal tool for standardized relative quantification in real-time PCR,"Izaskun Mallona, Anna Díez-Villanueva, Berta Martín, Miguel A Peinado",12 April 2017,2017
+IcyTree: rapid browser-based visualization for phylogenetic trees and networks,Timothy G Vaughan,12 April 2017,2017
+Incorporating prior information into differential network analysis using non-paranormal graphical models,"Xiao-Fei Zhang, Le Ou-Yang, Hong Yan",12 April 2017,2017
+emMAW: computing minimal absent words in external memory,"Alice Héliou, Solon P Pissis, Simon J Puglisi",12 April 2017,2017
+miRCat2: accurate prediction of plant and animal microRNAs from next-generation sequencing datasets,"Claudia Paicu, Irina Mohorianu, Matthew Stocks, Ping Xu, Aurore Coince ...",12 April 2017,2017
+SubCons: a new ensemble method for improved human subcellular localization predictions,"M Salvatore, P Warholm, N Shu, W Basile, A Elofsson",12 April 2017,2017
+Domain prediction with probabilistic directional context,"Alejandro Ochoa, Mona Singh",12 April 2017,2017
+Network module-based model in the differential expression analysis for RNA-seq,"Mingli Lei, Jia Xu, Li-Ching Huang, Lily Wang, Jing Li",12 April 2017,2017
+Chainy: an universal tool for standardized relative quantification in real-time PCR,"Izaskun Mallona, Anna Díez-Villanueva, Berta Martín, Miguel A Peinado",12 April 2017,2017
+MetCirc: navigating mass spectral similarity in high-resolution MS/MS metabolomics data,"Thomas Naake, Emmanuel Gaquerel",11 April 2017,2017
+StrandScript: evaluation of Illumina genotyping array design and strand correction,"Jing Wang, David C Samuels, Yu Shyr, Yan Guo",08 April 2017,2017
+EUPAN enables pan-genome studies of a large number of eukaryotic genomes,"Zhiqiang Hu, Chen Sun, Kuang-chen Lu, Xixia Chu, Yue Zhao ...",07 April 2017,2017
+SynergyFinder: a web application for analyzing drug combination dose–response matrix data,"Aleksandr Ianevski, Liye He, Tero Aittokallio, Jing Tang",07 April 2017,2017
+PyGOLD: a python based API for docking based virtual screening workflow generation,"Hitesh Patel, Tobias Brinkjost, Oliver Koch",07 April 2017,2017
+Systemic evaluation of cellular reprogramming processes exploiting a novel R-tool: eegc,"Xiaoyuan Zhou, Guofeng Meng, Christine Nardini, Hongkang Mei",07 April 2017,2017
+Machine learning in computational biology to accelerate high-throughput protein expression,"Anand Sastry, Jonathan Monk, Hanna Tegel, Mathias Uhlen, Bernhard O Palsson ...",07 April 2017,2017
+TIN-X: target importance and novelty explorer,"Daniel C Cannon, Jeremy J Yang, Stephen L Mathias, Oleg Ursu, Subramani Mani ...",07 April 2017,2017
+FunChIP: an R/Bioconductor package for functional classification of ChIP-seq shapes,"Alice C L Parodi, Laura M Sangalli, Simone Vantini, Bruno Amati, Piercesare Secchi ...",07 April 2017,2017
+GARN2: coarse-grained prediction of 3D structure of large RNA molecules by regret minimization,"Mélanie Boudard, Dominique Barth, Julie Bernauer, Alain Denise, Johanne Cohen",07 April 2017,2017
+MISA-web: a web server for microsatellite prediction,"Sebastian Beier, Thomas Thiel, Thomas Münch, Uwe Scholz, Martin Mascher",07 April 2017,2017
+RTK: efficient rarefaction analysis of large datasets,"Paul Saary, Kristoffer Forslund, Peer Bork, Falk Hildebrand",07 April 2017,2017
+ST Pipeline: an automated pipeline for spatial mapping of unique transcripts,"José Fernández Navarro, Joel Sjöstrand, Fredrik Salmén, Joakim Lundeberg, Patrik L Ståhl",07 April 2017,2017
+mzML2ISA & nmrML2ISA: generating enriched ISA-Tab metadata files from metabolomics XML data,"Martin Larralde, Thomas N Lawson, Ralf J M Weber, Pablo Moreno, Kenneth Haug ...",07 April 2017,2017
+PreMosa: extracting 2D surfaces from 3D microscopy mosaics,"Corinna Blasse, Stephan Saalfeld, Raphaël Etournay, Andreas Sagner, Suzanne Eaton ...",05 April 2017,2017
+EzMap: a simple pipeline for reproducible analysis of the human virome,"Patrick Czeczko, Steven C Greenway, A P Jason de Koning",05 April 2017,2017
+ploidyNGS: visually exploring ploidy with Next Generation Sequencing data,"Renato Augusto Corrêa dos Santos, Gustavo Henrique Goldman, Diego Mauricio Riaño-Pachón",05 April 2017,2017
+Use of AAScatterPlot tool for monitoring the evolution of the hemagglutinin cleavage site in H9 avian influenza viruses,"Donald W Lee, Gary R Whittaker",05 April 2017,2017
+SieveSifter: a web-based tool for visualizing the sieve analyses of HIV-1 vaccine efficacy trials,"Andrew Fiore-Gartland, Nicholas Kullman, Allan C deCamp, Graham Clenaghan, Wayne Yang ...",04 April 2017,2017
+Gracob: a novel graph-based constant-column biclustering method for mining growth phenotype data,"Majed Alzahrani, Hiroyuki Kuwahara, Wei Wang, Xin Gao",04 April 2017,2017
+SCODE: an efficient regulatory network inference algorithm from single-cell RNA-Seq during differentiation,"Hirotaka Matsumoto, Hisanori Kiryu, Chikara Furusawa, Minoru S H Ko, Shigeru B H Ko ...",04 April 2017,2017
+A penalized regression approach to haplotype reconstruction of viral populations arising in early HIV/SIV infection,"Sivan Leviyang, Igor Griva, Sergio Ita, Welkin E Johnson",04 April 2017,2017
+SQC: secure quality control for meta-analysis of genome-wide association studies,"Zhicong Huang, Huang Lin, Jacques Fellay, Zoltán Kutalik, Jean-Pierre Hubaux",04 April 2017,2017
+TASIC: determining branching models from time series single cell data,"Sabrina Rashid, Darrell N Kotton, Ziv Bar-Joseph",04 April 2017,2017
+Kart: a divide-and-conquer algorithm for NGS read alignment,"Hsin-Nan Lin, Wen-Lian Hsu",04 April 2017,2017
+BEESEM: estimation of binding energy models using HT-SELEX data,"Shuxiang Ruan, S Joshua Swamidass, Gary D Stormo",04 April 2017,2017
+Cpipe: a comprehensive computational platform for sequence and structure-based analyses of Cysteine residues,"Inanc Soylu, Stefano M Marino",30 March 2017,2017
+DeepEM3D: approaching human-level performance on 3D anisotropic EM image segmentation,"Tao Zeng, Bian Wu, Shuiwang Ji",30 March 2017,2017
+Trainable Weka Segmentation: a machine learning tool for microscopy pixel classification,"Ignacio Arganda-Carreras, Verena Kaynig, Curtis Rueden, Kevin W Eliceiri, Johannes Schindelin ...",30 March 2017,2017
+rMSI: an R package for MS imaging data handling and visualization,"Pere Ràfols, Sònia Torres, Noelia Ramírez, Esteban del Castillo, Oscar Yanes ...",30 March 2017,2017
+annotatr: genomic regions in context,"Raymond G Cavalcante, Maureen A Sartor",30 March 2017,2017
+PARTIE: a partition engine to separate metagenomic and amplicon projects in the Sequence Read Archive,"Pedro J Torres, Robert A Edwards, Katelyn A McNair",30 March 2017,2017
+Fuento: functional enrichment for bioinformatics,"David Weichselbaum, Bojan Zagrovic, Anton A Polyansky",30 March 2017,2017
+Mackinac: a bridge between ModelSEED and COBRApy to generate and analyze genome-scale metabolic models,"Michael Mundy, Helena Mendes-Soares, Nicholas Chia",30 March 2017,2017
+Spresso: an ultrafast compound pre-screening method based on compound decomposition,"Keisuke Yanagisawa, Shunta Komine, Shogo D Suzuki, Masahito Ohue, Takashi Ishida ...",30 March 2017,2017
+cnAnalysis450k: an R package for comparative analysis of 450k/EPIC Illumina methylation array derived copy number data,"Maximilian Knoll, Jürgen Debus, Amir Abdollahi",30 March 2017,2017
+ViPTree: the viral proteomic tree server,"Yosuke Nishimura, Takashi Yoshida, Megumi Kuronishi, Hideya Uehara, Hiroyuki Ogata ...",30 March 2017,2017
+The Tomato Expression Atlas,"Noe Fernandez-Pozo, Yi Zheng, Stephen I Snyder, Philippe Nicolas, Yoshihito Shinozaki ...",30 March 2017,2017
+BioContainers: an open-source and community-driven framework for software standardization,"Felipe da Veiga Leprevost, Björn A Grüning, Saulo Alves Aflitos, Hannes L Röst, Julian Uszkoreit ...",30 March 2017,2017
+DLTree: efficient and accurate phylogeny reconstruction using the dynamical language method,"Qi Wu, Zu-Guo Yu, Jianyi Yang",29 March 2017,2017
+biMM: efficient estimation of genetic variances and covariances for cohorts with high-dimensional phenotype measurements,"Matti Pirinen, Christian Benner, Pekka Marttinen, Marjo-Riitta Järvelin, Manuel A Rivas ...",28 March 2017,2017
+NeBcon: protein contact map prediction using neural network training coupled with naïve Bayes classifiers,"Baoji He, S M Mortuza, Yanting Wang, Hong-Bin Shen, Yang Zhang",28 March 2017,2017
+EthSEQ: ethnicity annotation from whole exome sequencing data,"Alessandro Romanel, Tuo Zhang, Olivier Elemento, Francesca Demichelis",27 March 2017,2017
+Sequential computation of elementary modes and minimal cut sets in genome-scale metabolic networks using alternate integer linear programming,"Hyun-Seob Song, Noam Goldberg, Ashutosh Mahajan, Doraiswami Ramkrishna",27 March 2017,2017
+A transition-based joint model for disease named entity recognition and normalization,"Yinxia Lou, Yue Zhang, Tao Qian, Fei Li, Shufeng Xiong ...",24 March 2017,2017
+GenomeScope: fast reference-free genome profiling from short reads,"Gregory W Vurture, Fritz J Sedlazeck, Maria Nattestad, Charles J Underwood, Han Fang ...",24 March 2017,2017
+Entropy-based consensus clustering for patient stratification,"Hongfu Liu, Rui Zhao, Hongsheng Fang, Feixiong Cheng, Yun Fu ...",24 March 2017,2017
+Mining heterogeneous causal effects for personalized cancer treatment,"Weijia Zhang, Thuc Duy Le, Lin Liu, Zhi-Hua Zhou, Jiuyong Li",24 March 2017,2017
+Aozan: an automated post-sequencing data-processing pipeline,"Sandrine Perrin, Cyril Firmo, Sophie Lemoine, Stéphane Le Crom, Laurent Jourdren",24 March 2017,2017
+Enhanced methods to detect haplotypic effects on gene expression,"Robert Brown, Gleb Kichaev, Nicholas Mancuso, James Boocock, Bogdan Pasaniuc",22 March 2017,2017
+The RNASeq-er API—a gateway to systematically updated analysis of public RNA-seq data,"Robert Petryszak, Nuno A Fonseca, Anja Füllgrabe, Laura Huerta, Maria Keays ...",22 March 2017,2017
+ConKit: a python interface to contact predictions,"Felix Simkovic, Jens M H Thomas, Daniel J Rigden",22 March 2017,2017
+GenoGAM: genome-wide generalized additive models for ChIP-Seq analysis,"Georg Stricker, Alexander Engelhardt, Daniel Schulz, Matthias Schmid, Achim Tresch ...",22 March 2017,2017
+HiC-spector: a matrix library for spectral and reproducibility analysis of Hi-C contact maps,"Koon-Kiu Yan, Galip Gürkan Yardımcı, Chengfei Yan, William S Noble, Mark Gerstein",22 March 2017,2017
+CImbinator: a web-based tool for drug synergy analysis in small- and large-scale datasets,"Åsmund Flobak, Miguel Vazquez, Astrid Lægreid, Alfonso Valencia",19 March 2017,2017
+SynMap2 and SynMap3D: web-based whole-genome synteny browsers,"Asher Haug-Baltzell, Sean A Stephens, Sean Davey, Carlos E Scheidegger, Eric Lyons",16 March 2017,2017
+SeqArray—a storage-efficient high-performance data format for WGS variant calls,"Xiuwen Zheng, Stephanie M Gogarten, Michael Lawrence, Adrienne Stilp, Matthew P Conomos ...",16 March 2017,2017
+SIApopr: a computational method to simulate evolutionary branching trees for analysis of tumor clonal evolution,"Thomas O McDonald, Franziska Michor",16 March 2017,2017
+Tagging SNP-set selection with maximum information based on linkage disequilibrium structure in genome-wide association studies,"Shudong Wang, Sicheng He, Fayou Yuan, Xinjie Zhu",16 March 2017,2017
+PathwayMapper: a collaborative visual web editor for cancer pathways and genomic data,"Istemi Bahceci, Ugur Dogrusoz, Konnor C La, Özgün Babur, Jianjiong Gao ...",16 March 2017,2017
+Phenopolis: an open platform for harmonization and analysis of genetic and phenotypic data,"Nikolas Pontikos, Jing Yu, Ismail Moghul, Lucy Withington, Fiona Blanco-Kelly ...",15 March 2017,2017
+Estimating error models for whole genome sequencing using mixtures of Dirichlet-multinomial distributions,"Steven H Wu, Rachel S Schwartz, David J Winter, Donald F Conrad, Reed A Cartwright",15 March 2017,2017
+ResistoMap—online visualization of human gut microbiota antibiotic resistome,"Konstantin S Yarygin, Boris A Kovarsky, Tatyana S Bibikova, Damir S Melnikov, Alexander V Tyakht ...",14 March 2017,2017
+"Fast, clash-free RNA conformational morphing using molecular junctions","Amélie Héliou, Dominik Budday, Rasmus Fonseca, Henry van den Bedem",13 March 2017,2017
+A Zoom-Focus algorithm (ZFA) to locate the optimal testing region for rare variant association tests,"Maggie Haitian Wang, Haoyi Weng, Rui Sun, Jack Lee, William Ka Kei Wu ...",11 March 2017,2017
+Meta-analytic framework for liquid association,"Lin Wang, Silvia Liu, Ying Ding, Shin-sheng Yuan, Yen-Yi Ho ...",11 March 2017,2017
+Estimating gene regulatory networks with pandaR,"Daniel Schlauch, Joseph N Paulson, Albert Young, Kimberly Glass, John Quackenbush",11 March 2017,2017
+MetCCS predictor: a web server for predicting collision cross-section values of metabolites in ion mobility-mass spectrometry based metabolomics,"Zhiwei Zhou, Xin Xiong, Zheng-Jiang Zhu",11 March 2017,2017
+Dynamix: dynamic visualization by automatic selection of informative tracks from hundreds of genomic datasets,"Matthias Monfort, Eileen E M Furlong, Charles Girardot",11 March 2017,2017
+rMATS-DVR: rMATS discovery of differential variants in RNA,"Jinkai Wang, Yang Pan, Shihao Shen, Lan Lin, Yi Xing",11 March 2017,2017
+"DNA Compass: a secure, client-side site for navigating personal genetic information","Charles Curnin, Assaf Gordon, Yaniv Erlich",11 March 2017,2017
+QRank: a novel quantile regression tool for eQTL discovery,"Xiaoyu Song, Gen Li, Zhenwei Zhou, Xianling Wang, Iuliana Ionita-Laza ...",11 March 2017,2017
+HLA-MA: simple yet powerful matching of samples using HLA typing results,"Clemens Messerschmidt, Manuel Holtgrewe, Dieter Beule",09 March 2017,2017
+poRe GUIs for parallel and real-time processing of MinION sequence data,"Robert D Stewart, Mick Watson",09 March 2017,2017
+SmartR: an open-source platform for interactive visual analytics for translational research data,"Sascha Herzinger, Wei Gu, Venkata Satagopam, Serge Eifes, Kavita Rege ...",09 March 2017,2017
+Quantifying circular RNA expression from RNA-seq data using model-based framework,"Musheng Li, Xueying Xie, Jing Zhou, Mengying Sheng, Xiaofeng Yin ...",08 March 2017,2017
+VCNet: vector-based gene co-expression network construction and its application to RNA-seq data,"Zengmiao Wang, Huaying Fang, Nelson Leung-Sang Tang, Minghua Deng",08 March 2017,2017
+ProtVista: visualization of protein sequence annotations,"Xavier Watkins, Leyla J Garcia, Sangya Pundir, Maria J Martin, UniProt Consortium",07 March 2017,2017
+Stepwise inference of likely dynamic flux distributions from metabolic time series data,"Mojdeh Faraji, Eberhard O Voit",07 March 2017,2017
+A network model predicts the intensity of residue-protein thermal coupling,"Luciano Censoni, Heloisa dos Santos Muniz, Leandro Martínez",07 March 2017,2017
+Discriminating the reaction types of plant type III polyketide synthases,"Yugo Shimizu, Hiroyuki Ogata, Susumu Goto",06 March 2017,2017
+Identification of genetic outliers due to sub-structure and cryptic relationships,"Daniel Schlauch, Heide Fier, Christoph Lange",03 March 2017,2017
+AQUA-DUCT: a ligands tracking tool,"Tomasz Magdziarz, Karolina Mitusińska, Sandra Gołdowska, Alicja Płuciennik, Michał Stolarczyk ...",03 March 2017,2017
+ctsGE—clustering subgroups of expression data,"Michal Sharabi-Schwager, Etti Or, Ron Ophir",03 March 2017,2017
+Systematic inference of functional phosphorylation events in yeast metabolism,"Yu Chen, Yonghong Wang, Jens Nielsen",02 March 2017,2017
+Morphologically constrained spectral unmixing by dictionary learning for multiplex fluorescence microscopy,"Murad Megjhani, Pedro Correa de Sampaio, Julienne Leigh Carstens, Raghu Kalluri, Badrinath Roysam",02 March 2017,2017
+PeptideMapper: efficient and versatile amino acid sequence and tag mapping,"Dominik Kopczynski, Harald Barsnes, Pål R Njølstad, Albert Sickmann, Marc Vaudel ...",02 March 2017,2017
+Computational modeling of in vivo and in vitro protein-DNA interactions by multiple instance learning,"Zhen Gao, Jianhua Ruan",01 March 2017,2017
+Oncopression: gene expression compendium for cancer with matched normal tissues,"Jungsul Lee, Chulhee Choi",01 March 2017,2017
+MaBoSS 2.0: an environment for stochastic Boolean modeling,"Gautier Stoll, Barthélémy Caron, Eric Viara, Aurélien Dugourd, Andrei Zinovyev ...",01 March 2017,2017
+RNAscClust: clustering RNA sequences using structure conservation and graph based motifs,"Milad Miladi, Alexander Junge, Fabrizio Costa, Stefan E Seemann, Jakob Hull Havgaard ...",27 February 2017,2017
+swga: a primer design toolkit for selective whole genome amplification,"Erik L Clarke, Sesh A Sundararaman, Stephanie N Seifert, Frederic D Bushman, Beatrice H Hahn ...",27 February 2017,2017
+SVPV: a structural variant prediction viewer for paired-end sequencing datasets,"Jacob E Munro, Sally L Dunwoodie, Eleni Giannoulatou",27 February 2017,2017
+MotifMap-RNA: a genome-wide map of RBP binding sites,"Yu Liu, Sha Sun, Timothy Bredy, Marcelo Wood, Robert C Spitale ...",22 February 2017,2017
+fastER: a user-friendly tool for ultrafast and robust cell segmentation in large-scale microscopy,"Oliver Hilsenbeck, Michael Schwarzfischer, Dirk Loeffler, Sotiris Dimopoulos, Simon Hastreiter ...",22 February 2017,2017
+RefBool: a reference-based algorithm for discretizing gene expression data,"Sascha Jung, Andras Hartmann, Antonio del Sol",22 February 2017,2017
+DeepBlueR: large-scale epigenomic analysis in R,"Felipe Albrecht, Markus List, Christoph Bock, Thomas Lengauer",22 February 2017,2017
+FUNNEL-GSEA: FUNctioNal ELastic-net regression in time-course gene set enrichment analysis,"Yun Zhang, David J Topham, Juilee Thakar, Xing Qiu",21 February 2017,2017
+Pseudoalignment for metagenomic read assignment,"L Schaeffer, H Pimentel, N Bray, P Melsted, L Pachter",21 February 2017,2017
+BioJava-ModFinder: identification of protein modifications in 3D structures from the Protein Data Bank,"Jianjiong Gao, Andreas Prlić, Chunxiao Bi, Wolfgang F Bluhm, Dimitris Dimitropoulos ...",17 February 2017,2017
+BiRen: predicting enhancers with a deep-learning-based model using the DNA sequence alone,"Bite Yang, Feng Liu, Chao Ren, Zhangyi Ouyang, Ziwei Xie ...",17 February 2017,2017
+A generalized association test based on U statistics,"Changshuai Wei, Qing Lu",17 February 2017,2017
+MapReduce for accurate error correction of next-generation sequencing data,"Liang Zhao, Qingfeng Chen, Wencui Li, Peng Jiang, Limsoon Wong ...",16 February 2017,2017
+BCFtools/csq: haplotype-aware variant consequences,"Petr Danecek, Shane A McCarthy",16 February 2017,2017
+MBV: a method to solve sample mislabeling and detect technical bias in large combined genotype and sequencing assay datasets,"Alexandre Fort, Nikolaos I Panousis, Marco Garieri, Stylianos E Antonarakis, Tuuli Lappalainen ...",16 February 2017,2017
+GARLIC: Genomic Autozygosity Regions Likelihood-based Inference and Classification,"Zachary A Szpiech, Alexandra Blant, Trevor J Pemberton",16 February 2017,2017
+Pln24NT: a web resource for plant 24-nt siRNA producing loci,"Qi Liu, Changjun Ding, Yanguang Chu, Weixi Zhang, Ganggang Guo ...",15 February 2017,2017
+Changes associated with Ebola virus adaptation to novel species,"Morena Pappalardo, Ian G Reddin, Diego Cantoni, Jeremy S Rossman, Martin Michaelis ...",15 February 2017,2017
+A multi-scale convolutional neural network for phenotyping high-content cellular images,"William J Godinez, Imtiaz Hossain, Stanley E Lazic, John W Davies, Xian Zhang",15 February 2017,2017
+Empirical comparison of web-based antimicrobial peptide prediction tools,"Musa Nur Gabere, William Stafford Noble",15 February 2017,2017
+An approach to infer putative disease-specific mechanisms using neighboring gene networks,"Sahar Ansari, Michele Donato, Nafiseh Saberian, Sorin Draghici",15 February 2017,2017
+Glimma: interactive graphics for gene expression analysis,"Shian Su, Charity W Law, Casey Ah-Cann, Marie-Liesse Asselin-Labat, Marnie E Blewitt ...",15 February 2017,2017
+Succinct colored de Bruijn graphs,"Martin D Muggli, Alexander Bowe, Noelle R Noyes, Paul S Morley, Keith E Belk ...",14 February 2017,2017
+Threshold-seq: a tool for determining the threshold in short RNA-seq datasets,"Rogan Magee, Phillipe Loher, Eric Londin, Isidore Rigoutsos",14 February 2017,2017
+LASER server: ancestry tracing with genotypes or sequence reads,"Daniel Taliun, Sonia P Chothani, Sebastian Schönherr, Lukas Forer, Michael Boehnke ...",14 February 2017,2017
+Integrative analysis identifies co-dependent gene expression regulation of BRG1 and CHD7 at distal regulatory sites in embryonic stem cells,"Pengyi Yang, Andrew Oldfield, Taiyun Kim, Andrian Yang, Jean Yee Hwa Yang ...",14 February 2017,2017
+AptRank: an adaptive PageRank model for protein function prediction on   bi-relational graphs,"Biaobin Jiang, Kyle Kloster, David F Gleich, Michael Gribskov",14 February 2017,2017
+Abstracting the dynamics of biological pathways using information theory: a case study of apoptosis pathway,"Sucheendra K Palaniappan, François Bertaux, Matthieu Pichené, Eric Fabre, Gregory Batt ...",14 February 2017,2017
+IRaPPA: information retrieval based integration of biophysical models for protein assembly selection,"Iain H Moal, Didier Barradas-Bautista, Brian Jiménez-García, Mieczyslaw Torchala, Arjan van der Velde ...",14 February 2017,2017
+Genome-wide genetic heterogeneity discovery with categorical covariates,"Felipe Llinares-López, Laetitia Papaxanthos, Dean Bodenham, Damian Roqueiro, COPDGene Investigators ...",14 February 2017,2017
+SANA: simulated annealing far outperforms many other search algorithms for biological network alignment,"Nil Mamano, Wayne B Hayes",14 February 2017,2017
+nala: text mining natural language mutation mentions,"Juan Miguel Cejuela, Aleksandar Bojchevski, Carsten Uhlig, Rustem Bekmukhametov, Sanjeev Kumar Karn ...",13 February 2017,2017
+Adaptive MCMC in Bayesian phylogenetics: an application to analyzing partitioned data in BEAST,"Guy Baele, Philippe Lemey, Andrew Rambaut, Marc A Suchard",13 February 2017,2017
+PMAnalyzer: a new web interface for bacterial growth curve analysis,"Daniel A Cuevas, Robert A Edwards",13 February 2017,2017
+Statistical database analysis of the role of loop dynamics for protein–protein complex formation and allostery,"Yina Gu, Da-Wei Li, Rafael Brüschweiler",13 February 2017,2017
+Benchmarking substrate-based kinase activity inference using phosphoproteomic data,"Claudia Hernandez-Armenta, David Ochoa, Emanuel Gonçalves, Julio Saez-Rodriguez, Pedro Beltrao",13 February 2017,2017
+OncoSimulR: genetic simulation with arbitrary epistasis and mutator genes in asexual populations,Ramon Diaz-Uriarte,10 February 2017,2017
+sfinx: an R package for the elimination of false positives from affinity purification–mass spectrometry datasets,"Kevin Titeca, Pieter Meysman, Kris Laukens, Lennart Martens, Jan Tavernier ...",10 February 2017,2017
+STELLS2: fast and accurate coalescent-based maximum likelihood inference of species trees from gene tree topologies,"Jingwen Pei, Yufeng Wu",10 February 2017,2017
+FELLS: fast estimator of latent local structure,"Damiano Piovesan, Ian Walsh, Giovanni Minervini, Silvio C.E Tosatto",10 February 2017,2017
+PhosphoPICK-SNP: quantifying the effect of amino acid variants on protein phosphorylation,"Ralph Patrick, Bostjan Kobe, Kim-Anh Lê Cao, Mikael Bodén",10 February 2017,2017
+"Kollector: transcript-informed, targeted de novo assembly of gene loci","Erdi Kucuk, Justin Chu, Benjamin P Vandervalk, S Austin Hammond, René L Warren ...",10 February 2017,2017
+VALORATE: fast and accurate log-rank test in balanced and unbalanced comparisons of survival curves and cancer genomics,"Victor Treviño, Jose Tamez-Pena",10 February 2017,2017
+Binning_refiner: improving genome bins through the combination of different binning programs,"Wei-Zhi Song, Torsten Thomas",10 February 2017,2017
+Simulome: a genome sequence and variant simulator,"Adam Price, Cynthia Gibas",10 February 2017,2017
+DiagnoProt: a tool for discovery of new molecules by mass spectrometry,"André R.F Silva, Diogo B Lima, Alejandro Leyva, Rosario Duran, Carlos Batthyany ...",10 February 2017,2017
+MotifNet: a web-server for network motif analysis,"Ilan Y Smoly, Eugene Lerman, Michal Ziv-Ukelson, Esti Yeger-Lotem",09 February 2017,2017
+An efficient concordant integrative analysis of multiple large-scale two-sample expression data sets,"Yinglei Lai, Fanni Zhang, Tapan K Nayak, Reza Modarres, Norman H Lee ...",08 February 2017,2017
+cooccurNet: an R package for co-occurrence network construction and analysis,"Yuanqiang Zou, Zhiqiang Wu, Lizong Deng, Aiping Wu, Fan Wu ...",08 February 2017,2017
+Phyx: phylogenetic tools for unix,"Joseph W Brown, Joseph F Walker, Stephen A Smith",08 February 2017,2017
+GLINT: a user-friendly toolset for the analysis of high-throughput DNA-methylation array data,"Elior Rahmani, Reut Yedidim, Liat Shenhav, Regev Schweiger, Omer Weissbrod ...",08 February 2017,2017
+PatternMarkers & GWCoGAPS for novel data-driven biomarkers via whole transcriptome NMF,"Genevieve L Stein-O’Brien, Jacob L Carey, Wai Shing Lee, Michael Considine, Alexander V Favorov ...",08 February 2017,2017
+CPSS 2.0: a computational platform update for the analysis of small RNA sequencing data,"Changlin Wan, Jianing Gao, Huan Zhang, Xiaohua Jiang, Qiguang Zang ...",08 February 2017,2017
+Genotyping inversions and tandem duplications,"Jana Ebler, Alexander Schönhuth, Tobias Marschall",07 February 2017,2017
+annoPeak: a web application to annotate and visualize peaks from ChIP-seq/ChIP-exo-seq,"Xing Tang, Arunima Srivastava, Huayang Liu, Raghu Machiraju, Kun Huang ...",07 February 2017,2017
+"cyvcf2: fast, flexible variant analysis with Python","Brent S Pedersen, Aaron R Quinlan",06 February 2017,2017
+RelExplain—integrating data and networks to explain biological processes,"Evi Berchtold, Gergely Csaba, Ralf Zimmer",06 February 2017,2017
+pETM: a penalized Exponential Tilt Model for analysis of correlated high-dimensional DNA methylation data,"Hokeun Sun, Ya Wang, Yong Chen, Yun Li, Shuang Wang",06 February 2017,2017
+IntegratedMRF: random forest-based framework for integrating prediction from different data types,"Raziur Rahman, John Otridge, Ranadip Pal",06 February 2017,2017
+MetaPlotR: a Perl/R pipeline for plotting metagenes of nucleotide modifications and other transcriptomic sites,"Anthony O Olarerin-George, Samie R Jaffrey",02 February 2017,2017
+FIT: statistical modeling tool for transcriptome dynamics under fluctuating field conditions,"Koji Iwayama, Yuri Aisaka, Natsumaro Kutsuna, Atsushi J Nagano",31 January 2017,2017
+CHRR: coordinate hit-and-run with rounding for uniform sampling of constraint-based models,"Hulda S Haraldsdóttir, Ben Cousins, Ines Thiele, Ronan M.T Fleming, Santosh Vempala",31 January 2017,2017
+"Edlib: a C/C ++ library for fast, exact sequence alignment using edit distance","Martin Šošić, Mile Šikić",31 January 2017,2017
+Large-scale 16S gene assembly using metagenomics shotgun sequences,"Feng Zeng, Zicheng Wang, Ying Wang, Jizhong Zhou, Ting Chen",31 January 2017,2017
+LIQUID: an-open source software for identifying lipids in LC-MS/MS-based lipidomics data,"Jennifer E Kyle, Kevin L Crowell, Cameron P Casey, Grant M Fujimoto, Sangtae Kim ...",31 January 2017,2017
+Riborex: fast and flexible identification of differential translation from Ribo-seq data,"Wenzheng Li, Weili Wang, Philip J Uren, Luiz O F Penalva, Andrew D Smith",31 January 2017,2017
+NSSRF: global network similarity search with subgraph signatures and its applications,"Jiao Zhang, Sam Kwong, Yuheng Jia, Ka-Chun Wong",31 January 2017,2017
+Automated cell type discovery and classification through knowledge transfer,"Hao-Chih Lee, Roman Kosoy, Christine E Becker, Joel T Dudley, Brian A Kidd",31 January 2017,2017
+PALADIN: protein alignment for functional profiling whole metagenome shotgun data,"Anthony Westbrook, Jordan Ramsdell, Taruna Schuelke, Louisa Normington, R Daniel Bergeron ...",31 January 2017,2017
+Supporting precision medicine by data mining across multi-disciplines: an integrative approach for generating comprehensive linkages between single nucleotide variants (SNVs) and drug-binding sites,"Amrita Roy Choudhury, Tiejun Cheng, Lon Phan, Stephen H Bryant, Yanli Wang",31 January 2017,2017
+admixturegraph: an R package for admixture graph manipulation and fitting,"Kalle Leppälä, Svend V Nielsen, Thomas Mailund",31 January 2017,2017
+Efficient computation of transfer free energies of amino acids in beta-barrel membrane proteins,"Wei Tian, Meishan Lin, Hammad Naveed, Jie Liang",31 January 2017,2017
+Accurate prediction of human essential genes using only nucleotide composition and association information,"Feng-Biao Guo, Chuan Dong, Hong-Li Hua, Shuo Liu, Hao Luo ...",31 January 2017,2017
+Image-based surrogate biomarkers for molecular subtypes of colorectal cancer,"Vlad Popovici, Eva Budinská, Ladislav Dušek, Michal Kozubek, Fred Bosman",31 January 2017,2017
+‘COV’COP’ allows to detect CNVs responsible for inherited diseases among amplicons sequencing data,"P Derouault, B Parfait, R Moulinas, C.-C Barrot, F Sturtz ...",30 January 2017,2017
+Dscam1 web server: online prediction of Dscam1 self- and hetero-affinity,"Simone Marini, Nelson Nazzicari, Filippo Biscarini, Guang-Zhong Wang",30 January 2017,2017
+Sparse network modeling and metscape-based visualization methods for the analysis of large-scale metabolomics data,"Sumanta Basu, William Duren, Charles R Evans, Charles F Burant, George Michailidis ...",30 January 2017,2017
+HIPred: an integrative approach to predicting haploinsufficient genes,"Hashem A Shihab, Mark F Rogers, Colin Campbell, Tom R Gaunt",30 January 2017,2017
+fastMitoCalc: an ultra-fast program to estimate mitochondrial DNA copy number from whole-genome sequences,"Yong Qian, Thomas J Butler, Krista Opsahl-Ong, Nicholas S Giroux, Carlo Sidore ...",29 January 2017,2017
+Classification of RNA structure change by ‘gazing’ at experimental data,"Chanin Tolson Woods, Alain Laederach",27 January 2017,2017
+Ligandbook: an online repository for small and drug-like molecule force field parameters,"Jan Domański, Oliver Beckstein, Bogdan I Iorga",27 January 2017,2017
+Genome-wide analysis of DNA methylation profiles in a senescence-accelerated mouse prone 8 brain using whole-genome bisulfite sequencing,"Shuai Zhang, Chunxia Qin, Guoqiong Cao, Limin Guo, Chengqiang Feng ...",27 January 2017,2017
+Evolutionary design of multiple genes encoding the same protein,"Goro Terai, Satoshi Kamegai, Akito Taneda, Kiyoshi Asai",27 January 2017,2017
+Hierarchical sets: analyzing pangenome structure through scalable set visualizations,Thomas Lin Pedersen,27 January 2017,2017
+The JWS online simulation database,"Martin Peters, Johann J Eicher, David D van Niekerk, Dagmar Waltemath, Jacky L Snoep",27 January 2017,2017
+Identification of protein complexes by integrating multiple alignment of protein interaction networks,"Cheng-Yu Ma, Yi-Ping Phoebe Chen, Bonnie Berger, Chung-Shou Liao",27 January 2017,2017
+MetaShot: an accurate workflow for taxon classification of host-associated microbiome from shotgun metagenomic data,"B Fosso, M Santamaria, M D’Antonio, D Lovero, G Corrado ...",27 January 2017,2017
+A comprehensive quality control workflow for paired tumor-normal NGS experiments,"Christopher M Schroeder, Franz J Hilke, Markus W Löffler, Michael Bitzer, Florian Lenz ...",27 January 2017,2017
+Unrealistic phylogenetic trees may improve phylogenetic footprinting,"Martin Nettling, Hendrik Treutler, Jesus Cerquides, Ivo Grosse",27 January 2017,2017
+Extracting morphologies from third harmonic generation images of structurally normal human brain tissue,"Zhiqing Zhang, Nikolay V Kuzmin, Marie Louise Groot, Jan C de Munck",27 January 2017,2017
+ANAQUIN: a software toolkit for the analysis of spike-in controls for next generation sequencing,"Ted Wong, Ira W Deveson, Simon A Hardwick, Tim R Mercer",27 January 2017,2017
+H(O)TA: estimation of DNA methylation and hydroxylation levels and efficiencies from time course data,"Charalampos Kyriakopoulos, Pascal Giehr, Verena Wolf",27 January 2017,2017
+BioPAXViz: a cytoscape application for the visual exploration of metabolic pathway evolution,"Fotis E Psomopoulos, Dimitrios M Vitsios, Shakuntala Baichoo, Christos A Ouzounis",25 January 2017,2017
+ISPRED4: interaction sites PREDiction in protein structures with a refining grammar model,"Castrense Savojardo, Piero Fariselli, Pier Luigi Martelli, Rita Casadio",25 January 2017,2017
+LOCUST: a custom sequence locus typer for classifying microbial isolates,"Lauren M Brinkac, Erin Beck, Jason Inman, Pratap Venepally, Derrick E Fouts ...",25 January 2017,2017
+ASCIIGenome: a command line genome browser for console terminals,Dario Beraldi,24 January 2017,2017
+QCEWAS: automated quality control of results of epigenome-wide association studies,"Peter J Van der Most, Leanne K Küpers, Harold Snieder, Ilja Nolte",24 January 2017,2017
+"The null hypothesis of GSEA, and a novel statistical model for competitive gene set analysis",Birgit Debrabant,24 January 2017,2017
+miRmine: a database of human miRNA expression profiles,"Bharat Panwar, Gilbert S Omenn, Yuanfang Guan",20 January 2017,2017
+NetLand: quantitative modeling and visualization of Waddington’s epigenetic landscape using probabilistic potential,"Jing Guo, Feng Lin, Xiaomeng Zhang, Vivek Tanavde, Jie Zheng",20 January 2017,2017
+"aRNApipe: a balanced, efficient and distributed pipeline for processing RNA-seq data in high-performance computing environments","Arnald Alonso, Brittany N Lasseigne, Kelly Williams, Josh Nielsen, Ryne C Ramaker ...",20 January 2017,2017
+Quantification of fibrous spatial point patterns from single-molecule localization microscopy (SMLM) data,"Ruby Peters, Marta Benthem Muñiz, Juliette Griffié, David J Williamson, George W Ashdown ...",20 January 2017,2017
+Better diagnostic signatures from RNAseq data through use of auxiliary co-data,"Putri W Novianti, Barbara C Snoek, Saskia M Wilting, Mark A van de Wiel",20 January 2017,2017
+GWAR: robust analysis and meta-analysis of genome-wide association studies,"Niki L Dimou, Konstantinos D Tsirigos, Arne Elofsson, Pantelis G Bagos",20 January 2017,2017
+chainCleaner improves genome alignment specificity and sensitivity,"Hernando G Suarez, Bjoern E Langer, Pradnya Ladde, Michael Hiller",20 January 2017,2017
+Multi-rate Poisson tree processes for single-locus species delimitation under maximum likelihood and Markov chain Monte Carlo,"P Kapli, S Lutteropp, J Zhang, K Kobert, P Pavlidis ...",20 January 2017,2017
+Biomartr: genomic data retrieval with R,"Hajk-Georg Drost, Jerzy Paszkowski",20 January 2017,2017
+Historian: accurate reconstruction of ancestral sequences and evolutionary rates,Ian H Holmes,18 January 2017,2017
+Introducing COCOS: codon consequence scanner for annotating reading frame changes induced by stop-lost and frame shift variants,"Mariusz Butkiewicz, Jonathan L Haines, William S Bush",18 January 2017,2017
+PhenoCurve: capturing dynamic phenotype-environment relationships using phenomics data,"Yifan Yang, Lei Xu, Zheyun Feng, Jeffrey A Cruz, Linda J Savage ...",18 January 2017,2017
+Linearity of network proximity measures: implications for set-based queries and significance testing,"Sean Maxwell, Mark R Chance, Mehmet Koyutürk",18 January 2017,2017
+Correlated mutations select misfolded from properly folded proteins,"P P Wozniak, G Vriend, M Kotulska",17 January 2017,2017
+MAPPI-DAT: data management and analysis for protein–protein interaction data from the high-throughput MAPPIT cell microarray platform,"Surya Gupta, Veronic De Puysseleyr, José Van der Heyden, Davy Maddelein, Irma Lemmens ...",17 January 2017,2017
+TimesVector: a vectorized clustering approach to the analysis of time series transcriptome data from multiple phenotypes,"Inuk Jung, Kyuri Jo, Hyejin Kang, Hongryul Ahn, Youngjae Yu ...",17 January 2017,2017
+Improved orthology inference with Hieranoid 2,"Mateusz Kaduk, Erik Sonnhammer",17 January 2017,2017
+myGenomeBrowser: building and sharing your own genome browser,"Sébastien Carrere, Jérôme Gouzy",17 January 2017,2017
+LRSSL: predict and interpret drug–disease associations based on data integration using sparse subspace learning,"Xujun Liang, Pengfei Zhang, Lu Yan, Ying Fu, Fang Peng ...",17 January 2017,2017
+"Fast admixture analysis and population tree estimation for SNP and NGS
+          data","Jade Yu Cheng, Thomas Mailund, Rasmus Nielsen",17 January 2017,2017
+Development and application of an algorithm to compute weighted multiple glycan alignments,"Masae Hosoda, Yukie Akune, Kiyoko F Aoki-Kinoshita",16 January 2017,2017
+VCF-kit: assorted utilities for the variant call format,"Daniel E Cook, Erik C Andersen",16 January 2017,2017
+The genetic map comparator: a user-friendly application to display and compare genetic maps,"Yan Holtz, Jacques Léon David, Vincent Ranwez",16 January 2017,2017
+Sphinx: merging knowledge-based and ab initio approaches to improve protein loop prediction,"Claire Marks, Jaroslaw Nowak, Stefan Klostermann, Guy Georges, James Dunbar ...",16 January 2017,2017
+"DistributedFBA.jl: high-level, high-performance flux balance analysis in Julia","Laurent Heirendt, Ines Thiele, Ronan M T Fleming",16 January 2017,2017
+Protein multiple sequence alignment benchmarking through secondary structure prediction,"Quan Le, Fabian Sievers, Desmond G Higgins",16 January 2017,2017
+DeuteRater: a tool for quantifying peptide isotope precision and kinetic proteomics,"Bradley C Naylor, Michael T Porter, Elise Wilson, Adam Herring, Spencer Lofthouse ...",16 January 2017,2017
+FASTdoop: a versatile and efficient library for the input of FASTA and FASTQ files for MapReduce Hadoop bioinformatics applications,"Umberto Ferraro Petrillo, Gianluca Roscigno, Giuseppe Cattaneo, Raffaele Giancarlo",16 January 2017,2017
+MobiDB-lite: fast and highly specific consensus prediction of intrinsic disorder in proteins,"Marco Necci, Damiano Piovesan, Zsuzsanna Dosztányi, Silvio C.E Tosatto",16 January 2017,2017
+The super-n-motifs model: a novel alignment-free approach for representing and comparing RNA secondary structures,"Jean-Pierre Séhi Glouzon, Jean-Pierre Perreault, Shengrui Wang",14 January 2017,2017
+"Scater: pre-processing, quality control, normalization and visualization of single-cell RNA-seq data in R","Davis J McCarthy, Kieran R Campbell, Aaron T L Lun, Quin F Wills",14 January 2017,2017
+H-BLAST: a fast protein sequence alignment toolkit on heterogeneous computers with GPUs,"Weicai Ye, Ying Chen, Yongdong Zhang, Yuesheng Xu",12 January 2017,2017
+AnglerFish: a webserver for defining the geometry of α-helices in membrane proteins,"Matthew Colledge, B A Wallace",12 January 2017,2017
+Seeing the trees through the forest: sequence-based homo- and heteromeric protein-protein interaction sites prediction using random forest,"Qingzhen Hou, Paul F G De Geest, Wim F Vranken, Jaap Heringa, K Anton Feenstra",12 January 2017,2017
+A DNA intercalation methodology for an efficient prediction of ligand binding pose and energetics,"Anjali Soni, Pooja Khurana, Tanya Singh, B Jayaram",12 January 2017,2017
+RADER: a RApid DEcoy Retriever to facilitate decoy based assessment of virtual screening,"Ling Wang, Xiaoqian Pang, Yecheng Li, Ziying Zhang, Wen Tan",12 January 2017,2017
+"SED-ML web tools: generate, modify and export standard-compliant simulation studies","Frank T Bergmann, David Nickerson, Dagmar Waltemath, Martin Scharm",10 January 2017,2017
+KNIME4NGS: a comprehensive toolbox for next generation sequencing analysis,"Maximilian Hastreiter, Tim Jeske, Jonathan Hoser, Michael Kluge, Kaarin Ahomaa ...",09 January 2017,2017
+SigMod: an exact and efficient method to identify a strongly interconnected disease-associated module in a gene network,"Yuanlong Liu, Myriam Brossard, Damian Roqueiro, Patricia Margaritte-Jeannin, Chloé Sarnowski ...",09 January 2017,2017
+Bayesian network–response regression,"Lu Wang, Daniele Durante, Rex E Jung, David B Dunson",06 January 2017,2017
+Advanced Boolean modeling of biological networks applied to systems pharmacology,"Itziar Irurzun-Arana, José Martín Pastor, Iñaki F Trocóniz, José David Gómez-Mantilla",05 January 2017,2017
+Rebuttal to the Letter to the Editor in response to the paper: proper evaluation of alignment-free network comparison methods,"Ömer Nebil Yaveroğlu, Noël Malod-Dognin, Tijana Milenković, Nataša Pržulj",05 January 2017,2017
+ORCAN—a web-based meta-server for real-time detection and functional annotation of orthologs,"Andrzej Zielezinski, Michal Dziubek, Jan Sliski, Wojciech M Karlowski",05 January 2017,2017
+AFS: identification and quantification of species composition by metagenomic sequencing,"Yongchao Liu, Fabian Ripp, Rene Koeppel, Hanno Schmidt, Sören Lukas Hellmann ...",05 January 2017,2017
+ntCard: a streaming algorithm for cardinality estimation in genomics data,"Hamid Mohamadi, Hamza Khan, Inanc Birol",05 January 2017,2017
+Powerful differential expression analysis incorporating network topology for next-generation sequencing data,"Malathi S.I Dona, Luke A Prendergast, Suresh Mathivanan, Shivakumar Keerthikumar, Agus Salim",05 January 2017,2017
+CircosVCF: circos visualization of whole-genome sequence variations stored in VCF files,"E Drori, D Levy, P Smirin-Yosef, O Rahimi, M Salmon-Divon",05 January 2017,2017
+"phyloSkeleton: taxon selection, data retrieval and marker identification for phylogenomics",Lionel Guy,05 January 2017,2017
+VEXOR: an integrative environment for prioritization of functional variants in fine-mapping analysis,"Audrey Lemaçon, Charles Joly Beauparlant, Penny Soucy, Jamie Allen, Douglas Easton ...",05 January 2017,2017
+Modeling gene-wise dependencies improves the identification of drug response biomarkers in cancer studies,"Olga Nikolova, Russell Moser, Christopher Kemp, Mehmet Gönen, Adam A Margolin",05 January 2017,2017
+An informative approach on differential abundance analysis for time-course metagenomic sequencing data,"Dan Luo, Sara Ziebell, Lingling An",05 January 2017,2017
+SPOT-ligand 2: improving structure-based virtual screening by binding-homology search on an expanded structural template library,"Thomas Litfin, Yaoqi Zhou, Yuedong Yang",05 January 2017,2017
+AFRESh: an adaptive framework for compression of reads and assembled sequences with random access functionality,"Tom Paridaens, Glenn Van Wallendael, Wesley De Neve, Peter Lambert",05 January 2017,2017
+Feature selection using a one dimensional naïve Bayes’ classifier increases the accuracy of support vector machine classification of CDR3 repertoires,"Mattia Cinelli, , Yuxin Sun, Katharine Best, James M Heather, Shlomit Reich-Zeliger ...",05 January 2017,2017
+"Resolution and reconciliation of non-binary gene trees with transfers, duplications 
+and losses","Edwin Jacox, Mathias Weller, Eric Tannier, Celine Scornavacca",05 January 2017,2017
+GDISC: a web portal for integrative analysis of gene–drug interaction for survival in cancer,"John Christian Givhan Spainhour, Juho Lim, Peng Qiu",05 January 2017,2017
+Automated neuron tracing using probability hypothesis density filtering,"Miroslav Radojević, Erik Meijering",04 January 2017,2017
+MetaSpark: a spark-based distributed processing tool to recruit metagenomic reads to reference genomes,"Wei Zhou, Ruilin Li, Shuo Yuan, ChangChun Liu, Shaowen Yao ...",04 January 2017,2017
+Fast and accurate phylogeny reconstruction using filtered spaced-word matches,"Chris-André Leimeister, Salma Sohrabi-Jahromi, Burkhard Morgenstern",04 January 2017,2017
+Lineage-specific mutational clustering in protein structures predicts evolutionary shifts in function,"Jeremy Adams, Michael J Mansfield, Daniel J Richard, Andrew C Doxey",04 January 2017,2017
+Planning bioinformatics workflows using an expert system,"Xiaoling Chen, Jeffrey T Chang",04 January 2017,2017
+ProQ3D: improved model quality assessments using deep learning,"Karolis Uziela, David Menéndez Hurtado, Nanjiang Shu, Björn Wallner, Arne Elofsson",04 January 2017,2017
+Primerize-2D: automated primer design for RNA multidimensional chemical mapping,"Siqi Tian, Rhiju Das",04 January 2017,2017
+LncRNA/DNA binding analysis reveals losses and gains and lineage specificity of genomic imprinting in mammals,"Haihua Liu, Xiaoxiao Shang, Hao Zhu",04 January 2017,2017
+Statistical inference of protein structural alignments using information and compression,"James H Collier, Lloyd Allison, Arthur M Lesk, Peter J Stuckey, Maria Garcia de la Banda ...",04 January 2017,2017
+SVScore: an impact prediction tool for structural variation,"Liron Ganel, Haley J Abel, FinMetSeq Consortium, Ira M Hall",03 January 2017,2017
+Virtual exploration of early stage atherosclerosis,"Andy L Olivares, Miguel A González Ballester, Jérôme Noailly",03 January 2017,2017
