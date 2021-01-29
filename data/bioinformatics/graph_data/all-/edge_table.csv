@@ -1,0 +1,1529 @@
+Source,Target,Title,Year,Citations
+0,1,PanViz: interactive visualization of the structure of functionally annotated pangenomes,2017.0,12.0
+0,2,PanViz: interactive visualization of the structure of functionally annotated pangenomes,2017.0,12.0
+0,3,PanViz: interactive visualization of the structure of functionally annotated pangenomes,2017.0,12.0
+1,0,PanViz: interactive visualization of the structure of functionally annotated pangenomes,2017.0,12.0
+1,2,PanViz: interactive visualization of the structure of functionally annotated pangenomes,2017.0,12.0
+1,3,PanViz: interactive visualization of the structure of functionally annotated pangenomes,2017.0,12.0
+2,0,PanViz: interactive visualization of the structure of functionally annotated pangenomes,2017.0,12.0
+2,1,PanViz: interactive visualization of the structure of functionally annotated pangenomes,2017.0,12.0
+2,3,PanViz: interactive visualization of the structure of functionally annotated pangenomes,2017.0,12.0
+3,0,PanViz: interactive visualization of the structure of functionally annotated pangenomes,2017.0,12.0
+3,1,PanViz: interactive visualization of the structure of functionally annotated pangenomes,2017.0,12.0
+3,2,PanViz: interactive visualization of the structure of functionally annotated pangenomes,2017.0,12.0
+4,5,KMC 3: counting and manipulating k-mer statistics,2017.0,nan
+4,5,RECKONER: read error corrector based on KMC,2017.0,10.0
+4,5,Kmer-db: instant evolutionary distance estimation,2019.0,9.0
+4,4581,KMC 3: counting and manipulating k-mer statistics,2017.0,nan
+4,4581,Kmer-db: instant evolutionary distance estimation,2019.0,9.0
+4,5852,Kmer-db: instant evolutionary distance estimation,2019.0,9.0
+4,6947,Kmer-db: instant evolutionary distance estimation,2019.0,9.0
+5,4,KMC 3: counting and manipulating k-mer statistics,2017.0,nan
+5,4,RECKONER: read error corrector based on KMC,2017.0,10.0
+5,4,Kmer-db: instant evolutionary distance estimation,2019.0,9.0
+5,900,FaStore: a space-saving solution for raw sequencing data,2018.0,28.0
+5,901,FaStore: a space-saving solution for raw sequencing data,2018.0,28.0
+5,4581,KMC 3: counting and manipulating k-mer statistics,2017.0,nan
+5,4581,Kmer-db: instant evolutionary distance estimation,2019.0,9.0
+5,5851,CoMSA: compression of protein multiple sequence alignment files,2019.0,4.0
+5,5851,Whisper: read sorting allows robust mapping of DNA sequencing data,2019.0,1.0
+5,5852,Kmer-db: instant evolutionary distance estimation,2019.0,9.0
+5,5852,Whisper: read sorting allows robust mapping of DNA sequencing data,2019.0,1.0
+5,5853,Whisper: read sorting allows robust mapping of DNA sequencing data,2019.0,1.0
+5,6933,CoMSA: compression of protein multiple sequence alignment files,2019.0,4.0
+5,6947,GTShark: genotype compression in large projects,2020.0,2.0
+5,6947,Kmer-db: instant evolutionary distance estimation,2019.0,9.0
+5,6947,GTC: how to maintain huge genotype collections in a compressed form,2018.0,13.0
+5,7864,FaStore: a space-saving solution for raw sequencing data,2018.0,28.0
+6,7,pHMM-tree: phylogeny of profile hidden Markov models,2017.0,14.0
+6,8,pHMM-tree: phylogeny of profile hidden Markov models,2017.0,14.0
+6,9,pHMM-tree: phylogeny of profile hidden Markov models,2017.0,14.0
+6,10,pHMM-tree: phylogeny of profile hidden Markov models,2017.0,14.0
+7,6,pHMM-tree: phylogeny of profile hidden Markov models,2017.0,14.0
+7,8,pHMM-tree: phylogeny of profile hidden Markov models,2017.0,14.0
+7,9,pHMM-tree: phylogeny of profile hidden Markov models,2017.0,14.0
+7,10,pHMM-tree: phylogeny of profile hidden Markov models,2017.0,14.0
+7,2269,eCAMI: simultaneous classification and motif identification for enzyme annotation,2020.0,2.0
+7,3340,Detecting hidden batch factors through data-adaptive adjustment for biological effects,2018.0,6.0
+7,3341,Detecting hidden batch factors through data-adaptive adjustment for biological effects,2018.0,6.0
+7,3342,Detecting hidden batch factors through data-adaptive adjustment for biological effects,2018.0,6.0
+7,3343,Detecting hidden batch factors through data-adaptive adjustment for biological effects,2018.0,6.0
+7,5562,CSHAP: efficient haplotype frequency estimation based on sparse representation,2019.0,1.0
+7,5563,CSHAP: efficient haplotype frequency estimation based on sparse representation,2019.0,1.0
+7,7950,eCAMI: simultaneous classification and motif identification for enzyme annotation,2020.0,2.0
+7,8545,eCAMI: simultaneous classification and motif identification for enzyme annotation,2020.0,2.0
+7,8546,eCAMI: simultaneous classification and motif identification for enzyme annotation,2020.0,2.0
+8,6,pHMM-tree: phylogeny of profile hidden Markov models,2017.0,14.0
+8,7,pHMM-tree: phylogeny of profile hidden Markov models,2017.0,14.0
+8,9,pHMM-tree: phylogeny of profile hidden Markov models,2017.0,14.0
+8,10,pHMM-tree: phylogeny of profile hidden Markov models,2017.0,14.0
+9,6,pHMM-tree: phylogeny of profile hidden Markov models,2017.0,14.0
+9,7,pHMM-tree: phylogeny of profile hidden Markov models,2017.0,14.0
+9,8,pHMM-tree: phylogeny of profile hidden Markov models,2017.0,14.0
+9,10,pHMM-tree: phylogeny of profile hidden Markov models,2017.0,14.0
+10,6,pHMM-tree: phylogeny of profile hidden Markov models,2017.0,14.0
+10,7,pHMM-tree: phylogeny of profile hidden Markov models,2017.0,14.0
+10,8,pHMM-tree: phylogeny of profile hidden Markov models,2017.0,14.0
+10,9,pHMM-tree: phylogeny of profile hidden Markov models,2017.0,14.0
+11,12,RImmPort: an R/Bioconductor package that enables ready-for-analysis immunology research data,2017.0,6.0
+11,13,RImmPort: an R/Bioconductor package that enables ready-for-analysis immunology research data,2017.0,6.0
+11,14,RImmPort: an R/Bioconductor package that enables ready-for-analysis immunology research data,2017.0,6.0
+11,15,RImmPort: an R/Bioconductor package that enables ready-for-analysis immunology research data,2017.0,6.0
+12,11,RImmPort: an R/Bioconductor package that enables ready-for-analysis immunology research data,2017.0,6.0
+12,13,RImmPort: an R/Bioconductor package that enables ready-for-analysis immunology research data,2017.0,6.0
+12,14,RImmPort: an R/Bioconductor package that enables ready-for-analysis immunology research data,2017.0,6.0
+12,15,RImmPort: an R/Bioconductor package that enables ready-for-analysis immunology research data,2017.0,6.0
+13,11,RImmPort: an R/Bioconductor package that enables ready-for-analysis immunology research data,2017.0,6.0
+13,12,RImmPort: an R/Bioconductor package that enables ready-for-analysis immunology research data,2017.0,6.0
+13,14,RImmPort: an R/Bioconductor package that enables ready-for-analysis immunology research data,2017.0,6.0
+13,15,RImmPort: an R/Bioconductor package that enables ready-for-analysis immunology research data,2017.0,6.0
+14,11,RImmPort: an R/Bioconductor package that enables ready-for-analysis immunology research data,2017.0,6.0
+14,12,RImmPort: an R/Bioconductor package that enables ready-for-analysis immunology research data,2017.0,6.0
+14,13,RImmPort: an R/Bioconductor package that enables ready-for-analysis immunology research data,2017.0,6.0
+14,15,RImmPort: an R/Bioconductor package that enables ready-for-analysis immunology research data,2017.0,6.0
+15,11,RImmPort: an R/Bioconductor package that enables ready-for-analysis immunology research data,2017.0,6.0
+15,12,RImmPort: an R/Bioconductor package that enables ready-for-analysis immunology research data,2017.0,6.0
+15,13,RImmPort: an R/Bioconductor package that enables ready-for-analysis immunology research data,2017.0,6.0
+15,14,RImmPort: an R/Bioconductor package that enables ready-for-analysis immunology research data,2017.0,6.0
+16,17,Cross-React: a new structural bioinformatics method for predicting allergen cross-reactivity,2017.0,20.0
+17,16,Cross-React: a new structural bioinformatics method for predicting allergen cross-reactivity,2017.0,20.0
+18,19,A comprehensive benchmark of RNA–RNA interaction prediction tools for all domains of life,2017.0,32.0
+19,18,A comprehensive benchmark of RNA–RNA interaction prediction tools for all domains of life,2017.0,32.0
+19,1169,A profile-based method for identifying functional divergence of orthologous genes in bacterial genomes,2016.0,16.0
+19,1170,A profile-based method for identifying functional divergence of orthologous genes in bacterial genomes,2016.0,16.0
+19,1171,A profile-based method for identifying functional divergence of orthologous genes in bacterial genomes,2016.0,16.0
+19,12409,Solubility-Weighted Index: fast and accurate prediction of protein solubility,2020.0,2.0
+19,12410,Solubility-Weighted Index: fast and accurate prediction of protein solubility,2020.0,2.0
+20,21,Recon2Neo4j: applying graph database technologies for managing comprehensive genome-scale networks,2017.0,15.0
+20,21,cd2sbgnml: bidirectional conversion between CellDesigner and SBGN formats,2020.0,4.0
+20,22,Recon2Neo4j: applying graph database technologies for managing comprehensive genome-scale networks,2017.0,15.0
+20,23,Recon2Neo4j: applying graph database technologies for managing comprehensive genome-scale networks,2017.0,15.0
+20,24,Recon2Neo4j: applying graph database technologies for managing comprehensive genome-scale networks,2017.0,15.0
+20,4899,cd2sbgnml: bidirectional conversion between CellDesigner and SBGN formats,2020.0,4.0
+20,11495,cd2sbgnml: bidirectional conversion between CellDesigner and SBGN formats,2020.0,4.0
+20,11496,cd2sbgnml: bidirectional conversion between CellDesigner and SBGN formats,2020.0,4.0
+21,20,Recon2Neo4j: applying graph database technologies for managing comprehensive genome-scale networks,2017.0,15.0
+21,20,cd2sbgnml: bidirectional conversion between CellDesigner and SBGN formats,2020.0,4.0
+21,22,Recon2Neo4j: applying graph database technologies for managing comprehensive genome-scale networks,2017.0,15.0
+21,23,Recon2Neo4j: applying graph database technologies for managing comprehensive genome-scale networks,2017.0,15.0
+21,24,Recon2Neo4j: applying graph database technologies for managing comprehensive genome-scale networks,2017.0,15.0
+21,4899,cd2sbgnml: bidirectional conversion between CellDesigner and SBGN formats,2020.0,4.0
+21,11495,cd2sbgnml: bidirectional conversion between CellDesigner and SBGN formats,2020.0,4.0
+21,11496,cd2sbgnml: bidirectional conversion between CellDesigner and SBGN formats,2020.0,4.0
+22,20,Recon2Neo4j: applying graph database technologies for managing comprehensive genome-scale networks,2017.0,15.0
+22,21,Recon2Neo4j: applying graph database technologies for managing comprehensive genome-scale networks,2017.0,15.0
+22,23,Recon2Neo4j: applying graph database technologies for managing comprehensive genome-scale networks,2017.0,15.0
+22,24,Recon2Neo4j: applying graph database technologies for managing comprehensive genome-scale networks,2017.0,15.0
+23,20,Recon2Neo4j: applying graph database technologies for managing comprehensive genome-scale networks,2017.0,15.0
+23,21,Recon2Neo4j: applying graph database technologies for managing comprehensive genome-scale networks,2017.0,15.0
+23,22,Recon2Neo4j: applying graph database technologies for managing comprehensive genome-scale networks,2017.0,15.0
+23,24,Recon2Neo4j: applying graph database technologies for managing comprehensive genome-scale networks,2017.0,15.0
+24,20,Recon2Neo4j: applying graph database technologies for managing comprehensive genome-scale networks,2017.0,15.0
+24,21,Recon2Neo4j: applying graph database technologies for managing comprehensive genome-scale networks,2017.0,15.0
+24,22,Recon2Neo4j: applying graph database technologies for managing comprehensive genome-scale networks,2017.0,15.0
+24,23,Recon2Neo4j: applying graph database technologies for managing comprehensive genome-scale networks,2017.0,15.0
+25,26,Predict drug permeability to blood–brain-barrier from clinical phenotypes: drug side effects and drug indications,2017.0,22.0
+25,26,A Drug-Side Effect Context-Sensitive Network approach for drug target prediction,2019.0,7.0
+25,26,Context-sensitive network-based disease genetics prediction and its implications in drug discovery,2017.0,16.0
+25,188,Predict drug permeability to blood–brain-barrier from clinical phenotypes: drug side effects and drug indications,2017.0,22.0
+25,189,Predict drug permeability to blood–brain-barrier from clinical phenotypes: drug side effects and drug indications,2017.0,22.0
+25,5836,A Drug-Side Effect Context-Sensitive Network approach for drug target prediction,2019.0,7.0
+26,25,Predict drug permeability to blood–brain-barrier from clinical phenotypes: drug side effects and drug indications,2017.0,22.0
+26,25,A Drug-Side Effect Context-Sensitive Network approach for drug target prediction,2019.0,7.0
+26,25,Context-sensitive network-based disease genetics prediction and its implications in drug discovery,2017.0,16.0
+26,188,Predict drug permeability to blood–brain-barrier from clinical phenotypes: drug side effects and drug indications,2017.0,22.0
+26,189,Predict drug permeability to blood–brain-barrier from clinical phenotypes: drug side effects and drug indications,2017.0,22.0
+26,5836,A Drug-Side Effect Context-Sensitive Network approach for drug target prediction,2019.0,7.0
+26,5836,Combining phenome-driven drug-target interaction prediction with patients’ electronic health records-based clinical corroboration toward drug discovery,2020.0,5.0
+26,7602,An iterative approach to detect pleiotropy and perform Mendelian Randomization analysis using GWAS summary statistics,2020.0,2.0
+26,8440,An iterative approach to detect pleiotropy and perform Mendelian Randomization analysis using GWAS summary statistics,2020.0,2.0
+26,11357,An iterative approach to detect pleiotropy and perform Mendelian Randomization analysis using GWAS summary statistics,2020.0,2.0
+26,12225,Combining phenome-driven drug-target interaction prediction with patients’ electronic health records-based clinical corroboration toward drug discovery,2020.0,5.0
+27,28,The structural bioinformatics library: modeling in biomolecular science and beyond,2017.0,31.0
+28,27,The structural bioinformatics library: modeling in biomolecular science and beyond,2017.0,31.0
+29,30,"A new method for decontamination of de novo transcriptomes using a hierarchical 
+clustering algorithm",2017.0,16.0
+29,31,"A new method for decontamination of de novo transcriptomes using a hierarchical 
+clustering algorithm",2017.0,16.0
+29,32,"A new method for decontamination of de novo transcriptomes using a hierarchical 
+clustering algorithm",2017.0,16.0
+29,33,"A new method for decontamination of de novo transcriptomes using a hierarchical 
+clustering algorithm",2017.0,16.0
+30,29,"A new method for decontamination of de novo transcriptomes using a hierarchical 
+clustering algorithm",2017.0,16.0
+30,31,"A new method for decontamination of de novo transcriptomes using a hierarchical 
+clustering algorithm",2017.0,16.0
+30,32,"A new method for decontamination of de novo transcriptomes using a hierarchical 
+clustering algorithm",2017.0,16.0
+30,33,"A new method for decontamination of de novo transcriptomes using a hierarchical 
+clustering algorithm",2017.0,16.0
+31,29,"A new method for decontamination of de novo transcriptomes using a hierarchical 
+clustering algorithm",2017.0,16.0
+31,30,"A new method for decontamination of de novo transcriptomes using a hierarchical 
+clustering algorithm",2017.0,16.0
+31,32,"A new method for decontamination of de novo transcriptomes using a hierarchical 
+clustering algorithm",2017.0,16.0
+31,33,"A new method for decontamination of de novo transcriptomes using a hierarchical 
+clustering algorithm",2017.0,16.0
+31,3822,Structurexplor: a platform for the exploration of structural features of RNA secondary structures,2017.0,3.0
+31,3822,The super-n-motifs model: a novel alignment-free approach for representing and comparing RNA secondary structures,2017.0,9.0
+31,4404,Structurexplor: a platform for the exploration of structural features of RNA secondary structures,2017.0,3.0
+31,4404,The super-n-motifs model: a novel alignment-free approach for representing and comparing RNA secondary structures,2017.0,9.0
+32,29,"A new method for decontamination of de novo transcriptomes using a hierarchical 
+clustering algorithm",2017.0,16.0
+32,30,"A new method for decontamination of de novo transcriptomes using a hierarchical 
+clustering algorithm",2017.0,16.0
+32,31,"A new method for decontamination of de novo transcriptomes using a hierarchical 
+clustering algorithm",2017.0,16.0
+32,33,"A new method for decontamination of de novo transcriptomes using a hierarchical 
+clustering algorithm",2017.0,16.0
+33,29,"A new method for decontamination of de novo transcriptomes using a hierarchical 
+clustering algorithm",2017.0,16.0
+33,30,"A new method for decontamination of de novo transcriptomes using a hierarchical 
+clustering algorithm",2017.0,16.0
+33,31,"A new method for decontamination of de novo transcriptomes using a hierarchical 
+clustering algorithm",2017.0,16.0
+33,32,"A new method for decontamination of de novo transcriptomes using a hierarchical 
+clustering algorithm",2017.0,16.0
+34,35,Image-based correction of continuous and discontinuous non-planar axial distortion in serial section microscopy,2017.0,16.0
+34,36,Image-based correction of continuous and discontinuous non-planar axial distortion in serial section microscopy,2017.0,16.0
+35,34,Image-based correction of continuous and discontinuous non-planar axial distortion in serial section microscopy,2017.0,16.0
+35,36,Image-based correction of continuous and discontinuous non-planar axial distortion in serial section microscopy,2017.0,16.0
+36,34,Image-based correction of continuous and discontinuous non-planar axial distortion in serial section microscopy,2017.0,16.0
+36,35,Image-based correction of continuous and discontinuous non-planar axial distortion in serial section microscopy,2017.0,16.0
+36,4748,PreMosa: extracting 2D surfaces from 3D microscopy mosaics,2017.0,12.0
+36,4749,PreMosa: extracting 2D surfaces from 3D microscopy mosaics,2017.0,12.0
+36,4750,PreMosa: extracting 2D surfaces from 3D microscopy mosaics,2017.0,12.0
+36,4751,PreMosa: extracting 2D surfaces from 3D microscopy mosaics,2017.0,12.0
+37,38,Toward fast and accurate SNP genotyping from whole genome sequencing data for bedside diagnostics,2019.0,12.0
+37,38,VarMatch: robust matching of small variant datasets using flexible scoring schemes,2017.0,13.0
+37,4696,EUPAN enables pan-genome studies of a large number of eukaryotic genomes,2017.0,17.0
+37,4697,EUPAN enables pan-genome studies of a large number of eukaryotic genomes,2017.0,17.0
+37,4698,EUPAN enables pan-genome studies of a large number of eukaryotic genomes,2017.0,17.0
+37,4699,EUPAN enables pan-genome studies of a large number of eukaryotic genomes,2017.0,17.0
+38,37,Toward fast and accurate SNP genotyping from whole genome sequencing data for bedside diagnostics,2019.0,12.0
+38,37,VarMatch: robust matching of small variant datasets using flexible scoring schemes,2017.0,13.0
+38,696,TwoPaCo: an efficient algorithm to build the compacted de Bruijn graph from many complete genomes,2017.0,51.0
+38,697,TwoPaCo: an efficient algorithm to build the compacted de Bruijn graph from many complete genomes,2017.0,51.0
+38,1678,Compacting de Bruijn graphs from sequencing data quickly and in low memory,2016.0,97.0
+38,1679,Compacting de Bruijn graphs from sequencing data quickly and in low memory,2016.0,97.0
+38,2938,Improved representation of sequence bloom trees,2018.0,13.0
+39,40,switchde: inference of switch-like differential expression along single-cell trajectories,2017.0,18.0
+39,40,A descriptive marker gene approach to single-cell pseudotime inference,2017.0,850.0
+39,2025,"Scater: pre-processing, quality control, normalization and visualization of single-cell RNA-seq data in R",2017.0,509.0
+39,5408,"Scater: pre-processing, quality control, normalization and visualization of single-cell RNA-seq data in R",2017.0,509.0
+39,5409,"Scater: pre-processing, quality control, normalization and visualization of single-cell RNA-seq data in R",2017.0,509.0
+40,39,A descriptive marker gene approach to single-cell pseudotime inference,2017.0,850.0
+40,39,switchde: inference of switch-like differential expression along single-cell trajectories,2017.0,18.0
+41,42,Wright–Fisher exact solver (WFES): scalable analysis of population genetic models without simulation or diffusion theory,2017.0,8.0
+41,43,Wright–Fisher exact solver (WFES): scalable analysis of population genetic models without simulation or diffusion theory,2017.0,8.0
+41,7608,Improved enzyme annotation with EC-specific cutoffs using DETECT v2,2018.0,7.0
+41,7609,Improved enzyme annotation with EC-specific cutoffs using DETECT v2,2018.0,7.0
+41,7610,Improved enzyme annotation with EC-specific cutoffs using DETECT v2,2018.0,7.0
+41,7611,Improved enzyme annotation with EC-specific cutoffs using DETECT v2,2018.0,7.0
+42,41,Wright–Fisher exact solver (WFES): scalable analysis of population genetic models without simulation or diffusion theory,2017.0,8.0
+42,43,Wright–Fisher exact solver (WFES): scalable analysis of population genetic models without simulation or diffusion theory,2017.0,8.0
+43,41,Wright–Fisher exact solver (WFES): scalable analysis of population genetic models without simulation or diffusion theory,2017.0,8.0
+43,42,Wright–Fisher exact solver (WFES): scalable analysis of population genetic models without simulation or diffusion theory,2017.0,8.0
+43,4752,EzMap: a simple pipeline for reproducible analysis of the human virome,2017.0,3.0
+43,4753,EzMap: a simple pipeline for reproducible analysis of the human virome,2017.0,3.0
+44,45,Algorithm sensitivity analysis and parameter tuning for tissue image segmentation pipelines,2017.0,20.0
+44,46,Algorithm sensitivity analysis and parameter tuning for tissue image segmentation pipelines,2017.0,20.0
+44,47,Algorithm sensitivity analysis and parameter tuning for tissue image segmentation pipelines,2017.0,20.0
+44,48,Algorithm sensitivity analysis and parameter tuning for tissue image segmentation pipelines,2017.0,20.0
+45,44,Algorithm sensitivity analysis and parameter tuning for tissue image segmentation pipelines,2017.0,20.0
+45,46,Algorithm sensitivity analysis and parameter tuning for tissue image segmentation pipelines,2017.0,20.0
+45,47,Algorithm sensitivity analysis and parameter tuning for tissue image segmentation pipelines,2017.0,20.0
+45,48,Algorithm sensitivity analysis and parameter tuning for tissue image segmentation pipelines,2017.0,20.0
+46,44,Algorithm sensitivity analysis and parameter tuning for tissue image segmentation pipelines,2017.0,20.0
+46,45,Algorithm sensitivity analysis and parameter tuning for tissue image segmentation pipelines,2017.0,20.0
+46,47,Algorithm sensitivity analysis and parameter tuning for tissue image segmentation pipelines,2017.0,20.0
+46,48,Algorithm sensitivity analysis and parameter tuning for tissue image segmentation pipelines,2017.0,20.0
+47,44,Algorithm sensitivity analysis and parameter tuning for tissue image segmentation pipelines,2017.0,20.0
+47,45,Algorithm sensitivity analysis and parameter tuning for tissue image segmentation pipelines,2017.0,20.0
+47,46,Algorithm sensitivity analysis and parameter tuning for tissue image segmentation pipelines,2017.0,20.0
+47,48,Algorithm sensitivity analysis and parameter tuning for tissue image segmentation pipelines,2017.0,20.0
+48,44,Algorithm sensitivity analysis and parameter tuning for tissue image segmentation pipelines,2017.0,20.0
+48,45,Algorithm sensitivity analysis and parameter tuning for tissue image segmentation pipelines,2017.0,20.0
+48,46,Algorithm sensitivity analysis and parameter tuning for tissue image segmentation pipelines,2017.0,20.0
+48,47,Algorithm sensitivity analysis and parameter tuning for tissue image segmentation pipelines,2017.0,20.0
+49,50,ontologyX: a suite of R packages for working with ontological data,2017.0,33.0
+49,51,ontologyX: a suite of R packages for working with ontological data,2017.0,33.0
+50,49,ontologyX: a suite of R packages for working with ontological data,2017.0,33.0
+50,51,ontologyX: a suite of R packages for working with ontological data,2017.0,33.0
+51,49,ontologyX: a suite of R packages for working with ontological data,2017.0,33.0
+51,50,ontologyX: a suite of R packages for working with ontological data,2017.0,33.0
+52,53,Improved VCF normalization for accurate VCF comparison,2017.0,5.0
+52,54,Improved VCF normalization for accurate VCF comparison,2017.0,5.0
+52,55,Improved VCF normalization for accurate VCF comparison,2017.0,5.0
+53,52,Improved VCF normalization for accurate VCF comparison,2017.0,5.0
+53,54,Improved VCF normalization for accurate VCF comparison,2017.0,5.0
+53,55,Improved VCF normalization for accurate VCF comparison,2017.0,5.0
+54,52,Improved VCF normalization for accurate VCF comparison,2017.0,5.0
+54,53,Improved VCF normalization for accurate VCF comparison,2017.0,5.0
+54,55,Improved VCF normalization for accurate VCF comparison,2017.0,5.0
+55,52,Improved VCF normalization for accurate VCF comparison,2017.0,5.0
+55,53,Improved VCF normalization for accurate VCF comparison,2017.0,5.0
+55,54,Improved VCF normalization for accurate VCF comparison,2017.0,5.0
+56,57,ThetaMater: Bayesian estimation of population size parameter θ from genomic data,2017.0,8.0
+56,57,GppFst: genomic posterior predictive simulations of FST and dXY for identifying outlier loci from population genomic data,2017.0,11.0
+56,58,ThetaMater: Bayesian estimation of population size parameter θ from genomic data,2017.0,8.0
+56,58,GppFst: genomic posterior predictive simulations of FST and dXY for identifying outlier loci from population genomic data,2017.0,11.0
+56,59,GppFst: genomic posterior predictive simulations of FST and dXY for identifying outlier loci from population genomic data,2017.0,11.0
+56,60,PhyloWGA: chromosome-aware phylogenetic interrogation of whole genome alignments,2020.0,nan
+56,60,ThetaMater: Bayesian estimation of population size parameter θ from genomic data,2017.0,8.0
+56,60,GppFst: genomic posterior predictive simulations of FST and dXY for identifying outlier loci from population genomic data,2017.0,11.0
+56,2403,PhyloWGA: chromosome-aware phylogenetic interrogation of whole genome alignments,2020.0,nan
+56,2941,ThetaMater: Bayesian estimation of population size parameter θ from genomic data,2017.0,8.0
+57,56,ThetaMater: Bayesian estimation of population size parameter θ from genomic data,2017.0,8.0
+57,56,GppFst: genomic posterior predictive simulations of FST and dXY for identifying outlier loci from population genomic data,2017.0,11.0
+57,58,ThetaMater: Bayesian estimation of population size parameter θ from genomic data,2017.0,8.0
+57,58,GppFst: genomic posterior predictive simulations of FST and dXY for identifying outlier loci from population genomic data,2017.0,11.0
+57,59,GppFst: genomic posterior predictive simulations of FST and dXY for identifying outlier loci from population genomic data,2017.0,11.0
+57,60,ThetaMater: Bayesian estimation of population size parameter θ from genomic data,2017.0,8.0
+57,60,GppFst: genomic posterior predictive simulations of FST and dXY for identifying outlier loci from population genomic data,2017.0,11.0
+57,2941,ThetaMater: Bayesian estimation of population size parameter θ from genomic data,2017.0,8.0
+58,56,ThetaMater: Bayesian estimation of population size parameter θ from genomic data,2017.0,8.0
+58,56,GppFst: genomic posterior predictive simulations of FST and dXY for identifying outlier loci from population genomic data,2017.0,11.0
+58,57,ThetaMater: Bayesian estimation of population size parameter θ from genomic data,2017.0,8.0
+58,57,GppFst: genomic posterior predictive simulations of FST and dXY for identifying outlier loci from population genomic data,2017.0,11.0
+58,59,GppFst: genomic posterior predictive simulations of FST and dXY for identifying outlier loci from population genomic data,2017.0,11.0
+58,60,ThetaMater: Bayesian estimation of population size parameter θ from genomic data,2017.0,8.0
+58,60,GppFst: genomic posterior predictive simulations of FST and dXY for identifying outlier loci from population genomic data,2017.0,11.0
+58,2941,ThetaMater: Bayesian estimation of population size parameter θ from genomic data,2017.0,8.0
+59,56,GppFst: genomic posterior predictive simulations of FST and dXY for identifying outlier loci from population genomic data,2017.0,11.0
+59,57,GppFst: genomic posterior predictive simulations of FST and dXY for identifying outlier loci from population genomic data,2017.0,11.0
+59,58,GppFst: genomic posterior predictive simulations of FST and dXY for identifying outlier loci from population genomic data,2017.0,11.0
+59,60,GppFst: genomic posterior predictive simulations of FST and dXY for identifying outlier loci from population genomic data,2017.0,11.0
+60,56,ThetaMater: Bayesian estimation of population size parameter θ from genomic data,2017.0,8.0
+60,56,GppFst: genomic posterior predictive simulations of FST and dXY for identifying outlier loci from population genomic data,2017.0,11.0
+60,56,PhyloWGA: chromosome-aware phylogenetic interrogation of whole genome alignments,2020.0,nan
+60,57,ThetaMater: Bayesian estimation of population size parameter θ from genomic data,2017.0,8.0
+60,57,GppFst: genomic posterior predictive simulations of FST and dXY for identifying outlier loci from population genomic data,2017.0,11.0
+60,58,ThetaMater: Bayesian estimation of population size parameter θ from genomic data,2017.0,8.0
+60,58,GppFst: genomic posterior predictive simulations of FST and dXY for identifying outlier loci from population genomic data,2017.0,11.0
+60,59,GppFst: genomic posterior predictive simulations of FST and dXY for identifying outlier loci from population genomic data,2017.0,11.0
+60,2403,PhyloWGA: chromosome-aware phylogenetic interrogation of whole genome alignments,2020.0,nan
+60,2941,ThetaMater: Bayesian estimation of population size parameter θ from genomic data,2017.0,8.0
+61,62,"High-throughput interpretation of gene structure changes in human and nonhuman resequencing data, using ACE",2017.0,3.0
+61,62,Predicting gene structure changes resulting from genetic variants via exon definition features,2018.0,4.0
+61,63,"High-throughput interpretation of gene structure changes in human and nonhuman resequencing data, using ACE",2017.0,3.0
+61,63,Predicting gene structure changes resulting from genetic variants via exon definition features,2018.0,4.0
+61,64,"High-throughput interpretation of gene structure changes in human and nonhuman resequencing data, using ACE",2017.0,3.0
+61,65,"High-throughput interpretation of gene structure changes in human and nonhuman resequencing data, using ACE",2017.0,3.0
+61,65,Predicting gene structure changes resulting from genetic variants via exon definition features,2018.0,4.0
+61,7689,Predicting gene structure changes resulting from genetic variants via exon definition features,2018.0,4.0
+61,9449,Bayesian estimation of genetic regulatory effects in high-throughput reporter assays,2020.0,nan
+61,9450,Bayesian estimation of genetic regulatory effects in high-throughput reporter assays,2020.0,nan
+61,9451,Bayesian estimation of genetic regulatory effects in high-throughput reporter assays,2020.0,nan
+61,9452,Bayesian estimation of genetic regulatory effects in high-throughput reporter assays,2020.0,nan
+62,61,"High-throughput interpretation of gene structure changes in human and nonhuman resequencing data, using ACE",2017.0,3.0
+62,61,Predicting gene structure changes resulting from genetic variants via exon definition features,2018.0,4.0
+62,63,"High-throughput interpretation of gene structure changes in human and nonhuman resequencing data, using ACE",2017.0,3.0
+62,63,Predicting gene structure changes resulting from genetic variants via exon definition features,2018.0,4.0
+62,64,"High-throughput interpretation of gene structure changes in human and nonhuman resequencing data, using ACE",2017.0,3.0
+62,65,"High-throughput interpretation of gene structure changes in human and nonhuman resequencing data, using ACE",2017.0,3.0
+62,65,Predicting gene structure changes resulting from genetic variants via exon definition features,2018.0,4.0
+62,7689,Predicting gene structure changes resulting from genetic variants via exon definition features,2018.0,4.0
+63,61,"High-throughput interpretation of gene structure changes in human and nonhuman resequencing data, using ACE",2017.0,3.0
+63,61,Predicting gene structure changes resulting from genetic variants via exon definition features,2018.0,4.0
+63,62,"High-throughput interpretation of gene structure changes in human and nonhuman resequencing data, using ACE",2017.0,3.0
+63,62,Predicting gene structure changes resulting from genetic variants via exon definition features,2018.0,4.0
+63,64,"High-throughput interpretation of gene structure changes in human and nonhuman resequencing data, using ACE",2017.0,3.0
+63,65,"High-throughput interpretation of gene structure changes in human and nonhuman resequencing data, using ACE",2017.0,3.0
+63,65,Predicting gene structure changes resulting from genetic variants via exon definition features,2018.0,4.0
+63,7689,Predicting gene structure changes resulting from genetic variants via exon definition features,2018.0,4.0
+64,61,"High-throughput interpretation of gene structure changes in human and nonhuman resequencing data, using ACE",2017.0,3.0
+64,62,"High-throughput interpretation of gene structure changes in human and nonhuman resequencing data, using ACE",2017.0,3.0
+64,63,"High-throughput interpretation of gene structure changes in human and nonhuman resequencing data, using ACE",2017.0,3.0
+64,65,"High-throughput interpretation of gene structure changes in human and nonhuman resequencing data, using ACE",2017.0,3.0
+65,61,"High-throughput interpretation of gene structure changes in human and nonhuman resequencing data, using ACE",2017.0,3.0
+65,61,Predicting gene structure changes resulting from genetic variants via exon definition features,2018.0,4.0
+65,62,"High-throughput interpretation of gene structure changes in human and nonhuman resequencing data, using ACE",2017.0,3.0
+65,62,Predicting gene structure changes resulting from genetic variants via exon definition features,2018.0,4.0
+65,63,"High-throughput interpretation of gene structure changes in human and nonhuman resequencing data, using ACE",2017.0,3.0
+65,63,Predicting gene structure changes resulting from genetic variants via exon definition features,2018.0,4.0
+65,64,"High-throughput interpretation of gene structure changes in human and nonhuman resequencing data, using ACE",2017.0,3.0
+65,7342,SciApps: a cloud-based platform for reproducible bioinformatics workflows,2018.0,15.0
+65,7343,SciApps: a cloud-based platform for reproducible bioinformatics workflows,2018.0,15.0
+65,7344,SciApps: a cloud-based platform for reproducible bioinformatics workflows,2018.0,15.0
+65,7689,Predicting gene structure changes resulting from genetic variants via exon definition features,2018.0,4.0
+66,67,cBinderDB: a covalent binding agent database,2016.0,nan
+66,68,cBinderDB: a covalent binding agent database,2016.0,nan
+66,69,cBinderDB: a covalent binding agent database,2016.0,nan
+66,70,cBinderDB: a covalent binding agent database,2016.0,nan
+67,66,cBinderDB: a covalent binding agent database,2016.0,nan
+67,68,ASDB: a resource for probing protein functions with small molecules,2016.0,6.0
+67,68,cBinderDB: a covalent binding agent database,2016.0,nan
+67,69,cBinderDB: a covalent binding agent database,2016.0,nan
+67,70,ASDB: a resource for probing protein functions with small molecules,2016.0,6.0
+67,70,cBinderDB: a covalent binding agent database,2016.0,nan
+67,2486,ASDB: a resource for probing protein functions with small molecules,2016.0,6.0
+67,2487,ASDB: a resource for probing protein functions with small molecules,2016.0,6.0
+68,66,cBinderDB: a covalent binding agent database,2016.0,nan
+68,67,ASDB: a resource for probing protein functions with small molecules,2016.0,6.0
+68,67,cBinderDB: a covalent binding agent database,2016.0,nan
+68,69,cBinderDB: a covalent binding agent database,2016.0,nan
+68,70,ASDB: a resource for probing protein functions with small molecules,2016.0,6.0
+68,70,cBinderDB: a covalent binding agent database,2016.0,nan
+68,2486,ASDB: a resource for probing protein functions with small molecules,2016.0,6.0
+68,2487,ASDB: a resource for probing protein functions with small molecules,2016.0,6.0
+69,66,cBinderDB: a covalent binding agent database,2016.0,nan
+69,67,cBinderDB: a covalent binding agent database,2016.0,nan
+69,68,cBinderDB: a covalent binding agent database,2016.0,nan
+69,70,cBinderDB: a covalent binding agent database,2016.0,nan
+70,66,cBinderDB: a covalent binding agent database,2016.0,nan
+70,67,cBinderDB: a covalent binding agent database,2016.0,nan
+70,67,ASDB: a resource for probing protein functions with small molecules,2016.0,6.0
+70,68,cBinderDB: a covalent binding agent database,2016.0,nan
+70,68,ASDB: a resource for probing protein functions with small molecules,2016.0,6.0
+70,69,cBinderDB: a covalent binding agent database,2016.0,nan
+70,2486,ASDB: a resource for probing protein functions with small molecules,2016.0,6.0
+70,2487,ASDB: a resource for probing protein functions with small molecules,2016.0,6.0
+71,72,RENT+: an improved method for inferring local genealogical trees from haplotypes with recombination,2017.0,17.0
+72,71,RENT+: an improved method for inferring local genealogical trees from haplotypes with recombination,2017.0,17.0
+72,5141,STELLS2: fast and accurate coalescent-based maximum likelihood inference of species trees from gene tree topologies,2017.0,9.0
+73,74,GE-mini: a mobile APP for large-scale gene expression visualization,2017.0,20.0
+73,75,GE-mini: a mobile APP for large-scale gene expression visualization,2017.0,20.0
+73,76,GE-mini: a mobile APP for large-scale gene expression visualization,2017.0,20.0
+73,77,GE-mini: a mobile APP for large-scale gene expression visualization,2017.0,20.0
+74,73,GE-mini: a mobile APP for large-scale gene expression visualization,2017.0,20.0
+74,75,GE-mini: a mobile APP for large-scale gene expression visualization,2017.0,20.0
+74,76,GE-mini: a mobile APP for large-scale gene expression visualization,2017.0,20.0
+74,77,GE-mini: a mobile APP for large-scale gene expression visualization,2017.0,20.0
+75,73,GE-mini: a mobile APP for large-scale gene expression visualization,2017.0,20.0
+75,74,GE-mini: a mobile APP for large-scale gene expression visualization,2017.0,20.0
+75,76,GE-mini: a mobile APP for large-scale gene expression visualization,2017.0,20.0
+75,77,GE-mini: a mobile APP for large-scale gene expression visualization,2017.0,20.0
+76,73,GE-mini: a mobile APP for large-scale gene expression visualization,2017.0,20.0
+76,74,GE-mini: a mobile APP for large-scale gene expression visualization,2017.0,20.0
+76,75,GE-mini: a mobile APP for large-scale gene expression visualization,2017.0,20.0
+76,77,GE-mini: a mobile APP for large-scale gene expression visualization,2017.0,20.0
+77,73,GE-mini: a mobile APP for large-scale gene expression visualization,2017.0,20.0
+77,74,GE-mini: a mobile APP for large-scale gene expression visualization,2017.0,20.0
+77,75,GE-mini: a mobile APP for large-scale gene expression visualization,2017.0,20.0
+77,76,GE-mini: a mobile APP for large-scale gene expression visualization,2017.0,20.0
+78,79,Using genotype array data to compare multi- and single-sample variant calls and improve variant call sets from deep coverage whole-genome sequencing data,2017.0,4.0
+78,80,Using genotype array data to compare multi- and single-sample variant calls and improve variant call sets from deep coverage whole-genome sequencing data,2017.0,4.0
+78,81,Using genotype array data to compare multi- and single-sample variant calls and improve variant call sets from deep coverage whole-genome sequencing data,2017.0,4.0
+78,82,Using genotype array data to compare multi- and single-sample variant calls and improve variant call sets from deep coverage whole-genome sequencing data,2017.0,4.0
+79,78,Using genotype array data to compare multi- and single-sample variant calls and improve variant call sets from deep coverage whole-genome sequencing data,2017.0,4.0
+79,80,Using genotype array data to compare multi- and single-sample variant calls and improve variant call sets from deep coverage whole-genome sequencing data,2017.0,4.0
+79,81,Using genotype array data to compare multi- and single-sample variant calls and improve variant call sets from deep coverage whole-genome sequencing data,2017.0,4.0
+79,82,Using genotype array data to compare multi- and single-sample variant calls and improve variant call sets from deep coverage whole-genome sequencing data,2017.0,4.0
+80,78,Using genotype array data to compare multi- and single-sample variant calls and improve variant call sets from deep coverage whole-genome sequencing data,2017.0,4.0
+80,79,Using genotype array data to compare multi- and single-sample variant calls and improve variant call sets from deep coverage whole-genome sequencing data,2017.0,4.0
+80,81,Using genotype array data to compare multi- and single-sample variant calls and improve variant call sets from deep coverage whole-genome sequencing data,2017.0,4.0
+80,82,Using genotype array data to compare multi- and single-sample variant calls and improve variant call sets from deep coverage whole-genome sequencing data,2017.0,4.0
+81,78,Using genotype array data to compare multi- and single-sample variant calls and improve variant call sets from deep coverage whole-genome sequencing data,2017.0,4.0
+81,79,Using genotype array data to compare multi- and single-sample variant calls and improve variant call sets from deep coverage whole-genome sequencing data,2017.0,4.0
+81,80,Using genotype array data to compare multi- and single-sample variant calls and improve variant call sets from deep coverage whole-genome sequencing data,2017.0,4.0
+81,82,Using genotype array data to compare multi- and single-sample variant calls and improve variant call sets from deep coverage whole-genome sequencing data,2017.0,4.0
+82,78,Using genotype array data to compare multi- and single-sample variant calls and improve variant call sets from deep coverage whole-genome sequencing data,2017.0,4.0
+82,79,Using genotype array data to compare multi- and single-sample variant calls and improve variant call sets from deep coverage whole-genome sequencing data,2017.0,4.0
+82,80,Using genotype array data to compare multi- and single-sample variant calls and improve variant call sets from deep coverage whole-genome sequencing data,2017.0,4.0
+82,81,Using genotype array data to compare multi- and single-sample variant calls and improve variant call sets from deep coverage whole-genome sequencing data,2017.0,4.0
+82,5062,GARLIC: Genomic Autozygosity Regions Likelihood-based Inference and Classification,2017.0,22.0
+82,5063,GARLIC: Genomic Autozygosity Regions Likelihood-based Inference and Classification,2017.0,22.0
+83,84,CAME: identification of chromatin accessibility from nucleosome occupancy and methylome sequencing,2017.0,4.0
+83,85,CAME: identification of chromatin accessibility from nucleosome occupancy and methylome sequencing,2017.0,4.0
+83,86,CAME: identification of chromatin accessibility from nucleosome occupancy and methylome sequencing,2017.0,4.0
+83,87,CAME: identification of chromatin accessibility from nucleosome occupancy and methylome sequencing,2017.0,4.0
+84,83,CAME: identification of chromatin accessibility from nucleosome occupancy and methylome sequencing,2017.0,4.0
+84,85,CAME: identification of chromatin accessibility from nucleosome occupancy and methylome sequencing,2017.0,4.0
+84,86,CAME: identification of chromatin accessibility from nucleosome occupancy and methylome sequencing,2017.0,4.0
+84,87,CAME: identification of chromatin accessibility from nucleosome occupancy and methylome sequencing,2017.0,4.0
+85,83,CAME: identification of chromatin accessibility from nucleosome occupancy and methylome sequencing,2017.0,4.0
+85,84,CAME: identification of chromatin accessibility from nucleosome occupancy and methylome sequencing,2017.0,4.0
+85,86,CAME: identification of chromatin accessibility from nucleosome occupancy and methylome sequencing,2017.0,4.0
+85,87,CAME: identification of chromatin accessibility from nucleosome occupancy and methylome sequencing,2017.0,4.0
+86,83,CAME: identification of chromatin accessibility from nucleosome occupancy and methylome sequencing,2017.0,4.0
+86,84,CAME: identification of chromatin accessibility from nucleosome occupancy and methylome sequencing,2017.0,4.0
+86,85,CAME: identification of chromatin accessibility from nucleosome occupancy and methylome sequencing,2017.0,4.0
+86,87,CAME: identification of chromatin accessibility from nucleosome occupancy and methylome sequencing,2017.0,4.0
+87,83,CAME: identification of chromatin accessibility from nucleosome occupancy and methylome sequencing,2017.0,4.0
+87,84,CAME: identification of chromatin accessibility from nucleosome occupancy and methylome sequencing,2017.0,4.0
+87,85,CAME: identification of chromatin accessibility from nucleosome occupancy and methylome sequencing,2017.0,4.0
+87,86,CAME: identification of chromatin accessibility from nucleosome occupancy and methylome sequencing,2017.0,4.0
+88,89,TRFBA: an algorithm to integrate genome-scale metabolic and transcriptional regulatory networks with incorporation of expression data,2017.0,31.0
+88,90,TRFBA: an algorithm to integrate genome-scale metabolic and transcriptional regulatory networks with incorporation of expression data,2017.0,31.0
+88,91,TRFBA: an algorithm to integrate genome-scale metabolic and transcriptional regulatory networks with incorporation of expression data,2017.0,31.0
+89,88,TRFBA: an algorithm to integrate genome-scale metabolic and transcriptional regulatory networks with incorporation of expression data,2017.0,31.0
+89,90,TRFBA: an algorithm to integrate genome-scale metabolic and transcriptional regulatory networks with incorporation of expression data,2017.0,31.0
+89,91,TRFBA: an algorithm to integrate genome-scale metabolic and transcriptional regulatory networks with incorporation of expression data,2017.0,31.0
+90,88,TRFBA: an algorithm to integrate genome-scale metabolic and transcriptional regulatory networks with incorporation of expression data,2017.0,31.0
+90,89,TRFBA: an algorithm to integrate genome-scale metabolic and transcriptional regulatory networks with incorporation of expression data,2017.0,31.0
+90,91,TRFBA: an algorithm to integrate genome-scale metabolic and transcriptional regulatory networks with incorporation of expression data,2017.0,31.0
+91,88,TRFBA: an algorithm to integrate genome-scale metabolic and transcriptional regulatory networks with incorporation of expression data,2017.0,31.0
+91,89,TRFBA: an algorithm to integrate genome-scale metabolic and transcriptional regulatory networks with incorporation of expression data,2017.0,31.0
+91,90,TRFBA: an algorithm to integrate genome-scale metabolic and transcriptional regulatory networks with incorporation of expression data,2017.0,31.0
+92,93,DeFCoM: analysis and modeling of transcription factor binding sites using a motif-centric genomic footprinter,2017.0,19.0
+93,92,DeFCoM: analysis and modeling of transcription factor binding sites using a motif-centric genomic footprinter,2017.0,19.0
+94,95,Xenolog classification,2016.0,nan
+94,96,Xenolog classification,2016.0,nan
+94,97,Xenolog classification,2016.0,nan
+94,98,Xenolog classification,2016.0,nan
+94,1549,Vargas: heuristic-free alignment for assessing linear and graph read aligners,2020.0,2.0
+94,1975,Vargas: heuristic-free alignment for assessing linear and graph read aligners,2020.0,2.0
+94,12691,scHLAcount: allele-specific HLA expression from single-cell gene expression data,2020.0,3.0
+94,12692,scHLAcount: allele-specific HLA expression from single-cell gene expression data,2020.0,3.0
+94,12693,scHLAcount: allele-specific HLA expression from single-cell gene expression data,2020.0,3.0
+94,12694,scHLAcount: allele-specific HLA expression from single-cell gene expression data,2020.0,3.0
+94,12712,Vargas: heuristic-free alignment for assessing linear and graph read aligners,2020.0,2.0
+95,94,Xenolog classification,2016.0,nan
+95,96,Xenolog classification,2016.0,nan
+95,97,Xenolog classification,2016.0,nan
+95,98,Xenolog classification,2016.0,nan
+96,94,Xenolog classification,2016.0,nan
+96,95,Xenolog classification,2016.0,nan
+96,97,Xenolog classification,2016.0,nan
+96,98,Xenolog classification,2016.0,nan
+97,94,Xenolog classification,2016.0,nan
+97,95,Xenolog classification,2016.0,nan
+97,96,Xenolog classification,2016.0,nan
+97,98,Xenolog classification,2016.0,nan
+98,94,Xenolog classification,2016.0,nan
+98,95,Xenolog classification,2016.0,nan
+98,96,Xenolog classification,2016.0,nan
+98,97,Xenolog classification,2016.0,nan
+99,100,Inference of cellular level signaling networks using single-cell gene expression data in Caenorhabditis elegans reveals mechanisms of cell fate specification,2017.0,2.0
+99,101,Inference of cellular level signaling networks using single-cell gene expression data in Caenorhabditis elegans reveals mechanisms of cell fate specification,2017.0,2.0
+99,102,Inference of cellular level signaling networks using single-cell gene expression data in Caenorhabditis elegans reveals mechanisms of cell fate specification,2017.0,2.0
+99,103,Inference of cellular level signaling networks using single-cell gene expression data in Caenorhabditis elegans reveals mechanisms of cell fate specification,2017.0,2.0
+100,99,Inference of cellular level signaling networks using single-cell gene expression data in Caenorhabditis elegans reveals mechanisms of cell fate specification,2017.0,2.0
+100,101,Inference of cellular level signaling networks using single-cell gene expression data in Caenorhabditis elegans reveals mechanisms of cell fate specification,2017.0,2.0
+100,102,Inference of cellular level signaling networks using single-cell gene expression data in Caenorhabditis elegans reveals mechanisms of cell fate specification,2017.0,2.0
+100,103,Inference of cellular level signaling networks using single-cell gene expression data in Caenorhabditis elegans reveals mechanisms of cell fate specification,2017.0,2.0
+101,99,Inference of cellular level signaling networks using single-cell gene expression data in Caenorhabditis elegans reveals mechanisms of cell fate specification,2017.0,2.0
+101,100,Inference of cellular level signaling networks using single-cell gene expression data in Caenorhabditis elegans reveals mechanisms of cell fate specification,2017.0,2.0
+101,102,Inference of cellular level signaling networks using single-cell gene expression data in Caenorhabditis elegans reveals mechanisms of cell fate specification,2017.0,2.0
+101,103,Inference of cellular level signaling networks using single-cell gene expression data in Caenorhabditis elegans reveals mechanisms of cell fate specification,2017.0,2.0
+102,99,Inference of cellular level signaling networks using single-cell gene expression data in Caenorhabditis elegans reveals mechanisms of cell fate specification,2017.0,2.0
+102,100,Inference of cellular level signaling networks using single-cell gene expression data in Caenorhabditis elegans reveals mechanisms of cell fate specification,2017.0,2.0
+102,101,Inference of cellular level signaling networks using single-cell gene expression data in Caenorhabditis elegans reveals mechanisms of cell fate specification,2017.0,2.0
+102,103,Inference of cellular level signaling networks using single-cell gene expression data in Caenorhabditis elegans reveals mechanisms of cell fate specification,2017.0,2.0
+103,99,Inference of cellular level signaling networks using single-cell gene expression data in Caenorhabditis elegans reveals mechanisms of cell fate specification,2017.0,2.0
+103,100,Inference of cellular level signaling networks using single-cell gene expression data in Caenorhabditis elegans reveals mechanisms of cell fate specification,2017.0,2.0
+103,101,Inference of cellular level signaling networks using single-cell gene expression data in Caenorhabditis elegans reveals mechanisms of cell fate specification,2017.0,2.0
+103,102,Inference of cellular level signaling networks using single-cell gene expression data in Caenorhabditis elegans reveals mechanisms of cell fate specification,2017.0,2.0
+103,114,scTSSR: gene expression recovery for single-cell RNA sequencing using two-side sparse self-representation,2020.0,1.0
+103,277,HiSCF: leveraging higher-order structures for clustering analysis in biological networks,2020.0,1.0
+103,2719,scTSSR: gene expression recovery for single-cell RNA sequencing using two-side sparse self-representation,2020.0,1.0
+103,2719,DiffGraph: an R package for identifying gene network rewiring using differential graphical models,2018.0,12.0
+103,2719,DiffNetFDR: differential network analysis with false discovery rate control,2019.0,5.0
+103,2719,Incorporating prior information into differential network analysis using non-paranormal graphical models,2017.0,24.0
+103,2719,Joint reconstruction of multiple gene networks by simultaneously capturing inter-tumor and intra-tumor heterogeneity,2020.0,nan
+103,2720,scTSSR: gene expression recovery for single-cell RNA sequencing using two-side sparse self-representation,2020.0,1.0
+103,2720,DiffGraph: an R package for identifying gene network rewiring using differential graphical models,2018.0,12.0
+103,2720,DiffNetFDR: differential network analysis with false discovery rate control,2019.0,5.0
+103,2720,Incorporating prior information into differential network analysis using non-paranormal graphical models,2017.0,24.0
+103,2720,Joint reconstruction of multiple gene networks by simultaneously capturing inter-tumor and intra-tumor heterogeneity,2020.0,nan
+103,2721,DiffNetFDR: differential network analysis with false discovery rate control,2019.0,5.0
+103,2721,DiffGraph: an R package for identifying gene network rewiring using differential graphical models,2018.0,12.0
+103,2722,DiffNetFDR: differential network analysis with false discovery rate control,2019.0,5.0
+103,2722,DiffGraph: an R package for identifying gene network rewiring using differential graphical models,2018.0,12.0
+103,11746,HiSCF: leveraging higher-order structures for clustering analysis in biological networks,2020.0,1.0
+103,11747,HiSCF: leveraging higher-order structures for clustering analysis in biological networks,2020.0,1.0
+103,11748,HiSCF: leveraging higher-order structures for clustering analysis in biological networks,2020.0,1.0
+103,13067,scTSSR: gene expression recovery for single-cell RNA sequencing using two-side sparse self-representation,2020.0,1.0
+103,13272,Joint reconstruction of multiple gene networks by simultaneously capturing inter-tumor and intra-tumor heterogeneity,2020.0,nan
+103,13273,Joint reconstruction of multiple gene networks by simultaneously capturing inter-tumor and intra-tumor heterogeneity,2020.0,nan
+104,105,ACTG: novel peptide mapping onto gene models,2017.0,5.0
+104,106,ACTG: novel peptide mapping onto gene models,2017.0,5.0
+104,106,MutCombinator: identification of mutated peptides allowing combinatorial mutations using nucleotide-based graph search,2020.0,nan
+105,104,ACTG: novel peptide mapping onto gene models,2017.0,5.0
+105,106,ACTG: novel peptide mapping onto gene models,2017.0,5.0
+106,104,ACTG: novel peptide mapping onto gene models,2017.0,5.0
+106,104,MutCombinator: identification of mutated peptides allowing combinatorial mutations using nucleotide-based graph search,2020.0,nan
+106,105,ACTG: novel peptide mapping onto gene models,2017.0,5.0
+107,108,MetaDCN: meta-analysis framework for differential co-expression network detection with an application in breast cancer,2017.0,16.0
+107,109,MetaDCN: meta-analysis framework for differential co-expression network detection with an application in breast cancer,2017.0,16.0
+107,110,MetaDCN: meta-analysis framework for differential co-expression network detection with an application in breast cancer,2017.0,16.0
+107,111,MetaDCN: meta-analysis framework for differential co-expression network detection with an application in breast cancer,2017.0,16.0
+107,111,MetaOmics: analysis pipeline and browser-based software suite for transcriptomic meta-analysis,2019.0,12.0
+107,6074,Bayesian integrative model for multi-omics data with missingness,2018.0,4.0
+107,6074,MetaOmics: analysis pipeline and browser-based software suite for transcriptomic meta-analysis,2019.0,12.0
+107,6075,MetaOmics: analysis pipeline and browser-based software suite for transcriptomic meta-analysis,2019.0,12.0
+107,6076,Bayesian integrative model for multi-omics data with missingness,2018.0,4.0
+107,6076,MetaOmics: analysis pipeline and browser-based software suite for transcriptomic meta-analysis,2019.0,12.0
+107,6471,Bayesian integrative model for multi-omics data with missingness,2018.0,4.0
+107,6472,Bayesian integrative model for multi-omics data with missingness,2018.0,4.0
+108,107,MetaDCN: meta-analysis framework for differential co-expression network detection with an application in breast cancer,2017.0,16.0
+108,109,MetaDCN: meta-analysis framework for differential co-expression network detection with an application in breast cancer,2017.0,16.0
+108,110,MetaDCN: meta-analysis framework for differential co-expression network detection with an application in breast cancer,2017.0,16.0
+108,110,Meta-analytic framework for liquid association,2017.0,nan
+108,111,MetaDCN: meta-analysis framework for differential co-expression network detection with an application in breast cancer,2017.0,16.0
+108,4924,Meta-analytic framework for liquid association,2017.0,nan
+108,4925,Meta-analytic framework for liquid association,2017.0,nan
+108,4926,Meta-analytic framework for liquid association,2017.0,nan
+109,107,MetaDCN: meta-analysis framework for differential co-expression network detection with an application in breast cancer,2017.0,16.0
+109,108,MetaDCN: meta-analysis framework for differential co-expression network detection with an application in breast cancer,2017.0,16.0
+109,110,MetaDCN: meta-analysis framework for differential co-expression network detection with an application in breast cancer,2017.0,16.0
+109,111,MetaDCN: meta-analysis framework for differential co-expression network detection with an application in breast cancer,2017.0,16.0
+110,107,MetaDCN: meta-analysis framework for differential co-expression network detection with an application in breast cancer,2017.0,16.0
+110,108,Meta-analytic framework for liquid association,2017.0,nan
+110,108,MetaDCN: meta-analysis framework for differential co-expression network detection with an application in breast cancer,2017.0,16.0
+110,109,MetaDCN: meta-analysis framework for differential co-expression network detection with an application in breast cancer,2017.0,16.0
+110,111,MetaDCN: meta-analysis framework for differential co-expression network detection with an application in breast cancer,2017.0,16.0
+110,1990,Ensemble learning for classifying single-cell data and projection across reference atlases,2020.0,1.0
+110,3936,Standardizing biomass reactions and ensuring complete mass balance in genome-scale metabolic models,2017.0,47.0
+110,3936,Accelerating flux balance calculations in genome-scale metabolic models by localizing the application of loopless constraints,2018.0,12.0
+110,3937,Standardizing biomass reactions and ensuring complete mass balance in genome-scale metabolic models,2017.0,47.0
+110,3938,Standardizing biomass reactions and ensuring complete mass balance in genome-scale metabolic models,2017.0,47.0
+110,3939,Standardizing biomass reactions and ensuring complete mass balance in genome-scale metabolic models,2017.0,47.0
+110,3939,Accelerating flux balance calculations in genome-scale metabolic models by localizing the application of loopless constraints,2018.0,12.0
+110,4924,Meta-analytic framework for liquid association,2017.0,nan
+110,4925,Meta-analytic framework for liquid association,2017.0,nan
+110,4926,Meta-analytic framework for liquid association,2017.0,nan
+110,7421,Accelerating flux balance calculations in genome-scale metabolic models by localizing the application of loopless constraints,2018.0,12.0
+110,13013,Ensemble learning for classifying single-cell data and projection across reference atlases,2020.0,1.0
+110,13014,Ensemble learning for classifying single-cell data and projection across reference atlases,2020.0,1.0
+110,13015,Ensemble learning for classifying single-cell data and projection across reference atlases,2020.0,1.0
+110,13204,DRIMC: an improved drug repositioning approach using Bayesian inductive matrix completion,2020.0,nan
+110,13205,DRIMC: an improved drug repositioning approach using Bayesian inductive matrix completion,2020.0,nan
+110,13206,DRIMC: an improved drug repositioning approach using Bayesian inductive matrix completion,2020.0,nan
+110,13207,DRIMC: an improved drug repositioning approach using Bayesian inductive matrix completion,2020.0,nan
+111,107,MetaDCN: meta-analysis framework for differential co-expression network detection with an application in breast cancer,2017.0,16.0
+111,107,MetaOmics: analysis pipeline and browser-based software suite for transcriptomic meta-analysis,2019.0,12.0
+111,108,MetaDCN: meta-analysis framework for differential co-expression network detection with an application in breast cancer,2017.0,16.0
+111,109,MetaDCN: meta-analysis framework for differential co-expression network detection with an application in breast cancer,2017.0,16.0
+111,110,MetaDCN: meta-analysis framework for differential co-expression network detection with an application in breast cancer,2017.0,16.0
+111,2289,Meta-analytic principal component analysis in integrative omics application,2018.0,19.0
+111,2291,Meta-analytic principal component analysis in integrative omics application,2018.0,19.0
+111,2503,"P-value evaluation, variability index and biomarker categorization for adaptively weighted Fisher’s meta-analysis method in omics applications",2020.0,5.0
+111,2503,Meta-analytic principal component analysis in integrative omics application,2018.0,19.0
+111,3026,Meta-analytic principal component analysis in integrative omics application,2018.0,19.0
+111,6074,MetaOmics: analysis pipeline and browser-based software suite for transcriptomic meta-analysis,2019.0,12.0
+111,6075,MetaOmics: analysis pipeline and browser-based software suite for transcriptomic meta-analysis,2019.0,12.0
+111,6076,MetaOmics: analysis pipeline and browser-based software suite for transcriptomic meta-analysis,2019.0,12.0
+111,9465,"P-value evaluation, variability index and biomarker categorization for adaptively weighted Fisher’s meta-analysis method in omics applications",2020.0,5.0
+111,9466,"P-value evaluation, variability index and biomarker categorization for adaptively weighted Fisher’s meta-analysis method in omics applications",2020.0,5.0
+112,113,PhosD: inferring kinase–substrate interactions based on protein domains,2017.0,13.0
+112,114,PhosD: inferring kinase–substrate interactions based on protein domains,2017.0,13.0
+113,112,PhosD: inferring kinase–substrate interactions based on protein domains,2017.0,13.0
+113,114,PhosD: inferring kinase–substrate interactions based on protein domains,2017.0,13.0
+114,103,scTSSR: gene expression recovery for single-cell RNA sequencing using two-side sparse self-representation,2020.0,1.0
+114,112,PhosD: inferring kinase–substrate interactions based on protein domains,2017.0,13.0
+114,113,PhosD: inferring kinase–substrate interactions based on protein domains,2017.0,13.0
+114,2719,A graph regularized generalized matrix factorization model for predicting links in biomedical bipartite networks,2020.0,8.0
+114,2719,scTSSR: gene expression recovery for single-cell RNA sequencing using two-side sparse self-representation,2020.0,1.0
+114,2719,EnImpute: imputing dropout events in single-cell RNA-sequencing data via ensemble learning,2019.0,7.0
+114,2720,A graph regularized generalized matrix factorization model for predicting links in biomedical bipartite networks,2020.0,8.0
+114,2720,scTSSR: gene expression recovery for single-cell RNA sequencing using two-side sparse self-representation,2020.0,1.0
+114,2720,EnImpute: imputing dropout events in single-cell RNA-sequencing data via ensemble learning,2019.0,7.0
+114,2721,EnImpute: imputing dropout events in single-cell RNA-sequencing data via ensemble learning,2019.0,7.0
+114,2722,EnImpute: imputing dropout events in single-cell RNA-sequencing data via ensemble learning,2019.0,7.0
+114,5020,DeepPhos: prediction of protein phosphorylation sites with deep learning,2019.0,38.0
+114,6070,DeepPhos: prediction of protein phosphorylation sites with deep learning,2019.0,38.0
+114,6073,DeepPhos: prediction of protein phosphorylation sites with deep learning,2019.0,38.0
+114,10948,DeepPhos: prediction of protein phosphorylation sites with deep learning,2019.0,38.0
+114,11058,A graph regularized generalized matrix factorization model for predicting links in biomedical bipartite networks,2020.0,8.0
+114,12950,A graph regularized generalized matrix factorization model for predicting links in biomedical bipartite networks,2020.0,8.0
+114,13067,scTSSR: gene expression recovery for single-cell RNA sequencing using two-side sparse self-representation,2020.0,1.0
+115,116,dAPE: a web server to detect homorepeats and follow their evolution,2017.0,9.0
+115,116,Traitpedia: a collaborative effort to gather species traits,2019.0,nan
+115,7841,The latent geometry of the human protein interaction network,2018.0,14.0
+115,7842,The latent geometry of the human protein interaction network,2018.0,14.0
+116,115,dAPE: a web server to detect homorepeats and follow their evolution,2017.0,9.0
+116,115,Traitpedia: a collaborative effort to gather species traits,2019.0,nan
+117,118,Parameter estimation for dynamical systems with discrete events and logical operations,2017.0,27.0
+117,119,Parameter estimation for dynamical systems with discrete events and logical operations,2017.0,27.0
+117,120,Efficient parameterization of large-scale dynamic models based on relative measurements,2020.0,11.0
+117,120,Benchmarking optimization methods for parameter estimation in large kinetic models,2019.0,45.0
+117,120,Parameter estimation for dynamical systems with discrete events and logical operations,2017.0,27.0
+117,120,Optimization and profile calculation of ODE models using second order adjoint sensitivity analysis,2018.0,7.0
+117,1360,Benchmarking optimization methods for parameter estimation in large kinetic models,2019.0,45.0
+117,1360,GenSSI 2.0: multi-experiment structural identifiability analysis of SBML models,2018.0,40.0
+117,1391,GenSSI 2.0: multi-experiment structural identifiability analysis of SBML models,2018.0,40.0
+117,1791,Benchmarking optimization methods for parameter estimation in large kinetic models,2019.0,45.0
+117,1791,Efficient parameterization of large-scale dynamic models based on relative measurements,2020.0,11.0
+117,2925,GenSSI 2.0: multi-experiment structural identifiability analysis of SBML models,2018.0,40.0
+117,2926,GenSSI 2.0: multi-experiment structural identifiability analysis of SBML models,2018.0,40.0
+117,3271,Optimization and profile calculation of ODE models using second order adjoint sensitivity analysis,2018.0,7.0
+117,6633,Benchmarking optimization methods for parameter estimation in large kinetic models,2019.0,45.0
+117,9492,Efficient parameterization of large-scale dynamic models based on relative measurements,2020.0,11.0
+117,9493,Efficient parameterization of large-scale dynamic models based on relative measurements,2020.0,11.0
+118,117,Parameter estimation for dynamical systems with discrete events and logical operations,2017.0,27.0
+118,119,Parameter estimation for dynamical systems with discrete events and logical operations,2017.0,27.0
+118,120,MEMO: multi-experiment mixture model analysis of censored data,2016.0,5.0
+118,120,Parameter estimation for dynamical systems with discrete events and logical operations,2017.0,27.0
+118,120,Bayesian parameter estimation for biochemical reaction networks using region-based adaptive parallel tempering,2018.0,9.0
+118,120,A scalable moment-closure approximation for large-scale biochemical reaction networks,2017.0,nan
+118,2017,MEMO: multi-experiment mixture model analysis of censored data,2016.0,5.0
+118,2018,MEMO: multi-experiment mixture model analysis of censored data,2016.0,5.0
+118,2019,MEMO: multi-experiment mixture model analysis of censored data,2016.0,5.0
+118,3199,netReg: network-regularized linear models for biological association studies,2018.0,5.0
+118,3200,netReg: network-regularized linear models for biological association studies,2018.0,5.0
+118,3201,netReg: network-regularized linear models for biological association studies,2018.0,5.0
+118,3272,Bayesian parameter estimation for biochemical reaction networks using region-based adaptive parallel tempering,2018.0,9.0
+118,4021,A scalable moment-closure approximation for large-scale biochemical reaction networks,2017.0,nan
+118,4369,Model-based branching point detection in single-cell data by K-branches clustering,2017.0,9.0
+118,4370,Conditional out-of-distribution generation for unpaired data using transfer VAE,2020.0,nan
+118,4370,Model-based branching point detection in single-cell data by K-branches clustering,2017.0,9.0
+118,7117,Bayesian parameter estimation for biochemical reaction networks using region-based adaptive parallel tempering,2018.0,9.0
+118,11035,Conditional out-of-distribution generation for unpaired data using transfer VAE,2020.0,nan
+118,11036,Conditional out-of-distribution generation for unpaired data using transfer VAE,2020.0,nan
+118,12625,Automatic identification of relevant genes from low-dimensional embeddings of single-cell RNA-seq data,2020.0,nan
+118,12868,Automatic identification of relevant genes from low-dimensional embeddings of single-cell RNA-seq data,2020.0,nan
+118,12869,Automatic identification of relevant genes from low-dimensional embeddings of single-cell RNA-seq data,2020.0,nan
+118,12870,Automatic identification of relevant genes from low-dimensional embeddings of single-cell RNA-seq data,2020.0,nan
+119,117,Parameter estimation for dynamical systems with discrete events and logical operations,2017.0,27.0
+119,118,Parameter estimation for dynamical systems with discrete events and logical operations,2017.0,27.0
+119,120,Parameter estimation for dynamical systems with discrete events and logical operations,2017.0,27.0
+120,117,Optimization and profile calculation of ODE models using second order adjoint sensitivity analysis,2018.0,7.0
+120,117,Benchmarking optimization methods for parameter estimation in large kinetic models,2019.0,45.0
+120,117,Parameter estimation for dynamical systems with discrete events and logical operations,2017.0,27.0
+120,117,Efficient parameterization of large-scale dynamic models based on relative measurements,2020.0,11.0
+120,118,MEMO: multi-experiment mixture model analysis of censored data,2016.0,5.0
+120,118,Parameter estimation for dynamical systems with discrete events and logical operations,2017.0,27.0
+120,118,A scalable moment-closure approximation for large-scale biochemical reaction networks,2017.0,nan
+120,118,Bayesian parameter estimation for biochemical reaction networks using region-based adaptive parallel tempering,2018.0,9.0
+120,119,Parameter estimation for dynamical systems with discrete events and logical operations,2017.0,27.0
+120,298,Robust parameter estimation for dynamical systems from outlier-corrupted data,2017.0,26.0
+120,299,Benchmark problems for dynamic modeling of intracellular processes,2019.0,33.0
+120,299,Robust parameter estimation for dynamical systems from outlier-corrupted data,2017.0,26.0
+120,299,Hierarchical optimization for the efficient parametrization of ODE models,2018.0,10.0
+120,1360,Benchmarking optimization methods for parameter estimation in large kinetic models,2019.0,45.0
+120,1791,Benchmarking optimization methods for parameter estimation in large kinetic models,2019.0,45.0
+120,1791,Efficient parameterization of large-scale dynamic models based on relative measurements,2020.0,11.0
+120,2017,MEMO: multi-experiment mixture model analysis of censored data,2016.0,5.0
+120,2018,MEMO: multi-experiment mixture model analysis of censored data,2016.0,5.0
+120,2019,MEMO: multi-experiment mixture model analysis of censored data,2016.0,5.0
+120,2244,"Analysis of CFSE time-series data using division-, age- and label-structured population models",2016.0,32.0
+120,3271,Optimization and profile calculation of ODE models using second order adjoint sensitivity analysis,2018.0,7.0
+120,3272,Bayesian parameter estimation for biochemical reaction networks using region-based adaptive parallel tempering,2018.0,9.0
+120,4021,A scalable moment-closure approximation for large-scale biochemical reaction networks,2017.0,nan
+120,6633,Benchmarking optimization methods for parameter estimation in large kinetic models,2019.0,45.0
+120,6895,Hierarchical optimization for the efficient parametrization of ODE models,2018.0,10.0
+120,7117,Bayesian parameter estimation for biochemical reaction networks using region-based adaptive parallel tempering,2018.0,9.0
+120,7540,"pyABC: distributed, likelihood-free inference",2017.0,9.0
+120,7541,"pyABC: distributed, likelihood-free inference",2017.0,9.0
+120,8696,Benchmark problems for dynamic modeling of intracellular processes,2019.0,33.0
+120,9492,Efficient parameterization of large-scale dynamic models based on relative measurements,2020.0,11.0
+120,9493,Efficient parameterization of large-scale dynamic models based on relative measurements,2020.0,11.0
+120,10922,Benchmark problems for dynamic modeling of intracellular processes,2019.0,33.0
+120,10923,Benchmark problems for dynamic modeling of intracellular processes,2019.0,33.0
+121,122,Novel probabilistic models of spatial genetic ancestry with applications to stratification correction in genome-wide association studies,2017.0,8.0
+121,123,Novel probabilistic models of spatial genetic ancestry with applications to stratification correction in genome-wide association studies,2017.0,8.0
+121,124,Novel probabilistic models of spatial genetic ancestry with applications to stratification correction in genome-wide association studies,2017.0,8.0
+122,121,Novel probabilistic models of spatial genetic ancestry with applications to stratification correction in genome-wide association studies,2017.0,8.0
+122,123,Novel probabilistic models of spatial genetic ancestry with applications to stratification correction in genome-wide association studies,2017.0,8.0
+122,124,Novel probabilistic models of spatial genetic ancestry with applications to stratification correction in genome-wide association studies,2017.0,8.0
+122,10464,onlineFDR: an R package to control the false discovery rate for growing data repositories,2019.0,6.0
+122,10465,onlineFDR: an R package to control the false discovery rate for growing data repositories,2019.0,6.0
+122,10466,onlineFDR: an R package to control the false discovery rate for growing data repositories,2019.0,6.0
+123,121,Novel probabilistic models of spatial genetic ancestry with applications to stratification correction in genome-wide association studies,2017.0,8.0
+123,122,Novel probabilistic models of spatial genetic ancestry with applications to stratification correction in genome-wide association studies,2017.0,8.0
+123,124,Novel probabilistic models of spatial genetic ancestry with applications to stratification correction in genome-wide association studies,2017.0,8.0
+123,853,Information-optimal genome assembly via sparse read-overlap graphs,2016.0,13.0
+123,854,Information-optimal genome assembly via sparse read-overlap graphs,2016.0,13.0
+123,855,Information-optimal genome assembly via sparse read-overlap graphs,2016.0,13.0
+124,121,Novel probabilistic models of spatial genetic ancestry with applications to stratification correction in genome-wide association studies,2017.0,8.0
+124,122,Novel probabilistic models of spatial genetic ancestry with applications to stratification correction in genome-wide association studies,2017.0,8.0
+124,123,Novel probabilistic models of spatial genetic ancestry with applications to stratification correction in genome-wide association studies,2017.0,8.0
+125,126,Computational prediction of species-specific malonylation sites via enhanced characteristic strategy,2017.0,40.0
+125,126,Accurate in silico prediction of species-specific methylation sites based on information gain feature optimization,2016.0,48.0
+125,127,Computational prediction of species-specific malonylation sites via enhanced characteristic strategy,2017.0,40.0
+125,127,Accurate in silico prediction of species-specific methylation sites based on information gain feature optimization,2016.0,48.0
+125,128,ProAcePred: prokaryote lysine acetylation sites prediction based on elastic net feature optimization,2018.0,10.0
+125,128,Computational prediction of species-specific malonylation sites via enhanced characteristic strategy,2017.0,40.0
+125,128,Accurate in silico prediction of species-specific methylation sites based on information gain feature optimization,2016.0,48.0
+125,129,Computational prediction of species-specific malonylation sites via enhanced characteristic strategy,2017.0,40.0
+125,129,Accurate in silico prediction of species-specific methylation sites based on information gain feature optimization,2016.0,48.0
+125,5566,ProAcePred: prokaryote lysine acetylation sites prediction based on elastic net feature optimization,2018.0,10.0
+125,5567,ProAcePred: prokaryote lysine acetylation sites prediction based on elastic net feature optimization,2018.0,10.0
+125,7387,ProAcePred: prokaryote lysine acetylation sites prediction based on elastic net feature optimization,2018.0,10.0
+126,125,Computational prediction of species-specific malonylation sites via enhanced characteristic strategy,2017.0,40.0
+126,125,Accurate in silico prediction of species-specific methylation sites based on information gain feature optimization,2016.0,48.0
+126,127,Computational prediction of species-specific malonylation sites via enhanced characteristic strategy,2017.0,40.0
+126,127,Accurate in silico prediction of species-specific methylation sites based on information gain feature optimization,2016.0,48.0
+126,128,Computational prediction of species-specific malonylation sites via enhanced characteristic strategy,2017.0,40.0
+126,128,Accurate in silico prediction of species-specific methylation sites based on information gain feature optimization,2016.0,48.0
+126,129,Computational prediction of species-specific malonylation sites via enhanced characteristic strategy,2017.0,40.0
+126,129,Accurate in silico prediction of species-specific methylation sites based on information gain feature optimization,2016.0,48.0
+126,5564,PredGly: predicting lysine glycation sites for Homo sapiens based on XGboost feature optimization,2019.0,17.0
+126,5565,PredGly: predicting lysine glycation sites for Homo sapiens based on XGboost feature optimization,2019.0,17.0
+126,5566,PredGly: predicting lysine glycation sites for Homo sapiens based on XGboost feature optimization,2019.0,17.0
+126,5567,PredGly: predicting lysine glycation sites for Homo sapiens based on XGboost feature optimization,2019.0,17.0
+127,125,Computational prediction of species-specific malonylation sites via enhanced characteristic strategy,2017.0,40.0
+127,125,Accurate in silico prediction of species-specific methylation sites based on information gain feature optimization,2016.0,48.0
+127,126,Computational prediction of species-specific malonylation sites via enhanced characteristic strategy,2017.0,40.0
+127,126,Accurate in silico prediction of species-specific methylation sites based on information gain feature optimization,2016.0,48.0
+127,128,Computational prediction of species-specific malonylation sites via enhanced characteristic strategy,2017.0,40.0
+127,128,Accurate in silico prediction of species-specific methylation sites based on information gain feature optimization,2016.0,48.0
+127,129,Computational prediction of species-specific malonylation sites via enhanced characteristic strategy,2017.0,40.0
+127,129,Accurate in silico prediction of species-specific methylation sites based on information gain feature optimization,2016.0,48.0
+127,10018,6mA-Finder: a novel online tool for predicting DNA N6-methyladenine sites in genomes,2020.0,9.0
+127,10020,6mA-Finder: a novel online tool for predicting DNA N6-methyladenine sites in genomes,2020.0,9.0
+127,13051,6mA-Finder: a novel online tool for predicting DNA N6-methyladenine sites in genomes,2020.0,9.0
+128,125,ProAcePred: prokaryote lysine acetylation sites prediction based on elastic net feature optimization,2018.0,10.0
+128,125,Computational prediction of species-specific malonylation sites via enhanced characteristic strategy,2017.0,40.0
+128,125,Accurate in silico prediction of species-specific methylation sites based on information gain feature optimization,2016.0,48.0
+128,126,Computational prediction of species-specific malonylation sites via enhanced characteristic strategy,2017.0,40.0
+128,126,Accurate in silico prediction of species-specific methylation sites based on information gain feature optimization,2016.0,48.0
+128,127,Computational prediction of species-specific malonylation sites via enhanced characteristic strategy,2017.0,40.0
+128,127,Accurate in silico prediction of species-specific methylation sites based on information gain feature optimization,2016.0,48.0
+128,129,Computational prediction of species-specific malonylation sites via enhanced characteristic strategy,2017.0,40.0
+128,129,Accurate in silico prediction of species-specific methylation sites based on information gain feature optimization,2016.0,48.0
+128,5566,ProAcePred: prokaryote lysine acetylation sites prediction based on elastic net feature optimization,2018.0,10.0
+128,5567,ProAcePred: prokaryote lysine acetylation sites prediction based on elastic net feature optimization,2018.0,10.0
+128,7387,ProAcePred: prokaryote lysine acetylation sites prediction based on elastic net feature optimization,2018.0,10.0
+129,125,Computational prediction of species-specific malonylation sites via enhanced characteristic strategy,2017.0,40.0
+129,125,Accurate in silico prediction of species-specific methylation sites based on information gain feature optimization,2016.0,48.0
+129,126,Computational prediction of species-specific malonylation sites via enhanced characteristic strategy,2017.0,40.0
+129,126,Accurate in silico prediction of species-specific methylation sites based on information gain feature optimization,2016.0,48.0
+129,127,Computational prediction of species-specific malonylation sites via enhanced characteristic strategy,2017.0,40.0
+129,127,Accurate in silico prediction of species-specific methylation sites based on information gain feature optimization,2016.0,48.0
+129,128,Computational prediction of species-specific malonylation sites via enhanced characteristic strategy,2017.0,40.0
+129,128,Accurate in silico prediction of species-specific methylation sites based on information gain feature optimization,2016.0,48.0
+130,131,AltORFev facilitates the prediction of alternative open reading frames in eukaryotic mRNAs,2017.0,8.0
+130,132,AltORFev facilitates the prediction of alternative open reading frames in eukaryotic mRNAs,2017.0,8.0
+130,133,AltORFev facilitates the prediction of alternative open reading frames in eukaryotic mRNAs,2017.0,8.0
+130,134,AltORFev facilitates the prediction of alternative open reading frames in eukaryotic mRNAs,2017.0,8.0
+131,130,AltORFev facilitates the prediction of alternative open reading frames in eukaryotic mRNAs,2017.0,8.0
+131,132,AltORFev facilitates the prediction of alternative open reading frames in eukaryotic mRNAs,2017.0,8.0
+131,133,AltORFev facilitates the prediction of alternative open reading frames in eukaryotic mRNAs,2017.0,8.0
+131,134,AltORFev facilitates the prediction of alternative open reading frames in eukaryotic mRNAs,2017.0,8.0
+131,10432,maTE: discovering expressed interactions between microRNAs and their targets,2019.0,2.0
+131,10433,maTE: discovering expressed interactions between microRNAs and their targets,2019.0,2.0
+132,130,AltORFev facilitates the prediction of alternative open reading frames in eukaryotic mRNAs,2017.0,8.0
+132,131,AltORFev facilitates the prediction of alternative open reading frames in eukaryotic mRNAs,2017.0,8.0
+132,133,AltORFev facilitates the prediction of alternative open reading frames in eukaryotic mRNAs,2017.0,8.0
+132,134,AltORFev facilitates the prediction of alternative open reading frames in eukaryotic mRNAs,2017.0,8.0
+133,130,AltORFev facilitates the prediction of alternative open reading frames in eukaryotic mRNAs,2017.0,8.0
+133,131,AltORFev facilitates the prediction of alternative open reading frames in eukaryotic mRNAs,2017.0,8.0
+133,132,AltORFev facilitates the prediction of alternative open reading frames in eukaryotic mRNAs,2017.0,8.0
+133,134,AltORFev facilitates the prediction of alternative open reading frames in eukaryotic mRNAs,2017.0,8.0
+134,130,AltORFev facilitates the prediction of alternative open reading frames in eukaryotic mRNAs,2017.0,8.0
+134,131,AltORFev facilitates the prediction of alternative open reading frames in eukaryotic mRNAs,2017.0,8.0
+134,132,AltORFev facilitates the prediction of alternative open reading frames in eukaryotic mRNAs,2017.0,8.0
+134,133,AltORFev facilitates the prediction of alternative open reading frames in eukaryotic mRNAs,2017.0,8.0
+135,136,PBIT: Pipeline Builder for Identification of drug Targets for infectious diseases,2017.0,5.0
+135,137,PBIT: Pipeline Builder for Identification of drug Targets for infectious diseases,2017.0,5.0
+135,138,PBIT: Pipeline Builder for Identification of drug Targets for infectious diseases,2017.0,5.0
+135,139,PBIT: Pipeline Builder for Identification of drug Targets for infectious diseases,2017.0,5.0
+136,135,PBIT: Pipeline Builder for Identification of drug Targets for infectious diseases,2017.0,5.0
+136,137,PBIT: Pipeline Builder for Identification of drug Targets for infectious diseases,2017.0,5.0
+136,138,PBIT: Pipeline Builder for Identification of drug Targets for infectious diseases,2017.0,5.0
+136,139,PBIT: Pipeline Builder for Identification of drug Targets for infectious diseases,2017.0,5.0
+137,135,PBIT: Pipeline Builder for Identification of drug Targets for infectious diseases,2017.0,5.0
+137,136,PBIT: Pipeline Builder for Identification of drug Targets for infectious diseases,2017.0,5.0
+137,138,PBIT: Pipeline Builder for Identification of drug Targets for infectious diseases,2017.0,5.0
+137,139,PBIT: Pipeline Builder for Identification of drug Targets for infectious diseases,2017.0,5.0
+138,135,PBIT: Pipeline Builder for Identification of drug Targets for infectious diseases,2017.0,5.0
+138,136,PBIT: Pipeline Builder for Identification of drug Targets for infectious diseases,2017.0,5.0
+138,137,PBIT: Pipeline Builder for Identification of drug Targets for infectious diseases,2017.0,5.0
+138,139,PBIT: Pipeline Builder for Identification of drug Targets for infectious diseases,2017.0,5.0
+139,135,PBIT: Pipeline Builder for Identification of drug Targets for infectious diseases,2017.0,5.0
+139,136,PBIT: Pipeline Builder for Identification of drug Targets for infectious diseases,2017.0,5.0
+139,137,PBIT: Pipeline Builder for Identification of drug Targets for infectious diseases,2017.0,5.0
+139,138,PBIT: Pipeline Builder for Identification of drug Targets for infectious diseases,2017.0,5.0
+140,141,Mutual enrichment in aggregated ranked lists with applications to gene expression regulation,2016.0,3.0
+140,142,Mutual enrichment in aggregated ranked lists with applications to gene expression regulation,2016.0,3.0
+140,143,Mutual enrichment in aggregated ranked lists with applications to gene expression regulation,2016.0,3.0
+140,144,Mutual enrichment in aggregated ranked lists with applications to gene expression regulation,2016.0,3.0
+141,140,Mutual enrichment in aggregated ranked lists with applications to gene expression regulation,2016.0,3.0
+141,142,Mutual enrichment in aggregated ranked lists with applications to gene expression regulation,2016.0,3.0
+141,143,Mutual enrichment in aggregated ranked lists with applications to gene expression regulation,2016.0,3.0
+141,144,Mutual enrichment in aggregated ranked lists with applications to gene expression regulation,2016.0,3.0
+142,140,Mutual enrichment in aggregated ranked lists with applications to gene expression regulation,2016.0,3.0
+142,141,Mutual enrichment in aggregated ranked lists with applications to gene expression regulation,2016.0,3.0
+142,143,Mutual enrichment in aggregated ranked lists with applications to gene expression regulation,2016.0,3.0
+142,144,Mutual enrichment in aggregated ranked lists with applications to gene expression regulation,2016.0,3.0
+143,140,Mutual enrichment in aggregated ranked lists with applications to gene expression regulation,2016.0,3.0
+143,141,Mutual enrichment in aggregated ranked lists with applications to gene expression regulation,2016.0,3.0
+143,142,Mutual enrichment in aggregated ranked lists with applications to gene expression regulation,2016.0,3.0
+143,144,Mutual enrichment in aggregated ranked lists with applications to gene expression regulation,2016.0,3.0
+144,140,Mutual enrichment in aggregated ranked lists with applications to gene expression regulation,2016.0,3.0
+144,141,Mutual enrichment in aggregated ranked lists with applications to gene expression regulation,2016.0,3.0
+144,142,Mutual enrichment in aggregated ranked lists with applications to gene expression regulation,2016.0,3.0
+144,143,Mutual enrichment in aggregated ranked lists with applications to gene expression regulation,2016.0,3.0
+144,856,Extending partial haplotypes to full genome haplotypes using chromosome conformation capture data,2016.0,17.0
+144,857,Extending partial haplotypes to full genome haplotypes using chromosome conformation capture data,2016.0,17.0
+145,146,Analyzing user-generated online content for drug discovery: development and use of MedCrawler,2017.0,3.0
+146,145,Analyzing user-generated online content for drug discovery: development and use of MedCrawler,2017.0,3.0
+147,148,Structural insight to mutation effects uncover a common allosteric site in class C GPCRs,2017.0,9.0
+147,149,Structural insight to mutation effects uncover a common allosteric site in class C GPCRs,2017.0,9.0
+147,150,Structural insight to mutation effects uncover a common allosteric site in class C GPCRs,2017.0,9.0
+147,151,Structural insight to mutation effects uncover a common allosteric site in class C GPCRs,2017.0,9.0
+148,147,Structural insight to mutation effects uncover a common allosteric site in class C GPCRs,2017.0,9.0
+148,149,Structural insight to mutation effects uncover a common allosteric site in class C GPCRs,2017.0,9.0
+148,150,Structural insight to mutation effects uncover a common allosteric site in class C GPCRs,2017.0,9.0
+148,151,Structural insight to mutation effects uncover a common allosteric site in class C GPCRs,2017.0,9.0
+149,147,Structural insight to mutation effects uncover a common allosteric site in class C GPCRs,2017.0,9.0
+149,148,Structural insight to mutation effects uncover a common allosteric site in class C GPCRs,2017.0,9.0
+149,150,Structural insight to mutation effects uncover a common allosteric site in class C GPCRs,2017.0,9.0
+149,151,Structural insight to mutation effects uncover a common allosteric site in class C GPCRs,2017.0,9.0
+150,147,Structural insight to mutation effects uncover a common allosteric site in class C GPCRs,2017.0,9.0
+150,148,Structural insight to mutation effects uncover a common allosteric site in class C GPCRs,2017.0,9.0
+150,149,Structural insight to mutation effects uncover a common allosteric site in class C GPCRs,2017.0,9.0
+150,151,Structural insight to mutation effects uncover a common allosteric site in class C GPCRs,2017.0,9.0
+151,147,Structural insight to mutation effects uncover a common allosteric site in class C GPCRs,2017.0,9.0
+151,148,Structural insight to mutation effects uncover a common allosteric site in class C GPCRs,2017.0,9.0
+151,149,Structural insight to mutation effects uncover a common allosteric site in class C GPCRs,2017.0,9.0
+151,150,Structural insight to mutation effects uncover a common allosteric site in class C GPCRs,2017.0,9.0
+152,153,An ensemble approach to protein fold classification by integration of template-based assignment and support vector machine classifier,2017.0,34.0
+152,154,An ensemble approach to protein fold classification by integration of template-based assignment and support vector machine classifier,2017.0,34.0
+152,155,An ensemble approach to protein fold classification by integration of template-based assignment and support vector machine classifier,2017.0,34.0
+152,156,An ensemble approach to protein fold classification by integration of template-based assignment and support vector machine classifier,2017.0,34.0
+153,152,An ensemble approach to protein fold classification by integration of template-based assignment and support vector machine classifier,2017.0,34.0
+153,154,An ensemble approach to protein fold classification by integration of template-based assignment and support vector machine classifier,2017.0,34.0
+153,155,An ensemble approach to protein fold classification by integration of template-based assignment and support vector machine classifier,2017.0,34.0
+153,156,CoABind: a novel algorithm for Coenzyme A (CoA)- and CoA derivatives-binding residues prediction,2018.0,7.0
+153,156,Improving the prediction of protein–nucleic acids binding residues via multiple sequence profiles and the consensus of complementary methods,2019.0,10.0
+153,156,An ensemble approach to protein fold classification by integration of template-based assignment and support vector machine classifier,2017.0,34.0
+153,156,Enhanced prediction of RNA solvent accessibility with long short-term memory neural networks and improved sequence profiles,2019.0,4.0
+153,156,mTM-align: an algorithm for fast and accurate multiple protein structure alignment,2018.0,19.0
+153,156,RNA inter-nucleotide 3D closeness prediction by deep residual neural networks,2020.0,nan
+153,156,CATHER: a novel threading algorithm with predicted contacts,2020.0,1.0
+153,1376,mTM-align: an algorithm for fast and accurate multiple protein structure alignment,2018.0,19.0
+153,1725,APOD: accurate sequence-based predictor of disordered flexible linkers,2020.0,nan
+153,2742,mTM-align: an algorithm for fast and accurate multiple protein structure alignment,2018.0,19.0
+153,4512,Protein contact prediction using metagenome sequence data and residual neural networks,2020.0,20.0
+153,4826,CATHER: a novel threading algorithm with predicted contacts,2020.0,1.0
+153,4826,Enhanced prediction of RNA solvent accessibility with long short-term memory neural networks and improved sequence profiles,2019.0,4.0
+153,4826,Protein contact prediction using metagenome sequence data and residual neural networks,2020.0,20.0
+153,6041,Improving the prediction of protein–nucleic acids binding residues via multiple sequence profiles and the consensus of complementary methods,2019.0,10.0
+153,6041,RNA inter-nucleotide 3D closeness prediction by deep residual neural networks,2020.0,nan
+153,6041,Enhanced prediction of RNA solvent accessibility with long short-term memory neural networks and improved sequence profiles,2019.0,4.0
+153,6534,Improving the prediction of protein–nucleic acids binding residues via multiple sequence profiles and the consensus of complementary methods,2019.0,10.0
+153,6535,Improving the prediction of protein–nucleic acids binding residues via multiple sequence profiles and the consensus of complementary methods,2019.0,10.0
+153,8007,CoABind: a novel algorithm for Coenzyme A (CoA)- and CoA derivatives-binding residues prediction,2018.0,7.0
+153,8553,CATHER: a novel threading algorithm with predicted contacts,2020.0,1.0
+153,8554,CATHER: a novel threading algorithm with predicted contacts,2020.0,1.0
+153,9949,Protein contact prediction using metagenome sequence data and residual neural networks,2020.0,20.0
+153,9950,Protein contact prediction using metagenome sequence data and residual neural networks,2020.0,20.0
+153,10986,APOD: accurate sequence-based predictor of disordered flexible linkers,2020.0,nan
+153,11474,RNA inter-nucleotide 3D closeness prediction by deep residual neural networks,2020.0,nan
+154,152,An ensemble approach to protein fold classification by integration of template-based assignment and support vector machine classifier,2017.0,34.0
+154,153,An ensemble approach to protein fold classification by integration of template-based assignment and support vector machine classifier,2017.0,34.0
+154,155,An ensemble approach to protein fold classification by integration of template-based assignment and support vector machine classifier,2017.0,34.0
+154,156,An ensemble approach to protein fold classification by integration of template-based assignment and support vector machine classifier,2017.0,34.0
+155,152,An ensemble approach to protein fold classification by integration of template-based assignment and support vector machine classifier,2017.0,34.0
+155,153,An ensemble approach to protein fold classification by integration of template-based assignment and support vector machine classifier,2017.0,34.0
+155,154,An ensemble approach to protein fold classification by integration of template-based assignment and support vector machine classifier,2017.0,34.0
+155,156,An ensemble approach to protein fold classification by integration of template-based assignment and support vector machine classifier,2017.0,34.0
+156,152,An ensemble approach to protein fold classification by integration of template-based assignment and support vector machine classifier,2017.0,34.0
+156,153,CoABind: a novel algorithm for Coenzyme A (CoA)- and CoA derivatives-binding residues prediction,2018.0,7.0
+156,153,Improving the prediction of protein–nucleic acids binding residues via multiple sequence profiles and the consensus of complementary methods,2019.0,10.0
+156,153,An ensemble approach to protein fold classification by integration of template-based assignment and support vector machine classifier,2017.0,34.0
+156,153,Enhanced prediction of RNA solvent accessibility with long short-term memory neural networks and improved sequence profiles,2019.0,4.0
+156,153,mTM-align: an algorithm for fast and accurate multiple protein structure alignment,2018.0,19.0
+156,153,RNA inter-nucleotide 3D closeness prediction by deep residual neural networks,2020.0,nan
+156,153,CATHER: a novel threading algorithm with predicted contacts,2020.0,1.0
+156,154,An ensemble approach to protein fold classification by integration of template-based assignment and support vector machine classifier,2017.0,34.0
+156,155,An ensemble approach to protein fold classification by integration of template-based assignment and support vector machine classifier,2017.0,34.0
+156,464,Recognizing metal and acid radical ion-binding sites by integrating ab initio modeling with template-based transferals,2016.0,57.0
+156,465,Recognizing metal and acid radical ion-binding sites by integrating ab initio modeling with template-based transferals,2016.0,57.0
+156,466,Recognizing metal and acid radical ion-binding sites by integrating ab initio modeling with template-based transferals,2016.0,57.0
+156,467,Recognizing metal and acid radical ion-binding sites by integrating ab initio modeling with template-based transferals,2016.0,57.0
+156,1374,Recognizing metal and acid radical ion-binding sites by integrating ab initio modeling with template-based transferals,2016.0,57.0
+156,1375,Recognizing metal and acid radical ion-binding sites by integrating ab initio modeling with template-based transferals,2016.0,57.0
+156,1376,Recognizing metal and acid radical ion-binding sites by integrating ab initio modeling with template-based transferals,2016.0,57.0
+156,1376,mTM-align: an algorithm for fast and accurate multiple protein structure alignment,2018.0,19.0
+156,2742,mTM-align: an algorithm for fast and accurate multiple protein structure alignment,2018.0,19.0
+156,4826,Enhanced prediction of RNA solvent accessibility with long short-term memory neural networks and improved sequence profiles,2019.0,4.0
+156,4826,CATHER: a novel threading algorithm with predicted contacts,2020.0,1.0
+156,4826,DLTree: efficient and accurate phylogeny reconstruction using the dynamical language method,2017.0,4.0
+156,4827,DLTree: efficient and accurate phylogeny reconstruction using the dynamical language method,2017.0,4.0
+156,6041,Improving the prediction of protein–nucleic acids binding residues via multiple sequence profiles and the consensus of complementary methods,2019.0,10.0
+156,6041,RNA inter-nucleotide 3D closeness prediction by deep residual neural networks,2020.0,nan
+156,6041,Enhanced prediction of RNA solvent accessibility with long short-term memory neural networks and improved sequence profiles,2019.0,4.0
+156,6534,Improving the prediction of protein–nucleic acids binding residues via multiple sequence profiles and the consensus of complementary methods,2019.0,10.0
+156,6535,Improving the prediction of protein–nucleic acids binding residues via multiple sequence profiles and the consensus of complementary methods,2019.0,10.0
+156,8007,CoABind: a novel algorithm for Coenzyme A (CoA)- and CoA derivatives-binding residues prediction,2018.0,7.0
+156,8553,CATHER: a novel threading algorithm with predicted contacts,2020.0,1.0
+156,8554,CATHER: a novel threading algorithm with predicted contacts,2020.0,1.0
+156,11474,RNA inter-nucleotide 3D closeness prediction by deep residual neural networks,2020.0,nan
+157,158,PRINCESS: Privacy-protecting Rare disease International Network Collaboration via Encryption through Software guard extensionS,2017.0,66.0
+157,159,PRINCESS: Privacy-protecting Rare disease International Network Collaboration via Encryption through Software guard extensionS,2017.0,66.0
+157,160,PRINCESS: Privacy-protecting Rare disease International Network Collaboration via Encryption through Software guard extensionS,2017.0,66.0
+157,161,PRINCESS: Privacy-protecting Rare disease International Network Collaboration via Encryption through Software guard extensionS,2017.0,66.0
+158,157,PRINCESS: Privacy-protecting Rare disease International Network Collaboration via Encryption through Software guard extensionS,2017.0,66.0
+158,159,PRINCESS: Privacy-protecting Rare disease International Network Collaboration via Encryption through Software guard extensionS,2017.0,66.0
+158,160,PRINCESS: Privacy-protecting Rare disease International Network Collaboration via Encryption through Software guard extensionS,2017.0,66.0
+158,161,PRINCESS: Privacy-protecting Rare disease International Network Collaboration via Encryption through Software guard extensionS,2017.0,66.0
+158,448,Mechanisms to protect the privacy of families when using the transmission disequilibrium test in genome-wide association studies,2017.0,7.0
+158,1924,pETM: a penalized Exponential Tilt Model for analysis of correlated high-dimensional DNA methylation data,2017.0,10.0
+158,3899,Mechanisms to protect the privacy of families when using the transmission disequilibrium test in genome-wide association studies,2017.0,7.0
+158,3900,Mechanisms to protect the privacy of families when using the transmission disequilibrium test in genome-wide association studies,2017.0,7.0
+158,3901,Mechanisms to protect the privacy of families when using the transmission disequilibrium test in genome-wide association studies,2017.0,7.0
+158,5195,pETM: a penalized Exponential Tilt Model for analysis of correlated high-dimensional DNA methylation data,2017.0,10.0
+158,5196,Using association signal annotations to boost similarity network fusion,2019.0,8.0
+158,5196,pETM: a penalized Exponential Tilt Model for analysis of correlated high-dimensional DNA methylation data,2017.0,10.0
+158,5197,pETM: a penalized Exponential Tilt Model for analysis of correlated high-dimensional DNA methylation data,2017.0,10.0
+158,10621,Using association signal annotations to boost similarity network fusion,2019.0,8.0
+158,10621,mirPLS: a partial linear structure identifier method for cancer subtyping using microRNAs,2020.0,nan
+158,10622,Using association signal annotations to boost similarity network fusion,2019.0,8.0
+158,12351,mirPLS: a partial linear structure identifier method for cancer subtyping using microRNAs,2020.0,nan
+159,157,PRINCESS: Privacy-protecting Rare disease International Network Collaboration via Encryption through Software guard extensionS,2017.0,66.0
+159,158,PRINCESS: Privacy-protecting Rare disease International Network Collaboration via Encryption through Software guard extensionS,2017.0,66.0
+159,160,PRINCESS: Privacy-protecting Rare disease International Network Collaboration via Encryption through Software guard extensionS,2017.0,66.0
+159,161,PRINCESS: Privacy-protecting Rare disease International Network Collaboration via Encryption through Software guard extensionS,2017.0,66.0
+160,157,PRINCESS: Privacy-protecting Rare disease International Network Collaboration via Encryption through Software guard extensionS,2017.0,66.0
+160,158,PRINCESS: Privacy-protecting Rare disease International Network Collaboration via Encryption through Software guard extensionS,2017.0,66.0
+160,159,PRINCESS: Privacy-protecting Rare disease International Network Collaboration via Encryption through Software guard extensionS,2017.0,66.0
+160,161,PRINCESS: Privacy-protecting Rare disease International Network Collaboration via Encryption through Software guard extensionS,2017.0,66.0
+161,157,PRINCESS: Privacy-protecting Rare disease International Network Collaboration via Encryption through Software guard extensionS,2017.0,66.0
+161,158,PRINCESS: Privacy-protecting Rare disease International Network Collaboration via Encryption through Software guard extensionS,2017.0,66.0
+161,159,PRINCESS: Privacy-protecting Rare disease International Network Collaboration via Encryption through Software guard extensionS,2017.0,66.0
+161,160,PRINCESS: Privacy-protecting Rare disease International Network Collaboration via Encryption through Software guard extensionS,2017.0,66.0
+162,163,DACE: a scalable DP-means algorithm for clustering extremely large sequence data,2017.0,12.0
+162,164,DACE: a scalable DP-means algorithm for clustering extremely large sequence data,2017.0,12.0
+162,165,DACE: a scalable DP-means algorithm for clustering extremely large sequence data,2017.0,12.0
+163,162,DACE: a scalable DP-means algorithm for clustering extremely large sequence data,2017.0,12.0
+163,164,DACE: a scalable DP-means algorithm for clustering extremely large sequence data,2017.0,12.0
+163,165,DACE: a scalable DP-means algorithm for clustering extremely large sequence data,2017.0,12.0
+164,162,DACE: a scalable DP-means algorithm for clustering extremely large sequence data,2017.0,12.0
+164,163,DACE: a scalable DP-means algorithm for clustering extremely large sequence data,2017.0,12.0
+164,165,Chromatin accessibility prediction via convolutional long short-term memory networks with k-mer embedding,2017.0,52.0
+164,165,DACE: a scalable DP-means algorithm for clustering extremely large sequence data,2017.0,12.0
+164,3262,Chromatin accessibility prediction via convolutional long short-term memory networks with k-mer embedding,2017.0,52.0
+164,3995,Chromatin accessibility prediction via convolutional long short-term memory networks with k-mer embedding,2017.0,52.0
+164,3996,Chromatin accessibility prediction via convolutional long short-term memory networks with k-mer embedding,2017.0,52.0
+165,162,DACE: a scalable DP-means algorithm for clustering extremely large sequence data,2017.0,12.0
+165,163,DACE: a scalable DP-means algorithm for clustering extremely large sequence data,2017.0,12.0
+165,164,Chromatin accessibility prediction via convolutional long short-term memory networks with k-mer embedding,2017.0,52.0
+165,164,DACE: a scalable DP-means algorithm for clustering extremely large sequence data,2017.0,12.0
+165,1245,WALT: fast and accurate read mapping for bisulfite sequencing,2016.0,34.0
+165,1246,WALT: fast and accurate read mapping for bisulfite sequencing,2016.0,34.0
+165,1831,"COCACOLA: binning metagenomic contigs using sequence COmposition, read CoverAge, CO-alignment and paired-end read LinkAge",2017.0,89.0
+165,1832,"COCACOLA: binning metagenomic contigs using sequence COmposition, read CoverAge, CO-alignment and paired-end read LinkAge",2017.0,89.0
+165,1833,"COCACOLA: binning metagenomic contigs using sequence COmposition, read CoverAge, CO-alignment and paired-end read LinkAge",2017.0,89.0
+165,3262,Chromatin accessibility prediction via convolutional long short-term memory networks with k-mer embedding,2017.0,52.0
+165,3995,Chromatin accessibility prediction via convolutional long short-term memory networks with k-mer embedding,2017.0,52.0
+165,3996,Chromatin accessibility prediction via convolutional long short-term memory networks with k-mer embedding,2017.0,52.0
+165,5211,Large-scale 16S gene assembly using metagenomics shotgun sequences,2017.0,7.0
+165,5212,Large-scale 16S gene assembly using metagenomics shotgun sequences,2017.0,7.0
+165,5213,Large-scale 16S gene assembly using metagenomics shotgun sequences,2017.0,7.0
+165,5214,Large-scale 16S gene assembly using metagenomics shotgun sequences,2017.0,7.0
+166,167,Improving flux predictions by integrating data from multiple strains,2017.0,7.0
+167,166,Improving flux predictions by integrating data from multiple strains,2017.0,7.0
+167,7372,Integrating proteomic or transcriptomic data into metabolic models using linear bound flux balance analysis,2018.0,25.0
+168,169,bnstruct: an R package for Bayesian Network structure learning in the presence of missing data,2017.0,29.0
+168,170,bnstruct: an R package for Bayesian Network structure learning in the presence of missing data,2017.0,29.0
+169,168,bnstruct: an R package for Bayesian Network structure learning in the presence of missing data,2017.0,29.0
+169,170,bnstruct: an R package for Bayesian Network structure learning in the presence of missing data,2017.0,29.0
+170,168,bnstruct: an R package for Bayesian Network structure learning in the presence of missing data,2017.0,29.0
+170,169,bnstruct: an R package for Bayesian Network structure learning in the presence of missing data,2017.0,29.0
+170,8951,SPARSim single cell: a count data simulator for scRNA-seq data,2020.0,2.0
+170,8952,SPARSim single cell: a count data simulator for scRNA-seq data,2020.0,2.0
+171,172,"T-BAS: Tree-Based Alignment Selector toolkit for phylogenetic-based placement, alignment downloads and metadata visualization: an example with the Pezizomycotina tree of life",2017.0,38.0
+171,173,"T-BAS: Tree-Based Alignment Selector toolkit for phylogenetic-based placement, alignment downloads and metadata visualization: an example with the Pezizomycotina tree of life",2017.0,38.0
+171,174,"T-BAS: Tree-Based Alignment Selector toolkit for phylogenetic-based placement, alignment downloads and metadata visualization: an example with the Pezizomycotina tree of life",2017.0,38.0
+171,175,"T-BAS: Tree-Based Alignment Selector toolkit for phylogenetic-based placement, alignment downloads and metadata visualization: an example with the Pezizomycotina tree of life",2017.0,38.0
+172,171,"T-BAS: Tree-Based Alignment Selector toolkit for phylogenetic-based placement, alignment downloads and metadata visualization: an example with the Pezizomycotina tree of life",2017.0,38.0
+172,173,"T-BAS: Tree-Based Alignment Selector toolkit for phylogenetic-based placement, alignment downloads and metadata visualization: an example with the Pezizomycotina tree of life",2017.0,38.0
+172,174,"T-BAS: Tree-Based Alignment Selector toolkit for phylogenetic-based placement, alignment downloads and metadata visualization: an example with the Pezizomycotina tree of life",2017.0,38.0
+172,175,"T-BAS: Tree-Based Alignment Selector toolkit for phylogenetic-based placement, alignment downloads and metadata visualization: an example with the Pezizomycotina tree of life",2017.0,38.0
+173,171,"T-BAS: Tree-Based Alignment Selector toolkit for phylogenetic-based placement, alignment downloads and metadata visualization: an example with the Pezizomycotina tree of life",2017.0,38.0
+173,172,"T-BAS: Tree-Based Alignment Selector toolkit for phylogenetic-based placement, alignment downloads and metadata visualization: an example with the Pezizomycotina tree of life",2017.0,38.0
+173,174,"T-BAS: Tree-Based Alignment Selector toolkit for phylogenetic-based placement, alignment downloads and metadata visualization: an example with the Pezizomycotina tree of life",2017.0,38.0
+173,175,"T-BAS: Tree-Based Alignment Selector toolkit for phylogenetic-based placement, alignment downloads and metadata visualization: an example with the Pezizomycotina tree of life",2017.0,38.0
+174,171,"T-BAS: Tree-Based Alignment Selector toolkit for phylogenetic-based placement, alignment downloads and metadata visualization: an example with the Pezizomycotina tree of life",2017.0,38.0
+174,172,"T-BAS: Tree-Based Alignment Selector toolkit for phylogenetic-based placement, alignment downloads and metadata visualization: an example with the Pezizomycotina tree of life",2017.0,38.0
+174,173,"T-BAS: Tree-Based Alignment Selector toolkit for phylogenetic-based placement, alignment downloads and metadata visualization: an example with the Pezizomycotina tree of life",2017.0,38.0
+174,175,"T-BAS: Tree-Based Alignment Selector toolkit for phylogenetic-based placement, alignment downloads and metadata visualization: an example with the Pezizomycotina tree of life",2017.0,38.0
+175,171,"T-BAS: Tree-Based Alignment Selector toolkit for phylogenetic-based placement, alignment downloads and metadata visualization: an example with the Pezizomycotina tree of life",2017.0,38.0
+175,172,"T-BAS: Tree-Based Alignment Selector toolkit for phylogenetic-based placement, alignment downloads and metadata visualization: an example with the Pezizomycotina tree of life",2017.0,38.0
+175,173,"T-BAS: Tree-Based Alignment Selector toolkit for phylogenetic-based placement, alignment downloads and metadata visualization: an example with the Pezizomycotina tree of life",2017.0,38.0
+175,174,"T-BAS: Tree-Based Alignment Selector toolkit for phylogenetic-based placement, alignment downloads and metadata visualization: an example with the Pezizomycotina tree of life",2017.0,38.0
+176,177,ChopStitch: exon annotation and splice graph construction using transcriptome assembly and whole genome sequencing data,2018.0,5.0
+176,177,"Innovations and challenges in detecting long read overlaps: an evaluation 
+of the state-of-the-art",2017.0,41.0
+176,177,ntHash: recursive nucleotide hashing,2016.0,nan
+176,178,ARCS: scaffolding genome drafts with linked reads,2018.0,64.0
+176,178,"Kollector: transcript-informed, targeted de novo assembly of gene loci",2017.0,11.0
+176,178,ntJoin: Fast and lightweight assembly-guided scaffolding using minimizer graphs,2020.0,4.0
+176,178,"Innovations and challenges in detecting long read overlaps: an evaluation 
+of the state-of-the-art",2017.0,41.0
+176,179,"Innovations and challenges in detecting long read overlaps: an evaluation 
+of the state-of-the-art",2017.0,41.0
+176,180,ARCS: scaffolding genome drafts with linked reads,2018.0,64.0
+176,180,"Innovations and challenges in detecting long read overlaps: an evaluation 
+of the state-of-the-art",2017.0,41.0
+176,1283,"Kollector: transcript-informed, targeted de novo assembly of gene loci",2017.0,11.0
+176,1283,ntHash: recursive nucleotide hashing,2016.0,nan
+176,1283,ChopStitch: exon annotation and splice graph construction using transcriptome assembly and whole genome sequencing data,2018.0,5.0
+176,1284,ntJoin: Fast and lightweight assembly-guided scaffolding using minimizer graphs,2020.0,4.0
+176,1284,ntHash: recursive nucleotide hashing,2016.0,nan
+176,2679,ChopStitch: exon annotation and splice graph construction using transcriptome assembly and whole genome sequencing data,2018.0,5.0
+176,2680,ChopStitch: exon annotation and splice graph construction using transcriptome assembly and whole genome sequencing data,2018.0,5.0
+176,3242,ARCS: scaffolding genome drafts with linked reads,2018.0,64.0
+176,3243,ARCS: scaffolding genome drafts with linked reads,2018.0,64.0
+176,3243,ntJoin: Fast and lightweight assembly-guided scaffolding using minimizer graphs,2020.0,4.0
+176,4094,"Kollector: transcript-informed, targeted de novo assembly of gene loci",2017.0,11.0
+176,4095,"Kollector: transcript-informed, targeted de novo assembly of gene loci",2017.0,11.0
+176,12731,ntJoin: Fast and lightweight assembly-guided scaffolding using minimizer graphs,2020.0,4.0
+177,176,ChopStitch: exon annotation and splice graph construction using transcriptome assembly and whole genome sequencing data,2018.0,5.0
+177,176,"Innovations and challenges in detecting long read overlaps: an evaluation 
+of the state-of-the-art",2017.0,41.0
+177,176,ntHash: recursive nucleotide hashing,2016.0,nan
+177,178,"Innovations and challenges in detecting long read overlaps: an evaluation 
+of the state-of-the-art",2017.0,41.0
+177,178,ntEdit: scalable genome sequence polishing,2020.0,nan
+177,179,"Innovations and challenges in detecting long read overlaps: an evaluation 
+of the state-of-the-art",2017.0,41.0
+177,180,"Innovations and challenges in detecting long read overlaps: an evaluation 
+of the state-of-the-art",2017.0,41.0
+177,1283,ChopStitch: exon annotation and splice graph construction using transcriptome assembly and whole genome sequencing data,2018.0,5.0
+177,1283,ntHash: recursive nucleotide hashing,2016.0,nan
+177,1284,ntCard: a streaming algorithm for cardinality estimation in genomics data,2017.0,38.0
+177,1284,ntHash: recursive nucleotide hashing,2016.0,nan
+177,2679,ntCard: a streaming algorithm for cardinality estimation in genomics data,2017.0,38.0
+177,2679,ChopStitch: exon annotation and splice graph construction using transcriptome assembly and whole genome sequencing data,2018.0,5.0
+177,2680,ChopStitch: exon annotation and splice graph construction using transcriptome assembly and whole genome sequencing data,2018.0,5.0
+177,3243,ntEdit: scalable genome sequence polishing,2020.0,nan
+177,10098,ntEdit: scalable genome sequence polishing,2020.0,nan
+177,10099,ntEdit: scalable genome sequence polishing,2020.0,nan
+178,176,ARCS: scaffolding genome drafts with linked reads,2018.0,64.0
+178,176,"Kollector: transcript-informed, targeted de novo assembly of gene loci",2017.0,11.0
+178,176,ntJoin: Fast and lightweight assembly-guided scaffolding using minimizer graphs,2020.0,4.0
+178,176,"Innovations and challenges in detecting long read overlaps: an evaluation 
+of the state-of-the-art",2017.0,41.0
+178,177,"Innovations and challenges in detecting long read overlaps: an evaluation 
+of the state-of-the-art",2017.0,41.0
+178,177,ntEdit: scalable genome sequence polishing,2020.0,nan
+178,179,"Innovations and challenges in detecting long read overlaps: an evaluation 
+of the state-of-the-art",2017.0,41.0
+178,180,ARCS: scaffolding genome drafts with linked reads,2018.0,64.0
+178,180,"Innovations and challenges in detecting long read overlaps: an evaluation 
+of the state-of-the-art",2017.0,41.0
+178,180,HLA predictions from the bronchoalveolar lavage fluid and blood samples of eight COVID-19 patients at the pandemic onset,2020.0,2.0
+178,1283,"Kollector: transcript-informed, targeted de novo assembly of gene loci",2017.0,11.0
+178,1284,ntJoin: Fast and lightweight assembly-guided scaffolding using minimizer graphs,2020.0,4.0
+178,3242,ARCS: scaffolding genome drafts with linked reads,2018.0,64.0
+178,3243,ARCS: scaffolding genome drafts with linked reads,2018.0,64.0
+178,3243,ntJoin: Fast and lightweight assembly-guided scaffolding using minimizer graphs,2020.0,4.0
+178,3243,ntEdit: scalable genome sequence polishing,2020.0,nan
+178,4094,"Kollector: transcript-informed, targeted de novo assembly of gene loci",2017.0,11.0
+178,4095,"Kollector: transcript-informed, targeted de novo assembly of gene loci",2017.0,11.0
+178,10098,ntEdit: scalable genome sequence polishing,2020.0,nan
+178,10099,ntEdit: scalable genome sequence polishing,2020.0,nan
+178,12731,ntJoin: Fast and lightweight assembly-guided scaffolding using minimizer graphs,2020.0,4.0
+179,176,"Innovations and challenges in detecting long read overlaps: an evaluation 
+of the state-of-the-art",2017.0,41.0
+179,177,"Innovations and challenges in detecting long read overlaps: an evaluation 
+of the state-of-the-art",2017.0,41.0
+179,178,"Innovations and challenges in detecting long read overlaps: an evaluation 
+of the state-of-the-art",2017.0,41.0
+179,180,"Innovations and challenges in detecting long read overlaps: an evaluation 
+of the state-of-the-art",2017.0,41.0
+180,176,"Innovations and challenges in detecting long read overlaps: an evaluation 
+of the state-of-the-art",2017.0,41.0
+180,176,ARCS: scaffolding genome drafts with linked reads,2018.0,64.0
+180,177,"Innovations and challenges in detecting long read overlaps: an evaluation 
+of the state-of-the-art",2017.0,41.0
+180,178,HLA predictions from the bronchoalveolar lavage fluid and blood samples of eight COVID-19 patients at the pandemic onset,2020.0,2.0
+180,178,"Innovations and challenges in detecting long read overlaps: an evaluation 
+of the state-of-the-art",2017.0,41.0
+180,178,ARCS: scaffolding genome drafts with linked reads,2018.0,64.0
+180,179,"Innovations and challenges in detecting long read overlaps: an evaluation 
+of the state-of-the-art",2017.0,41.0
+180,3242,ARCS: scaffolding genome drafts with linked reads,2018.0,64.0
+180,3243,ARCS: scaffolding genome drafts with linked reads,2018.0,64.0
+181,182,SNP interaction pattern identifier (SIPI): an intensive search for SNP–SNP interaction patterns,2017.0,9.0
+181,182,AA9int: SNP interaction pattern search using non-hierarchical additive model set,2018.0,1.0
+181,183,SNP interaction pattern identifier (SIPI): an intensive search for SNP–SNP interaction patterns,2017.0,9.0
+181,183,AA9int: SNP interaction pattern search using non-hierarchical additive model set,2018.0,1.0
+181,184,SNP interaction pattern identifier (SIPI): an intensive search for SNP–SNP interaction patterns,2017.0,9.0
+181,185,SNP interaction pattern identifier (SIPI): an intensive search for SNP–SNP interaction patterns,2017.0,9.0
+181,7363,AA9int: SNP interaction pattern search using non-hierarchical additive model set,2018.0,1.0
+181,7364,AA9int: SNP interaction pattern search using non-hierarchical additive model set,2018.0,1.0
+182,181,SNP interaction pattern identifier (SIPI): an intensive search for SNP–SNP interaction patterns,2017.0,9.0
+182,181,AA9int: SNP interaction pattern search using non-hierarchical additive model set,2018.0,1.0
+182,183,SNP interaction pattern identifier (SIPI): an intensive search for SNP–SNP interaction patterns,2017.0,9.0
+182,183,AA9int: SNP interaction pattern search using non-hierarchical additive model set,2018.0,1.0
+182,184,SNP interaction pattern identifier (SIPI): an intensive search for SNP–SNP interaction patterns,2017.0,9.0
+182,185,SNP interaction pattern identifier (SIPI): an intensive search for SNP–SNP interaction patterns,2017.0,9.0
+182,7363,AA9int: SNP interaction pattern search using non-hierarchical additive model set,2018.0,1.0
+182,7364,AA9int: SNP interaction pattern search using non-hierarchical additive model set,2018.0,1.0
+183,181,SNP interaction pattern identifier (SIPI): an intensive search for SNP–SNP interaction patterns,2017.0,9.0
+183,181,AA9int: SNP interaction pattern search using non-hierarchical additive model set,2018.0,1.0
+183,182,SNP interaction pattern identifier (SIPI): an intensive search for SNP–SNP interaction patterns,2017.0,9.0
+183,182,AA9int: SNP interaction pattern search using non-hierarchical additive model set,2018.0,1.0
+183,184,SNP interaction pattern identifier (SIPI): an intensive search for SNP–SNP interaction patterns,2017.0,9.0
+183,185,SNP interaction pattern identifier (SIPI): an intensive search for SNP–SNP interaction patterns,2017.0,9.0
+183,7363,AA9int: SNP interaction pattern search using non-hierarchical additive model set,2018.0,1.0
+183,7364,AA9int: SNP interaction pattern search using non-hierarchical additive model set,2018.0,1.0
+184,181,SNP interaction pattern identifier (SIPI): an intensive search for SNP–SNP interaction patterns,2017.0,9.0
+184,182,SNP interaction pattern identifier (SIPI): an intensive search for SNP–SNP interaction patterns,2017.0,9.0
+184,183,SNP interaction pattern identifier (SIPI): an intensive search for SNP–SNP interaction patterns,2017.0,9.0
+184,185,SNP interaction pattern identifier (SIPI): an intensive search for SNP–SNP interaction patterns,2017.0,9.0
+185,181,SNP interaction pattern identifier (SIPI): an intensive search for SNP–SNP interaction patterns,2017.0,9.0
+185,182,SNP interaction pattern identifier (SIPI): an intensive search for SNP–SNP interaction patterns,2017.0,9.0
+185,183,SNP interaction pattern identifier (SIPI): an intensive search for SNP–SNP interaction patterns,2017.0,9.0
+185,184,SNP interaction pattern identifier (SIPI): an intensive search for SNP–SNP interaction patterns,2017.0,9.0
+186,187,RBPPred: predicting RNA-binding proteins from sequence using SVM,2017.0,33.0
+187,186,RBPPred: predicting RNA-binding proteins from sequence using SVM,2017.0,33.0
+187,583,P3DOCK: a protein–RNA docking webserver based on template-based and template-free docking,2020.0,5.0
+187,8545,P3DOCK: a protein–RNA docking webserver based on template-based and template-free docking,2020.0,5.0
+187,9951,P3DOCK: a protein–RNA docking webserver based on template-based and template-free docking,2020.0,5.0
+187,9952,P3DOCK: a protein–RNA docking webserver based on template-based and template-free docking,2020.0,5.0
+188,25,Predict drug permeability to blood–brain-barrier from clinical phenotypes: drug side effects and drug indications,2017.0,22.0
+188,26,Predict drug permeability to blood–brain-barrier from clinical phenotypes: drug side effects and drug indications,2017.0,22.0
+188,189,Predict drug permeability to blood–brain-barrier from clinical phenotypes: drug side effects and drug indications,2017.0,22.0
+188,689,PathwaySplice: an R package for unbiased pathway analysis of alternative splicing in RNA-Seq data,2018.0,1.0
+188,4690,PathwaySplice: an R package for unbiased pathway analysis of alternative splicing in RNA-Seq data,2018.0,1.0
+188,5000,Computational modeling of in vivo and in vitro protein-DNA interactions by multiple instance learning,2017.0,9.0
+188,7720,PathwaySplice: an R package for unbiased pathway analysis of alternative splicing in RNA-Seq data,2018.0,1.0
+188,7721,PathwaySplice: an R package for unbiased pathway analysis of alternative splicing in RNA-Seq data,2018.0,1.0
+188,12017,AEMDA: inferring miRNA–disease associations based on deep autoencoder,2020.0,1.0
+188,12018,AEMDA: inferring miRNA–disease associations based on deep autoencoder,2020.0,1.0
+188,12019,AEMDA: inferring miRNA–disease associations based on deep autoencoder,2020.0,1.0
+188,12020,AEMDA: inferring miRNA–disease associations based on deep autoencoder,2020.0,1.0
+189,25,Predict drug permeability to blood–brain-barrier from clinical phenotypes: drug side effects and drug indications,2017.0,22.0
+189,26,Predict drug permeability to blood–brain-barrier from clinical phenotypes: drug side effects and drug indications,2017.0,22.0
+189,188,Predict drug permeability to blood–brain-barrier from clinical phenotypes: drug side effects and drug indications,2017.0,22.0
+190,191,A mass graph-based approach for the identification of modified proteoforms using top-down tandem mass spectra,2017.0,15.0
+190,192,A mass graph-based approach for the identification of modified proteoforms using top-down tandem mass spectra,2017.0,15.0
+190,193,A mass graph-based approach for the identification of modified proteoforms using top-down tandem mass spectra,2017.0,15.0
+190,194,A mass graph-based approach for the identification of modified proteoforms using top-down tandem mass spectra,2017.0,15.0
+190,1272,TopPIC: a software tool for top-down mass spectrometry-based proteoform identification and characterization,2016.0,86.0
+190,1273,TopPIC: a software tool for top-down mass spectrometry-based proteoform identification and characterization,2016.0,86.0
+191,190,A mass graph-based approach for the identification of modified proteoforms using top-down tandem mass spectra,2017.0,15.0
+191,192,A mass graph-based approach for the identification of modified proteoforms using top-down tandem mass spectra,2017.0,15.0
+191,193,A mass graph-based approach for the identification of modified proteoforms using top-down tandem mass spectra,2017.0,15.0
+191,194,A mass graph-based approach for the identification of modified proteoforms using top-down tandem mass spectra,2017.0,15.0
+191,1273,Top-down analysis of protein samples by de novo sequencing techniques,2016.0,14.0
+191,1859,Top-down analysis of protein samples by de novo sequencing techniques,2016.0,14.0
+191,1860,Top-down analysis of protein samples by de novo sequencing techniques,2016.0,14.0
+191,1861,Top-down analysis of protein samples by de novo sequencing techniques,2016.0,14.0
+192,190,A mass graph-based approach for the identification of modified proteoforms using top-down tandem mass spectra,2017.0,15.0
+192,191,A mass graph-based approach for the identification of modified proteoforms using top-down tandem mass spectra,2017.0,15.0
+192,193,A mass graph-based approach for the identification of modified proteoforms using top-down tandem mass spectra,2017.0,15.0
+192,194,A mass graph-based approach for the identification of modified proteoforms using top-down tandem mass spectra,2017.0,15.0
+193,190,A mass graph-based approach for the identification of modified proteoforms using top-down tandem mass spectra,2017.0,15.0
+193,191,A mass graph-based approach for the identification of modified proteoforms using top-down tandem mass spectra,2017.0,15.0
+193,192,A mass graph-based approach for the identification of modified proteoforms using top-down tandem mass spectra,2017.0,15.0
+193,194,A mass graph-based approach for the identification of modified proteoforms using top-down tandem mass spectra,2017.0,15.0
+194,190,A mass graph-based approach for the identification of modified proteoforms using top-down tandem mass spectra,2017.0,15.0
+194,191,A mass graph-based approach for the identification of modified proteoforms using top-down tandem mass spectra,2017.0,15.0
+194,192,A mass graph-based approach for the identification of modified proteoforms using top-down tandem mass spectra,2017.0,15.0
+194,193,A mass graph-based approach for the identification of modified proteoforms using top-down tandem mass spectra,2017.0,15.0
+194,11381,CGPE: an integrated online server for Cancer Gene and Pathway Exploration,2020.0,nan
+194,11382,CGPE: an integrated online server for Cancer Gene and Pathway Exploration,2020.0,nan
+194,11383,CGPE: an integrated online server for Cancer Gene and Pathway Exploration,2020.0,nan
+195,196,A general framework for association analysis of microbial communities on a taxonomic tree,2017.0,30.0
+195,196,"PERMANOVA-S: association test for microbial community composition that
+          accommodates confounders and multiple distances",2016.0,53.0
+195,197,A general framework for association analysis of microbial communities on a taxonomic tree,2017.0,30.0
+195,197,"PERMANOVA-S: association test for microbial community composition that
+          accommodates confounders and multiple distances",2016.0,53.0
+195,198,A general framework for association analysis of microbial communities on a taxonomic tree,2017.0,30.0
+196,195,A general framework for association analysis of microbial communities on a taxonomic tree,2017.0,30.0
+196,195,"PERMANOVA-S: association test for microbial community composition that
+          accommodates confounders and multiple distances",2016.0,53.0
+196,197,A general framework for association analysis of microbial communities on a taxonomic tree,2017.0,30.0
+196,197,"PERMANOVA-S: association test for microbial community composition that
+          accommodates confounders and multiple distances",2016.0,53.0
+196,198,A general framework for association analysis of microbial communities on a taxonomic tree,2017.0,30.0
+197,195,A general framework for association analysis of microbial communities on a taxonomic tree,2017.0,30.0
+197,195,"PERMANOVA-S: association test for microbial community composition that
+          accommodates confounders and multiple distances",2016.0,53.0
+197,196,A general framework for association analysis of microbial communities on a taxonomic tree,2017.0,30.0
+197,196,"PERMANOVA-S: association test for microbial community composition that
+          accommodates confounders and multiple distances",2016.0,53.0
+197,198,A general framework for association analysis of microbial communities on a taxonomic tree,2017.0,30.0
+198,195,A general framework for association analysis of microbial communities on a taxonomic tree,2017.0,30.0
+198,196,A general framework for association analysis of microbial communities on a taxonomic tree,2017.0,30.0
+198,197,A general framework for association analysis of microbial communities on a taxonomic tree,2017.0,30.0
+198,1862,A two-part mixed-effects model for analyzing longitudinal microbiome compositional data,2016.0,111.0
+199,200,Defining the clonality of peripheral T cell lymphomas using RNA-seq,2017.0,12.0
+199,201,Defining the clonality of peripheral T cell lymphomas using RNA-seq,2017.0,12.0
+199,202,Defining the clonality of peripheral T cell lymphomas using RNA-seq,2017.0,12.0
+199,203,Defining the clonality of peripheral T cell lymphomas using RNA-seq,2017.0,12.0
+200,199,Defining the clonality of peripheral T cell lymphomas using RNA-seq,2017.0,12.0
+200,201,Defining the clonality of peripheral T cell lymphomas using RNA-seq,2017.0,12.0
+200,202,Defining the clonality of peripheral T cell lymphomas using RNA-seq,2017.0,12.0
+200,203,Defining the clonality of peripheral T cell lymphomas using RNA-seq,2017.0,12.0
+201,199,Defining the clonality of peripheral T cell lymphomas using RNA-seq,2017.0,12.0
+201,200,Defining the clonality of peripheral T cell lymphomas using RNA-seq,2017.0,12.0
+201,202,Defining the clonality of peripheral T cell lymphomas using RNA-seq,2017.0,12.0
+201,203,Defining the clonality of peripheral T cell lymphomas using RNA-seq,2017.0,12.0
+202,199,Defining the clonality of peripheral T cell lymphomas using RNA-seq,2017.0,12.0
+202,200,Defining the clonality of peripheral T cell lymphomas using RNA-seq,2017.0,12.0
+202,201,Defining the clonality of peripheral T cell lymphomas using RNA-seq,2017.0,12.0
+202,203,Defining the clonality of peripheral T cell lymphomas using RNA-seq,2017.0,12.0
+203,199,Defining the clonality of peripheral T cell lymphomas using RNA-seq,2017.0,12.0
+203,200,Defining the clonality of peripheral T cell lymphomas using RNA-seq,2017.0,12.0
+203,201,Defining the clonality of peripheral T cell lymphomas using RNA-seq,2017.0,12.0
+203,202,Defining the clonality of peripheral T cell lymphomas using RNA-seq,2017.0,12.0
+204,205,GWAlpha: genome-wide estimation of additive effects (alpha) based on trait quantile distribution from pool-sequencing experiments,2017.0,1.0
+204,206,GWAlpha: genome-wide estimation of additive effects (alpha) based on trait quantile distribution from pool-sequencing experiments,2017.0,1.0
+205,204,GWAlpha: genome-wide estimation of additive effects (alpha) based on trait quantile distribution from pool-sequencing experiments,2017.0,1.0
+205,206,GWAlpha: genome-wide estimation of additive effects (alpha) based on trait quantile distribution from pool-sequencing experiments,2017.0,1.0
+206,204,GWAlpha: genome-wide estimation of additive effects (alpha) based on trait quantile distribution from pool-sequencing experiments,2017.0,1.0
+206,205,GWAlpha: genome-wide estimation of additive effects (alpha) based on trait quantile distribution from pool-sequencing experiments,2017.0,1.0
+207,208,MEGA-V: detection of variant gene sets in patient cohorts,2017.0,4.0
+207,209,MEGA-V: detection of variant gene sets in patient cohorts,2017.0,4.0
+207,210,MEGA-V: detection of variant gene sets in patient cohorts,2017.0,4.0
+208,207,MEGA-V: detection of variant gene sets in patient cohorts,2017.0,4.0
+208,209,MEGA-V: detection of variant gene sets in patient cohorts,2017.0,4.0
+208,210,MEGA-V: detection of variant gene sets in patient cohorts,2017.0,4.0
+209,207,MEGA-V: detection of variant gene sets in patient cohorts,2017.0,4.0
+209,208,MEGA-V: detection of variant gene sets in patient cohorts,2017.0,4.0
+209,210,MEGA-V: detection of variant gene sets in patient cohorts,2017.0,4.0
+210,207,MEGA-V: detection of variant gene sets in patient cohorts,2017.0,4.0
+210,208,MEGA-V: detection of variant gene sets in patient cohorts,2017.0,4.0
+210,209,MEGA-V: detection of variant gene sets in patient cohorts,2017.0,4.0
+211,212,Hum-mPLoc 3.0: prediction enhancement of human protein subcellular localization through modeling the hidden correlations of gene ontology and functional domain features,2017.0,55.0
+211,213,Hum-mPLoc 3.0: prediction enhancement of human protein subcellular localization through modeling the hidden correlations of gene ontology and functional domain features,2017.0,55.0
+212,211,Hum-mPLoc 3.0: prediction enhancement of human protein subcellular localization through modeling the hidden correlations of gene ontology and functional domain features,2017.0,55.0
+212,213,Hum-mPLoc 3.0: prediction enhancement of human protein subcellular localization through modeling the hidden correlations of gene ontology and functional domain features,2017.0,55.0
+212,213,The lncLocator: a subcellular localization predictor for long non-coding RNAs based on a stacked ensemble classifier,2018.0,108.0
+212,213,AnnoFly: annotating Drosophila embryonic images based on an attention-enhanced RNN model,2019.0,4.0
+212,213,ImPLoc: a multi-instance deep learning model for the prediction of protein subcellular localization based on immunohistochemistry images,2020.0,6.0
+212,213,"MiRGOFS: a GO-based functional similarity measurement for miRNAs, with applications to the prediction of miRNA subcellular localization and miRNA–disease association",2018.0,18.0
+212,1099,Predicting CTCF-mediated chromatin loops using CTCF-MP,2018.0,22.0
+212,1099,Exploiting sequence-based features for predicting enhancer–promoter interactions,2017.0,37.0
+212,1376,Predicting CTCF-mediated chromatin loops using CTCF-MP,2018.0,22.0
+212,2370,PON-Sol: prediction of effects of amino acid substitutions on protein solubility,2016.0,24.0
+212,2371,PON-Sol: prediction of effects of amino acid substitutions on protein solubility,2016.0,24.0
+212,2372,PON-Sol: prediction of effects of amino acid substitutions on protein solubility,2016.0,24.0
+212,2835,Machine learning for classifying tuberculosis drug-resistance from DNA sequencing data,2018.0,44.0
+212,2836,DeepAMR for predicting co-occurrent resistance of Mycobacterium tuberculosis,2019.0,7.0
+212,2836,Application of machine learning techniques to tuberculosis drug resistance analysis,2019.0,19.0
+212,2836,Machine learning for classifying tuberculosis drug-resistance from DNA sequencing data,2018.0,44.0
+212,2837,Machine learning for classifying tuberculosis drug-resistance from DNA sequencing data,2018.0,44.0
+212,2838,DeepAMR for predicting co-occurrent resistance of Mycobacterium tuberculosis,2019.0,7.0
+212,2838,Application of machine learning techniques to tuberculosis drug resistance analysis,2019.0,19.0
+212,2838,Machine learning for classifying tuberculosis drug-resistance from DNA sequencing data,2018.0,44.0
+212,3978,Predicting CTCF-mediated chromatin loops using CTCF-MP,2018.0,22.0
+212,3978,Exploiting sequence-based features for predicting enhancer–promoter interactions,2017.0,37.0
+212,3979,Exploiting sequence-based features for predicting enhancer–promoter interactions,2017.0,37.0
+212,5776,Application of machine learning techniques to tuberculosis drug resistance analysis,2019.0,19.0
+212,5777,DeepAMR for predicting co-occurrent resistance of Mycobacterium tuberculosis,2019.0,7.0
+212,5777,Application of machine learning techniques to tuberculosis drug resistance analysis,2019.0,19.0
+212,5978,The lncLocator: a subcellular localization predictor for long non-coding RNAs based on a stacked ensemble classifier,2018.0,108.0
+212,6150,The lncLocator: a subcellular localization predictor for long non-coding RNAs based on a stacked ensemble classifier,2018.0,108.0
+212,7123,Predicting CTCF-mediated chromatin loops using CTCF-MP,2018.0,22.0
+212,7224,The lncLocator: a subcellular localization predictor for long non-coding RNAs based on a stacked ensemble classifier,2018.0,108.0
+212,7652,"MiRGOFS: a GO-based functional similarity measurement for miRNAs, with applications to the prediction of miRNA subcellular localization and miRNA–disease association",2018.0,18.0
+212,7653,"MiRGOFS: a GO-based functional similarity measurement for miRNAs, with applications to the prediction of miRNA subcellular localization and miRNA–disease association",2018.0,18.0
+212,7654,"MiRGOFS: a GO-based functional similarity measurement for miRNAs, with applications to the prediction of miRNA subcellular localization and miRNA–disease association",2018.0,18.0
+212,8532,ImPLoc: a multi-instance deep learning model for the prediction of protein subcellular localization based on immunohistochemistry images,2020.0,6.0
+212,10770,DeepAMR for predicting co-occurrent resistance of Mycobacterium tuberculosis,2019.0,7.0
+212,10945,AnnoFly: annotating Drosophila embryonic images based on an attention-enhanced RNN model,2019.0,4.0
+212,10946,AnnoFly: annotating Drosophila embryonic images based on an attention-enhanced RNN model,2019.0,4.0
+213,211,Hum-mPLoc 3.0: prediction enhancement of human protein subcellular localization through modeling the hidden correlations of gene ontology and functional domain features,2017.0,55.0
+213,212,Hum-mPLoc 3.0: prediction enhancement of human protein subcellular localization through modeling the hidden correlations of gene ontology and functional domain features,2017.0,55.0
+213,212,The lncLocator: a subcellular localization predictor for long non-coding RNAs based on a stacked ensemble classifier,2018.0,108.0
+213,212,AnnoFly: annotating Drosophila embryonic images based on an attention-enhanced RNN model,2019.0,4.0
+213,212,ImPLoc: a multi-instance deep learning model for the prediction of protein subcellular localization based on immunohistochemistry images,2020.0,6.0
+213,212,"MiRGOFS: a GO-based functional similarity measurement for miRNAs, with applications to the prediction of miRNA subcellular localization and miRNA–disease association",2018.0,18.0
+213,1376,NeBcon: protein contact map prediction using neural network training coupled with naïve Bayes classifiers,2017.0,44.0
+213,1730,MemBrain-contact 2.0: a new two-stage machine learning model for the prediction enhancement of transmembrane protein residue contacts in the full chain,2018.0,5.0
+213,1730,R2C: improving ab initio residue contact map prediction using dynamic fusion strategy and Gaussian noise filter,2016.0,26.0
+213,1959,Incorporating organelle correlations into semi-supervised learning for protein subcellular localization prediction,2016.0,18.0
+213,1959,Learning complex subcellular distribution patterns of proteins via analysis of immunohistochemistry images,2020.0,5.0
+213,1960,Incorporating organelle correlations into semi-supervised learning for protein subcellular localization prediction,2016.0,18.0
+213,2048,R2C: improving ab initio residue contact map prediction using dynamic fusion strategy and Gaussian noise filter,2016.0,26.0
+213,2049,R2C: improving ab initio residue contact map prediction using dynamic fusion strategy and Gaussian noise filter,2016.0,26.0
+213,4075,Learning complex subcellular distribution patterns of proteins via analysis of immunohistochemistry images,2020.0,5.0
+213,4831,NeBcon: protein contact map prediction using neural network training coupled with naïve Bayes classifiers,2017.0,44.0
+213,4832,NeBcon: protein contact map prediction using neural network training coupled with naïve Bayes classifiers,2017.0,44.0
+213,4833,NeBcon: protein contact map prediction using neural network training coupled with naïve Bayes classifiers,2017.0,44.0
+213,5978,The lncLocator: a subcellular localization predictor for long non-coding RNAs based on a stacked ensemble classifier,2018.0,108.0
+213,6150,Predicting RNA–protein binding sites and motifs through combining local and global deep convolutional neural networks,2018.0,70.0
+213,6150,ToxDL: deep learning using primary structure and domain embeddings for assessing protein toxicity,2020.0,1.0
+213,6150,The lncLocator: a subcellular localization predictor for long non-coding RNAs based on a stacked ensemble classifier,2018.0,108.0
+213,6150,Protein–ligand binding residue prediction enhancement through hybrid deep heterogeneous learning of sequence and structure data,2020.0,3.0
+213,7224,The lncLocator: a subcellular localization predictor for long non-coding RNAs based on a stacked ensemble classifier,2018.0,108.0
+213,7245,ToxDL: deep learning using primary structure and domain embeddings for assessing protein toxicity,2020.0,1.0
+213,7652,"MiRGOFS: a GO-based functional similarity measurement for miRNAs, with applications to the prediction of miRNA subcellular localization and miRNA–disease association",2018.0,18.0
+213,7653,"MiRGOFS: a GO-based functional similarity measurement for miRNAs, with applications to the prediction of miRNA subcellular localization and miRNA–disease association",2018.0,18.0
+213,7654,"MiRGOFS: a GO-based functional similarity measurement for miRNAs, with applications to the prediction of miRNA subcellular localization and miRNA–disease association",2018.0,18.0
+213,8532,ImPLoc: a multi-instance deep learning model for the prediction of protein subcellular localization based on immunohistochemistry images,2020.0,6.0
+213,10945,AnnoFly: annotating Drosophila embryonic images based on an attention-enhanced RNN model,2019.0,4.0
+213,10946,AnnoFly: annotating Drosophila embryonic images based on an attention-enhanced RNN model,2019.0,4.0
+213,12090,ToxDL: deep learning using primary structure and domain embeddings for assessing protein toxicity,2020.0,1.0
+213,12091,ToxDL: deep learning using primary structure and domain embeddings for assessing protein toxicity,2020.0,1.0
+213,13061,Protein–ligand binding residue prediction enhancement through hybrid deep heterogeneous learning of sequence and structure data,2020.0,3.0
+214,215,Green listed—a CRISPR screen tool,2018.0,nan
+214,216,Green listed—a CRISPR screen tool,2018.0,nan
+214,217,Green listed—a CRISPR screen tool,2018.0,nan
+214,218,Green listed—a CRISPR screen tool,2018.0,nan
+215,214,Green listed—a CRISPR screen tool,2018.0,nan
+215,216,Green listed—a CRISPR screen tool,2018.0,nan
+215,217,Green listed—a CRISPR screen tool,2018.0,nan
+215,218,Green listed—a CRISPR screen tool,2018.0,nan
+216,214,Green listed—a CRISPR screen tool,2018.0,nan
+216,215,Green listed—a CRISPR screen tool,2018.0,nan
+216,217,Green listed—a CRISPR screen tool,2018.0,nan
+216,218,Green listed—a CRISPR screen tool,2018.0,nan
+217,214,Green listed—a CRISPR screen tool,2018.0,nan
+217,215,Green listed—a CRISPR screen tool,2018.0,nan
+217,216,Green listed—a CRISPR screen tool,2018.0,nan
+217,218,Green listed—a CRISPR screen tool,2018.0,nan
+218,214,Green listed—a CRISPR screen tool,2018.0,nan
+218,215,Green listed—a CRISPR screen tool,2018.0,nan
+218,216,Green listed—a CRISPR screen tool,2018.0,nan
+218,217,Green listed—a CRISPR screen tool,2018.0,nan
+219,220,The discordant method: a novel approach for differential correlation,2016.0,20.0
+219,221,The discordant method: a novel approach for differential correlation,2016.0,20.0
+220,219,The discordant method: a novel approach for differential correlation,2016.0,20.0
+220,221,The discordant method: a novel approach for differential correlation,2016.0,20.0
+221,219,The discordant method: a novel approach for differential correlation,2016.0,20.0
+221,220,The discordant method: a novel approach for differential correlation,2016.0,20.0
+222,223,LiveKraken––real-time metagenomic classification of illumina data,2018.0,16.0
+222,223,HiLive: real-time mapping of illumina reads while sequencing,2017.0,13.0
+222,224,HiLive: real-time mapping of illumina reads while sequencing,2017.0,13.0
+222,225,LiveKraken––real-time metagenomic classification of illumina data,2018.0,16.0
+222,225,HiLive: real-time mapping of illumina reads while sequencing,2017.0,13.0
+222,226,HiLive: real-time mapping of illumina reads while sequencing,2017.0,13.0
+222,832,DUDes: a top-down taxonomic profiler for metagenomics,2016.0,31.0
+222,2145,DUDes: a top-down taxonomic profiler for metagenomics,2016.0,31.0
+222,6360,LiveKraken––real-time metagenomic classification of illumina data,2018.0,16.0
+222,7418,LiveKraken––real-time metagenomic classification of illumina data,2018.0,16.0
+223,222,LiveKraken––real-time metagenomic classification of illumina data,2018.0,16.0
+223,222,HiLive: real-time mapping of illumina reads while sequencing,2017.0,13.0
+223,224,HiLive: real-time mapping of illumina reads while sequencing,2017.0,13.0
+223,225,LiveKraken––real-time metagenomic classification of illumina data,2018.0,16.0
+223,225,HiLive: real-time mapping of illumina reads while sequencing,2017.0,13.0
+223,226,HiLive: real-time mapping of illumina reads while sequencing,2017.0,13.0
+223,832,Abundance estimation and differential testing on strain level in metagenomics data,2017.0,23.0
+223,4000,Abundance estimation and differential testing on strain level in metagenomics data,2017.0,23.0
+223,6360,LiveKraken––real-time metagenomic classification of illumina data,2018.0,16.0
+223,7418,LiveKraken––real-time metagenomic classification of illumina data,2018.0,16.0
+224,222,HiLive: real-time mapping of illumina reads while sequencing,2017.0,13.0
+224,223,HiLive: real-time mapping of illumina reads while sequencing,2017.0,13.0
+224,225,HiLive: real-time mapping of illumina reads while sequencing,2017.0,13.0
+224,226,HiLive: real-time mapping of illumina reads while sequencing,2017.0,13.0
+225,222,LiveKraken––real-time metagenomic classification of illumina data,2018.0,16.0
+225,222,HiLive: real-time mapping of illumina reads while sequencing,2017.0,13.0
+225,223,LiveKraken––real-time metagenomic classification of illumina data,2018.0,16.0
+225,223,HiLive: real-time mapping of illumina reads while sequencing,2017.0,13.0
+225,224,HiLive: real-time mapping of illumina reads while sequencing,2017.0,13.0
+225,226,PAIPline: pathogen identification in metagenomic and clinical next generation sequencing samples,2018.0,12.0
+225,226,PriLive: privacy-preserving real-time filtering for next-generation sequencing,2018.0,nan
+225,226,HiLive: real-time mapping of illumina reads while sequencing,2017.0,13.0
+225,6360,LiveKraken––real-time metagenomic classification of illumina data,2018.0,16.0
+225,6360,PAIPline: pathogen identification in metagenomic and clinical next generation sequencing samples,2018.0,12.0
+225,6394,PAIPline: pathogen identification in metagenomic and clinical next generation sequencing samples,2018.0,12.0
+225,6395,PAIPline: pathogen identification in metagenomic and clinical next generation sequencing samples,2018.0,12.0
+225,7418,LiveKraken––real-time metagenomic classification of illumina data,2018.0,16.0
+225,7418,PriLive: privacy-preserving real-time filtering for next-generation sequencing,2018.0,nan
+225,8044,PriLive: privacy-preserving real-time filtering for next-generation sequencing,2018.0,nan
+225,8045,PriLive: privacy-preserving real-time filtering for next-generation sequencing,2018.0,nan
+226,222,HiLive: real-time mapping of illumina reads while sequencing,2017.0,13.0
+226,223,HiLive: real-time mapping of illumina reads while sequencing,2017.0,13.0
+226,224,HiLive: real-time mapping of illumina reads while sequencing,2017.0,13.0
+226,225,PAIPline: pathogen identification in metagenomic and clinical next generation sequencing samples,2018.0,12.0
+226,225,PriLive: privacy-preserving real-time filtering for next-generation sequencing,2018.0,nan
+226,225,HiLive: real-time mapping of illumina reads while sequencing,2017.0,13.0
+226,6360,PAIPline: pathogen identification in metagenomic and clinical next generation sequencing samples,2018.0,12.0
+226,6394,PAIPline: pathogen identification in metagenomic and clinical next generation sequencing samples,2018.0,12.0
+226,6395,PAIPline: pathogen identification in metagenomic and clinical next generation sequencing samples,2018.0,12.0
+226,7418,PriLive: privacy-preserving real-time filtering for next-generation sequencing,2018.0,nan
+226,8044,PriLive: privacy-preserving real-time filtering for next-generation sequencing,2018.0,nan
+226,8045,PriLive: privacy-preserving real-time filtering for next-generation sequencing,2018.0,nan
+227,228,An integer programming framework for inferring disease complexes from network data,2016.0,13.0
+227,229,An integer programming framework for inferring disease complexes from network data,2016.0,13.0
+227,230,An integer programming framework for inferring disease complexes from network data,2016.0,13.0
+228,227,An integer programming framework for inferring disease complexes from network data,2016.0,13.0
+228,229,An integer programming framework for inferring disease complexes from network data,2016.0,13.0
+228,230,An integer programming framework for inferring disease complexes from network data,2016.0,13.0
+229,227,An integer programming framework for inferring disease complexes from network data,2016.0,13.0
+229,228,An integer programming framework for inferring disease complexes from network data,2016.0,13.0
+229,230,An integer programming framework for inferring disease complexes from network data,2016.0,13.0
+230,227,An integer programming framework for inferring disease complexes from network data,2016.0,13.0
+230,228,An integer programming framework for inferring disease complexes from network data,2016.0,13.0
+230,229,An integer programming framework for inferring disease complexes from network data,2016.0,13.0
+230,6311,Modeling clinical and molecular covariates of mutational process activity in cancer,2019.0,3.0
+230,9704,Modeling clinical and molecular covariates of mutational process activity in cancer,2019.0,3.0
+231,232,iRSpot-EL: identify recombination spots with an ensemble learning approach,2017.0,269.0
+231,233,iDHS-EL: identifying DNase I hypersensitive sites by fusing three different modes of pseudo nucleotide composition into an ensemble learning framework,2016.0,185.0
+231,233,iRSpot-EL: identify recombination spots with an ensemble learning approach,2017.0,269.0
+231,234,iDHS-EL: identifying DNase I hypersensitive sites by fusing three different modes of pseudo nucleotide composition into an ensemble learning framework,2016.0,185.0
+231,234,iPromoter-2L: a two-layer predictor for identifying promoters and their types by multi-window-based PseKNC,2018.0,214.0
+231,234,iEnhancer-EL: identifying enhancers and their strength with ensemble learning approach,2018.0,90.0
+231,234,iRSpot-EL: identify recombination spots with an ensemble learning approach,2017.0,269.0
+231,234,iRO-3wPseKNC: identify DNA replication origins by three-window-based PseKNC,2018.0,100.0
+231,1960,iPromoter-2L: a two-layer predictor for identifying promoters and their types by multi-window-based PseKNC,2018.0,214.0
+231,3541,iPromoter-2L: a two-layer predictor for identifying promoters and their types by multi-window-based PseKNC,2018.0,214.0
+231,3541,iRO-3wPseKNC: identify DNA replication origins by three-window-based PseKNC,2018.0,100.0
+231,3541,iEnhancer-EL: identifying enhancers and their strength with ensemble learning approach,2018.0,90.0
+231,4144,ProtDec-LTR2.0: an improved method for protein remote homology detection by combining pseudo protein and supervised Learning to Rank,2017.0,29.0
+231,4145,ProtDec-LTR2.0: an improved method for protein remote homology detection by combining pseudo protein and supervised Learning to Rank,2017.0,29.0
+231,4146,ProtDec-LTR2.0: an improved method for protein remote homology detection by combining pseudo protein and supervised Learning to Rank,2017.0,29.0
+231,6504,iEnhancer-EL: identifying enhancers and their strength with ensemble learning approach,2018.0,90.0
+231,7740,iRO-3wPseKNC: identify DNA replication origins by three-window-based PseKNC,2018.0,100.0
+231,10811,Protein fold recognition based on multi-view modeling,2019.0,38.0
+231,10812,Protein fold recognition based on multi-view modeling,2019.0,38.0
+231,10813,Protein fold recognition based on multi-view modeling,2019.0,38.0
+231,11747,SMI-BLAST: a novel supervised search framework based on PSI-BLAST for protein remote homology detection,2020.0,nan
+231,11797,SMI-BLAST: a novel supervised search framework based on PSI-BLAST for protein remote homology detection,2020.0,nan
+231,11798,SMI-BLAST: a novel supervised search framework based on PSI-BLAST for protein remote homology detection,2020.0,nan
+231,11799,SMI-BLAST: a novel supervised search framework based on PSI-BLAST for protein remote homology detection,2020.0,nan
+231,12067,IDP-Seq2Seq: identification of intrinsically disordered regions based on sequence to sequence learning,2020.0,5.0
+231,12068,IDP-Seq2Seq: identification of intrinsically disordered regions based on sequence to sequence learning,2020.0,5.0
+232,231,iRSpot-EL: identify recombination spots with an ensemble learning approach,2017.0,269.0
+232,233,iRSpot-EL: identify recombination spots with an ensemble learning approach,2017.0,269.0
+232,234,iRSpot-EL: identify recombination spots with an ensemble learning approach,2017.0,269.0
+233,231,iDHS-EL: identifying DNase I hypersensitive sites by fusing three different modes of pseudo nucleotide composition into an ensemble learning framework,2016.0,185.0
+233,231,iRSpot-EL: identify recombination spots with an ensemble learning approach,2017.0,269.0
+233,232,iRSpot-EL: identify recombination spots with an ensemble learning approach,2017.0,269.0
+233,234,iDHS-EL: identifying DNase I hypersensitive sites by fusing three different modes of pseudo nucleotide composition into an ensemble learning framework,2016.0,185.0
+233,234,iRSpot-EL: identify recombination spots with an ensemble learning approach,2017.0,269.0
+234,231,iDHS-EL: identifying DNase I hypersensitive sites by fusing three different modes of pseudo nucleotide composition into an ensemble learning framework,2016.0,185.0
+234,231,iPromoter-2L: a two-layer predictor for identifying promoters and their types by multi-window-based PseKNC,2018.0,214.0
+234,231,iEnhancer-EL: identifying enhancers and their strength with ensemble learning approach,2018.0,90.0
+234,231,iRSpot-EL: identify recombination spots with an ensemble learning approach,2017.0,269.0
+234,231,iRO-3wPseKNC: identify DNA replication origins by three-window-based PseKNC,2018.0,100.0
+234,232,iRSpot-EL: identify recombination spots with an ensemble learning approach,2017.0,269.0
+234,233,iDHS-EL: identifying DNase I hypersensitive sites by fusing three different modes of pseudo nucleotide composition into an ensemble learning framework,2016.0,185.0
+234,233,iRSpot-EL: identify recombination spots with an ensemble learning approach,2017.0,269.0
+234,546,pLoc-mAnimal: predict subcellular localization of animal proteins with both single and multiple sites,2017.0,161.0
+234,546,pLoc_bal-mAnimal: predict subcellular localization of animal proteins by balancing training dataset and PseAAC,2019.0,93.0
+234,546,pLoc-mHum: predict subcellular localization of multi-location human proteins via general PseAAC to winnow out the crucial GO information,2018.0,141.0
+234,546,iATC-mISF: a multi-label classifier for predicting the classes of anatomical therapeutic chemicals,2017.0,203.0
+234,547,pLoc-mAnimal: predict subcellular localization of animal proteins with both single and multiple sites,2017.0,161.0
+234,547,iATC-mISF: a multi-label classifier for predicting the classes of anatomical therapeutic chemicals,2017.0,203.0
+234,548,pSumo-CD: predicting sumoylation sites in proteins with covariance discriminant algorithm by incorporating sequence-coupled effects into general PseAAC,2016.0,180.0
+234,548,pLoc_bal-mAnimal: predict subcellular localization of animal proteins by balancing training dataset and PseAAC,2019.0,93.0
+234,548,iPTM-mLys: identifying multiple lysine PTM sites and their different types,2016.0,216.0
+234,548,pLoc-mHum: predict subcellular localization of multi-location human proteins via general PseAAC to winnow out the crucial GO information,2018.0,141.0
+234,548,pLoc-mAnimal: predict subcellular localization of animal proteins with both single and multiple sites,2017.0,161.0
+234,548,iATC-mISF: a multi-label classifier for predicting the classes of anatomical therapeutic chemicals,2017.0,203.0
+234,1011,pLoc-mAnimal: predict subcellular localization of animal proteins with both single and multiple sites,2017.0,161.0
+234,1011,pLoc_bal-mAnimal: predict subcellular localization of animal proteins by balancing training dataset and PseAAC,2019.0,93.0
+234,1487,pSumo-CD: predicting sumoylation sites in proteins with covariance discriminant algorithm by incorporating sequence-coupled effects into general PseAAC,2016.0,180.0
+234,1488,pSumo-CD: predicting sumoylation sites in proteins with covariance discriminant algorithm by incorporating sequence-coupled effects into general PseAAC,2016.0,180.0
+234,1489,pSumo-CD: predicting sumoylation sites in proteins with covariance discriminant algorithm by incorporating sequence-coupled effects into general PseAAC,2016.0,180.0
+234,1495,iPTM-mLys: identifying multiple lysine PTM sites and their different types,2016.0,216.0
+234,1496,iPTM-mLys: identifying multiple lysine PTM sites and their different types,2016.0,216.0
+234,1497,iPTM-mLys: identifying multiple lysine PTM sites and their different types,2016.0,216.0
+234,1960,iPromoter-2L: a two-layer predictor for identifying promoters and their types by multi-window-based PseKNC,2018.0,214.0
+234,3541,iPromoter-2L: a two-layer predictor for identifying promoters and their types by multi-window-based PseKNC,2018.0,214.0
+234,3541,iRO-3wPseKNC: identify DNA replication origins by three-window-based PseKNC,2018.0,100.0
+234,3541,iEnhancer-EL: identifying enhancers and their strength with ensemble learning approach,2018.0,90.0
+234,6504,iEnhancer-EL: identifying enhancers and their strength with ensemble learning approach,2018.0,90.0
+234,7740,iRO-3wPseKNC: identify DNA replication origins by three-window-based PseKNC,2018.0,100.0
+235,236,VariantBam: filtering and profiling of next-generational sequencing data using region-specific rules,2016.0,12.0
+235,236,"SeqLib: a C ++ API for rapid BAM manipulation, sequence alignment and sequence assembly",2017.0,6.0
+235,2333,VariantBam: filtering and profiling of next-generational sequencing data using region-specific rules,2016.0,12.0
+235,2334,VariantBam: filtering and profiling of next-generational sequencing data using region-specific rules,2016.0,12.0
+236,235,VariantBam: filtering and profiling of next-generational sequencing data using region-specific rules,2016.0,12.0
+236,235,"SeqLib: a C ++ API for rapid BAM manipulation, sequence alignment and sequence assembly",2017.0,6.0
+236,2333,VariantBam: filtering and profiling of next-generational sequencing data using region-specific rules,2016.0,12.0
+236,2334,VariantBam: filtering and profiling of next-generational sequencing data using region-specific rules,2016.0,12.0
+237,238,"The PPI3D web server for searching, analyzing and modeling protein–protein interactions in the context of 3D structures",2017.0,18.0
+237,239,"The PPI3D web server for searching, analyzing and modeling protein–protein interactions in the context of 3D structures",2017.0,18.0
+237,240,"The PPI3D web server for searching, analyzing and modeling protein–protein interactions in the context of 3D structures",2017.0,18.0
+237,241,"The PPI3D web server for searching, analyzing and modeling protein–protein interactions in the context of 3D structures",2017.0,18.0
+237,3627,"SKEMPI 2.0: an updated benchmark of changes in protein–protein binding energy, kinetics and thermodynamics upon mutation",2019.0,63.0
+237,5112,"SKEMPI 2.0: an updated benchmark of changes in protein–protein binding energy, kinetics and thermodynamics upon mutation",2019.0,63.0
+237,6864,"SKEMPI 2.0: an updated benchmark of changes in protein–protein binding energy, kinetics and thermodynamics upon mutation",2019.0,63.0
+237,6865,"SKEMPI 2.0: an updated benchmark of changes in protein–protein binding energy, kinetics and thermodynamics upon mutation",2019.0,63.0
+238,237,"The PPI3D web server for searching, analyzing and modeling protein–protein interactions in the context of 3D structures",2017.0,18.0
+238,239,"The PPI3D web server for searching, analyzing and modeling protein–protein interactions in the context of 3D structures",2017.0,18.0
+238,240,"The PPI3D web server for searching, analyzing and modeling protein–protein interactions in the context of 3D structures",2017.0,18.0
+238,241,"The PPI3D web server for searching, analyzing and modeling protein–protein interactions in the context of 3D structures",2017.0,18.0
+239,237,"The PPI3D web server for searching, analyzing and modeling protein–protein interactions in the context of 3D structures",2017.0,18.0
+239,238,"The PPI3D web server for searching, analyzing and modeling protein–protein interactions in the context of 3D structures",2017.0,18.0
+239,240,"The PPI3D web server for searching, analyzing and modeling protein–protein interactions in the context of 3D structures",2017.0,18.0
+239,241,"The PPI3D web server for searching, analyzing and modeling protein–protein interactions in the context of 3D structures",2017.0,18.0
+239,6536,Comparative analysis of methods for evaluation of protein models against native structures,2019.0,14.0
+239,6537,Comparative analysis of methods for evaluation of protein models against native structures,2019.0,14.0
+239,6538,Comparative analysis of methods for evaluation of protein models against native structures,2019.0,14.0

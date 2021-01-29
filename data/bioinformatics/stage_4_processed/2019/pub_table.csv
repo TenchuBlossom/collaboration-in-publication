@@ -1,0 +1,982 @@
+title,year,citations
+Predicting regulatory variants with composite statistic,2019.0,7.0
+Fuento: functional enrichment for bioinformatics,2019.0,3.0
+The Tomato Expression Atlas,2019.0,9.0
+MoMo: discovery of statistically significant post-translational modification motifs,2019.0,23.0
+GfaViz: flexible and interactive visualization of GFA sequence graphs,2019.0,3.0
+Multiview: a software package for multiview pattern recognition methods,2019.0,2.0
+Linking sequence patterns and functionality of alpha-helical antimicrobial peptides,2019.0,3.0
+ACE: absolute copy number estimation from low-coverage whole-genome sequencing data,2019.0,10.0
+The COP9 signalosome influences the epigenetic landscape of Arabidopsis thaliana,2019.0,5.0
+Single-cell RNA-seq interpretations using evolutionary multiobjective ensemble pruning,2019.0,10.0
+Integration of accessibility data from structure probing into RNA–RNA interaction prediction,2019.0,10.0
+M3Drop: dropout-based feature selection for scRNASeq,2019.0,66.0
+PINSPlus: a tool for tumor subtype discovery in integrated genomic data,2019.0,18.0
+Computing irreversible minimal cut sets in genome-scale metabolic networks via flux cone projection,2019.0,6.0
+KinVis: a visualization tool to detect cryptic relatedness in genetic datasets,2019.0,
+Smooth orientation-dependent scoring function for coarse-grained protein quality assessment,2019.0,25.0
+mAHTPred: a sequence-based meta-predictor for improving the prediction of anti-hypertensive peptides using effective feature representation,2019.0,76.0
+Improved mutant function prediction via PACT: Protein Analysis and Classifier Toolkit,2019.0,8.0
+Systematic selection of chemical fingerprint features improves the Gibbs energy prediction of biochemical reactions,2019.0,3.0
+"PconsC4: fast, accurate and hassle-free contact predictions",2019.0,19.0
+CSHAP: efficient haplotype frequency estimation based on sparse representation,2019.0,1.0
+PredGly: predicting lysine glycation sites for Homo sapiens based on XGboost feature optimization,2019.0,17.0
+Fully unsupervised symmetry-based mitosis detection in time-lapse cell microscopy,2019.0,3.0
+Curse: building expression atlases and co-expression networks from public RNA-Seq data,2019.0,7.0
+Reply to the paper: Misunderstood parameters of NCBI BLAST impacts the correctness of bioinformatics workflows,2019.0,5.0
+poreTally: run and publish de novo nanopore assembler benchmarks,2019.0,2.0
+Very low-depth whole-genome sequencing in complex trait association studies,2019.0,24.0
+DNABarcodeCompatibility: an R-package for optimizing DNA-barcode combinations in multiplex sequencing experiments,2019.0,1.0
+TriPOINT: a software tool to prioritize important genes in pathways and their non-coding regulators,2019.0,
+Inter-residue interactions in alpha-helical transmembrane proteins,2019.0,4.0
+Response to comments on ‘Empirical comparison of web-based antimicrobial peptide prediction tools’,2019.0,
+Comment on: ‘Empirical comparison of web-based antimicrobial peptide prediction tools’,2019.0,4.0
+Pathogen–Host Analysis Tool (PHAT): an integrative platform to analyze next-generation sequencing data,2019.0,3.0
+Commonly misunderstood parameters of NCBI BLAST and important considerations for users,2019.0,8.0
+ModL: exploring and restoring regularity when testing for positive selection,2019.0,3.0
+CNValidator: validating somatic copy-number inference,2019.0,1.0
+CASMAP: detection of statistically significant combinations of SNPs in association mapping,2019.0,8.0
+Gene expression models based on transcription factor binding events confer insight into functional cis-regulatory variants,2019.0,6.0
+Optimal Gene Filtering for Single-Cell data (OGFSC)—a gene filtering algorithm for single-cell RNA-seq data,2019.0,3.0
+Increasing the accuracy of protein loop structure prediction with evolutionary constraints,2019.0,2.0
+atSNP Search: a web resource for statistically evaluating influence of human genetic variation on transcription factor binding,2019.0,9.0
+Insights on protein thermal stability: a graph representation of molecular interactions,2019.0,15.0
+Deciphering the complexity of human non-coding promoter-proximal transcriptome,2019.0,2.0
+DeepIsoFun: a deep domain adaptation approach to predict isoform functions,2019.0,10.0
+A novel measure of non-coding genome conservation identifies genomic regulatory blocks within primates,2019.0,2.0
+DensityPath: an algorithm to visualize and reconstruct cell state-transition path on density landscape for single-cell RNA sequencing data,2019.0,6.0
+Evaluation of methods for generative modeling of cell and nuclear shape,2019.0,11.0
+"MapOptics: a light-weight, cross-platform visualization tool for optical mapping alignment",2019.0,2.0
+SPRING: a next-generation compressor for FASTQ data,2019.0,27.0
+"Improving prediction of protein secondary structure, backbone angles, solvent accessibility and contact numbers by using predicted contact maps and an ensemble of recurrent and residual convolutional neural networks",2019.0,50.0
+AStrap: identification of alternative splicing from transcript sequences without a reference genome,2019.0,4.0
+GlycanFormatConverter: a conversion tool for translating the complexities of glycans,2019.0,9.0
+Histones predate the split between bacteria and archaea,2019.0,2.0
+miRDeep-P2: accurate and fast analysis of the microRNA transcriptome in plants,2019.0,15.0
+Accurate and efficient estimation of small P-values with the cross-entropy method: applications in genomic data analysis,2019.0,5.0
+In silico error correction improves cfDNA mutation calling,2019.0,4.0
+New models of atherosclerosis and multi-drug therapeutic interventions,2019.0,3.0
+Capsule network for protein post-translational modification site prediction,2019.0,32.0
+"Alfred: interactive multi-sample BAM alignment statistics, feature counting and feature annotation for long- and short-read sequencing",2019.0,14.0
+"BIOLITMAP: a web-based geolocated, temporal and thematic visualization of the evolution of bioinformatics publications",2019.0,
+Global Biobank Engine: enabling genotype-phenotype browsing for biobank summary statistics,2019.0,37.0
+ARGDIT: a validation and integration toolkit for Antimicrobial Resistance Gene Databases,2019.0,2.0
+Protein–protein interaction sites prediction by ensemble random forests with synthetic minority oversampling technique,2019.0,44.0
+BaiHui: cross-species brain-specific network built with hundreds of hand-curated datasets,2019.0,5.0
+Drug Targetor: a web interface to investigate the human druggome for over 500 phenotypes,2019.0,5.0
+GEMPROT: visualization of the impact on the protein of the genetic variants found on each haplotype,2019.0,
+iHam and pyHam: visualizing and processing hierarchical orthologous groups,2019.0,12.0
+GWASpro: a high-performance genome-wide association analysis server,2019.0,6.0
+PPaxe: easy extraction of protein occurrence and interactions from the scientific literature,2019.0,2.0
+CRISPR-Local: a local single-guide RNA (sgRNA) design tool for non-reference plant genomes,2019.0,14.0
+ConDo: protein domain boundary prediction using coevolutionary information,2019.0,3.0
+Computational functional genomics-based reduction of disease-related gene sets to their key components,2019.0,2.0
+Validation of electron microscopy initial models via small angle X-ray scattering curves,2019.0,
+DeeReCT-PolyA: a robust and generic deep learning method for PAS identification,2019.0,18.0
+TADOSS: computational estimation of tandem domain swap stability,2019.0,2.0
+Detection of rare disease variants in extended pedigrees using RVS,2019.0,2.0
+DiTaxa: nucleotide-pair encoding of 16S rRNA for host phenotype and biomarker detection,2019.0,9.0
+Genome-wide search of nucleosome patterns using visual analytics,2019.0,3.0
+On the biases in predictions of protein stability changes upon variations: the INPS test case,2019.0,9.0
+GUESS: projecting machine learning scores to well-calibrated probability estimates for clinical decision-making,2019.0,5.0
+A structural homology approach for computational protein design with flexible backbone,2019.0,2.0
+EpistasisRank and EpistasisKatz: interaction network centrality methods that integrate prior knowledge networks,2019.0,3.0
+SkeletalVis: an exploration and meta-analysis data portal of cross-species skeletal transcriptomics data,2019.0,8.0
+PhastWeb: a web interface for evolutionary conservation scoring of multiple sequence alignments using phastCons and phyloP,2019.0,16.0
+Computational modeling reveals MAP3K8 as mediator of resistance to vemurafenib in thyroid cancer stem cells,2019.0,12.0
+An equivariant Bayesian convolutional network predicts recombination hotspots and accurately resolves binding motifs,2019.0,6.0
+GenCoF: a graphical user interface to rapidly remove human genome contaminants from metagenomic datasets,2019.0,8.0
+GUV-AP: multifunctional FIJI-based tool for quantitative image analysis of Giant Unilamellar Vesicles,2019.0,2.0
+A plugin for the Ensembl Variant Effect Predictor that uses MaxEntScan to predict variant spliceogenicity,2019.0,11.0
+Integrate multiple traits to detect novel trait–gene association using GWAS summary data with an adaptive test approach,2019.0,6.0
+RT States: systematic annotation of the human genome using cell type-specific replication timing programs,2019.0,1.0
+SGTK: a toolkit for visualization and assessment of scaffold graphs,2019.0,3.0
+Application of machine learning techniques to tuberculosis drug resistance analysis,2019.0,19.0
+The Microbiome Modeling Toolbox: from microbial interactions to personalized microbial communities,2019.0,31.0
+ProteomicsBrowser: MS/proteomics data visualization and investigation,2019.0,2.0
+TAIJI: approaching experimental replicates-level accuracy for drug synergy prediction,2019.0,6.0
+DeepCrystal: a deep learning framework for sequence-based protein crystallization prediction,2019.0,17.0
+circtools—a one-stop software solution for circular RNA research,2019.0,14.0
+BulkVis: a graphical viewer for Oxford nanopore bulk FAST5 files,2019.0,114.0
+"Clustering of samples with a tree-shaped dependence structure, with an application to microscopic time lapse imaging",2019.0,3.0
+Genetic Neural Networks: an artificial neural network architecture for capturing gene expression relationships,2019.0,6.0
+DiPhiSeq: robust comparison of expression levels on RNA-Seq data with large sample sizes,2019.0,3.0
+CAARS: comparative assembly and annotation of RNA-Seq data,2019.0,2.0
+Pair Matcher (PaM): fast model-based optimization of treatment/case-control matches,2019.0,2.0
+PAVOOC: designing CRISPR sgRNAs using 3D protein structures and functional domain annotations,2019.0,5.0
+Condition-specific series of metabolic sub-networks and its application for gene set enrichment analysis,2019.0,6.0
+BGSA: a bit-parallel global sequence alignment toolkit for multi-core and many-core architectures,2019.0,5.0
+pyNVR: investigating factors affecting feature selection from scRNA-seq data for lineage reconstruction,2019.0,7.0
+GRNBoost2 and Arboreto: efficient and scalable inference of gene regulatory networks,2019.0,40.0
+FactorialHMM: fast and exact inference in factorial hidden Markov models,2019.0,
+Identify origin of replication in Saccharomyces cerevisiae using two-step feature selection technique,2019.0,122.0
+A Drug-Side Effect Context-Sensitive Network approach for drug target prediction,2019.0,7.0
+"SeQuiLa: an elastic, fast and scalable SQL-oriented solution for processing and querying genomic intervals",2019.0,3.0
+MAGpy: a reproducible pipeline for the downstream analysis of metagenome-assembled genomes (MAGs),2019.0,19.0
+Identifying antimicrobial peptides using word embedding with deep recurrent neural networks,2019.0,22.0
+BayMAP: a Bayesian hierarchical model for the analysis of PAR-CLIP data,2019.0,
+Pan-genomic analysis provides novel insights into the association of E.coli with human host and its minimal genome,2019.0,6.0
+Whisper: read sorting allows robust mapping of DNA sequencing data,2019.0,1.0
+DeepT3: deep convolutional neural networks accurately identify Gram-negative bacterial type III secreted effectors using the N-terminal sequence,2019.0,16.0
+OPA2Vec: combining formal and informal content of biomedical ontologies to improve similarity-based prediction,2019.0,43.0
+BacPaCS—Bacterial Pathogenicity Classification via Sparse-SVM,2019.0,4.0
+High efficiency referential genome compression algorithm,2019.0,4.0
+Measurement error and variant-calling in deep Illumina sequencing of HIV,2019.0,15.0
+"Clusterdv: a simple density-based clustering method that is robust, general and automatic",2019.0,6.0
+dtangle: accurate and robust cell type deconvolution,2019.0,12.0
+"Index suffix–prefix overlaps by (w, k)-minimizer to generate long contigs for reads compression",2019.0,14.0
+Improved inference of intermolecular contacts through protein–protein interaction prediction using coevolutionary analysis,2019.0,6.0
+wgd—simple command line tools for the analysis of ancient whole-genome duplications,2019.0,19.0
+Computational modeling of cellular structures using conditional deep generative networks,2019.0,8.0
+Supervised non-negative matrix factorization methods for MALDI imaging applications,2019.0,12.0
+Partially non-homogeneous dynamic Bayesian networks based on Bayesian regression models with partitioned design matrices,2019.0,3.0
+"BiXGBoost: a scalable, flexible boosting-based method for reconstructing gene regulatory networks",2019.0,18.0
+"FAVITES: simultaneous simulation of transmission networks, phylogenetic trees and sequences",2019.0,21.0
+Set of approaches based on 3D structure and position specific-scoring matrix for predicting DNA-binding proteins,2019.0,6.0
+Discovering network phenotype between genetic risk factors and disease status via diagnosis-aligned multi-modality regression method in Alzheimer’s disease,2019.0,9.0
+Antibody interface prediction with 3D Zernike descriptors and SVM,2019.0,20.0
+"DrugThatGene: integrative analysis to streamline the identification of druggable genes, pathways and protein complexes from CRISPR screens",2019.0,
+High-complexity regions in mammalian genomes are enriched for developmental genes,2019.0,
+ukbREST: efficient and streamlined data access for reproducible research in large biobanks,2019.0,5.0
+gwasurvivr: an R package for genome-wide survival analysis,2019.0,12.0
+Heavy-tailed prior distributions for sequence count data: removing the noise and preserving large differences,2019.0,177.0
+Bastion3: a two-layer ensemble predictor of type III secreted effectors,2019.0,34.0
+SJARACNe: a scalable software tool for gene network reverse engineering from big data,2019.0,10.0
+Batch effects correction for microbiome data with Dirichlet-multinomial regression,2019.0,11.0
+TPMCalculator: one-step software to quantify mRNA abundance of genomic features,2019.0,19.0
+VarSome: the human genomic variant search engine,2019.0,229.0
+Statistical inference of the rate of RNA polymerase II elongation by total RNA sequencing,2019.0,2.0
+simGWAS: a fast method for simulation of large scale case–control GWAS summary statistics,2019.0,8.0
+ELMER v.2: an R/Bioconductor package to reconstruct gene regulatory networks from DNA methylation and transcriptome profiles,2019.0,23.0
+Flexible design of multiple metagenomics classification pipelines with UGENE,2019.0,18.0
+A framework for identifying dysregulated chromatin regulators as master regulators in human cancer,2019.0,
+A Bayesian model for single cell transcript expression analysis on MERFISH data,2019.0,2.0
+Measuring phylogenetic signal between categorical traits and phylogenies,2019.0,14.0
+BatchI: Batch effect Identification in high-throughput screening data using a dynamic programming algorithm,2019.0,7.0
+Clustermatch: discovering hidden relations in highly diverse kinds of qualitative and quantitative data without standardization,2019.0,1.0
+Alignment-free clustering of UMI tagged DNA molecules,2019.0,9.0
+VCPA: genomic variant calling pipeline and data management tool for Alzheimer’s Disease Sequencing Project,2019.0,4.0
+Simple tricks of convolutional neural network architectures improve DNA–protein binding prediction,2019.0,7.0
+pJRES Binning Algorithm (JBA): a new method to facilitate the recovery of metabolic information from pJRES 1H NMR spectra,2019.0,4.0
+SeeVis—3D space-time cube rendering for visualization of microfluidics image data,2019.0,
+Long-term context-dependent genetic adaptation of the viral genetic cloud,2019.0,5.0
+methylGSA: a Bioconductor package and Shiny app for DNA methylation data length bias adjustment in gene set testing,2019.0,27.0
+SENSE: Siamese neural network for sequence embedding and alignment-free comparison,2019.0,13.0
+TissueEnrich: Tissue-specific gene enrichment analysis,2019.0,46.0
+Directional allelic imbalance profiling and visualization from multi-sample data with RECUR,2019.0,3.0
+iTerm-PseKNC: a sequence-based tool for predicting bacterial transcriptional terminators,2019.0,133.0
+Disease gene identification based on generic and disease-specific genome networks,2019.0,5.0
+Thalia: semantic search engine for biomedical abstracts,2019.0,16.0
+farPPI: a webserver for accurate prediction of protein-ligand binding structures for small-molecule PPI inhibitors by MM/PB(GB)SA methods,2019.0,8.0
+Quality assessment for the putative intrinsic disorder in proteins,2019.0,14.0
+A natural upper bound to the accuracy of predicting protein stability changes upon mutations,2019.0,12.0
+Integrative cancer patient stratification via subspace merging,2019.0,3.0
+BMDExpress 2: enhanced transcriptomic dose-response analysis workflow,2019.0,47.0
+Landscape of multi-tissue global gene expression reveals the regulatory signatures of feed efficiency in beef cattle,2019.0,9.0
+GeneLab: Omics database for spaceflight experiments,2019.0,22.0
+PopLDdecay: a fast and effective tool for linkage disequilibrium decay analysis based on variant call format files,2019.0,131.0
+CSBFinder: discovery of colinear syntenic blocks across thousands of prokaryotic genomes,2019.0,2.0
+"Expanded functionality, increased accuracy, and enhanced speed in the de novo genotyping-by-sequencing pipeline GBS-SNP-CROP",2019.0,6.0
+Enhanced prediction of RNA solvent accessibility with long short-term memory neural networks and improved sequence profiles,2019.0,4.0
+ParGenes: a tool for massively parallel model selection and phylogenetic tree inference on thousands of genes,2019.0,20.0
+SCALOP: sequence-based antibody canonical loop structure annotation,2019.0,12.0
+ABC random forests for Bayesian parameter inference,2019.0,84.0
+MetaSMC: a coalescent-based shotgun sequence simulator for evolving microbial populations,2019.0,
+Cross-type biomedical named entity recognition with deep multi-task learning,2019.0,104.0
+"Colocalization analyses of genomic elements: approaches, recommendations and challenges",2019.0,18.0
+Joint analysis of individual-level and summary-level GWAS data by leveraging pleiotropy,2019.0,4.0
+A global transcriptomic pipeline decoding core network of genes involved in stages leading to acquisition of drug-resistance to cisplatin in osteosarcoma cells,2019.0,6.0
+A novel approach for drug response prediction in cancer cell lines via network representation learning,2019.0,21.0
+MetaOmics: analysis pipeline and browser-based software suite for transcriptomic meta-analysis,2019.0,12.0
+CANDI: an R package and Shiny app for annotating radiographs and evaluating computer-aided diagnosis,2019.0,2.0
+PrecursorFinder: a customized biosynthetic precursor explorer,2019.0,13.0
+TIVAN: tissue-specific cis-eQTL single nucleotide variant annotation and prediction,2019.0,1.0
+RiboProP: a probabilistic ribosome positioning algorithm for ribosome profiling,2019.0,5.0
+PlateDesigner: a web-based application for the design of microplate experiments,2019.0,6.0
+Towards region-specific propagation of protein functions,2019.0,3.0
+TEPIC 2—an extended framework for transcription factor binding prediction and integrative epigenomic analysis,2019.0,12.0
+The EVcouplings Python framework for coevolutionary sequence analysis,2019.0,40.0
+LION LBD: a literature-based discovery system for cancer biology,2019.0,20.0
+Multimodal network diffusion predicts future disease–gene–chemical associations,2019.0,15.0
+Pisces: an accurate and versatile variant caller for somatic and germline next-generation sequencing data,2019.0,17.0
+Accurate detection of chimeric contigs via Bionano optical maps,2019.0,6.0
+VIRULIGN: fast codon-correct alignment and annotation of viral genomes,2019.0,16.0
+sRNAPrimerDB: comprehensive primer design and search web service for small non-coding RNAs,2019.0,7.0
+QuagmiR: a cloud-based application for isomiR big data analytics,2019.0,13.0
+DIGREM: an integrated web-based platform for detecting effective multi-drug combinations,2019.0,
+CoMM: a collaborative mixed model to dissecting genetic contributions to complex traits by leveraging regulatory information,2019.0,14.0
+cath-resolve-hits: a new tool that resolves domain matches suspiciously quickly,2019.0,7.0
+A new method bridging graph theory and residue co-evolutionary networks for specificity determinant positions detection,2019.0,2.0
+DeepHINT: understanding HIV-1 integration via deep learning with attention,2019.0,16.0
+Multi-insight visualization of multi-omics data via ensemble dimension reduction and tensor factorization,2019.0,2.0
+Inferring disease-associated long non-coding RNAs using genome-wide tissue expression profiles,2019.0,13.0
+MetWork: a web server for natural products anticipation,2019.0,16.0
+Strain-GeMS: optimized subspecies identification from microbiome data based on accurate variant modeling,2019.0,2.0
+CIRCOAST: a statistical hypothesis test for cellular colocalization with network structures,2019.0,3.0
+A systematic method for surveying data visualizations and a resulting genomic epidemiology visualization typology: GEViT,2019.0,5.0
+Presenting and sharing clinical data using the eTRIKS Standards Master Tree for tranSMART,2019.0,
+SemGen: a tool for semantics-based annotation and composition of biosimulation models,2019.0,12.0
+De novo pattern discovery enables robust assessment of functional consequences of non-coding variants,2019.0,2.0
+MSPminer: abundance-based reconstitution of microbial pan-genomes from shotgun metagenomic data,2019.0,23.0
+SanXoT: a modular and versatile package for the quantitative analysis of high-throughput proteomics experiments,2019.0,16.0
+Misunderstood parameter of NCBI BLAST impacts the correctness of bioinformatics workflows,2019.0,41.0
+Learning and Imputation for Mass-spec Bias Reduction (LIMBR),2019.0,11.0
+A framework and an algorithm to detect low-abundance DNA by a handy sequencer and a palm-sized computer,2019.0,4.0
+PRESM: personalized reference editor for somatic mutation discovery in cancer genomics,2019.0,3.0
+On the viability of unsupervised T-cell receptor sequence clustering for epitope preference,2019.0,25.0
+AbPredict 2: a server for accurate and unstrained structure prediction of antibody variable domains,2019.0,10.0
+Large-scale prediction of binding affinity in protein–small ligand complexes: the PRODIGY-LIG web server,2019.0,25.0
+High precision protein functional site detection using 3D convolutional neural networks,2019.0,15.0
+RNApuzzler: efficient outerplanar drawing of RNA-secondary structures,2019.0,2.0
+Gimpute: an efficient genetic data imputation pipeline,2019.0,5.0
+A clustering linear combination approach to jointly analyze multiple phenotypes for GWAS,2019.0,4.0
+The Encyclopedia of Proteome Dynamics: the KinoViewer,2019.0,8.0
+Exploring sequence-based features for the improved prediction of DNA N4-methylcytosine sites in multiple species,2019.0,61.0
+CINNA: an R/CRAN package to decipher Central Informative Nodes in Network Analysis,2019.0,6.0
+Powerful and efficient SNP-set association tests across multiple phenotypes using GWAS summary data,2019.0,5.0
+Parkour LIMS: high-quality sample preparation in next generation sequencing,2019.0,4.0
+STatistical Inference Relief (STIR) feature selection,2019.0,17.0
+Combining count- and length-based z-scores leads to improved predictions in non-invasive prenatal testing,2019.0,7.0
+"BhGLM: Bayesian hierarchical GLMs and survival models, with applications to genomics and epidemiology",2019.0,11.0
+TCellXTalk facilitates the detection of co-modified peptides for the study of protein post-translational modification cross-talk in T cells,2019.0,2.0
+bcGST—an interactive bias-correction method to identify over-represented gene-sets in boutique arrays,2019.0,2.0
+A Bayesian framework for high-throughput T cell receptor pairing,2019.0,3.0
+GenomeFlow: a comprehensive graphical tool for modeling and analyzing 3D genome structure,2019.0,9.0
+"The GCTx format and cmap{Py, R, M, J} packages: resources for optimized storage and integrated traversal of annotated dense matrices",2019.0,23.0
+KeggExp: a web server for visual integration of KEGG pathways and expression profile data,2019.0,2.0
+Development of a protein–ligand extended connectivity (PLEC) fingerprint and its application for binding affinity predictions,2019.0,20.0
+Dante: genotyping of known complex and expanded short tandem repeats,2019.0,5.0
+Filtering and inference for stochastic oscillators with distributed delays,2019.0,6.0
+TOBMI: trans-omics block missing data imputation using a k-nearest neighbor weighted approach,2019.0,7.0
+CATANA: a tool for generating comprehensive annotations of alternative transcript events,2019.0,
+"Phylolink: phylogenetically-based profiling, visualisations and metrics for biodiversity",2019.0,1.0
+SequencEnG: an interactive knowledge base of sequencing techniques,2019.0,1.0
+SAFE-clustering: Single-cell Aggregated (from Ensemble) clustering for single-cell RNA-seq data,2019.0,31.0
+smCounter2: an accurate low-frequency variant caller for targeted sequencing data with unique molecular identifiers,2019.0,26.0
+Prediction of protein group function by iterative classification on functional relevance network,2019.0,1.0
+Inference and visualization of DNA damage patterns using a grade of membership model,2019.0,4.0
+Mixed graphical models for integrative causal analysis with application to chronic lung disease diagnosis and prognosis,2019.0,22.0
+VarSelLCM: an R/C++ package for variable selection in model-based clustering of mixed-data with missing values,2019.0,7.0
+Ambiguous splice sites distinguish circRNA and linear splicing in the human genome,2019.0,5.0
+De novo construction of polyploid linkage maps using discrete graphical models,2019.0,6.0
+AGILE: an assembled genome mining pipeline,2019.0,17.0
+metaGraphite–a new layer of pathway annotation to get metabolite networks,2019.0,14.0
+Glutton: a tool for generating structural ensembles of partly disordered proteins from chemical shifts,2019.0,
+SCOP: a novel scaffolding algorithm based on contig classification and optimization,2019.0,7.0
+Differential methylation values in differential methylation analysis,2019.0,9.0
+DeepGSR: an optimized deep-learning structure for the recognition of genomic signals and regions,2019.0,19.0
+Co-registration and analysis of multiple imaging mass spectrometry datasets targeting different analytes,2019.0,13.0
+When a single lineage is not enough: Uncertainty-Aware Tracking for spatio-temporal live-cell image analysis,2019.0,3.0
+"Phylogenetic approaches to identifying fragments of the same gene, with application to the wheat genome",2019.0,
+Precision Lasso: accounting for correlations and linear dependencies in high-dimensional genomic data,2019.0,31.0
+Deconvoluting essential gene signatures for cancer growth from genomic expression in compound-treated cells,2019.0,2.0
+Robust prediction of clinical outcomes using cytometry data,2019.0,8.0
+A generic deep convolutional neural network framework for prediction of receptor–ligand interactions—NetPhosPan: application to kinase phosphorylation prediction,2019.0,6.0
+HitPickV2: a web server to predict targets of chemical compounds,2019.0,10.0
+Synergizing CRISPR/Cas9 off-target predictions for ensemble insights and practical applications,2019.0,12.0
+HLA-IMPUTER: an easy to use web application for HLA imputation and association analysis using population-specific reference panels,2019.0,1.0
+"NanoShaper–VMD interface: computing and visualizing surfaces, pockets and channels in molecular systems",2019.0,6.0
+RNAdetect: efficient computational detection of novel non-coding RNAs,2019.0,2.0
+Methods for automatic reference trees and multilevel phylogenetic placement,2019.0,22.0
+Drug Gene Budger (DGB): an application for ranking drugs to modulate a specific gene based on transcriptomic signatures,2019.0,9.0
+PhysiBoSS: a multi-scale agent-based modelling framework integrating physical dimension and cell signalling,2019.0,29.0
+novoCaller: a Bayesian network approach for de novo variant calling from pedigree and population sequence data,2019.0,1.0
+Understanding and predicting disease relationships through similarity fusion,2019.0,2.0
+Protease target prediction via matrix factorization,2019.0,5.0
+cpPredictor: a web server for template-based prediction of RNA secondary structure,2019.0,
+A generalized framework for controlling FDR in gene regulatory network inference,2019.0,7.0
+PlayMolecule BindScope: large scale CNN-based virtual screening on the web,2019.0,18.0
+Resolution-exchanged structural modeling and simulations jointly unravel that subunit rolling underlies the mechanism of programmed ribosomal frameshifting,2019.0,2.0
+Improving the prediction of protein–nucleic acids binding residues via multiple sequence profiles and the consensus of complementary methods,2019.0,10.0
+Comparative analysis of methods for evaluation of protein models against native structures,2019.0,14.0
+Improving protein function prediction using protein sequence and GO-term similarities,2019.0,14.0
+FastSpar: rapid and scalable correlation estimation for compositional data,2019.0,27.0
+miES: predicting the essentiality of miRNAs with machine learning and sequence features,2019.0,10.0
+Penalized co-inertia analysis with applications to -omics data,2019.0,10.0
+admetSAR 2.0: web-service for prediction and optimization of chemical ADMET properties,2019.0,145.0
+Inferring gene expression networks with hubs using a degree weighted Lasso approach,2019.0,4.0
+AncestryView: data-driven visualization of whole-genome local-ancestry,2019.0,1.0
+PolyQTL: Bayesian multiple eQTL detection with control for population structure and sample relatedness,2019.0,4.0
+Dot2dot: accurate whole-genome tandem repeats discovery,2019.0,7.0
+ISDB: a database toolkit for storing and analyzing viral integration site data,2019.0,2.0
+A cluster robustness score for identifying cell subpopulations in single cell gene expression datasets from heterogeneous tissues and tumors,2019.0,6.0
+NCycDB: a curated integrative database for fast and accurate metagenomic profiling of nitrogen cycling genes,2019.0,13.0
+Characterizing protein–DNA binding event subtypes in ChIP-exo data,2019.0,14.0
+Parallel clustering of single cell transcriptomic data with split-merge sampling on Dirichlet process mixtures,2019.0,5.0
+MOLGENIS research: advanced bioinformatics data software for non-bioinformaticians,2019.0,7.0
+checkMyIndex: a web-based R/Shiny interface for choosing compatible sequencing indexes,2019.0,3.0
+Traitpedia: a collaborative effort to gather species traits,2019.0,
+RepeatCraft: a meta-pipeline for repetitive element de-fragmentation and annotation,2019.0,4.0
+The Distance Precision Matrix: computing networks from non-linear relationships,2019.0,3.0
+Phylo-PFP: improved automated protein function prediction using phylogenetic distance of distantly related sequences,2019.0,9.0
+Large-scale comparative analysis of microbial pan-genomes using PanOCT,2019.0,10.0
+SKmDB: an integrated database of next generation sequencing information in skeletal muscle,2019.0,3.0
+DASHR 2.0: integrated database of human small non-coding RNA genes and mature products,2019.0,29.0
+WIlsON: Web-based Interactive Omics VisualizatioN,2019.0,11.0
+PANDA: A comprehensive and flexible tool for quantitative proteomics data analysis,2019.0,5.0
+C3D: a tool to predict 3D genomic interactions between cis-regulatory elements,2019.0,7.0
+Bigmelon: tools for analysing large DNA methylation datasets,2019.0,15.0
+ST viewer: a tool for analysis and visualization of spatial transcriptomics datasets,2019.0,11.0
+SpaRC: scalable sequence clustering using Apache Spark,2019.0,13.0
+"QuantiNemo 2: a Swiss knife to simulate complex demographic and genetic scenarios, forward and backward in time",2019.0,9.0
+Benchmarking optimization methods for parameter estimation in large kinetic models,2019.0,45.0
+Adjutant: an R-based tool to support topic discovery for systematic and literature reviews,2019.0,12.0
+PairedFB: a full hierarchical Bayesian model for paired RNA-seq data with heterogeneous treatment effects,2019.0,2.0
+gemBS: high throughput processing for DNA methylation data from bisulfite sequencing,2019.0,14.0
+ImaGEO: integrative gene expression meta-analysis from GEO database,2019.0,26.0
+MCO: towards an ontology and unified vocabulary for a framework-based annotation of microbial growth conditions,2019.0,5.0
+Increased sensitivity with automated validation of XL-MS cleavable peptide crosslinks,2019.0,9.0
+StructureProfiler: an all-in-one tool for 3D protein structure profiling,2019.0,4.0
+Genome Detective: an automated system for virus identification from high-throughput sequencing data,2019.0,53.0
+PathwayConnector: finding complementary pathways to enhance functional analysis,2019.0,17.0
+DCARS: differential correlation across ranked samples,2019.0,3.0
+"Cell membrane proteins with high N-glycosylation, high expression and multiple interaction partners are preferred by mammalian viruses as receptors",2019.0,13.0
+A quantitative map of protein sequence space for the cis-defensin superfamily,2019.0,12.0
+CharGer: clinical Characterization of Germline variants,2019.0,1.0
+PrimedRPA: primer design for recombinase polymerase amplification assays,2019.0,12.0
+Clustering of temporal gene expression data with mixtures of mixed effects models with a penalized likelihood,2019.0,1.0
+MIPUP: minimum perfect unmixed phylogenies for multi-sampled tumors via branchings and ILP,2019.0,8.0
+Container-based bioinformatics with Pachyderm,2019.0,27.0
+CABS-flex standalone: a simulation environment for fast modeling of protein flexibility,2019.0,29.0
+GlycanAnalyzer: software for automated interpretation of N-glycan profiles after exoglycosidase digestions,2019.0,7.0
+A powerful conditional gene-based association approach implicated functionally important genes for schizophrenia,2019.0,8.0
+Linkage disequilibrium maps to guide contig ordering for genome assembly,2019.0,4.0
+Global importance of RNA secondary structures in protein-coding sequences,2019.0,12.0
+Genetic Simulation Resources and the GSR Certification Program,2019.0,2.0
+Processing of big heterogeneous genomic datasets for tertiary analysis of Next Generation Sequencing data,2019.0,26.0
+"LipidFinder on LIPID MAPS: peak filtering, MS searching and statistical analysis for lipidomics",2019.0,19.0
+VisioProt-MS: interactive 2D maps from intact protein mass spectrometry,2019.0,2.0
+PredMP: a web server for de novo prediction and visualization of membrane proteins,2019.0,16.0
+Detection of de novo copy number deletions from targeted sequencing of trios,2019.0,1.0
+TIMING 2.0: high-throughput single-cell profiling of dynamic cell–cell interactions by time-lapse imaging microscopy in nanowell grids,2019.0,4.0
+Effusion: prediction of protein function from sequence similarity networks,2019.0,7.0
+"JustOrthologs: a fast, accurate and user-friendly ortholog identification algorithm",2019.0,4.0
+Evaluation of cross-platform and interlaboratory concordance via consensus modelling of genomic measurements,2019.0,3.0
+DiscoverSL: an R package for multi-omic data driven prediction of synthetic lethality in cancers,2019.0,7.0
+copMEM: finding maximal exact matches via sampling both genomes,2019.0,7.0
+Quantifying heterogeneity of expression data based on principal components,2019.0,
+WAVES: a web application for versatile enhanced bioinformatic services,2019.0,
+Quantifying the notions of canalizing and master genes in a gene regulatory network—a Boolean network modeling perspective,2019.0,3.0
+GPseudoRank: a permutation sampler for single cell orderings,2019.0,9.0
+DoRes within CellMissy: dose-response analysis on cell migration and related data,2019.0,2.0
+4mCPred: machine learning methods for DNA N4-methylcytosine sites prediction,2019.0,55.0
+zfRegeneration: a database for gene expression profiling during regeneration,2019.0,10.0
+WebMetabase: cleavage sites analysis tool for natural and unnatural substrates from diverse data source,2019.0,2.0
+The epiGenomic Efficient Correlator (epiGeEC) tool allows fast comparison of user datasets with thousands of public epigenomic datasets,2019.0,7.0
+HOGMMNC: a higher order graph matching with multiple network constraints model for gene–drug regulatory modules identification,2019.0,18.0
+Automated workflow composition in mass spectrometry-based proteomics,2019.0,25.0
+MinIONQC: fast and simple quality control for MinION sequencing data,2019.0,49.0
+The Terabase Search Engine: a large-scale relational database of short-read sequences,2019.0,1.0
+MR4Cancer: a web server prioritizing master regulators for cancer,2019.0,3.0
+LipidIMMS Analyzer: integrating multi-dimensional information to support lipid identification in ion mobility—mass spectrometry based lipidomics,2019.0,24.0
+iSwathX: an interactive web-based application for extension of DIA peptide reference libraries,2019.0,5.0
+gMCS: fast computation of genetic minimal cut sets in large networks,2019.0,6.0
+Re-identification of individuals in genomic data-sharing beacons via allele inference,2019.0,22.0
+"SonicParanoid: fast, accurate and easy orthology inference",2019.0,23.0
+StackDPPred: a stacking based prediction of DNA-binding protein from sequence,2019.0,29.0
+MendelProb: probability and sample size calculations for Mendelian studies of exome and whole genome sequence data,2019.0,
+TreeGrafter: phylogenetic tree-based annotation of proteins with Gene Ontology terms and other annotations,2019.0,10.0
+MoDentify: phenotype-driven module identification in metabolomics networks at different resolutions,2019.0,9.0
+Toward fast and accurate SNP genotyping from whole genome sequencing data for bedside diagnostics,2019.0,12.0
+Systematic discovery of novel and valuable plant gene modules by large-scale RNA-seq samples,2019.0,5.0
+Heritability estimation and differential analysis of count data with generalized linear mixed models in genomic sequencing studies,2019.0,21.0
+BIPSPI: a method for the prediction of partner-specific protein–protein interfaces,2019.0,22.0
+Random walk with restart on multiplex and heterogeneous biological networks,2019.0,60.0
+ACDtool: a web-server for the generic analysis of large data sets of counts,2019.0,
+"SKEMPI 2.0: an updated benchmark of changes in protein–protein binding energy, kinetics and thermodynamics upon mutation",2019.0,63.0
+Scaling read aligners to hundreds of threads on general-purpose processors,2019.0,105.0
+Cryfa: a secure encryption tool for genomic data,2019.0,9.0
+"MAVIS: merging, annotation, validation, and illustration of structural variants",2019.0,11.0
+ape 5.0: an environment for modern phylogenetics and evolutionary analyses in R,2019.0,1213.0
+Kinome-wide identification of phosphorylation networks in eukaryotic proteomes,2019.0,6.0
+Automatic recognition of ligands in electron density by machine learning,2019.0,11.0
+BrainImageR: spatiotemporal gene set analysis referencing the human brain,2019.0,5.0
+Matt: Unix tools for alternative splicing analysis,2019.0,14.0
+Broom: application for non-redundant storage of high throughput sequencing data,2019.0,2.0
+Metagenomic binning through low-density hashing,2019.0,16.0
+SMSSVD: SubMatrix Selection Singular Value Decomposition,2019.0,1.0
+SPUTNIK: an R package for filtering of spatially related peaks in mass spectrometry imaging data,2019.0,2.0
+DMCM: a Data-adaptive Mutation Clustering Method to identify cancer-related mutation clusters,2019.0,16.0
+AuTom-dualx: a toolkit for fully automatic fiducial marker-based alignment of dual-axis tilt series with simultaneous reconstruction,2019.0,9.0
+GECO: gene expression correlation analysis after genetic algorithm-driven deconvolution,2019.0,1.0
+"Uncertainty quantification, propagation and characterization by Bayesian analysis combined with global sensitivity analysis applied to dynamical intracellular pathway models",2019.0,10.0
+A parallel computational framework for ultra-large-scale sequence clustering analysis,2019.0,7.0
+GIGSEA: genotype imputed gene set enrichment analysis using GWAS summary level data,2019.0,4.0
+CoMSA: compression of protein multiple sequence alignment files,2019.0,4.0
+Determination of sets of covariating gene expression using graph analysis on pairwise expression ratios,2019.0,4.0
+pLoc_bal-mAnimal: predict subcellular localization of animal proteins by balancing training dataset and PseAAC,2019.0,93.0
+Crumble: reference free lossy compression of sequence quality values,2019.0,13.0
+Accurate multiple alignment of distantly related genome sequences using filtered spaced word matches as anchor points,2019.0,4.0
+Kmer-db: instant evolutionary distance estimation,2019.0,9.0
+RNAvista: a webserver to assess RNA secondary structures with non-canonical base pairs,2019.0,7.0
+BrainEXP: a database featuring with spatiotemporal expression variations and co-expression organizations in human brains,2019.0,2.0
+PingPongPro: a tool for the detection of piRNA-mediated transposon-silencing in small RNA-Seq data,2019.0,6.0
+PepBDB: a comprehensive structural database of biological peptide–protein interactions,2019.0,7.0
+LigVoxel: inpainting binding pockets using 3D-convolutional neural networks,2019.0,20.0
+Statistical tests for detecting variance effects in quantitative trait studies,2019.0,12.0
+MetaboRank: network-based recommendation system to interpret and enrich metabolomics results,2019.0,7.0
+Compound–protein interaction prediction with end-to-end learning of neural networks for graphs and sequences,2019.0,100.0
+SATurn: a modular bioinformatics framework for the design of robust maintainable web-based and standalone applications,2019.0,
+Differential coexpression in human tissues and the confounding effect of mean expression levels,2019.0,9.0
+Seave: a comprehensive web platform for storing and interrogating human genomic variation,2019.0,22.0
+lordFAST: sensitive and Fast Alignment Search Tool for LOng noisy Read sequencing Data,2019.0,10.0
+Exploring drivers of gene expression in the Cancer Genome Atlas,2019.0,14.0
+Flux tope analysis: studying the coordination of reaction directions in metabolic networks,2019.0,10.0
+"Multiomics modeling of the immunome, transcriptome, microbiome, proteome and metabolome adaptations during human pregnancy",2019.0,51.0
+ShinyCNV: a Shiny/R application to view and annotate DNA copy number variations,2019.0,4.0
+emeraLD: rapid linkage disequilibrium estimation with massive datasets,2019.0,3.0
+Exosomal lncRNAs and cancer: connecting the missing links,2019.0,23.0
+GrandPrix: scaling up the Bayesian GPLVM for single-cell data,2019.0,23.0
+pyTFA and matTFA: a Python package and a Matlab toolbox for Thermodynamics-based Flux Analysis,2019.0,32.0
+NeoDTI: neural integration of neighbor information from a heterogeneous network for discovering new drug–target interactions,2019.0,56.0
+Xolik: finding cross-linked peptides with maximum paired scores in linear time,2019.0,3.0
+Unraveling the role of low-frequency mutated genes in breast cancer,2019.0,9.0
+A network-based zoning for parallel whole-cell simulation,2019.0,1.0
+The choice of sequence homologs included in multiple sequence alignments has a dramatic impact on evolutionary conservation analysis,2019.0,7.0
+ncdDetect2: improved models of the site-specific mutation rate in cancer and driver detection with robust significance evaluation,2019.0,1.0
+Learned protein embeddings for machine learning,2019.0,69.0
+Reverse-engineering flow-cytometry gating strategies for phenotypic labelling and high-performance cell sorting,2019.0,8.0
+Using tree-based methods for detection of gene–gene interactions in the presence of a polygenic signal: simulation study with application to educational attainment in the Generation Scotland Cohort Study,2019.0,5.0
+GWASinlps: non-local prior based iterative SNP selection tool for genome-wide association studies,2019.0,6.0
+htsget: a protocol for securely streaming genomic data,2019.0,3.0
+"GeneSpy, a user-friendly and flexible genomic context visualizer",2019.0,12.0
+"TranscriptClean: variant-aware correction of indels, mismatches and splice junctions in long-read transcripts",2019.0,14.0
+Chemical shift-based identification of monosaccharide spin-systems with NMR spectroscopy to complement untargeted glycomics,2019.0,7.0
+3DPatch: fast 3D structure visualization with residue conservation,2019.0,
+Graph-guided multi-task sparse learning model: a method for identifying antigenic variants of influenza A(H3N2) virus,2019.0,3.0
+PyCoTools: a Python toolbox for COPASI,2019.0,
+MetaboDiff: an R package for differential metabolomic analysis,2019.0,33.0
+Two-phase differential expression analysis for single cell RNA-seq,2019.0,18.0
+Inference of the human polyadenylation code,2019.0,34.0
+Aligning dynamic networks with DynaWAVE,2019.0,
+A unified approach for sparse dynamical system inference from temporal measurements,2019.0,9.0
+FunGeCo: a web-based tool for estimation of functional potential of bacterial genomes and microbiomes using gene context information,2019.0,
+GABAC: an arithmetic coding solution for genomic data,2019.0,
+CpGtools: a python package for DNA methylation analysis,2019.0,1.0
+Distance measures for tumor evolutionary trees,2019.0,
+Priors for genotyping polyploids,2019.0,16.0
+DigestiFlow: from BCL to FASTQ with ease,2019.0,
+On the inconsistent treatment of gene-protein-reaction rules in context-specific metabolic models,2019.0,1.0
+Enzyme annotation in UniProtKB using Rhea,2019.0,19.0
+A novel constrained reconstruction model towards high-resolution subtomogram averaging,2019.0,
+MetaQUBIC: a computational pipeline for gene-level functional profiling of metagenome and metatranscriptome,2019.0,3.0
+Towards next-generation diagnostics for tuberculosis: identification of novel molecular targets by large-scale comparative genomics,2019.0,144.0
+Biogenesis mechanisms of circular RNA can be categorized through feature extraction of a machine learning model,2019.0,2.0
+LightDock goes information-driven,2019.0,18.0
+ROBOKOP: an abstraction layer and user interface for knowledge graphs to support question answering,2019.0,10.0
+EPIP: a novel approach for condition-specific enhancer–promoter interaction prediction,2019.0,9.0
+Performance of gene expression analyses using de novo assembled transcripts in polyploid species,2019.0,5.0
+DUETT quantitatively identifies known and novel events in nascent RNA structural dynamics from chemical probing data,2019.0,1.0
+Nanopype: a modular and scalable nanopore data processing pipeline,2019.0,3.0
+BLANT—fast graphlet sampling tool,2019.0,
+scRNABatchQC: multi-samples quality control for single cell RNA-seq data,2019.0,4.0
+PIRD: Pan Immune Repertoire Database,2019.0,19.0
+OncodriveCLUSTL: a sequence-based clustering method to identify cancer drivers,2019.0,4.0
+PyMethylProcess—convenient high-throughput preprocessing workflow for DNA methylation data,2019.0,2.0
+Sequence tube maps: making graph genomes intuitive to commuters,2019.0,7.0
+Tailor-made multiple sequence alignments using the PRALINE 2 alignment toolkit,2019.0,2.0
+Predicting promoters in phage genomes using PhagePromoter,2019.0,7.0
+MPRAscore: robust and non-parametric analysis of massively parallel reporter assays,2019.0,3.0
+CoBAMP: a Python framework for metabolic pathway analysis in constraint-based models,2019.0,3.0
+DISPOT: a simple knowledge-based protein domain interaction statistical potential,2019.0,3.0
+"The nPYc-Toolbox, a Python module for the pre-processing, quality-control and analysis of metabolic profiling datasets",2019.0,8.0
+geneCo: a visualized comparative genomic method to analyze multiple genome structures,2019.0,4.0
+TFEA.ChIP: a tool kit for transcription factor binding site enrichment analysis capitalizing on ChIP-seq datasets,2019.0,8.0
+Revealing dynamic regulations and the related key proteins of myeloma-initiating cells by integrating experimental data into a systems biological model,2019.0,9.0
+amplimap: a versatile tool to process and analyze targeted NGS data,2019.0,3.0
+SquiggleKit: a toolkit for manipulating nanopore signal data,2019.0,5.0
+sAOP: linking chemical stressors to adverse outcomes pathway networks,2019.0,8.0
+diSTruct v1.0: generating biomolecular structures from distance constraints,2019.0,
+Genetic association testing using the GENESIS R/Bioconductor package,2019.0,39.0
+PgpRules: a decision tree based prediction server for P-glycoprotein substrates and inhibitors,2019.0,6.0
+PTM-Logo: a program for generation of sequence logos based on position-specific background amino-acid probabilities,2019.0,5.0
+VariantQC: a visual quality control report for variant evaluation,2019.0,
+DDT - Drug Discovery Tool: a fast and intuitive graphics user interface for docking and molecular dynamics analysis,2019.0,
+MEpurity: estimating tumor purity using DNA methylation data,2019.0,2.0
+Noise-cancelling repeat finder: uncovering tandem repeats in error-prone long-read sequencing data,2019.0,13.0
+VeriNA3d: an R package for nucleic acids data mining,2019.0,3.0
+HDX-Viewer: interactive 3D visualization of hydrogen–deuterium exchange data,2019.0,7.0
+Haplotype assembly of autotetraploid potato using integer linear programing,2019.0,5.0
+Identifying progressive imaging genetic patterns via multi-task sparse canonical correlation analysis: a longitudinal study of the ADNI cohort,2019.0,14.0
+PRECISE: a domain adaptation approach to transfer predictors of drug response from pre-clinical models to tumors,2019.0,16.0
+Drug repositioning based on bounded nuclear norm regularization,2019.0,27.0
+Representation transfer for differentially private drug sensitivity prediction,2019.0,1.0
+Comprehensive evaluation of transcriptome-based cell-type quantification methods for immuno-oncology,2019.0,86.0
+Rotation equivariant and invariant neural networks for microscopy image analysis,2019.0,4.0
+Large-scale mammalian genome rearrangements coincide with chromatin interactions,2019.0,2.0
+TreeMerge: a new method for improving the scalability of species tree estimation methods,2019.0,8.0
+Large-scale inference of competing endogenous RNA networks with sparse partial correlation,2019.0,7.0
+SCRIBER: accurate and partner type-specific prediction of protein-binding residues from proteins sequences,2019.0,12.0
+Alignment-free filtering for cfNA fusion fragments,2019.0,2.0
+Enhancing the drug discovery process: Bayesian inference for the analysis and comparison of dose–response experiments,2019.0,5.0
+Inferring signalling dynamics by integrating interventional with observational data,2019.0,3.0
+pNovo 3: precise de novo peptide sequencing using a learning-to-rank framework,2019.0,12.0
+Inheritance and variability of kinetic gene expression parameters in microbial cells: modeling and inference from lineage tree data,2019.0,7.0
+Robust network inference using response logic,2019.0,2.0
+hicGAN infers super resolution Hi-C data with generative adversarial networks,2019.0,15.0
+Weighted elastic net for unsupervised domain adaptation with application to age prediction from DNA methylation data,2019.0,5.0
+ShaKer: RNA SHAPE prediction using graph kernel,2019.0,3.0
+ISMB/ECCB 2019 Proceedings,2019.0,1.0
+Comprehensive evaluation of deep learning architectures for prediction of DNA/RNA sequence binding specificities,2019.0,34.0
+Model-based optimization of subgroup weights for survival analysis,2019.0,5.0
+Controlling large Boolean networks with single-step perturbations,2019.0,5.0
+A statistical simulator scDesign for rational scRNA-seq experimental design,2019.0,12.0
+Selfish: discovery of differential chromatin interactions via a self-similarity measure,2019.0,17.0
+Deep learning with multimodal representation for pancancer prognosis prediction,2019.0,26.0
+Summarizing the solution space in tumor phylogeny inference by multiple consensus trees,2019.0,9.0
+GkmExplain: fast and accurate interpretation of nonlinear gapped k-mer SVMs,2019.0,14.0
+Predicting drug-induced transcriptome responses of a wide range of human cell lines by a novel tensor-train decomposition algorithm,2019.0,7.0
+NPS: scoring and evaluating the statistical significance of peptidic natural product–spectrum matches,2019.0,5.0
+A joint method for marker-free alignment of tilt series in electron tomography,2019.0,4.0
+Adversarial domain adaptation for cross data source macromolecule in situ structural classification in cellular electron cryo-tomograms,2019.0,5.0
+Unsupervised segmentation of mass spectrometric ion images characterizes morphology of tissues,2019.0,1.0
+Learning signaling networks from combinatorial perturbations by exploiting siRNA off-target effects,2019.0,2.0
+Identifying and ranking potential driver genes of Alzheimer’s disease using multiview evidence aggregation,2019.0,6.0
+FunDMDeep-m6A: identification and prioritization of functional differential m6A methylation genes,2019.0,9.0
+Efficient haplotype matching between a query and a panel for genealogical search,2019.0,5.0
+Precise modelling and interpretation of bioactivities of ligands targeting G protein-coupled receptors,2019.0,3.0
+scOrange—a tool for hands-on training of concepts from single-cell data analytics,2019.0,6.0
+Inference of clonal selection in cancer populations using single-cell sequencing data,2019.0,4.0
+Prediction of mRNA subcellular localization using deep recurrent neural networks,2019.0,14.0
+MCS2: minimal coordinated supports for fast enumeration of minimal cut sets in metabolic networks,2019.0,4.0
+Statistical compression of protein sequences and inference of marginal probability landscapes over competing alignments using finite state models and Dirichlet priors,2019.0,1.0
+Learning a mixture of microbial networks using minorization–maximization,2019.0,4.0
+"ADAPTIVE: leArning DAta-dePendenT, concIse molecular VEctors for fast, accurate metabolite identification from tandem mass spectra",2019.0,7.0
+cloudSPAdes: assembly of synthetic long reads using de Bruijn graphs,2019.0,5.0
+Modeling clinical and molecular covariates of mutational process activity in cancer,2019.0,3.0
+Building large updatable colored de Bruijn graphs via merging,2019.0,14.0
+Minnow: a principled framework for rapid simulation of dscRNA-seq data at the read level,2019.0,5.0
+Fully-sensitive seed finding in sequence graphs using a hybrid index,2019.0,4.0
+DeepLigand: accurate prediction of MHC class I ligands using peptide embedding,2019.0,15.0
+Integrating regulatory DNA sequence and gene expression to predict genome-wide chromatin accessibility across cellular contexts,2019.0,15.0
+Block HSIC Lasso: model-free biomarker detection for ultra-high dimensional data,2019.0,6.0
+LinearFold: linear-time approximate RNA folding by 5'-to-3' dynamic programming and beam search,2019.0,18.0
+TideHunter: efficient and sensitive tandem repeat detection from noisy long-reads using seed-and-chain,2019.0,7.0
+A divide-and-conquer method for scalable phylogenetic network inference from multilocus data,2019.0,11.0
+Reconstructing signaling pathways using regular language constrained paths,2019.0,2.0
+"PRISM: methylation pattern-based, reference-free inference of subclonal makeup",2019.0,2.0
+DIFFUSE: predicting isoform functions from sequences and expression profiles via deep learning,2019.0,8.0
+MOLI: multi-omics late integration with deep neural networks for drug response prediction,2019.0,34.0
+TADA: phylogenetic augmentation of microbiome samples enhances phenotype classification,2019.0,2.0
+Multifaceted protein–protein interaction prediction based on Siamese residual RCNN,2019.0,38.0
+Using the structure of genome data in the design of deep neural networks for predicting amyotrophic lateral sclerosis from genotype,2019.0,10.0
+The NEW ESID online database network,2019.0,106.0
+ValTrendsDB: bringing Protein Data Bank validation information closer to the user,2019.0,
+CytoGPS: a web-enabled karyotype analysis tool for cytogenetics,2019.0,1.0
+JUCHMME: a Java Utility for Class Hidden Markov Models and Extensions for biological sequence analysis,2019.0,1.0
+RTNduals: an R/Bioconductor package for analysis of co-regulation and inference of dual regulons,2019.0,
+Sub-dominant principal components inform new vaccine targets for HIV Gag,2019.0,7.0
+Comprehensive study of the exposome and omic data using rexposome Bioconductor Packages,2019.0,4.0
+TCR3d: The T cell receptor structural repertoire database,2019.0,13.0
+Hydra image processor: 5-D GPU image analysis library with MATLAB and python wrappers,2019.0,4.0
+Pygenprop: a Python library for programmatic exploration and comparison of organism genome properties,2019.0,1.0
+Adaptive boosting-based computational model for predicting potential miRNA-disease associations,2019.0,32.0
+PhenoScanner V2: an expanded tool for searching human genotype–phenotype associations,2019.0,107.0
+Interactive exploration of heterogeneous biological networks with Biomine Explorer,2019.0,
+CaPSSA: visual evaluation of cancer biomarker genes for patient stratification and survival analysis using mutation and expression data,2019.0,4.0
+DEUS: an R package for accurate small RNA profiling based on differential expression of unique sequences,2019.0,
+KinomeX: a web application for predicting kinome-wide polypharmacology effect of small molecules,2019.0,6.0
+DepLogo: visualizing sequence dependencies in R,2019.0,
+svtools: population-scale analysis of structural variation,2019.0,6.0
+PatientExploreR: an extensible application for dynamic visualization of patient clinical history from electronic health records in the OMOP common data model,2019.0,3.0
+MetOSite: an integrated resource for the study of methionine residues sulfoxidation,2019.0,5.0
+Chicdiff: a computational pipeline for detecting differential chromosomal interactions in Capture Hi-C data,2019.0,6.0
+DNN-Dom: predicting protein domain boundary from sequence alone by deep neural network,2019.0,6.0
+DECENT: differential expression with capture efficiency adjustmeNT for single-cell RNA-seq data,2019.0,13.0
+"SCANVIS: a tool for SCoring, ANnotating and VISualizing splice junctions",2019.0,
+BAMixChecker: an automated checkup tool for matched sample pairs in NGS cohort,2019.0,2.0
+iTUPA: an online automated application to perform Topographic-Unit Parsimony Analysis,2019.0,1.0
+Testing clonal relatedness of two tumors from the same patient based on their mutational profiles: update of the Clonality R package,2019.0,1.0
+"GeneNoteBook, a collaborative notebook for comparative genomics",2019.0,
+A scalable method for parameter identification in kinetic models of metabolism using steady-state data,2019.0,1.0
+RERconverge: an R package for associating evolutionary rates with convergent traits,2019.0,12.0
+VarMap: a web tool for mapping genomic coordinates to protein sequence and structure and retrieving protein structural annotations,2019.0,8.0
+Graphlet Laplacians for topology-function and topology-disease relationships,2019.0,2.0
+RAISS: robust and accurate imputation from summary statistics,2019.0,4.0
+capC-MAP: software for analysis of Capture-C data,2019.0,1.0
+vulcanSpot: a tool to prioritize therapeutic vulnerabilities in cancer,2019.0,1.0
+New algorithms for detecting multi-effect and multi-way epistatic interactions,2019.0,6.0
+Gene set enrichment for reproducible science: comparison of CERNO and eight other algorithms,2019.0,26.0
+DeepSymmetry: using 3D convolutional networks for identification of tandem repeats and internal symmetries in protein structures,2019.0,2.0
+eFORGE v2.0: updated analysis of cell type-specific signal in epigenomic data,2019.0,19.0
+VCF/Plotein: visualization and prioritization of genomic variants from human exome sequencing projects,2019.0,1.0
+AutoDock CrankPep: combining folding and docking to predict protein–peptide complexes,2019.0,13.0
+MTTFsite: cross-cell type TF binding site prediction by using multi-task learning,2019.0,6.0
+Inferring clonal heterogeneity in cancer using SNP arrays and whole genome sequencing,2019.0,1.0
+RBPSponge: genome-wide identification of lncRNAs that sponge RBPs,2019.0,9.0
+Augmented Interval List: a novel data structure for efficient genomic interval search,2019.0,7.0
+Full-length de novo viral quasispecies assembly through variation graph construction,2019.0,12.0
+deconvSeq: deconvolution of cell mixture distribution in sequencing data,2019.0,12.0
+Path2Surv: Pathway/gene set-based survival analysis using multiple kernel learning,2019.0,3.0
+Smart computational exploration of stochastic gene regulatory network models using human-in-the-loop semi-supervised learning,2019.0,4.0
+PRODIGY-crystal: a web-tool for classification of biological interfaces in protein complexes,2019.0,4.0
+"Assessing concordance among human, in silico predictions and functional assays on genetic variant classification",2019.0,1.0
+CoCo: RNA-seq read assignment correction for nested genes and multimapped reads,2019.0,9.0
+Deep fusion of contextual and object-based representations for delineation of multiple nuclear phenotypes,2019.0,
+Seq2Feature: a comprehensive web-based feature extraction tool,2019.0,7.0
+PSI-Sigma: a comprehensive splicing-detection method for short-read and long-read RNA-seq analysis,2019.0,4.0
+"CNet: a multi-omics approach to detecting clinically associated, combinatory genomic signatures",2019.0,
+ExpansionHunter: a sequence-graph-based tool to analyze variation in short tandem repeat regions,2019.0,29.0
+"snakePipes: facilitating flexible, scalable and integrative epigenomic analysis",2019.0,20.0
+Benchmarking of 4C-seq pipelines based on real and simulated data,2019.0,3.0
+Joint detection of germline and somatic copy number events in matched tumor–normal sample pairs,2019.0,
+EnImpute: imputing dropout events in single-cell RNA-sequencing data via ensemble learning,2019.0,7.0
+EROS-DOCK: protein–protein docking using exhaustive branch-and-bound rotational search,2019.0,1.0
+ACME: pan-specific peptide–MHC class I binding prediction through attention-based deep neural networks,2019.0,17.0
+PathFXweb: a web application for identifying drug safety and efficacy phenotypes,2019.0,
+Statistical test of structured continuous trees based on discordance matrix,2019.0,
+SeRenDIP: SEquential REmasteriNg to DerIve profiles for fast and accurate predictions of PPI interface positions,2019.0,5.0
+ReSimNet: drug response similarity prediction using Siamese neural networks,2019.0,8.0
+Estimating the strength of expression conservation from high throughput RNA-seq data,2019.0,2.0
+deepDR: a network-based deep learning approach to in silico drug repositioning,2019.0,90.0
+Improving data splitting for classification applications in spectrochemical analyses employing a random-mutation Kennard-Stone algorithm approach,2019.0,12.0
+CytoPacq: a web-interface for simulating multi-dimensional cell imaging,2019.0,8.0
+SPar-K: a method to partition NGS signal data,2019.0,
+ARMBIS: accurate and robust matching of brain image sequences from multiple modal imaging techniques,2019.0,1.0
+C-InterSecture—a computational tool for interspecies comparison of genome architecture,2019.0,3.0
+SureTypeSC—a Random Forest and Gaussian mixture predictor of high confidence genotypes in single-cell data,2019.0,4.0
+NRStitcher: non-rigid stitching of terapixel-scale volumetric images,2019.0,9.0
+Iterative feature representations improve N4-methylcytosine site prediction,2019.0,54.0
+epiTAD: a web application for visualizing chromosome conformation capture data in the context of genetic epidemiology,2019.0,
+Cram-JS: reference-based decompression in node and the browser,2019.0,1.0
+Accurate differential analysis of transcription factor activity from gene expression,2019.0,1.0
+YeastSpotter: accurate and parameter-free web segmentation for microscopy images of yeast cells,2019.0,18.0
+Prediction of survival risks with adjusted gene expression through risk-gene networks,2019.0,1.0
+MyelinJ: an ImageJ macro for high throughput analysis of myelinating cultures,2019.0,3.0
+Incorporating spatial–anatomical similarity into the VGWAS framework for AD biomarker detection,2019.0,1.0
+Hayai-Annotation Plants: an ultra-fast and comprehensive functional gene annotation system in plants,2019.0,8.0
+multiPhATE: bioinformatics pipeline for functional annotation of phage isolates,2019.0,11.0
+Protein-ensemble–RNA docking by efficient consideration of protein flexibility through homology models,2019.0,5.0
+A Bayesian two-way latent structure model for genomic data integration reveals few pan-genomic cluster subtypes in a breast cancer cohort,2019.0,5.0
+Tibanna: software for scalable execution of portable pipelines on the cloud,2019.0,2.0
+iRNAD: a computational tool for identifying D modification sites in RNA sequence,2019.0,38.0
+Deep learning of the back-splicing code for circular RNA formation,2019.0,13.0
+Accurate peptide fragmentation predictions allow data driven approaches to replace and improve upon proteomics search engine scoring functions,2019.0,10.0
+Entrezpy: a Python library to dynamically interact with the NCBI Entrez databases,2019.0,5.0
+SPLATCHE3: simulation of serial genetic data under spatially explicit evolutionary scenarios including long-distance dispersal,2019.0,13.0
+Exact hypothesis testing for shrinkage-based Gaussian graphical models,2019.0,6.0
+CaverDock: a molecular docking-based tool to analyse ligand transport through protein tunnels and channels,2019.0,14.0
+Efficient multivariate analysis algorithms for longitudinal genome-wide association studies,2019.0,3.0
+"RAxML-NG: a fast, scalable and user-friendly tool for maximum likelihood phylogenetic inference",2019.0,414.0
+mirTime: identifying condition-specific targets of microRNA in time-series transcript data using Gaussian process model and spherical vector clustering,2019.0,5.0
+gpart: human genome partitioning and visualization of high-density SNP data by identifying haplotype blocks,2019.0,4.0
+Graphical data mining of cancer mechanisms with SEMA,2019.0,4.0
+INDRA-IPM: interactive pathway modeling using natural language with automated assembly,2019.0,10.0
+Identification of disease-associated loci using machine learning for genotype and network data integration,2019.0,5.0
+ProSampler: an ultrafast and accurate motif finder in large ChIP-seq datasets for combinatory motif discovery,2019.0,6.0
+ResPRE: high-accuracy protein contact prediction by coupling precision matrix with deep residual neural networks,2019.0,47.0
+A decision-theoretic approach to the evaluation of machine learning algorithms in computational drug discovery,2019.0,4.0
+TractaViewer: a genome-wide tool for preliminary assessment of therapeutic target druggability,2019.0,2.0
+FP2VEC: a new molecular featurizer for learning molecular properties,2019.0,11.0
+G-OnRamp: a Galaxy-based platform for collaborative annotation of eukaryotic genomes,2019.0,5.0
+Identification of differentially expressed gene sets using the Generalized Berk–Jones statistic,2019.0,1.0
+Develop machine learning-based regression predictive models for engineering protein solubility,2019.0,12.0
+ClinOmicsTrailbc: a visual analytics tool for breast cancer treatment stratification,2019.0,3.0
+LAmbDA: label ambiguous domain adaptation dataset integration reduces batch effects and improves subtype detection,2019.0,9.0
+"Predicted dynamical couplings of protein residues characterize catalysis, transport and allostery",2019.0,5.0
+Continuous-state HMMs for modeling time-series single-cell RNA-Seq data,2019.0,13.0
+kmcEx: memory-frugal and retrieval-efficient encoding of counted k-mers,2019.0,1.0
+Dynamical important residue network (DIRN): network inference via conformational change,2019.0,4.0
+scMatch: a single-cell gene expression profile annotation tool using reference datasets,2019.0,27.0
+Cell-level somatic mutation detection from single-cell RNA sequencing,2019.0,7.0
+PHANOTATE: a novel approach to gene identification in phage genomes,2019.0,33.0
+Multi-SNP mediation intersection-union test,2019.0,5.0
+RNA-align: quick and accurate alignment of RNA 3D structures based on size-independent TM-scoreRNA,2019.0,5.0
+NGSEP3: accurate variant calling across species and sequencing protocols,2019.0,13.0
+DeepPASTA: deep neural network based polyadenylation site analysis,2019.0,6.0
+MINERVA API and plugins: opening molecular network analysis and visualization to the community,2019.0,5.0
+Variant Score Ranker—a web application for intuitive missense variant prioritization,2019.0,3.0
+Is the Bombali virus pathogenic in humans?,2019.0,7.0
+The EntOptLayout Cytoscape plug-in for the efficient visualization of major protein complexes in protein–protein interaction and signalling networks,2019.0,7.0
+BHap: a novel approach for bacterial haplotype reconstruction,2019.0,3.0
+A framework for space-efficient variable-order Markov models,2019.0,1.0
+ORCA: a comprehensive bioinformatics container environment for education and research,2019.0,5.0
+FuncTree2: an interactive radial tree for functional hierarchies and omics data visualization,2019.0,5.0
+Graph-based data integration from bioactive peptide databases of pharmaceutical interest: toward an organized collection enabling visual network analysis,2019.0,8.0
+Fast detection of maximal exact matches via fixed sampling of query K-mers and Bloom filtering of index K-mers,2019.0,8.0
+Hybrid analysis of gene dynamics predicts context-specific expression and offers regulatory insights,2019.0,1.0
+PEPred-Suite: improved and robust prediction of therapeutic peptides using adaptive feature representation learning,2019.0,28.0
+Computational identification of prion-like RNA-binding proteins that form liquid phase-separated condensates,2019.0,11.0
+Overlap graph-based generation of haplotigs for diploids and polyploids,2019.0,4.0
+DeepSignal: detecting DNA methylation state from Nanopore sequencing reads using deep-learning,2019.0,41.0
+A new statistic for efficient detection of repetitive sequences,2019.0,3.0
+"Spliceogen: an integrative, scalable tool for the discovery of splice-altering variants",2019.0,2.0
+Automatic curation of large comparative animal MicroRNA datasets,2019.0,4.0
+PyPore: a python toolbox for nanopore sequencing data handling,2019.0,1.0
+Discovering novel mutation signatures by latent Dirichlet allocation with variational Bayes inference,2019.0,5.0
+IsoformSwitchAnalyzeR: analysis of changes in genome-wide patterns of alternative splicing and its functional consequences,2019.0,23.0
+SurVIndel: improving CNV calling from high-throughput sequencing data through statistical testing,2019.0,1.0
+Modelling G×E with historical weather information improves genomic prediction in new environments,2019.0,6.0
+SolidBin: improving metagenome binning with semi-supervised normalized cut,2019.0,6.0
+Lipid Mini-On: mining and ontology tool for enrichment analysis of lipidomic data,2019.0,15.0
+A learning-based framework for miRNA-disease association identification using neural networks,2019.0,49.0
+ASICS: an R package for a whole analysis workflow of 1D 1H NMR spectra,2019.0,16.0
+HiCNN: a very deep convolutional neural network to better enhance the resolution of Hi-C data,2019.0,14.0
+A coordinate descent approach for sparse Bayesian learning in high dimensional QTL mapping and genome-wide association studies,2019.0,
+Unsupervised discovery of phenotype-specific multi-omics networks,2019.0,3.0
+TORMES: an automated pipeline for whole bacterial genome analysis,2019.0,20.0
+TeraPCA: a fast and scalable software package to study genetic variation in tera-scale genotypes,2019.0,9.0
+Nano-GLADIATOR: real-time detection of copy number alterations from nanopore sequencing data,2019.0,5.0
+scRNAss: a single-cell RNA-seq assembler via imputing dropouts and combing junctions,2019.0,
+Protein multiple alignments: sequence-based versus structure-based programs,2019.0,6.0
+HLA*LA—HLA typing from linearly projected graph alignments,2019.0,16.0
+Structural variant analysis for linked-read sequencing data with gemtools,2019.0,3.0
+Assessing reproducibility of matrix factorization methods in independent transcriptomes,2019.0,8.0
+Open Agile text mining for bioinformatics: the PubAnnotation ecosystem,2019.0,17.0
+Discovery of tandem and interspersed segmental duplications using high-throughput sequencing,2019.0,15.0
+Benefits of dimension reduction in penalized regression methods for high-dimensional grouped data: a case study in low sample size,2019.0,6.0
+Developing structural profile matrices for protein secondary structure and solvent accessibility prediction,2019.0,4.0
+A Bayesian model integration for mutation calling through data partitioning,2019.0,5.0
+RTNsurvival: an R/Bioconductor package for regulatory network survival analysis,2019.0,1.0
+Determining parameters for non-linear models of multi-loop free energy change,2019.0,
+epic2 efficiently finds diffuse domains in ChIP-seq data,2019.0,20.0
+Pinetree: a step-wise gene expression simulator with codon-specific translation rates,2019.0,2.0
+Shouji: a fast and efficient pre-alignment filter for sequence alignment,2019.0,21.0
+rMTA: robust metabolic transformation analysis,2019.0,
+GenomeWarp: an alignment-based variant coordinate transformation,2019.0,
+Simultaneous clustering of multiview biomedical data using manifold optimization,2019.0,2.0
+Genome-wide identification of the essential protein-coding genes and long non-coding RNAs for human pan-cancer,2019.0,6.0
+Kinpute: using identity by descent to improve genotype imputation,2019.0,
+FusionLearn: a biomarker selection algorithm on cross-platform data,2019.0,1.0
+parMATT: parallel multiple alignment of protein 3D-structures with translations and twists for distributed-memory systems,2019.0,6.0
+Neural networks with circular filters enable data efficient inference of sequence motifs,2019.0,2.0
+Graph analysis of fragmented long-read bacterial genome assemblies,2019.0,5.0
+SummaryAUC: a tool for evaluating the performance of polygenic risk prediction models in validation datasets with only summary level statistics,2019.0,8.0
+BrAPI—an application programming interface for plant breeding applications,2019.0,32.0
+TISIDB: an integrated repository portal for tumor–immune system interactions,2019.0,110.0
+Dissecting differential signals in high-throughput data from complex tissues,2019.0,8.0
+SPRINT-Gly: predicting N- and O-linked glycosylation sites of human and mouse proteins by using sequence and predicted structural properties,2019.0,10.0
+PedigreeNet: a web-based pedigree viewer for biological databases,2019.0,
+ORE identifies extreme expression effects enriched for rare variants,2019.0,3.0
+CytoBackBone: an algorithm for merging of phenotypic information from different cytometric profiles,2019.0,3.0
+ngsLD: evaluating linkage disequilibrium using genotype likelihoods,2019.0,14.0
+SArKS: de novo discovery of gene expression regulatory motif sites and domains by suffix array kernel smoothing,2019.0,2.0
+IsoCor: isotope correction for high-resolution MS labeling experiments,2019.0,22.0
+CliqueMS: a computational tool for annotating in-source metabolite ions from LC-MS untargeted metabolomics data based on a coelution similarity network,2019.0,25.0
+ASTRAL-MP: scaling ASTRAL to very large datasets using randomization and parallelization,2019.0,11.0
+Enhanced Waddington landscape model with cell–cell communication can explain molecular mechanisms of self-organization,2019.0,1.0
+Differential proteostatic regulation of insoluble and abundant proteins,2019.0,2.0
+maTE: discovering expressed interactions between microRNAs and their targets,2019.0,2.0
+ERVcaller: identifying polymorphic endogenous retrovirus and other transposable element insertions using whole-genome sequencing data,2019.0,5.0
+FLAS: fast and high-throughput algorithm for PacBio long-read self-correction,2019.0,8.0
+ScanNeo: identifying indel-derived neoantigens using RNA-Seq data,2019.0,13.0
+Compressed filesystem for managing large genome collections,2019.0,
+Health assistant: answering your questions anytime from biomedical literature,2019.0,3.0
+"FoldX 5.0: working with RNA, small molecules and a new graphical interface",2019.0,33.0
+mirtronDB: a mirtron knowledge base,2019.0,5.0
+CyTOFmerge: integrating mass cytometry data across multiple panels,2019.0,5.0
+SodaPop: a forward simulation suite for the evolutionary dynamics of asexual populations on protein fitness landscapes,2019.0,2.0
+onlineFDR: an R package to control the false discovery rate for growing data repositories,2019.0,6.0
+phylostratr: a framework for phylostratigraphy,2019.0,6.0
+ECOGEMS: efficient compression and retrieve of SNP data of 2058 rice accessions with integer sparse matrices,2019.0,2.0
+Classical scoring functions for docking are unable to exploit large volumes of structural and interaction data,2019.0,20.0
+Lemon: a framework for rapidly mining structural information from the Protein Data Bank,2019.0,5.0
+GladiaTOX: GLobal Assessment of Dose-IndicAtor in TOXicology,2019.0,3.0
+SCL: a lattice-based approach to infer 3D chromosome structures from single-cell Hi-C data,2019.0,6.0
+Multiresolution correction of GC bias and application to identification of copy number alterations,2019.0,3.0
+CABS-dock standalone: a toolbox for flexible protein–peptide docking,2019.0,13.0
+Drug repositioning through integration of prior knowledge and projections of drugs and diseases,2019.0,24.0
+Probabilistic count matrix factorization for single cell expression data analysis,2019.0,18.0
+PleioNet: a web-based visualization tool for exploring pleiotropy across complex traits,2019.0,4.0
+DEFOR: depth- and frequency-based somatic copy number alteration detector,2019.0,1.0
+Stable H3K4me3 is associated with transcription initiation during early embryo development,2019.0,8.0
+Gene-based association tests using GWAS summary statistics,2019.0,8.0
+Holistic optimization of an RNA-seq workflow for multi-threaded environments,2019.0,4.0
+Brain annotation toolbox: exploring the functional and genetic associations of neuroimaging results,2019.0,3.0
+GREP: genome for REPositioning drugs,2019.0,7.0
+Response envelope analysis for quantitative evaluation of drug combinations,2019.0,1.0
+Interoperable and scalable data analysis with microservices: applications in metabolomics,2019.0,13.0
+VIMCO: variational inference for multiple correlated outcomes in genome-wide association studies,2019.0,4.0
+ppsPCP: a plant presence/absence variants scanner and pan-genome construction pipeline,2019.0,4.0
+Bit-parallel sequence-to-graph alignment,2019.0,34.0
+MeSHProbeNet: a self-attentive probe net for MeSH indexing,2019.0,14.0
+"PyFeat: a Python-based effective feature generation tool for DNA, RNA and protein sequences",2019.0,30.0
+A Gaussian process model and Bayesian variable selection for mapping function-valued quantitative traits with incomplete phenotypic data,2019.0,4.0
+Integration of methylation QTL and enhancer–target gene maps with schizophrenia GWAS summary results identifies novel genes,2019.0,7.0
+Dr.VAE: improving drug response prediction via modeling of drug perturbation effects,2019.0,33.0
+Automated exploration of gene ontology term and pathway networks with ClueGO-REST,2019.0,17.0
+A new computational drug repurposing method using established disease–drug pair knowledge,2019.0,14.0
+MetaMarker: a pipeline for de novo discovery of novel metagenomic biomarkers,2019.0,
+Enhancing the prediction of disease–gene associations with multimodal deep learning,2019.0,18.0
+VERA: agent-based modeling transmission of antibiotic resistance between human pathogens and gut microbiota,2019.0,2.0
+AutoDock Bias: improving binding mode prediction and virtual screening using known protein–ligand interactions,2019.0,15.0
+Aggrescan3D standalone package for structure-based prediction of protein aggregation properties,2019.0,8.0
+metagenomeFeatures: an R package for working with 16S rRNA reference databases and marker-gene survey feature data,2019.0,4.0
+FORESEE: a tool for the systematic comparison of translational drug response modeling pipelines,2019.0,3.0
+deTS: tissue-specific enrichment analysis to decode tissue specificity,2019.0,10.0
+VHost-Classifier: virus-host classification using natural language processing,2019.0,
+Destin: toolkit for single-cell analysis of chromatin accessibility,2019.0,8.0
+DECO: decompose heterogeneous population cohorts for patient stratification and discovery of sample biomarkers using omic data profiling,2019.0,2.0
+RECAP reveals the true statistical significance of ChIP-seq peak calls,2019.0,3.0
+Surrogate minimal depth as an importance measure for variables in random forests,2019.0,8.0
+SW-Tandem: a highly efficient tool for large-scale peptide identification with parallel spectrum dot product on Sunway TaihuLight,2019.0,5.0
+SinNLRR: a robust subspace clustering method for cell type detection by non-negative and low-rank representation,2019.0,22.0
+DIFFpop: a stochastic computational approach to simulate differentiation hierarchies with single cell barcoding,2019.0,
+SPIM workflow manager for HPC,2019.0,2.0
+Nucleotide Archival Format (NAF) enables efficient lossless reference-free compression of DNA sequences,2019.0,13.0
+BioMethyl: an R package for biological interpretation of DNA methylation data,2019.0,10.0
+Easybiotics: a GUI for 3D physical modelling of multi-species bacterial populations,2019.0,
+Missing value estimation methods for DNA methylation data,2019.0,5.0
+LIONS: analysis suite for detecting and quantifying transposable element initiated transcription from RNA-seq,2019.0,11.0
+CausalTAB: the PSI-MITAB 2.8 updated format for signalling data representation and dissemination,2019.0,16.0
+The TMCrys server for supporting crystallization of transmembrane proteins,2019.0,
+Parameter balancing: consistent parameter sets for kinetic metabolic models,2019.0,5.0
+Anduril 2: upgraded large-scale data integration framework,2019.0,12.0
+Inter-Modular Linkers play a crucial role in governing the biosynthesis of non-ribosomal peptides,2019.0,5.0
+PhenoPro: a novel toolkit for assisting in the diagnosis of Mendelian disease,2019.0,6.0
+pldist: ecological dissimilarities for paired and longitudinal microbiome association analysis,2019.0,4.0
+Choice of species affects phylogenetic stability of deep nodes: an empirical example in Terrabacteria,2019.0,
+Using association signal annotations to boost similarity network fusion,2019.0,8.0
+"G2P: a Genome-Wide-Association-Study simulation tool for genotype simulation, phenotype simulation and power evaluation",2019.0,3.0
+eBDIMS server: protein transition pathways with ensemble analysis in 2D-motion spaces,2019.0,6.0
+Protein model quality assessment using 3D oriented convolutional neural networks,2019.0,29.0
+Using local alignment to enhance single-cell bisulfite sequencing data efficiency,2019.0,3.0
+SUBSTRA: Supervised Bayesian Patient Stratification,2019.0,1.0
+Dhaka: variational autoencoder for unmasking tumor heterogeneity from single cell genomic data,2019.0,10.0
+Driver network as a biomarker: systematic integration and network modeling of multi-omics data to derive driver signaling pathways for drug combination prediction,2019.0,20.0
+3DBIONOTES v3.0: crossing molecular and structural biology data with genomic variations,2019.0,3.0
+DeepAffinity: interpretable deep learning of compound–protein affinity through unified recurrent and convolutional neural networks,2019.0,50.0
+BioKEEN: a library for learning and evaluating biological knowledge graph embeddings,2019.0,21.0
+"Explore, edit and leverage genomic annotations using Python GTF toolkit",2019.0,4.0
+NFPws: a web server for delineating broadly neutralizing antibody specificities from serum HIV-1 neutralization data,2019.0,3.0
+Differential network enrichment analysis reveals novel lipid pathways in chronic kidney disease,2019.0,11.0
+Bacterial Feature Finder (BaFF)—a system for extracting features overrepresented in sets of prokaryotic organisms,2019.0,
+"Network inference performance complexity: a consequence of topological, experimental and algorithmic determinants",2019.0,5.0
+Compositional data network analysis via lasso penalized D-trace loss,2019.0,5.0
+rMETL: sensitive mobile element insertion detection with long read realignment,2019.0,4.0
+Finding enzyme cofactors in Protein Data Bank,2019.0,5.0
+Temporal network alignment via GoT-WAVE,2019.0,10.0
+Gsmodutils: a python based framework for test-driven genome scale metabolic model development,2019.0,2.0
+Comparison of six breast cancer classifiers using qPCR,2019.0,1.0
+Identification of caveolin-1 domain signatures via machine learning and graphlet analysis of single-molecule super-resolution data,2019.0,4.0
+Biomolecular Reaction and Interaction Dynamics Global Environment (BRIDGE),2019.0,6.0
+ST-Steiner: a spatio-temporal gene discovery algorithm,2019.0,5.0
+Gag-protease coevolution shapes the outcome of lopinavir-inclusive treatment regimens in chronically infected HIV-1 subtype C patients,2019.0,2.0
+mCSEA: detecting subtle differentially methylated regions,2019.0,10.0
+Variational infinite heterogeneous mixture model for semi-supervised clustering of heart enhancers,2019.0,1.0
+Biological sequence modeling with convolutional kernel networks,2019.0,9.0
+"Two-Tier Mapper, an unbiased topology-based clustering method for enhanced global gene expression analysis",2019.0,5.0
+Incorporating alignment uncertainty into Felsenstein’s phylogenetic bootstrap to improve its reliability,2019.0,1.0
+RiboD: a comprehensive database for prokaryotic riboswitches,2019.0,9.0
+KOnezumi: a web application for automating gene disruption strategies to generate knockout mice,2019.0,2.0
+Finding de novo methylated DNA motifs,2019.0,9.0
+Structured crowdsourcing enables convolutional segmentation of histology images,2019.0,18.0
+Miso: an R package for multiple isotope labeling assisted metabolomics data analysis,2019.0,3.0
+G4Hunter web application: a web server for G-quadruplex prediction,2019.0,31.0
+IGLOSS: iterative gapless local similarity search,2019.0,
+Assembly Graph Browser: interactive visualization of assembly graphs,2019.0,5.0
+Top-Down Garbage Collector: a tool for selecting high-quality top-down proteomics mass spectra,2019.0,2.0
+Multispectral tracing in densely labeled mouse brain with nTracer,2019.0,5.0
+ChimeraUGEM: unsupervised gene expression modeling in any given organism,2019.0,5.0
+Batch-normalization of cerebellar and medulloblastoma gene expression datasets utilizing empirically defined negative control genes,2019.0,7.0
+PROSSTT: probabilistic simulation of single-cell RNA-seq data for complex differentiation processes,2019.0,11.0
+SaGePhy: an improved phylogenetic simulation framework for gene and subgene evolution,2019.0,10.0
+"GLAD: GLycan Array Dashboard, a visual analytics tool for glycan microarrays",2019.0,17.0
+ebGSEA: an improved Gene Set Enrichment Analysis method for Epigenome-Wide-Association Studies,2019.0,3.0
+PMC text mining subset in BioC: about three million full-text articles and growing,2019.0,14.0
+"Reviewer-coerced citation: case report, update on journal policy and suggestions for future prevention",2019.0,14.0
+Predicting runtimes of bioinformatics tools based on historical data: five years of Galaxy usage,2019.0,7.0
+Aligning optical maps to de Bruijn graphs,2019.0,3.0
+NEMO: cancer subtyping by integration of partial multi-omic data,2019.0,24.0
+Calculation of accurate interatomic contact surface areas for the quantitative analysis of non-bonded molecular interactions,2019.0,11.0
+Rapid alignment-free phylogenetic identification of metagenomic sequences,2019.0,14.0
+GRIMM: GRaph IMputation and matching for HLA genotypes,2019.0,2.0
+DeepAMR for predicting co-occurrent resistance of Mycobacterium tuberculosis,2019.0,7.0
+ensembldb: an R package to create and use Ensembl-based annotation resources,2019.0,15.0
+Comparison of statistical algorithms for daily syndromic surveillance aberration detection,2019.0,4.0
+Comorbidity4j: a tool for interactive analysis of disease comorbidities over large patient datasets,2019.0,1.0
+Predicting the optimal growth temperatures of prokaryotes using only genome derived features,2019.0,12.0
+The interplay between microRNA and alternative splicing of linear and circular RNAs in eleven plant species,2019.0,8.0
+Best-first search guided multistage mass spectrometry-based glycan identification,2019.0,2.0
+DiffNetFDR: differential network analysis with false discovery rate control,2019.0,5.0
+Efficient implementation of convolutional neural networks in the data processing of two-photon in vivo imaging,2019.0,1.0
+admixr—R package for reproducible analyses using ADMIXTOOLS,2019.0,19.0
+The ReproGenomics Viewer: a multi-omics and cross-species resource compatible with single-cell studies for the reproductive science community,2019.0,24.0
+CMEP: a database for circulating microRNA expression profiling,2019.0,3.0
+multiHiCcompare: joint normalization and comparative analysis of complex Hi-C experiments,2019.0,17.0
+RIscoper: a tool for RNA–RNA interaction extraction from the literature,2019.0,13.0
+Protein fold recognition based on multi-view modeling,2019.0,38.0
+SVIM: structural variant identification using mapped long reads,2019.0,37.0
+SRG extractor: a skinny reference genome approach for reduced-representation sequencing,2019.0,1.0
+queryMed: Semantic Web functions for linking pharmacological and medical knowledge to data,2019.0,2.0
+"Ordino: a visual cancer analysis tool for ranking and exploring genes, cell lines and tissue samples",2019.0,12.0
+Benchmarking time-series data discretization on inference methods,2019.0,1.0
+AllerCatPro—prediction of protein allergenicity potential from the protein sequence,2019.0,28.0
+OLGA: fast computation of generation probabilities of B- and T-cell receptor amino acid sequences and motifs,2019.0,46.0
+SMARTCyp 3.0: enhanced cytochrome P450 site-of-metabolism prediction server,2019.0,11.0
+DIABLO: an integrative approach for identifying key molecular drivers from multi-omics assays,2019.0,85.0
+METACLUSTER—an R package for context-specific expression analysis of metabolic gene clusters,2019.0,6.0
+A network of networks approach for modeling interconnected brain tissue-specific networks,2019.0,1.0
+Improved indel detection in DNA and RNA via realignment with ABRA2,2019.0,16.0
+COmplexome Profiling ALignment (COPAL) reveals remodeling of mitochondrial protein complexes in Barth syndrome,2019.0,14.0
+KORP: knowledge-based 6D potential for fast protein and loop modeling,2019.0,19.0
+Large-scale analysis of human gene expression variability associates highly variable drug targets with lower drug effectiveness and safety,2019.0,9.0
+ClusterMap: compare multiple single cell RNA-Seq datasets across different experimental conditions,2019.0,9.0
+MSC: a metagenomic sequence classification algorithm,2019.0,
+An accurate and powerful method for copy number variation detection,2019.0,3.0
+A web application and service for imputing and visualizing missense variant effect maps,2019.0,6.0
+Deuteros: software for rapid analysis and visualization of data from differential hydrogen deuterium exchange-mass spectrometry,2019.0,32.0
+EBIC: an open source software for high-dimensional and big data analyses,2019.0,5.0
+AQUAPONY: visualization and interpretation of phylogeographic information on phylogenetic trees,2019.0,4.0
+PSiTE: a Phylogeny guided Simulator for Tumor Evolution,2019.0,2.0
+A simple convolutional neural network for prediction of enhancer–promoter interactions with DNA sequence data,2019.0,20.0
+Crisflash: open-source software to generate CRISPR guide RNAs against genomes annotated with individual variation,2019.0,13.0
+Identifying residues that determine palmitoylation using association rule mining,2019.0,2.0
+Characterization and identification of long non-coding RNAs based on feature relationship,2019.0,17.0
+Characterizing and ranking computed metabolic engineering strategies,2019.0,8.0
+SMuRF: portable and accurate ensemble prediction of somatic mutations,2019.0,7.0
+CluMSID: an R package for similarity-based clustering of tandem mass spectra to aid feature annotation in metabolomics,2019.0,5.0
+Sstack: an R package for stacking with applications to scenarios involving sequential addition of samples and features,2019.0,1.0
+MULTiPly: a novel multi-layer predictor for discovering general and specific types of promoters,2019.0,59.0
+PyLink: a PyMOL plugin to identify links,2019.0,7.0
+Streamlined analysis of LINCS L1000 data with the slinky package for R,2019.0,
+TopoLink: evaluation of structural models using chemical crosslinking distance constraints,2019.0,14.0
+Statistical force-field for structural modeling using chemical cross-linking/mass spectrometry distance constraints,2019.0,10.0
+TOPAS: network-based structural alignment of RNA sequences,2019.0,3.0
+i6mA-Pred: identifying DNA N6-methyladenine sites in the rice genome,2019.0,108.0
+"Breaking the paradigm: Dr Insight empowers signature-free, enhanced drug repurposing",2019.0,12.0
+Transcriptogramer: an R/Bioconductor package for transcriptional analysis based on protein–protein interaction,2019.0,4.0
+PopCluster: an algorithm to identify genetic variants with ethnicity-dependent effects,2019.0,3.0
+KASPspoon: an in vitro and in silico PCR analysis tool for high-throughput SNP genotyping,2019.0,9.0
+Benchmark problems for dynamic modeling of intracellular processes,2019.0,33.0
+The DNA walk and its demonstration of deterministic chaos—relevance to genomic alterations in lung cancer,2019.0,3.0
+polyDFEv2.0: testing for invariance of the distribution of fitness effects within and across species,2019.0,15.0
+CRISPR-DT: designing gRNAs for the CRISPR-Cpf1 system with improved target efficiency and specificity,2019.0,21.0
+"MMseqs2 desktop and local web server app for fast, interactive sequence searches",2019.0,18.0
+Simulation of heterogeneous tumour genomes with HeteroGenesis and in silico whole exome sequencing,2019.0,
+Boost-HiC: computational enhancement of long-range contacts in chromosomal contact maps,2019.0,9.0
+SIAN: software for structural identifiability analysis of ODE models,2019.0,21.0
+AnnoFly: annotating Drosophila embryonic images based on an attention-enhanced RNN model,2019.0,4.0
+Promoter analysis and prediction in the human genome using sequence-based deep learning models,2019.0,32.0
+DeepPhos: prediction of protein phosphorylation sites with deep learning,2019.0,38.0
+BreakID: genomics breakpoints identification to detect gene fusion events using discordant pairs and split reads,2019.0,
+UbiHub: a data hub for the explorers of ubiquitination pathways,2019.0,6.0
+DeepCoil—a fast and accurate prediction of coiled-coil domains in protein sequences,2019.0,32.0
+MetFlow: an interactive and integrated workflow for metabolomics data cleaning and differential metabolite discovery,2019.0,9.0
+Batch equalization with a generative adversarial network,2019.0,24.0
+"SneakySnake: a fast and accurate universal genome pre-alignment filter for CPUs, GPUs and FPGAs",2019.0,5.0
+Prediction of histone post-translational modifications using deep learning,2019.0,28.0
+miqoGraph: fitting admixture graphs using mixed-integer quadratic optimization,2019.0,
+PheWAS-ME: a web-app for interactive exploration of multimorbidity patterns in PheWAS,2019.0,
+Robustifying genomic classifiers to batch effects via ensemble learning,2019.0,
+QAlign: aligning nanopore reads accurately using current-level modeling,2019.0,
+ECMarker: interpretable machine learning model identifies gene expression biomarkers predicting clinical outcomes and reveals molecular mechanisms of human disease in early stages,2019.0,
+Simulating intervertebral disc cell behaviour within 3D multifactorial environments,2019.0,1.0
+Maximum likelihood reconstruction of ancestral networks by integer linear programming,2019.0,
+GraphDTA: Predicting drug–target binding affinity with graph neural networks,2019.0,24.0
+Accurate and efficient gene function prediction using a multi-bacterial network,2019.0,
+dNEMO: a tool for quantification of mRNA and punctate structures in time-lapse images of single cells,2019.0,1.0
+Prioritizing transcriptomic and epigenomic experiments by using an optimization strategy that leverages imputed data,2019.0,
+AFid: a tool for automated identification and exclusion of autofluorescent objects from microscopy images,2019.0,
+MR-Clust: clustering of genetic variants in Mendelian randomization with similar causal estimates,2019.0,1.0
+OGRE: Overlap Graph-based metagenomic Read clustEring,2019.0,
+SOLQC: Synthetic Oligo Library Quality Control tool,2019.0,2.0
+The optimal discovery procedure for significance analysis of general gene expression studies,2019.0,
+Bipartite Tight Spectral Clustering (BiTSC) Algorithm for Identifying Conserved Gene Co-clusters in Two Species,2019.0,
+Evaluating recommender systems for AI-driven biomedical informatics,2019.0,
+Discovering a sparse set of pairwise discriminating features in high-dimensional data,2019.0,
+MetaBCC-LR: metagenomics binning by coverage and composition for long reads,2019.0,35.0
+"DNA Chisel, a versatile sequence optimizer",2019.0,2.0
+PUMA: PANDA Using MicroRNA Associations,2019.0,9.0
+rmRNAseq: differential expression analysis for repeated-measures RNA-seq data,2019.0,
+SpaCell: integrating tissue morphology and spatial gene expression to predict disease cells,2019.0,4.0

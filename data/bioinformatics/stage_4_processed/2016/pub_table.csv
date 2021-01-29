@@ -1,0 +1,558 @@
+title,year,citations
+cBinderDB: a covalent binding agent database,2016.0,
+Xenolog classification,2016.0,
+Mutual enrichment in aggregated ranked lists with applications to gene expression regulation,2016.0,3.0
+The discordant method: a novel approach for differential correlation,2016.0,20.0
+An integer programming framework for inferring disease complexes from network data,2016.0,13.0
+PhagesDB: the actinobacteriophage database,2016.0,
+EGAD: ultra-fast functional analysis of gene networks,2016.0,
+Recognizing metal and acid radical ion-binding sites by integrating ab initio modeling with template-based transferals,2016.0,57.0
+ReconMap: an interactive visualization of human metabolism,2016.0,
+gargammel: a sequence simulator for ancient DNA,2016.0,
+A Cytoscape app for motif enumeration with ISMAGS,2016.0,
+Detecting subnetwork-level dynamic correlations,2016.0,
+LongISLND: in silico sequencing of lengthy and noisy datatypes,2016.0,21.0
+AKT: ancestry and kinship toolkit,2016.0,
+RiboDiff: detecting changes of mRNA translation efficiency from ribosome footprints,2016.0,
+MPRAnator: a web-based tool for the design of massively parallel reporter assay experiments,2016.0,
+Detecting horizontal gene transfer by mapping sequencing reads across species boundaries,2016.0,18.0
+Pathway-based approach using hierarchical components of collapsed rare variants,2016.0,28.0
+Gene-set association tests for next-generation sequencing data,2016.0,5.0
+Simultaneous discovery of cancer subtypes and subtype features by molecular data integration,2016.0,26.0
+Simulated linear test applied to quantitative proteomics,2016.0,1.0
+A probabilistic model for detecting rigid domains in protein structures,2016.0,4.0
+PEPSI-Dock: a detailed data-driven protein–protein interaction potential accelerated by polar Fourier correlation,2016.0,18.0
+Information-optimal genome assembly via sparse read-overlap graphs,2016.0,13.0
+Extending partial haplotypes to full genome haplotypes using chromosome conformation capture data,2016.0,17.0
+Characterizing leader sequences of CRISPR loci,2016.0,
+CoLoRMap: Correcting Long Reads by Mapping short reads,2016.0,41.0
+Edge-based sensitivity analysis of signaling networks by using Boolean dynamics,2016.0,6.0
+iReMet-flux: constraint-based approach for integrating relative metabolite levels into a stoichiometric metabolic models,2016.0,16.0
+LuxGLM: a probabilistic covariate model for quantification of DNA methylation modifications with complex experimental designs,2016.0,9.0
+Bayesian parameter estimation for the Wnt pathway: an infinite mixture models approach,2016.0,13.0
+Complementary feature selection from alternative splicing events and gene expression for phenotype prediction,2016.0,7.0
+Estimating real cell size distribution from cross-section microscopy imaging,2016.0,13.0
+Higher order methylation features for clustering and prediction in epigenomic studies,2016.0,30.0
+The Network Library: a framework to rapidly integrate network biology resources,2016.0,9.0
+GTRAC: fast retrieval from compressed collections of genomic variants,2016.0,15.0
+Combining dependent P-values with an empirical adaptation of Brown’s method,2016.0,79.0
+Patterns of amino acid conservation in human and animal immunodeficiency viruses,2016.0,4.0
+SWORD—a highly efficient protein database search,2016.0,15.0
+ModuleAlign: module-based global alignment of protein–protein interaction networks,2016.0,35.0
+TANDEM: a two-stage approach to maximize interpretability of drug response models based on multiple molecular data types,2016.0,49.0
+Genome wide predictions of miRNA regulation by transcription factors,2016.0,10.0
+Assemble CRISPRs from metagenomic sequencing data,2016.0,
+Improve homology search sensitivity of PacBio data by correcting frameshifts,2016.0,11.0
+MetaProb: accurate metagenomic reads binning based on probabilistic sequence signatures,2016.0,36.0
+ECCB 2016: The 15th European Conference on Computational Biology,2016.0,2.0
+A unified model based multifactor dimensionality reduction framework for detecting gene–gene interactions,2016.0,21.0
+Snowball: strain aware gene assembly of metagenomes,2016.0,11.0
+DeepChrome: deep-learning for predicting gene expression from histone modifications,2016.0,148.0
+XGSA: A statistical method for cross-species gene set analysis,2016.0,12.0
+Drug response prediction by inferring pathway-response associations with kernelized Bayesian matrix factorization,2016.0,45.0
+PRED-TMBB2: improved topology prediction and detection of beta-barrel outer membrane proteins,2016.0,50.0
+AUCpreD: proteome-level protein disorder prediction by AUC-maximized deep convolutional neural fields,2016.0,52.0
+PeakXus: comprehensive transcription factor binding site discovery from ChIP-Nexus and ChIP-Exo experiments,2016.0,11.0
+Optimization of signal-to-noise ratio for efficient microarray probe design,2016.0,8.0
+"PanTools: representation, storage and exploration of pan-genomic data",2016.0,30.0
+Logical model specification aided by model-checking techniques: application to the mammalian cell cycle regulation,2016.0,30.0
+Large-scale inference of conjunctive Bayesian networks,2016.0,6.0
+Fast genotyping of known SNPs through approximate k-mer matching,2016.0,
+A weighted exact test for mutually exclusive mutations in cancer,2016.0,36.0
+A program for verification of phylogenetic network models,2016.0,
+On cross-conditional and fluctuation correlations in competitive RNA networks,2016.0,4.0
+MSAProbs-MPI: parallel multiple sequence aligner for distributed-memory systems,2016.0,27.0
+Imbalanced multi-label learning for identifying antimicrobial peptides and their functional types,2016.0,37.0
+DOMINO: development of informative molecular markers for phylogenetic and genome-wide population genetic studies in non-model organisms,2016.0,4.0
+KScons: a Bayesian approach for protein residue contact prediction using the knob-socket model of protein tertiary structure,2016.0,4.0
+Fast-SNP: a fast matrix pre-processing algorithm for efficient loopless flux optimization of metabolic models,2016.0,16.0
+Discoal: flexible coalescent simulations with selection,2016.0,
+Assembly-based inference of B-cell receptor repertoires from short read RNA sequencing data with V’DJer,2016.0,35.0
+H-PoP and H-PoPG: heuristic partitioning algorithms for single individual haplotyping of polyploids,2016.0,24.0
+PhenomeScape: a cytoscape app to identify differentially regulated sub-networks using known disease associations,2016.0,9.0
+AlmostSignificant: simplifying quality control of high-throughput sequencing data,2016.0,5.0
+Integrating genomic information with protein sequence and 3D atomic level structure at the RCSB protein data bank,2016.0,10.0
+Predicting the errors of predicted local backbone angles and non-local solvent- accessibilities of proteins by deep neural networks,2016.0,13.0
+PPI4DOCK: large scale assessment of the use of homology models in free docking over more than 1000 realistic targets,2016.0,17.0
+What time is it? Deep learning approaches for circadian rhythms,2016.0,44.0
+MSIdV: a versatile tool to visualize biological indices from mass spectrometry imaging data,2016.0,7.0
+DEsubs: an R package for flexible identification of differentially expressed subpathways using RNA-seq experiments,2016.0,29.0
+STAMS: STRING-assisted module search for genome wide association studies and application to autism,2016.0,10.0
+Predicting synergistic effects between compounds through their structural similarity and effects on transcriptomes,2016.0,17.0
+BatchQC: interactive software for evaluating sample and batch effects in genomic data,2016.0,26.0
+ReadXplorer 2—detailed read mapping analysis and visualization from one single source,2016.0,50.0
+Higher classification sensitivity of short metagenomic reads with CLARK-S,2016.0,69.0
+A new correlation clustering method for cancer mutation analysis,2016.0,26.0
+A computational strategy to adjust for copy number in tumor Hi-C data,2016.0,28.0
+Selective mutation accumulation: a computational model of the paternal age effect,2016.0,6.0
+Corpus domain effects on distributional semantic modeling of medical terms,2016.0,81.0
+ImmQuant: a user-friendly tool for inferring immune cell-type composition from gene-expression data,2016.0,29.0
+SDEAP: a splice graph based differential transcript expression analysis tool for population data,2016.0,4.0
+Gene Slider: sequence logo interactive data-visualization for education and research,2016.0,5.0
+CGDM: collaborative genomic data model for molecular profiling data using NoSQL,2016.0,7.0
+Extensive complementarity between gene function prediction methods,2016.0,11.0
+oxBS-MLE: an efficient method to estimate 5-methylcytosine and 5-hydroxymethylcytosine in paired bisulfite and oxidative bisulfite treated DNA,2016.0,18.0
+LCA*: an entropy-based measure for taxonomic assignment within assembled metagenomes,2016.0,13.0
+NVT: a fast and simple tool for the assessment of RNA-seq normalization strategies,2016.0,4.0
+ChemTreeMap: an interactive map of biochemical similarity in molecular datasets,2016.0,15.0
+EnhancerAtlas: a resource for enhancer annotation and analysis in 105 human cell/tissue types,2016.0,100.0
+Support vector machine model of developmental brain gene expression data for prioritization of Autism risk gene candidates,2016.0,28.0
+DTMiner: identification of potential disease targets through biomedical literature mining,2016.0,18.0
+SRinversion: a tool for detecting short inversions by splitting and re-aligning poorly mapped and unmapped sequencing reads,2016.0,7.0
+RNAcommender: genome-wide recommendation of RNA–protein interactions,2016.0,14.0
+PathScore: a web tool for identifying altered pathways in cancer data,2016.0,2.0
+PRODIGY: a web server for predicting the binding affinity of protein–protein complexes,2016.0,231.0
+A profile-based method for identifying functional divergence of orthologous genes in bacterial genomes,2016.0,16.0
+BiDiFuse: a FIJI plugin for fusing bi-directionally recorded microscopic image volumes,2016.0,2.0
+shinyGEO: a web-based application for analyzing gene expression omnibus datasets,2016.0,37.0
+Bayesian network feature finder (BANFF): an R package for gene network feature selection,2016.0,4.0
+scphaser: haplotype inference using single-cell RNA-seq data,2016.0,14.0
+genipe: an automated genome-wide imputation pipeline with automatic reporting and statistical tools,2016.0,9.0
+A novel copy number variants kernel association test with application to autism spectrum disorders studies,2016.0,13.0
+Metrics for rapid quality control in RNA structure probing experiments,2016.0,15.0
+WebSTAR3D: a web server for RNA 3D structural alignment,2016.0,1.0
+FARAO: the flexible all-round annotation organizer,2016.0,8.0
+PcircRNA_finder: a software for circRNA prediction in plants,2016.0,
+Detection of differentially methylated regions in whole genome bisulfite sequencing data using local Getis-Ord statistics,2016.0,17.0
+MetaCoMET: a web platform for discovery and visualization of the core microbiome,2016.0,42.0
+Predicting G protein-coupled receptor downstream signaling by tissue expression,2016.0,9.0
+ReactPRED: a tool to predict and analyze biochemical reactions,2016.0,16.0
+NRGC: a novel referential genome compression algorithm,2016.0,14.0
+An efficient method to estimate the optimum regularization parameter in RLDA,2016.0,6.0
+NET-GE: a web-server for NETwork-based human gene enrichment,2016.0,12.0
+HiPub: translating PubMed and PMC texts to networks for knowledge discovery,2016.0,18.0
+NCMine: Core-peripheral based functional module detection using near-clique mining,2016.0,14.0
+Joint sparse canonical correlation analysis for detecting differential imaging genetics modules,2016.0,43.0
+WALT: fast and accurate read mapping for bisulfite sequencing,2016.0,34.0
+Excess positional mutual information predicts both local and allosteric mutations affecting beta lactamase drug resistance,2016.0,11.0
+plasmidSPAdes: assembling plasmids from whole genome sequencing data,2016.0,251.0
+Drug drug interaction extraction from biomedical literature using syntax convolutional neural network,2016.0,111.0
+Motif comparison based on similarity of binding affinity profiles,2016.0,13.0
+Simultaneous gene finding in multiple genomes,2016.0,793.0
+PReFerSim: fast simulation of demography and selection under the Poisson Random Field model,2016.0,4.0
+Variance adaptive shrinkage (vash): flexible empirical Bayes estimation of variances,2016.0,9.0
+TopPIC: a software tool for top-down mass spectrometry-based proteoform identification and characterization,2016.0,86.0
+"LEVER: software tools for segmentation, tracking and lineaging of proliferating cells",2016.0,27.0
+Online interactive analysis of protein structure ensembles with Bio3D-web,2016.0,25.0
+ntHash: recursive nucleotide hashing,2016.0,
+sBWT: memory efficient implementation of the hardware-acceleration-friendly Schindler transform for the fast biological sequence mapping,2016.0,4.0
+MorphoLibJ: integrated library and plugins for mathematical morphology with ImageJ,2016.0,347.0
+SSBD: a database of quantitative data of spatiotemporal dynamics of biological phenomena,2016.0,12.0
+cisASE: a likelihood-based method for detecting putative cis-regulated allele-specific expression in RNA sequencing data,2016.0,6.0
+LightAssembler: fast and memory-efficient assembly algorithm for high-throughput sequencing reads,2016.0,11.0
+BioPartsDB: a synthetic biology workflow web-application for education and research,2016.0,5.0
+VisualGraphX: interactive graph visualization within Galaxy,2016.0,1.0
+LAMPLINK: detection of statistically significant SNP combinations from GWAS data,2016.0,15.0
+Estimating evolutionary rates using time-structured data: a general comparison of phylogenetic methods,2016.0,24.0
+MSAViewer: interactive JavaScript visualization of multiple sequence alignments,2016.0,109.0
+MEMHDX: an interactive tool to expedite the statistical validation and visualization of large HDX-MS datasets,2016.0,37.0
+samExploreR: exploring reproducibility and robustness of RNA-seq results based on SAM files,2016.0,6.0
+New quality measure for SNP array based CNV detection,2016.0,16.0
+MIMEAnTo: profiling functional RNA in mutational interference mapping experiments,2016.0,4.0
+A subpopulation model to analyze heterogeneous cell differentiation dynamics,2016.0,8.0
+Towards the knowledge-based design of universal influenza epitope ensemble vaccines,2016.0,37.0
+PyPanda: a Python package for gene regulatory network reconstruction,2016.0,7.0
+CRISPR-DO for genome-wide CRISPR design and optimization,2016.0,35.0
+SYNBADm: a tool for optimization-based automated design of synthetic gene circuits,2016.0,23.0
+BioNetGen 2.2: advances in rule-based modeling,2016.0,124.0
+SIFORM: shared informative factor models for integration of multi-platform bioinformatic data,2016.0,1.0
+ConsPred: a rule-based (re-)annotation framework for prokaryotic genomes,2016.0,8.0
+SwiSpot: modeling riboswitches by spotting out switching sequences,2016.0,6.0
+The SMAL web server: global multiple network alignment from pairwise alignments,2016.0,5.0
+MetaPred2CS: a sequence-based meta-predictor for protein–protein interactions of prokaryotic two-component system proteins,2016.0,2.0
+Heat*seq: an interactive web tool for high-throughput sequencing experiment comparison with public data,2016.0,7.0
+"AMIGO2, a toolbox for dynamic modeling, optimization and control in systems biology",2016.0,92.0
+TwoPhaseInd: an R package for estimating gene–treatment interactions and discovering predictive markers in randomized clinical trials,2016.0,2.0
+Performance of protein-structure predictions with the physics-based UNRES force field in CASP11,2016.0,33.0
+An empirical Bayes method for genotyping and SNP detection using multi-sample next-generation sequencing data,2016.0,4.0
+deBGA: read alignment with de Bruijn graph-based seed and extension,2016.0,36.0
+Unbiased classification of spatial strategies in the Barnes maze,2016.0,23.0
+Icarus: visualizer for de novo assembly evaluation,2016.0,45.0
+MetaCycle: an integrated R package to evaluate periodicity in large scale data,2016.0,160.0
+w4CSeq: software and web application to analyze 4C-seq data,2016.0,11.0
+Application of the MAFFT sequence alignment program to large data—reexamination of the usefulness of chained guide trees,2016.0,164.0
+4DGenome: a comprehensive database of chromatin interactions,2016.0,
+Confidence assignment for mass spectrometry based peptide identifications via the extreme value distribution,2016.0,3.0
+Network-based pathway enrichment analysis with incomplete network information,2016.0,29.0
+Accounting for pairwise distance restraints in FFT-based protein–protein docking,2016.0,16.0
+Local versus global biological network alignment,2016.0,55.0
+Estimating and testing high-dimensional mediation effects in epigenetic studies,2016.0,52.0
+Cyclo-lib: a database of computational molecular dynamics simulations of cyclodextrins,2016.0,6.0
+Inheritance-mode specific pathogenicity prioritization (ISPP) for human protein coding genes,2016.0,8.0
+Conpair: concordance and contamination estimator for matched tumor–normal pairs,2016.0,28.0
+"CellProfiler Analyst: interactive data exploration, analysis and classification of large biological image sets",2016.0,80.0
+ABAEnrichment: an R package to test for gene set expression enrichment in the adult and developing human brain,2016.0,22.0
+AutoSite: an automated approach for pseudo-ligands prediction—from ligand-binding sites identification to predicting key ligand atoms,2016.0,23.0
+A probabilistic approach for collective similarity-based drug–drug interaction prediction,2016.0,53.0
+GeneCodeq: quality score compression and improved genotyping using a Bayesian framework,2016.0,19.0
+Structural distinctions of fast and slow bacterial luciferases revealed by phylogenetic analysis,2016.0,19.0
+pSumo-CD: predicting sumoylation sites in proteins with covariance discriminant algorithm by incorporating sequence-coupled effects into general PseAAC,2016.0,180.0
+GORpipe: a query tool for working with sequence data based on a Genomic Ordered Relational (GOR) architecture,2016.0,13.0
+iPTM-mLys: identifying multiple lysine PTM sites and their different types,2016.0,216.0
+Vecuum: identification and filtration of false somatic variants caused by recombinant vector contamination,2016.0,6.0
+PEP_scaffolder: using (homologous) proteins to scaffold genomes,2016.0,9.0
+SERAPHIM: studying environmental rasters and phylogenetically informed movements,2016.0,39.0
+ACE: adaptive cluster expansion for maximum entropy graphical model inference,2016.0,68.0
+RTCR: a pipeline for complete and accurate recovery of T cell repertoires from high throughput sequencing data,2016.0,34.0
+Integrated gene set analysis for microRNA studies,2016.0,21.0
+A simple model predicts UGT-mediated metabolism,2016.0,36.0
+Accurate in silico prediction of species-specific methylation sites based on information gain feature optimization,2016.0,48.0
+AgIn: measuring the landscape of CpG methylation of individual repetitive elements,2016.0,17.0
+Pseudotime estimation: deconfounding single cell time series,2016.0,87.0
+Genome puzzle master (GPM): an integrated pipeline for building and editing pseudomolecules from fragmented sequences,2016.0,17.0
+The structural effects of mutations can aid in differential phenotype prediction of beta-myosin heavy chain (Myosin-7) missense variants,2016.0,7.0
+New KEGG pathway-based interpretable features for classifying ageing-related mouse proteins,2016.0,9.0
+Assemblytics: a web analytics tool for the detection of variants from an assembly,2016.0,127.0
+TADtool: visual parameter identification for TAD-calling algorithms,2016.0,44.0
+PhenoScanner: a database of human genotype–phenotype associations,2016.0,364.0
+STRUM: structure-based prediction of protein stability changes upon single-point mutation,2016.0,175.0
+Statistical modeling of isoform splicing dynamics from RNA-seq time series data,2016.0,9.0
+SELAM: simulation of epistasis and local adaptation during admixture with mate choice,2016.0,14.0
+NegGOA: negative GO annotations selection using ontology structure,2016.0,30.0
+RADIS: analysis of RAD-seq data for interspecific phylogeny,2016.0,8.0
+@MInter: automated text-mining of microbial interactions,2016.0,21.0
+MultiQC: summarize analysis results for multiple tools and samples in a single report,2016.0,1150.0
+Web-based network analysis and visualization using CellMaps,2016.0,12.0
+A time-varying group sparse additive model for genome-wide association studies of dynamic complex traits,2016.0,8.0
+CONDOP: an R package for CONdition-Dependent Operon Predictions,2016.0,4.0
+Unbiased probabilistic taxonomic classification for DNA barcoding,2016.0,39.0
+GSA-Lightning: ultra-fast permutation-based gene set analysis,2016.0,1.0
+PHOCOS: inferring multi-feature phenotypic crosstalk networks,2016.0,
+Ensemble-based evaluation for protein structure models,2016.0,6.0
+Fast metabolite identification with Input Output Kernel Regression,2016.0,54.0
+Novel applications of multitask learning and multiple output regression to multiple genetic trait prediction,2016.0,33.0
+Reconstructing the temporal progression of HIV-1 immune response pathways,2016.0,9.0
+Finding correct protein–protein docking models using ProQDock,2016.0,24.0
+Simultaneous prediction of enzyme orthologs from chemical transformation patterns for de novo metabolic pathway reconstruction,2016.0,11.0
+RNAiFold2T: Constraint Programming design of thermo-IRES switches,2016.0,7.0
+Linear effects models of signaling pathways from combinatorial perturbation data,2016.0,3.0
+Faster and more accurate graphical model identification of tandem mass spectra using trellises,2016.0,1.0
+Data-driven mechanistic analysis method to reveal dynamically evolving regulatory networks,2016.0,7.0
+A convex optimization approach for identification of human tissue-specific interactomes,2016.0,
+Jumping across biomedical contexts using compressive data fusion,2016.0,16.0
+Analysis of aggregated cell–cell statistical distances within pathways unveils therapeutic-resistance mechanisms in circulating tumor cells,2016.0,9.0
+Classifying and segmenting microscopy images with deep multiple instance learning,2016.0,254.0
+A novel method for discovering local spatial clusters of genomic regions with functional relationships from DNA contact maps,2016.0,7.0
+phRAIDER: Pattern-Hunter based Rapid Ab Initio Detection of Elementary Repeats,2016.0,9.0
+CMsearch: simultaneous exploration of protein sequence space and structure space improves not only protein homology detection but also protein structure prediction,2016.0,25.0
+Using genomic annotations increases statistical power to detect eGenes,2016.0,12.0
+Influence maximization in time bounded network identifies transcription factors regulating perturbed pathways,2016.0,13.0
+Read-based phasing of related individuals,2016.0,
+"RapMap: a rapid, sensitive and accurate tool for mapping RNA-seq reads to transcriptomes",2016.0,83.0
+A cross-species bi-clustering approach to identifying conserved co-regulated genes,2016.0,3.0
+Compacting de Bruijn graphs from sequencing data quickly and in low memory,2016.0,97.0
+A novel algorithm for calling mRNA m 6 A peaks by modeling biological variances in MeRIP-seq data,2016.0,34.0
+Comparative analyses of population-scale phenomic data in electronic medical records reveal race-specific disease networks,2016.0,28.0
+Analysis of differential splicing suggests different modes of short-term splicing regulation,2016.0,9.0
+ISMB 2016 Proceedings,2016.0,
+BioASF: a framework for automatically generating executable pathway models specified in BioPAX,2016.0,13.0
+Prediction of ribosome footprint profile shapes from transcript sequences,2016.0,17.0
+Convolutional neural network architectures for predicting DNA–protein binding,2016.0,300.0
+RCK: accurate and efficient inference of sequence- and structure-based protein–RNA binding models from RNAcompete data,2016.0,37.0
+DrugE-Rank: improving drug–target interaction prediction of new candidate drugs or targets by ensemble learning to rank,2016.0,89.0
+Structure-based prediction of transcription factor binding specificity using an integrative energy function,2016.0,17.0
+deBWT: parallel construction of Burrows–Wheeler Transform for large collection of genomes with de Bruijn-branch encoding,2016.0,13.0
+Genome assembly from synthetic long read clouds,2016.0,21.0
+A network-driven approach for genome-wide association mapping,2016.0,6.0
+SHARAKU: an algorithm for aligning and clustering read mapping profiles of deep sequencing in non-coding RNA processing,2016.0,2.0
+DFLpred: High-throughput prediction of disordered flexible linker regions in protein sequences,2016.0,45.0
+DeepMeSH: deep semantic representation for improving large-scale MeSH indexing,2016.0,70.0
+Inferring the perturbation time from biological time course data,2016.0,19.0
+Meshable: searching PubMed abstracts by utilizing MeSH and MeSH-derived topical terms,2016.0,26.0
+GenVisR: Genomic Visualizations in R,2016.0,
+bdvis: visualizing biodiversity data in R,2016.0,
+Zerone: a ChIP-seq discretizer for multiple replicates with built-in quality control,2016.0,13.0
+RareVariantVis: new tool for visualization of causative variants in rare monogenic disorders using whole genome sequencing data,2016.0,5.0
+Prediction of conserved long-range RNA-RNA interactions in full viral genomes,2016.0,14.0
+RTFBSDB: an integrated framework for transcription factor binding site analysis,2016.0,23.0
+Rapid and powerful detection of subtle allelic imbalance from exome sequencing data with hapLOHseq,2016.0,12.0
+The Glycome Analytics Platform: an integrative framework for glycobioinformatics,2016.0,8.0
+A knowledge-based approach for predicting gene–disease associations,2016.0,39.0
+Evaluating the molecule-based prediction of clinical drug responses in cancer,2016.0,47.0
+pong: fast analysis and visualization of latent clusters in population genetic data,2016.0,57.0
+compendiumdb: an R package for retrieval and storage of functional genomics data,2016.0,4.0
+CAGEd-oPOSSUM: motif enrichment analysis from CAGE-derived TSSs,2016.0,8.0
+TaggerOne: joint named entity recognition and normalization with semi-Markov Models,2016.0,169.0
+KCMBT: a k-mer Counter based on Multiple Burst Trees,2016.0,
+Revealing aperiodic aspects of solenoid proteins from sequence information,2016.0,3.0
+HDTD: analyzing multi-tissue gene expression data,2016.0,6.0
+MIA: non-targeted mass isotopolome analysis,2016.0,20.0
+MetalPredator: a web server to predict iron–sulfur cluster binding proteomes,2016.0,20.0
+R.JIVE for exploration of multi-source molecular data,2016.0,35.0
+MetaFast: fast reference-free graph-based comparison of shotgun metagenomic data,2016.0,42.0
+Group-combined P-values with applications to genetic association studies,2016.0,8.0
+DBSI server: DNA binding site identifier,2016.0,6.0
+"UniCon3D: de novo protein structure prediction using united-residue conformational search via stepwise, probabilistic sampling",2016.0,25.0
+SETH detects and normalizes genetic variants in text,2016.0,28.0
+RANKS: a flexible tool for node label ranking and classification in biological networks,2016.0,32.0
+Benchmarking the next generation of homology inference tools,2016.0,9.0
+methylFlow: cell-specific methylation pattern reconstruction from high-throughput bisulfite-converted DNA sequencing,2016.0,7.0
+Message from the ISCB: 2016 ISCB Accomplishment by a Senior Scientist Award Given to Søren Brunak,2016.0,
+Message from the ISCB: 2016 Outstanding Contributions to ISCB Award: Burkhard Rost,2016.0,
+TarPmiR: a new approach for microRNA target site prediction,2016.0,72.0
+Differential rhythmicity: detecting altered rhythmicity in biological data,2016.0,38.0
+Complex heatmaps reveal patterns and correlations in multidimensional genomic data,2016.0,1324.0
+Weighted mutual information analysis substantially improves domain-based functional network models,2016.0,12.0
+"PERMANOVA-S: association test for microbial community composition that
+          accommodates confounders and multiple distances",2016.0,53.0
+PANTHER-PSEP: predicting disease-causing genetic variants using position-specific evolutionary preservation,2016.0,113.0
+Top-down analysis of protein samples by de novo sequencing techniques,2016.0,14.0
+A two-part mixed-effects model for analyzing longitudinal microbiome compositional data,2016.0,111.0
+seqlm: an MDL based method for identifying differentially methylated regions in high density methylation array data,2016.0,18.0
+PRESS: PRotEin S-Sulfenylation server,2016.0,
+SoFIA: a data integration framework for annotating high-throughput datasets,2016.0,9.0
+A simple yet accurate correction for winner's curse can predict signals discovered in much larger genome scans,2016.0,19.0
+SA-SSR: a suffix array-based algorithm for exhaustive and efficient SSR discovery in large genetic sequences,2016.0,9.0
+SimLoRD: Simulation of Long Read Data,2016.0,
+Computational discovery and in vivo validation of hnf4 as a regulatory gene in planarian regeneration,2016.0,13.0
+A computational model to predict the immune system activation by citrus-derived vaccine adjuvants,2016.0,23.0
+Evaluation of hybrid and non-hybrid methods for de novo assembly of nanopore reads,2016.0,44.0
+RCP: a novel probe design bias correction method for Illumina Methylation BeadChip,2016.0,39.0
+DOGMA: domain-based transcriptome and proteome quality assessment,2016.0,22.0
+"MEANS: python package for Moment Expansion Approximation, iNference and Simulation",2016.0,15.0
+Drug repositioning based on comprehensive similarity measures and Bi-Random walk algorithm,2016.0,152.0
+DyNet: visualization and analysis of dynamic molecular interaction networks,2016.0,76.0
+OrfM: a fast open reading frame predictor for metagenomic data,2016.0,13.0
+BAM-matcher: a tool for rapid NGS sample matching,2016.0,20.0
+FastHiC: a fast and accurate algorithm to detect long-range chromosomal interactions from Hi-C data,2016.0,23.0
+ASAFE: ancestry-specific allele frequency estimation,2016.0,12.0
+APPAGATO: an APproximate PArallel and stochastic GrAph querying TOol for biological networks,2016.0,10.0
+"XLinkDB 2.0: integrated, large-scale structural analysis of protein crosslinking data",2016.0,29.0
+Informed kmer selection for de novo transcriptome assembly,2016.0,
+Combenefit: an interactive platform for the analysis and visualization of drug combinations,2016.0,193.0
+densityCut: an efficient and versatile topological approach for automatic clustering of biological data,2016.0,19.0
+ARACNe-AP: gene network reverse engineering through adaptive partitioning inference of mutual information,2016.0,114.0
+rnaQUAST: a quality assessment tool for de novo transcriptome assemblies,2016.0,60.0
+Incorporating organelle correlations into semi-supervised learning for protein subcellular localization prediction,2016.0,18.0
+Estimating IBD tracts from low coverage NGS data,2016.0,22.0
+CaFE: a tool for binding affinity prediction using end-point free energy methods,2016.0,18.0
+Pasha: a versatile R package for piling chromatin HTS data,2016.0,10.0
+Partitioning and correlating subgroup characteristics from Aligned Pattern Clusters,2016.0,9.0
+Rail-dbGaP: analyzing dbGaP-protected data in the cloud with Amazon Elastic MapReduce,2016.0,7.0
+ProbFold: a probabilistic method for integration of probing data in RNA secondary structure prediction,2016.0,6.0
+Identifying cell-specific microRNA transcriptional start sites,2016.0,14.0
+"Romulus: robust multi-state identification 
+of transcription factor binding sites from 
+DNase-seq data",2016.0,15.0
+OxyBS: estimation of 5-methylcytosine and 5-hydroxymethylcytosine from tandem-treated oxidative bisulfite and bisulfite DNA,2016.0,21.0
+SCell: integrated analysis of single-cell RNA-seq data,2016.0,37.0
+Mollack: a web server for the automated creation of conformational ensembles for intrinsically disordered proteins,2016.0,2.0
+e23D: database and visualization of A-to-I RNA editing sites mapped to 3D protein structures,2016.0,3.0
+gkmSVM: an R package for gapped-kmer SVM,2016.0,
+TreeQTL: hierarchical error control for eQTL findings,2016.0,30.0
+OREMPRO web server: orientation and assessment of atomistic and coarse-grained structures of membrane proteins,2016.0,9.0
+MEMO: multi-experiment mixture model analysis of censored data,2016.0,5.0
+Sparse group factor analysis for biclustering of multiple data sources,2016.0,35.0
+Beta-Poisson model for single-cell RNA-seq data analyses,2016.0,76.0
+Shape complementarity and hydrogen bond preferences in protein–protein interfaces: implications for antibody modeling and protein–protein docking,2016.0,38.0
+hotspot: software to support sperm-typing for investigating recombination hotspots,2016.0,1.0
+Muxstep: an open-source C ++ multiplex HMM library for making inferences on multiple data types,2016.0,1.0
+MINTbase: a framework for the interactive exploration of mitochondrial and nuclear tRNA fragments,2016.0,49.0
+TOPDOM: database of conservatively located domains and motifs in proteins,2016.0,2.0
+PREDAC-H3: a user-friendly platform for antigenic surveillance of human influenza a(H3N2) virus based on hemagglutinin sequences,2016.0,5.0
+R2C: improving ab initio residue contact map prediction using dynamic fusion strategy and Gaussian noise filter,2016.0,26.0
+flowAI: automatic and interactive anomaly discerning tools for flow cytometry data,2016.0,40.0
+Quality control of single-cell RNA-seq by SinQC,2016.0,24.0
+ProtPOS: a python package for the prediction of protein preferred orientation on a surface,2016.0,3.0
+INPS-MD: a web server to predict stability of protein variants from sequence and structure,2016.0,59.0
+Tools4miRs – one place to gather all the tools for miRNA analysis,2016.0,37.0
+CHiCP: a web-based tool for the integrative and interactive visualization of promoter capture Hi-C datasets,2016.0,63.0
+iDHS-EL: identifying DNase I hypersensitive sites by fusing three different modes of pseudo nucleotide composition into an ensemble learning framework,2016.0,185.0
+Memdock: an α-helical membrane protein docking algorithm,2016.0,20.0
+methyLiftover: cross-platform DNA methylation data integration,2016.0,5.0
+"MOCAT2: a metagenomic assembly, annotation and profiling framework",2016.0,97.0
+Efficient identification and analysis of chemical exchange in biomolecules by R1ρ relaxation dispersion with Amaterasu,2016.0,6.0
+SBtab: a flexible table format for data exchange in systems biology,2016.0,27.0
+gEVAL — a web-based browser for evaluating genome assemblies,2016.0,15.0
+ProtAnnot: an App for Integrated Genome Browser to display how alternative splicing and transcription affect proteins,2016.0,10.0
+mDCC_tools: characterizing multi-modal atomic motions in molecular dynamics trajectories,2016.0,2.0
+MGEScan: a Galaxy-based system for identifying retrotransposons in genomes,2016.0,14.0
+Cell-free DNA fragment-size distribution analysis for non-invasive prenatal CNV prediction,2016.0,7.0
+ProbOnto: ontology and knowledge base of probability distributions,2016.0,17.0
+"2dSpAn: semiautomated 2-d segmentation, classification and analysis of hippocampal dendritic spine plasticity",2016.0,25.0
+GenomeRunner web server: regulatory similarity and differences define the functional impact of SNP sets,2016.0,19.0
+Drug-induced adverse events prediction with the LINCS L1000 data,2016.0,92.0
+pileup.js: a JavaScript library for interactive and in-browser visualization of genomic data,2016.0,20.0
+HLaffy: estimating peptide affinities for Class-1 HLA molecules by learning position-specific pair potentials,2016.0,9.0
+"SNPhood: investigate, quantify and visualise the epigenomic neighbourhood of SNPs using NGS data",2016.0,3.0
+"NSimScan: DNA comparison tool with increased speed, sensitivity and accuracy",2016.0,9.0
+Genome-scale prediction of moonlighting proteins using diverse protein association information,2016.0,21.0
+CellMiner Companion: an interactive web application to explore CellMiner NCI-60 data,2016.0,10.0
+Deep models for brain EM image segmentation: novel insights and improved performance,2016.0,43.0
+DUDes: a top-down taxonomic profiler for metagenomics,2016.0,31.0
+FREGAT: an R package for region-based association analysis,2016.0,11.0
+PinSnps: structural and functional analysis of SNPs in the context of protein interaction networks,2016.0,18.0
+Quantitative phosphoproteomics-based molecular network description for high-resolution kinase-substrate interactome analysis,2016.0,17.0
+HilbertCurve: an R/Bioconductor package for high-resolution visualization of genomic data,2016.0,14.0
+"BLESS 2: accurate, memory-efficient and fast error correction method",2016.0,23.0
+Canvas: versatile and scalable detection of copy number variants,2016.0,70.0
+DisGeNET-RDF: harnessing the innovative power of the Semantic Web to explore the genetic basis of diseases,2016.0,51.0
+Haplotype synthesis analysis reveals functional variants underlying known genome-wide associated susceptibility loci,2016.0,2.0
+XIBD: software for inferring pairwise identity by descent on the X chromosome,2016.0,11.0
+MOLGENIS/connect: a system for semi-automatic integration of heterogeneous phenotype data with applications in biobanks,2016.0,12.0
+jSplice: a high-performance method for accurate prediction of alternative splicing events and its application to large-scale renal cancer transcriptome data,2016.0,9.0
+Characterizing gene sets using discriminative random walks with restart on heterogeneous biological networks,2016.0,35.0
+Detecting critical state before phase transition of complex biological systems by hidden Markov model,2016.0,34.0
+Ferret: a user-friendly Java tool to extract data from the 1000 Genomes Project,2016.0,
+chopBAI: BAM index reduction solves I/O bottlenecks in the joint analysis of large sequencing cohorts,2016.0,
+Inferring gene targets of drugs and chemical compounds from gene expression profiles,2016.0,14.0
+SharpViSu: integrated analysis and segmentation of super-resolution microscopy data,2016.0,19.0
+Integrated genome browser: visual analytics platform for genomics,2016.0,182.0
+EBglmnet: a comprehensive R package for sparse generalized linear regression models,2016.0,7.0
+MeCorS: Metagenome-enabled error correction of single cell sequencing reads,2016.0,7.0
+Dr.seq: a quality control and analysis pipeline for droplet sequencing,2016.0,2.0
+TreeDom: a graphical web tool for analysing domain architecture evolution,2016.0,3.0
+ARGs-OAP: online analysis pipeline for antibiotic resistance genes detection from metagenomic data using an integrated structured ARG-database,2016.0,122.0
+FRODOCK 2.0: fast protein–protein docking server,2016.0,55.0
+ll-ACHRB: a scalable algorithm for sampling the feasible solution space of metabolic networks,2016.0,27.0
+PinaColada: peptide–inhibitor ant colony ad-hoc design algorithm,2016.0,16.0
+D3M: detection of differential distributions of methylation levels,2016.0,3.0
+On genomic repeats and reproducibility,2016.0,
+GSP: a web-based platform for designing genome-specific primers in polyploids,2016.0,19.0
+chromPlot: visualization of genomic data in chromosomal context,2016.0,18.0
+Rapid genotype refinement for whole-genome sequencing data using multi-variate normal distributions,2016.0,3.0
+cit: hypothesis testing software for mediation analysis in genomic applications,2016.0,11.0
+"Analysis of CFSE time-series data using division-, age- and label-structured population models",2016.0,32.0
+Goldilocks: a tool for identifying genomic regions that are ‘just right’,2016.0,2.0
+Tally: a scoring tool for boundary determination between repetitive and non-repetitive protein sequences,2016.0,2.0
+Assessing statistical significance in multivariable genome wide association analysis,2016.0,29.0
+The spatiotemporal order of signaling events unveils the logic of development signaling,2016.0,1.0
+Pathway analysis by randomization incorporating structure—PARIS: an update,2016.0,7.0
+Visual Omics Explorer (VOE): a cross-platform portal for interactive data visualization,2016.0,11.0
+ORFanFinder: automated identification of taxonomically restricted orphan genes,2016.0,10.0
+"UniProt-DAAC: domain architecture alignment and classification, a new method for automatic functional annotation in UniProtKB",2016.0,19.0
+repgenHMM: a dynamic programming tool to infer the rules of immune receptor generation from sequence data,2016.0,32.0
+"Branch: an interactive, web-based tool for testing hypotheses and developing predictive models",2016.0,3.0
+Simulated single molecule microscopy with SMeagol,2016.0,
+MetaKTSP: a meta-analytic top scoring pair method for robust cross-study validation of omics prediction analysis,2016.0,20.0
+IsomiR Bank: a research resource for tracking IsomiRs,2016.0,36.0
+AlgoRun: a Docker-based packaging system for platform-agnostic implemented algorithms,2016.0,33.0
+Efficient privacy-preserving string search and an application in genomics,2016.0,50.0
+Assembly scaffolding with PE-contaminated mate-pair libraries,2016.0,28.0
+SASpy: a PyMOL plugin for manipulation and refinement of hybrid models against small angle X-ray scattering data,2016.0,22.0
+Direct calculation of minimal cut sets involving a specific reaction knock-out,2016.0,13.0
+Detection and removal of spatial bias in multiwell assays,2016.0,11.0
+Phasing for medical sequencing using rare variants and large haplotype reference panels,2016.0,19.0
+NMRPro: an integrated web component for interactive processing and visualization of NMR spectra,2016.0,7.0
+PhamDB: a web-based application for building Phamerator databases,2016.0,7.0
+A simple method to control over-alignment in the MAFFT multiple sequence alignment program,2016.0,231.0
+FRED 2: an immunoinformatics framework for Python,2016.0,
+ecceTERA: comprehensive gene tree-species tree reconciliation using parsimony,2016.0,58.0
+An algorithm for designing minimal microbial communities with desired metabolic capacities,2016.0,27.0
+VariantBam: filtering and profiling of next-generational sequencing data using region-specific rules,2016.0,12.0
+Alpha-CENTAURI: assessing novel centromeric repeat sequence variation with long read sequencing,2016.0,28.0
+Cas-Database: web-based genome-wide guide RNA library design for gene knockout screens using CRISPR-Cas9,2016.0,29.0
+BRAT-nova: fast and accurate mapping of bisulfite-treated reads,2016.0,14.0
+MuCor: mutation aggregation and correlation,2016.0,
+OpenSegSPIM: a user-friendly segmentation tool for SPIM data,2016.0,4.0
+Transcript structure and domain display: a customizable transcript visualization tool,2016.0,1.0
+Reaction Decoder Tool (RDT): extracting features from chemical reactions,2016.0,45.0
+metaCCA: summary statistics-based multivariate meta-analysis of genome-wide association studies using canonical correlation analysis,2016.0,
+A web application for sample size and power calculation in case-control microbiome studies,2016.0,27.0
+PON-Sol: prediction of effects of amino acid substitutions on protein solubility,2016.0,24.0
+Coala: an R framework for coalescent simulation,2016.0,
+RIPPER: a framework for MS1 only metabolomics and proteomics label-free relative quantification,2016.0,13.0
+Multilevel biological characterization of exomic variants at the protein level significantly improves the identification of their deleterious effects,2016.0,18.0
+FRAGSION: ultra-fast protein fragment library generation by IOHMM sampling,2016.0,7.0
+Beyond accuracy: creating interoperable and scalable text-mining web services,2016.0,33.0
+EPS: an empirical Bayes approach to integrating pleiotropy and tissue-specific information for prioritizing risk genes,2016.0,15.0
+A quantitative model for oxygen uptake and release in a family of hemeproteins,2016.0,12.0
+Isoform-level ribosome occupancy estimation guided by transcript abundance with Ribomap,2016.0,27.0
+dbDSM: a manually curated database for deleterious synonymous mutations,2016.0,19.0
+Computationally expanding infinium HumanMethylation450 BeadChip array data to reveal distinct DNA methylation patterns of rheumatoid arthritis,2016.0,23.0
+RVTESTS: an efficient and comprehensive tool for rare variant association analysis using sequence data,2016.0,191.0
+Multiple structure single parameter: analysis of a single protein nano environment descriptor characterizing a shared loci on structurally aligned proteins,2016.0,
+KiT: a MATLAB package for kinetochore tracking,2016.0,
+solarius: an R interface to SOLAR for variance component analysis in pedigrees,2016.0,15.0
+BALL-SNPgp—from genetic variants toward computational diagnostics,2016.0,
+Privacy-preserving microbiome analysis using secure computation,2016.0,13.0
+Trinculo: Bayesian and frequentist multinomial logistic regression for genome-wide association studies of multi-category phenotypes,2016.0,21.0
+"SplAdder: identification, quantification and testing of alternative splicing events from RNA-Seq data",2016.0,63.0
+Selecting a classification function for class prediction with gene expression data,2016.0,10.0
+An empirical Bayes change-point model for identifying 3′ and 5′ alternative splicing by next-generation RNA sequencing,2016.0,10.0
+An efficient gene–gene interaction test for genome-wide association studies in trio families,2016.0,10.0
+Predicting physiologically relevant SH3 domain mediated protein–protein interactions in yeast,2016.0,6.0
+MOCCASIN: converting MATLAB ODE models to SBML,2016.0,8.0
+TRONCO: an R package for the inference of cancer progression models from heterogeneous genomic data,2016.0,25.0
+A zero-inflated Poisson model for insertion tolerance analysis of genes based on Tn-seq data,2016.0,12.0
+Optimization of alignment-based methods for taxonomic binning of metagenomics reads,2016.0,2.0
+The geospatial data quality REST API for primary biodiversity data,2016.0,12.0
+Integrative analysis for identifying joint modular patterns of gene-expression and drug-response data,2016.0,48.0
+GiANT: gene set uncertainty in enrichment analysis,2016.0,4.0
+Model-based media selection to minimize the cost of metabolic cooperation in microbial ecosystems,2016.0,8.0
+Sprites: detection of deletions from sequencing data by re-aligning split reads,2016.0,16.0
+FastLSU: a more practical approach for the Benjamini–Hochberg FDR controlling procedure for huge-scale testing problems,2016.0,15.0
+Library of binding protein scaffolds (LibBP): a computational platform for selection of binding protein scaffolds,2016.0,
+BCFtools/RoH: a hidden Markov model approach for detecting autozygosity from next-generation sequencing data,2016.0,229.0
+ASDB: a resource for probing protein functions with small molecules,2016.0,6.0
+Unipept web services for metaproteomics analysis,2016.0,
+BioCircos.js: an interactive Circos JavaScript library for biological data visualization on web applications,2016.0,53.0
+"FILTUS: a desktop GUI for fast and efficient detection of disease-causing variants, including a novel autozygosity detector",2016.0,37.0
+Galaxy Portal: interacting with the galaxy platform through mobile devices,2016.0,4.0
+Differential methylation analysis for BS-seq data under general experimental design,2016.0,131.0
+"BISQUE: locus- and variant-specific conversion of genomic, transcriptomic and proteomic database identifiers",2016.0,2.0
+DesignSignatures: a tool for designing primers that yields amplicons with distinct signatures,2016.0,6.0
+Computational approaches to define a human milk metaglycome,2016.0,6.0
+Alloscore: a method for predicting allosteric ligand–protein interactions,2016.0,20.0
+ParDRe: faster parallel duplicated reads removal tool for sequencing studies,2016.0,27.0
+FamAgg: an R package to evaluate familial aggregation of traits in large pedigrees,2016.0,7.0
+Quantitative trait association study for mean telomere length in the South Asian genomes,2016.0,7.0
+lodGWAS: a software package for genome-wide association analysis of biomarkers with a limit of detection,2016.0,5.0
+PAA: an R/bioconductor package for biomarker discovery with protein microarrays,2016.0,12.0
+ConceptMetab: exploring relationships among metabolite sets to identify links among biomedical concepts,2016.0,8.0
+MS-REDUCE: an ultrafast technique for reduction of big mass spectrometry data for high-throughput processing,2016.0,16.0
+TFBSTools: an R/bioconductor package for transcription factor binding site analysis,2016.0,127.0
+Structured sparse canonical correlation analysis for brain imaging genetics: an improved GraphNet method,2016.0,52.0
+Vasohibins: new transglutaminase-like cysteine proteases possessing a non-canonical Cys-His-Ser catalytic triad,2016.0,25.0
+Multi-task consensus clustering of genome-wide transcriptomes from related biological conditions,2016.0,6.0
+Inclusion of dyad-repeat pattern improves topology prediction of transmembrane β-barrel proteins,2016.0,45.0
+ELASPIC web-server: proteome-wide structure-based prediction of mutation effects on protein stability and binding affinity,2016.0,33.0
+The TraDIS toolkit: sequencing and analysis for dense transposon mutant libraries,2016.0,79.0
+Piecewise parameter estimation for stochastic models in COPASI,2016.0,6.0
+lnCaNet: pan-cancer co-expression network for human lncRNA and cancer genes,2016.0,38.0
+MultiGeMS: detection of SNVs from multiple samples using model selection on high-throughput sequencing data,2016.0,4.0
+Sampletrees and Rsampletrees: sampling gene genealogies conditional on SNP genotype data,2016.0,3.0
+Multi-omics enrichment analysis using the GeneTrail2 web service,2016.0,104.0
+Protein backbone ensemble generation explores the local structural space of unseen natural homologs,2016.0,4.0
+Orthogonal matrix factorization enables integrative analysis of multiple RNA binding proteins,2016.0,72.0
+EPI-peptide designer: a tool for designing peptide ligand libraries based on epitope–paratope interactions,2016.0,11.0
+GeneValidator: identify problems with protein-coding gene predictions,2016.0,18.0
+FINEMAP: efficient variable selection using summary data from genome-wide association studies,2016.0,259.0
+Realizing privacy preserving genome-wide association studies,2016.0,51.0
+"SIRAH tools: mapping, backmapping and visualization of coarse-grained models",2016.0,55.0
+Computational discovery of pathway-level genetic vulnerabilities in non-small-cell lung cancer,2016.0,8.0
+Integration of string and de Bruijn graphs for genome assembly,2016.0,12.0
+MTG2: an efficient algorithm for multivariate linear mixed model analysis based on genomic information,2016.0,89.0
+Collaborative analysis of multi-gigapixel imaging data using Cytomine,2016.0,84.0
+EpimiRBase: a comprehensive database of microRNA-epilepsy associations,2016.0,27.0
+OEFinder: a user interface to identify and visualize ordering effects in single-cell RNA-seq data,2016.0,15.0
+Estimating the number and assignment of clock models in analyses of multigene datasets,2016.0,5.0
+SV-Bay: structural variant detection in cancer genomes using a Bayesian approach with correction for GC-content and read mappability,2016.0,30.0
+MMseqs software suite for fast and deep clustering and searching of large protein sequence sets,2016.0,39.0
+Modelling-based experiment retrieval: a case study with gene expression clustering,2016.0,6.0
+Bayesian variable selection for binary outcomes in high-dimensional genomic studies using non-local priors,2016.0,27.0
+PINCAGE: probabilistic integration of cancer genomics data for perturbed gene identification and sample classification,2016.0,7.0
+UCSC Data Integrator and Variant Annotation Integrator,2016.0,40.0
+MAESTROweb: a web server for structure-based protein stability prediction,2016.0,46.0
+Path2PPI: an R package to predict protein–protein interaction networks for a set of proteins,2016.0,9.0
+ProQ2: estimation of model accuracy implemented in Rosetta,2016.0,44.0
+Prediction of missing sequences and branch lengths in phylogenomic data,2016.0,14.0
+VIRALpro: a tool to identify viral capsid and tail sequences,2016.0,10.0
+Accurate mapping of tRNA reads,2016.0,793.0
+Identifying simultaneous rearrangements in cancer genomes,2016.0,
+Domain prediction with probabilistic directional context,2016.0,7.0
+Succinct colored de Bruijn graphs,2016.0,
+The JWS online simulation database,2016.0,2.0
+GWAR: robust analysis and meta-analysis of genome-wide association studies,2016.0,1.0
+Bayesian network–response regression,2016.0,59.0
+Ancestral sequence reconstruction: accounting for structural information by averaging over replacement matrices,2016.0,27.0
+Practical dynamic de Bruijn graphs,2016.0,22.0
+Locality-sensitive hashing for the edit distance,2016.0,24.0
+Positive multistate protein design,2016.0,21.0
+TPES: tumor purity estimation from SNVs,2016.0,29.0
+VINYL: Variant prIoritizatioN by survivaL analysis,2016.0,4.0
+The COVID-19 Ontology,2016.0,14.0
+A Bayesian linear mixed model for prediction of complex traits,2016.0,59.0
+A framework for modeling epistatic interaction,2016.0,20.0
+Succinct Dynamic de Bruijn Graphs,2016.0,22.0
+Sequoya: multiobjective multiple sequence alignment in Python,2016.0,323.0
