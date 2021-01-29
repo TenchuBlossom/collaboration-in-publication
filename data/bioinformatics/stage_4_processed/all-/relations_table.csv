@@ -496,11 +496,6 @@ gabriel renaud,gargammel: a sequence simulator for ancient DNA,2016.0,
 kristian hanghøj,gargammel: a sequence simulator for ancient DNA,2016.0,
 eske willerslev,gargammel: a sequence simulator for ancient DNA,2016.0,
 ludovic orlando,gargammel: a sequence simulator for ancient DNA,2016.0,
-riccardo panero,iSmaRT: a toolkit for a comprehensive analysis of small RNA-Seq data,2014.0,35.0
-antonio rinaldi,iSmaRT: a toolkit for a comprehensive analysis of small RNA-Seq data,2014.0,35.0
-domenico memoli,iSmaRT: a toolkit for a comprehensive analysis of small RNA-Seq data,2014.0,35.0
-giovanni nassa,iSmaRT: a toolkit for a comprehensive analysis of small RNA-Seq data,2014.0,35.0
-maria ravo,iSmaRT: a toolkit for a comprehensive analysis of small RNA-Seq data,2014.0,35.0
 ankeeta shah,CLIP Tool Kit (CTK): a flexible and robust pipeline to analyze CLIP sequencing data,2017.0,64.0
 yingzhi qian,CLIP Tool Kit (CTK): a flexible and robust pipeline to analyze CLIP sequencing data,2017.0,64.0
 sebastien m weynvanhentenryck,CLIP Tool Kit (CTK): a flexible and robust pipeline to analyze CLIP sequencing data,2017.0,64.0
@@ -614,11 +609,6 @@ daniela gerovska,P3BSseq: parallel processing pipeline software for automatic an
 mikel arrospideelgarresta,P3BSseq: parallel processing pipeline software for automatic analysis of bisulfite sequencing data,2017.0,13.0
 sugoi retegicarrión,P3BSseq: parallel processing pipeline software for automatic analysis of bisulfite sequencing data,2017.0,13.0
 hans r schöler,P3BSseq: parallel processing pipeline software for automatic analysis of bisulfite sequencing data,2017.0,13.0
-stefan canzar,BASIC: BCR assembly from single cells,2014.0,
-karlynn e neu,BASIC: BCR assembly from single cells,2014.0,
-qingming tang,BASIC: BCR assembly from single cells,2014.0,
-patrick c wilson,BASIC: BCR assembly from single cells,2014.0,
-aly a khan,BASIC: BCR assembly from single cells,2014.0,
 iakov i davydov,State aggregation for fast likelihood computations in molecular evolution,2017.0,5.0
 marc robinsonrechavi,State aggregation for fast likelihood computations in molecular evolution,2017.0,5.0
 nicolas salamin,State aggregation for fast likelihood computations in molecular evolution,2017.0,5.0
@@ -629,9 +619,6 @@ hongyan lai,Pro54DB: a database for experimentally verified sigma-54 promoters,2
 huan yang,Pro54DB: a database for experimentally verified sigma-54 promoters,2017.0,84.0
 changjian zhang,Pro54DB: a database for experimentally verified sigma-54 promoters,2017.0,84.0
 hui yang,Pro54DB: a database for experimentally verified sigma-54 promoters,2017.0,84.0
-christopher barrett,Sequence–structure relations of biopolymers,1975.0,70.0
-fenix w huang,Sequence–structure relations of biopolymers,1975.0,70.0
-christian m reidys,Sequence–structure relations of biopolymers,1975.0,70.0
 sufang wang,Comprehensive evaluation of de novo transcriptome assembly programs and their effects on differential gene expression analysis,2017.0,55.0
 michael gribskov,Comprehensive evaluation of de novo transcriptome assembly programs and their effects on differential gene expression analysis,2017.0,55.0
 monther alhamdoosh,Combining multiple tools outperforms individual methods in gene set enrichment analyses,2017.0,80.0
@@ -887,9 +874,6 @@ matthijs van leeuwen,Simultaneous discovery of cancer subtypes and subtype featu
 ana carolina fierro,Simultaneous discovery of cancer subtypes and subtype features by molecular data integration,2016.0,26.0
 dries de maeyer,Simultaneous discovery of cancer subtypes and subtype features by molecular data integration,2016.0,26.0
 jimmy van den eynden,Simultaneous discovery of cancer subtypes and subtype features by molecular data integration,2016.0,26.0
-sunjoo bang,Causality modeling for directed disease network,2011.0,312.0
-jaehoon kim,Causality modeling for directed disease network,2011.0,312.0
-hyunjung shin,Causality modeling for directed disease network,2011.0,312.0
 tv pham,Simulated linear test applied to quantitative proteomics,2016.0,1.0
 cr jimenez,Simulated linear test applied to quantitative proteomics,2016.0,1.0
 thach nguyen,A probabilistic model for detecting rigid domains in protein structures,2016.0,4.0
@@ -1050,9 +1034,6 @@ ariya shajii,Fast genotyping of known SNPs through approximate k-mer matching,20
 deniz yorukoglu,Fast genotyping of known SNPs through approximate k-mer matching,2016.0,
 yun william yu,Fast genotyping of known SNPs through approximate k-mer matching,2016.0,
 bonnie berger,Fast genotyping of known SNPs through approximate k-mer matching,2016.0,
-bernhard steiert,L1 regularization facilitates detection of cell type-specific parameters in dynamical systems,2012.0,
-jens timmer,L1 regularization facilitates detection of cell type-specific parameters in dynamical systems,2012.0,
-clemens kreutz,L1 regularization facilitates detection of cell type-specific parameters in dynamical systems,2012.0,
 mark dm leiserson,A weighted exact test for mutually exclusive mutations in cancer,2016.0,36.0
 matthew a reyna,A weighted exact test for mutually exclusive mutations in cancer,2016.0,36.0
 benjamin j raphael,A weighted exact test for mutually exclusive mutations in cancer,2016.0,36.0
@@ -1159,9 +1140,6 @@ evgeny anisiforov,ReadXplorer 2—detailed read mapping analysis and visualizati
 sebastian jaenicke,ReadXplorer 2—detailed read mapping analysis and visualization from one single source,2016.0,50.0
 rachid ounit,Higher classification sensitivity of short metagenomic reads with CLARK-S,2016.0,69.0
 stefano lonardi,Higher classification sensitivity of short metagenomic reads with CLARK-S,2016.0,69.0
-rodrigo cánovas,CSAM: Compressed SAM format,2010.0,3.0
-alistair moffat,CSAM: Compressed SAM format,2010.0,3.0
-andrew turpin,CSAM: Compressed SAM format,2010.0,3.0
 jack p hou,A new correlation clustering method for cancer mutation analysis,2016.0,26.0
 amin emad,A new correlation clustering method for cancer mutation analysis,2016.0,26.0
 gregory j puleo,A new correlation clustering method for cancer mutation analysis,2016.0,26.0
@@ -1316,11 +1294,6 @@ wonho shin,HiPub: translating PubMed and PMC texts to networks for knowledge dis
 byounggun kim,HiPub: translating PubMed and PMC texts to networks for knowledge discovery,2016.0,18.0
 sunwon lee,HiPub: translating PubMed and PMC texts to networks for knowledge discovery,2016.0,18.0
 yonghwa choi,HiPub: translating PubMed and PMC texts to networks for knowledge discovery,2016.0,18.0
-sayoni das,Functional classification of CATH superfamilies: a domain-based approach for protein function annotation,2015.0,70.0
-david lee,Functional classification of CATH superfamilies: a domain-based approach for protein function annotation,2015.0,70.0
-ian sillitoe,Functional classification of CATH superfamilies: a domain-based approach for protein function annotation,2015.0,70.0
-natalie l dawson,Functional classification of CATH superfamilies: a domain-based approach for protein function annotation,2015.0,70.0
-jonathan g lees,Functional classification of CATH superfamilies: a domain-based approach for protein function annotation,2015.0,70.0
 shu tadaka,NCMine: Core-peripheral based functional module detection using near-clique mining,2016.0,14.0
 kengo kinoshita,NCMine: Core-peripheral based functional module detection using near-clique mining,2016.0,14.0
 jian fang,Joint sparse canonical correlation analysis for detecting differential imaging genetics modules,2016.0,43.0
@@ -1527,8 +1500,6 @@ kai wang,w4CSeq: software and web application to analyze 4C-seq data,2016.0,11.0
 kazunori d yamada,Application of the MAFFT sequence alignment program to large data—reexamination of the usefulness of chained guide trees,2016.0,164.0
 kentaro tomii,Application of the MAFFT sequence alignment program to large data—reexamination of the usefulness of chained guide trees,2016.0,164.0
 kazutaka katoh,Application of the MAFFT sequence alignment program to large data—reexamination of the usefulness of chained guide trees,2016.0,164.0
-marta rosikiewicz,"IQRray, a new method for Affymetrix microarray quality control, and the homologous organ conservation score, a new benchmark method for quality control metrics",2014.0,11.0
-marc robinsonrechavi,"IQRray, a new method for Affymetrix microarray quality control, and the homologous organ conservation score, a new benchmark method for quality control metrics",2014.0,11.0
 li teng,4DGenome: a comprehensive database of chromatin interactions,2016.0,
 bing he,4DGenome: a comprehensive database of chromatin interactions,2016.0,
 jiahui wang,4DGenome: a comprehensive database of chromatin interactions,2016.0,
@@ -1690,9 +1661,6 @@ philip ewels,MultiQC: summarize analysis results for multiple tools and samples 
 måns magnusson,MultiQC: summarize analysis results for multiple tools and samples in a single report,2016.0,1150.0
 sverker lundin,MultiQC: summarize analysis results for multiple tools and samples in a single report,2016.0,1150.0
 max käller,MultiQC: summarize analysis results for multiple tools and samples in a single report,2016.0,1150.0
-y hulovatyy,Exploring the structure and function of temporal networks with dynamic graphlets,2015.0,77.0
-h chen,Exploring the structure and function of temporal networks with dynamic graphlets,2015.0,77.0
-t milenković,Exploring the structure and function of temporal networks with dynamic graphlets,2015.0,77.0
 francisco salavert,Web-based network analysis and visualization using CellMaps,2016.0,12.0
 luz garcíaalonso,Web-based network analysis and visualization using CellMaps,2016.0,12.0
 rubén sánchez,Web-based network analysis and visualization using CellMaps,2016.0,12.0
@@ -1921,19 +1889,9 @@ zhiyong lu,TaggerOne: joint named entity recognition and normalization with semi
 abdullahal mamun,KCMBT: a k-mer Counter based on Multiple Burst Trees,2016.0,
 soumitra pal,KCMBT: a k-mer Counter based on Multiple Burst Trees,2016.0,
 sanguthevar rajasekaran,KCMBT: a k-mer Counter based on Multiple Burst Trees,2016.0,
-james c schaff,Rule-based modeling with Virtual Cell,2011.0,1.0
-dan vasilescu,Rule-based modeling with Virtual Cell,2011.0,1.0
-ion i moraru,Rule-based modeling with Virtual Cell,2011.0,1.0
-leslie m loew,Rule-based modeling with Virtual Cell,2011.0,1.0
-michael l blinov,Rule-based modeling with Virtual Cell,2011.0,1.0
 thomas hrabe,Revealing aperiodic aspects of solenoid proteins from sequence information,2016.0,3.0
 lukasz jaroszewski,Revealing aperiodic aspects of solenoid proteins from sequence information,2016.0,3.0
 adam godzik,Revealing aperiodic aspects of solenoid proteins from sequence information,2016.0,3.0
-yuri t utsunomiya,GHap: an R package for genome-wide haplotyping,2015.0,
-marco milanesi,GHap: an R package for genome-wide haplotyping,2015.0,
-adam t h utsunomiya,GHap: an R package for genome-wide haplotyping,2015.0,
-paolo ajmonemarsan,GHap: an R package for genome-wide haplotyping,2015.0,
-josé f garcia,GHap: an R package for genome-wide haplotyping,2015.0,
 anestis touloumis,HDTD: analyzing multi-tissue gene expression data,2016.0,6.0
 john c marioni,HDTD: analyzing multi-tissue gene expression data,2016.0,6.0
 simon tavaré,HDTD: analyzing multi-tissue gene expression data,2016.0,6.0
@@ -1985,11 +1943,6 @@ yang young lu,"COCACOLA: binning metagenomic contigs using sequence COmposition,
 ting chen,"COCACOLA: binning metagenomic contigs using sequence COmposition, read CoverAge, CO-alignment and paired-end read LinkAge",2017.0,89.0
 jed a fuhrman,"COCACOLA: binning metagenomic contigs using sequence COmposition, read CoverAge, CO-alignment and paired-end read LinkAge",2017.0,89.0
 fengzhu sun,"COCACOLA: binning metagenomic contigs using sequence COmposition, read CoverAge, CO-alignment and paired-end read LinkAge",2017.0,89.0
-samy deghou,CART—a chemical annotation retrieval toolkit,2012.0,138.0
-georg zeller,CART—a chemical annotation retrieval toolkit,2012.0,138.0
-murat iskar,CART—a chemical annotation retrieval toolkit,2012.0,138.0
-marja driessen,CART—a chemical annotation retrieval toolkit,2012.0,138.0
-mercedes castillo,CART—a chemical annotation retrieval toolkit,2012.0,138.0
 giorgio valentini,RANKS: a flexible tool for node label ranking and classification in biological networks,2016.0,32.0
 giuliano armano,RANKS: a flexible tool for node label ranking and classification in biological networks,2016.0,32.0
 marco frasca,RANKS: a flexible tool for node label ranking and classification in biological networks,2016.0,32.0
@@ -2082,10 +2035,6 @@ quentin geissmann,"MEANS: python package for Moment Expansion Approximation, iNf
 eszter lakatos,"MEANS: python package for Moment Expansion Approximation, iNference and Simulation",2016.0,15.0
 saulius lukauskas,"MEANS: python package for Moment Expansion Approximation, iNference and Simulation",2016.0,15.0
 angelique ale,"MEANS: python package for Moment Expansion Approximation, iNference and Simulation",2016.0,15.0
-jie chen,Spectral identification of topological domains,2007.0,375.0
-alfred o hero,Spectral identification of topological domains,2007.0,375.0
-iii,Spectral identification of topological domains,2007.0,375.0
-indika rajapakse,Spectral identification of topological domains,2007.0,375.0
 huimin luo,Drug repositioning based on comprehensive similarity measures and Bi-Random walk algorithm,2016.0,152.0
 jianxin wang,Drug repositioning based on comprehensive similarity measures and Bi-Random walk algorithm,2016.0,152.0
 min li,Drug repositioning based on comprehensive similarity measures and Bi-Random walk algorithm,2016.0,152.0
@@ -2440,9 +2389,6 @@ xiao huo,Dr.seq: a quality control and analysis pipeline for droplet sequencing,
 sheng’en hu,Dr.seq: a quality control and analysis pipeline for droplet sequencing,2016.0,2.0
 chengchen zhao,Dr.seq: a quality control and analysis pipeline for droplet sequencing,2016.0,2.0
 yong zhang,Dr.seq: a quality control and analysis pipeline for droplet sequencing,2016.0,2.0
-sungchul kim,A mutation profile for top- k patient search exploiting Gene-Ontology and orthogonal non-negative matrix factorization,2015.0,19.0
-lee sael,A mutation profile for top- k patient search exploiting Gene-Ontology and orthogonal non-negative matrix factorization,2015.0,19.0
-hwanjo yu,A mutation profile for top- k patient search exploiting Gene-Ontology and orthogonal non-negative matrix factorization,2015.0,19.0
 christian haider,TreeDom: a graphical web tool for analysing domain architecture evolution,2016.0,3.0
 marina kavic,TreeDom: a graphical web tool for analysing domain architecture evolution,2016.0,3.0
 erik ll sonnhammer,TreeDom: a graphical web tool for analysing domain architecture evolution,2016.0,3.0
@@ -2495,11 +2441,6 @@ ernst fehr,Assessing statistical significance in multivariable genome wide assoc
 hao zhu,The spatiotemporal order of signaling events unveils the logic of development signaling,2016.0,1.0
 markus r owen,The spatiotemporal order of signaling events unveils the logic of development signaling,2016.0,1.0
 yanlan mao,The spatiotemporal order of signaling events unveils the logic of development signaling,2016.0,1.0
-paulo gaspar,EuGene: maximizing synthetic gene design for heterologous expression,2012.0,57.0
-josé luís oliveira,EuGene: maximizing synthetic gene design for heterologous expression,2012.0,57.0
-jörg frommlet,EuGene: maximizing synthetic gene design for heterologous expression,2012.0,57.0
-manuel as santos,EuGene: maximizing synthetic gene design for heterologous expression,2012.0,57.0
-gabriela moura,EuGene: maximizing synthetic gene design for heterologous expression,2012.0,57.0
 mariusz butkiewicz,Pathway analysis by randomization incorporating structure—PARIS: an update,2016.0,7.0
 jessica n cooke bailey,Pathway analysis by randomization incorporating structure—PARIS: an update,2016.0,7.0
 alex frase,Pathway analysis by randomization incorporating structure—PARIS: an update,2016.0,7.0
@@ -2569,11 +2510,6 @@ randall j dejong,PhamDB: a web-based application for building Phamerator databas
 serita m nelesen,PhamDB: a web-based application for building Phamerator databases,2016.0,7.0
 kazutaka katoh,A simple method to control over-alignment in the MAFFT multiple sequence alignment program,2016.0,231.0
 daron m standley,A simple method to control over-alignment in the MAFFT multiple sequence alignment program,2016.0,231.0
-chuming chen,Computational clustering for viral reference proteomes,2015.0,
-hongzhan huang,Computational clustering for viral reference proteomes,2015.0,
-raja mazumder,Computational clustering for viral reference proteomes,2015.0,
-darren a natale,Computational clustering for viral reference proteomes,2015.0,
-peter b mcgarvey,Computational clustering for viral reference proteomes,2015.0,
 benjamin schubert,FRED 2: an immunoinformatics framework for Python,2016.0,
 mathias walzer,FRED 2: an immunoinformatics framework for Python,2016.0,
 hansphilipp brachvogel,FRED 2: an immunoinformatics framework for Python,2016.0,
@@ -2672,9 +2608,6 @@ chengzhe li,Computationally expanding infinium HumanMethylation450 BeadChip arra
 rizi ai,Computationally expanding infinium HumanMethylation450 BeadChip array data to reveal distinct DNA methylation patterns of rheumatoid arthritis,2016.0,23.0
 mengchi wang,Computationally expanding infinium HumanMethylation450 BeadChip array data to reveal distinct DNA methylation patterns of rheumatoid arthritis,2016.0,23.0
 gary s firestein,Computationally expanding infinium HumanMethylation450 BeadChip array data to reveal distinct DNA methylation patterns of rheumatoid arthritis,2016.0,23.0
-guillermo h lopezcampos,Comment on ‘Discovering hospital admission patterns using models learnt from electronic hospital records’. The importance of using the right codes,2015.0,26.0
-fernando martinsanchez,Comment on ‘Discovering hospital admission patterns using models learnt from electronic hospital records’. The importance of using the right codes,2015.0,26.0
-kathleen gray,Comment on ‘Discovering hospital admission patterns using models learnt from electronic hospital records’. The importance of using the right codes,2015.0,26.0
 michael degiorgio,"S weep F inder 2: increased sensitivity, robustness and flexibility",2018.0,
 christian d huber,"S weep F inder 2: increased sensitivity, robustness and flexibility",2018.0,
 melissa j hubisz,"S weep F inder 2: increased sensitivity, robustness and flexibility",2018.0,
@@ -2709,11 +2642,6 @@ joseph n paulson,Privacy-preserving microbiome analysis using secure computation
 xiao wang,Privacy-preserving microbiome analysis using secure computation,2016.0,13.0
 bobby bhattacharjee,Privacy-preserving microbiome analysis using secure computation,2016.0,13.0
 héctor corrada bravo,Privacy-preserving microbiome analysis using secure computation,2016.0,13.0
-yifei chen,Gene expression inference with deep learning,2013.0,5.0
-yi li,Gene expression inference with deep learning,2013.0,5.0
-rajiv narayan,Gene expression inference with deep learning,2013.0,5.0
-aravind subramanian,Gene expression inference with deep learning,2013.0,5.0
-xiaohui xie,Gene expression inference with deep learning,2013.0,5.0
 luke jostins,Trinculo: Bayesian and frequentist multinomial logistic regression for genome-wide association studies of multi-category phenotypes,2016.0,21.0
 gilean mcvean,Trinculo: Bayesian and frequentist multinomial logistic regression for genome-wide association studies of multi-category phenotypes,2016.0,21.0
 andré kahles,"SplAdder: identification, quantification and testing of alternative splicing events from RNA-Seq data",2016.0,63.0
@@ -2732,8 +2660,6 @@ yawen yu,An efficient gene–gene interaction test for genome-wide association s
 renhua chung,An efficient gene–gene interaction test for genome-wide association studies in trio families,2016.0,10.0
 shobhit jain,Predicting physiologically relevant SH3 domain mediated protein–protein interactions in yeast,2016.0,6.0
 gary d bader,Predicting physiologically relevant SH3 domain mediated protein–protein interactions in yeast,2016.0,6.0
-monica chagoyen,Characterization of clinical signs in the human interactome,2012.0,
-florencio pazos,Characterization of clinical signs in the human interactome,2012.0,
 harold f gómez,MOCCASIN: converting MATLAB ODE models to SBML,2016.0,8.0
 michael hucka,MOCCASIN: converting MATLAB ODE models to SBML,2016.0,8.0
 sarah m keating,MOCCASIN: converting MATLAB ODE models to SBML,2016.0,8.0
@@ -2744,8 +2670,6 @@ giulio caravagna,TRONCO: an R package for the inference of cancer progression mo
 daniele ramazzotti,TRONCO: an R package for the inference of cancer progression models from heterogeneous genomic data,2016.0,25.0
 alex graudenzi,TRONCO: an R package for the inference of cancer progression models from heterogeneous genomic data,2016.0,25.0
 giancarlo mauri,TRONCO: an R package for the inference of cancer progression models from heterogeneous genomic data,2016.0,25.0
-yingying wei,Measuring the spatial correlations of protein binding sites,1987.0,15.0
-hao wu,Measuring the spatial correlations of protein binding sites,1987.0,15.0
 fangfang liu,A zero-inflated Poisson model for insertion tolerance analysis of genes based on Tn-seq data,2016.0,12.0
 chong wang,A zero-inflated Poisson model for insertion tolerance analysis of genes based on Tn-seq data,2016.0,12.0
 zuowei wu,A zero-inflated Poisson model for insertion tolerance analysis of genes based on Tn-seq data,2016.0,12.0
@@ -3258,11 +3182,6 @@ michael p h stumpf,PEITH(Θ): perfecting experiments with information theory in 
 katherine j harrison,Gene Graphics: a genomic neighborhood data visualization web application,2018.0,21.0
 valérie de crécylagard,Gene Graphics: a genomic neighborhood data visualization web application,2018.0,21.0
 rémi zallot,Gene Graphics: a genomic neighborhood data visualization web application,2018.0,21.0
-frédéric escudié,"FROGS: Find, Rapidly, OTUs with Galaxy Solution",2010.0,2.0
-lucas auer,"FROGS: Find, Rapidly, OTUs with Galaxy Solution",2010.0,2.0
-maria bernard,"FROGS: Find, Rapidly, OTUs with Galaxy Solution",2010.0,2.0
-mahendra mariadassou,"FROGS: Find, Rapidly, OTUs with Galaxy Solution",2010.0,2.0
-laurent cauquil,"FROGS: Find, Rapidly, OTUs with Galaxy Solution",2010.0,2.0
 guangyuan fu,Matrix factorization-based data fusion for the prediction of lncRNA–disease associations,2018.0,63.0
 jun wang,Matrix factorization-based data fusion for the prediction of lncRNA–disease associations,2018.0,63.0
 carlotta domeniconi,Matrix factorization-based data fusion for the prediction of lncRNA–disease associations,2018.0,63.0
@@ -3442,9 +3361,6 @@ karthik ganesan,QVZ: lossy compression of quality values,2017.0,
 mohammadamin barekatain,Modeling positional effects of regulatory sequences with spline transformations increases prediction accuracy of deep neural networks,2018.0,18.0
 jun cheng,Modeling positional effects of regulatory sequences with spline transformations increases prediction accuracy of deep neural networks,2018.0,18.0
 julien gagneur,Modeling positional effects of regulatory sequences with spline transformations increases prediction accuracy of deep neural networks,2018.0,18.0
-claire marks,Predicting loop conformational ensembles,1994.0,16.0
-jiye shi,Predicting loop conformational ensembles,1994.0,16.0
-charlotte m deane,Predicting loop conformational ensembles,1994.0,16.0
 saulo h p de oliveira,"Sequential search leads to faster, more efficient fragment-based de novo protein structure prediction",2018.0,10.0
 eleanor c law,"Sequential search leads to faster, more efficient fragment-based de novo protein structure prediction",2018.0,10.0
 jiye shi,"Sequential search leads to faster, more efficient fragment-based de novo protein structure prediction",2018.0,10.0
@@ -3555,8 +3471,6 @@ antonio solanoromán,"Visualization portal for genetic variation (VizGVar): a to
 verónica alfaroarias,"Visualization portal for genetic variation (VizGVar): a tool for interactive visualization of SNPs and somatic mutations in exons, genes and protein domains",2018.0,3.0
 carlos cruzcastillo,"Visualization portal for genetic variation (VizGVar): a tool for interactive visualization of SNPs and somatic mutations in exons, genes and protein domains",2018.0,3.0
 allan orozcosolano,"Visualization portal for genetic variation (VizGVar): a tool for interactive visualization of SNPs and somatic mutations in exons, genes and protein domains",2018.0,3.0
-stilianos louca,Efficient comparative phylogenetics on large trees,2015.0,16.0
-michael doebeli,Efficient comparative phylogenetics on large trees,2015.0,16.0
 s deepaisarn,Quantifying biological samples using Linear Poisson Independent Component Analysis for MALDI-ToF mass spectra,2018.0,5.0
 p d tar,Quantifying biological samples using Linear Poisson Independent Component Analysis for MALDI-ToF mass spectra,2018.0,5.0
 n a thacker,Quantifying biological samples using Linear Poisson Independent Component Analysis for MALDI-ToF mass spectra,2018.0,5.0
@@ -3580,10 +3494,6 @@ artem t vasilyev,MetaCherchant: analyzing genomic context of antibiotic resistan
 vladimir i ulyantsev,MetaCherchant: analyzing genomic context of antibiotic resistance genes in gut microbiota,2018.0,17.0
 elena s kostryukova,MetaCherchant: analyzing genomic context of antibiotic resistance genes in gut microbiota,2018.0,17.0
 alexander v tyakht,MetaCherchant: analyzing genomic context of antibiotic resistance genes in gut microbiota,2018.0,17.0
-bethany signal,Machine learning annotation of human branchpoints,1974.0,
-brian s gloss,Machine learning annotation of human branchpoints,1974.0,
-marcel e dinger,Machine learning annotation of human branchpoints,1974.0,
-tim r mercer,Machine learning annotation of human branchpoints,1974.0,
 roman r kapaev,GRASS: semi-automated NMR-based structure elucidation of saccharides,2018.0,14.0
 philip v toukach,GRASS: semi-automated NMR-based structure elucidation of saccharides,2018.0,14.0
 luis sanchezpulido,TMEM132: an ancient architecture of cohesin and immunoglobulin domains define a new family of neural adhesion molecules,2018.0,13.0
@@ -3719,11 +3629,6 @@ sheng wang,DEEPre: sequence-based enzyme EC number prediction by deep learning,2
 ramzan umarov,DEEPre: sequence-based enzyme EC number prediction by deep learning,2018.0,101.0
 bingqing xie,DEEPre: sequence-based enzyme EC number prediction by deep learning,2018.0,101.0
 ming fan,DEEPre: sequence-based enzyme EC number prediction by deep learning,2018.0,101.0
-riccardo panero,iSmaRT: a toolkit for a comprehensive analysis of small RNA-Seq data,2014.0,35.0
-antonio rinaldi,iSmaRT: a toolkit for a comprehensive analysis of small RNA-Seq data,2014.0,35.0
-domenico memoli,iSmaRT: a toolkit for a comprehensive analysis of small RNA-Seq data,2014.0,35.0
-giovanni nassa,iSmaRT: a toolkit for a comprehensive analysis of small RNA-Seq data,2014.0,35.0
-maria ravo,iSmaRT: a toolkit for a comprehensive analysis of small RNA-Seq data,2014.0,35.0
 lichy han,A probabilistic pathway score (PROPS) for classification with applications to inflammatory bowel disease,2018.0,11.0
 mateusz maciejewski,A probabilistic pathway score (PROPS) for classification with applications to inflammatory bowel disease,2018.0,11.0
 christoph brockel,A probabilistic pathway score (PROPS) for classification with applications to inflammatory bowel disease,2018.0,11.0
@@ -4057,11 +3962,6 @@ julia len,Interactive network visualization in Jupyter notebooks: visJS2jupyter,
 mikayla webster,Interactive network visualization in Jupyter notebooks: visJS2jupyter,2018.0,12.0
 aaron gary,Interactive network visualization in Jupyter notebooks: visJS2jupyter,2018.0,12.0
 amanda birmingham,Interactive network visualization in Jupyter notebooks: visJS2jupyter,2018.0,12.0
-maría josé nueda,Identification and visualization of differential isoform expression in RNA-seq time series,2014.0,
-jordi martorellmarugan,Identification and visualization of differential isoform expression in RNA-seq time series,2014.0,
-cristina martí,Identification and visualization of differential isoform expression in RNA-seq time series,2014.0,
-sonia tarazona,Identification and visualization of differential isoform expression in RNA-seq time series,2014.0,
-ana conesa,Identification and visualization of differential isoform expression in RNA-seq time series,2014.0,
 joe wandy,Ms2lda.org: web-based topic modelling for substructure discovery in mass spectrometry,2018.0,30.0
 yunfeng zhu,Ms2lda.org: web-based topic modelling for substructure discovery in mass spectrometry,2018.0,30.0
 justin j j van der hooft,Ms2lda.org: web-based topic modelling for substructure discovery in mass spectrometry,2018.0,30.0
@@ -4716,9 +4616,6 @@ jure leskovec,Predicting multicellular function through multi-layer tissue netwo
 dennis pischel,"Efficient simulation of intrinsic, extrinsic and external noise in biochemical systems",2017.0,5.0
 kai sundmacher,"Efficient simulation of intrinsic, extrinsic and external noise in biochemical systems",2017.0,5.0
 robert j flassig,"Efficient simulation of intrinsic, extrinsic and external noise in biochemical systems",2017.0,5.0
-lin zhu,Direct AUC optimization of regulatory motifs,2015.0,
-hongbo zhang,Direct AUC optimization of regulatory motifs,2015.0,
-deshuang huang,Direct AUC optimization of regulatory motifs,2015.0,
 xiongtao ruan,Image-based spatiotemporal causality inference for protein signaling networks,2017.0,1.0
 christoph wülfing,Image-based spatiotemporal causality inference for protein signaling networks,2017.0,1.0
 robert f murphy,Image-based spatiotemporal causality inference for protein signaling networks,2017.0,1.0
@@ -4732,9 +4629,6 @@ daniel j mcdonald,"Predicting phenotypes from microarrays using amplified, initi
 mingfu shao,DeepBound: accurate identification of transcript boundaries via deep convolutional neural fields,2017.0,9.0
 jianzhu ma,DeepBound: accurate identification of transcript boundaries via deep convolutional neural fields,2017.0,9.0
 sheng wang,DeepBound: accurate identification of transcript boundaries via deep convolutional neural fields,2017.0,9.0
-anupama jha,Integrative deep models for alternative splicing,1976.0,
-matthew r gazzara,Integrative deep models for alternative splicing,1976.0,
-yoseph barash,Integrative deep models for alternative splicing,1976.0,
 kymberleigh a pagel,When loss-of-function is loss of function: assessing mutational signatures and impact of loss-of-function genetic variants,2017.0,25.0
 vikas pejaver,When loss-of-function is loss of function: assessing mutational signatures and impact of loss-of-function genetic variants,2017.0,25.0
 guan ning lin,When loss-of-function is loss of function: assessing mutational signatures and impact of loss-of-function genetic variants,2017.0,25.0
@@ -4742,8 +4636,6 @@ hyunjun nam,When loss-of-function is loss of function: assessing mutational sign
 matthew mort,When loss-of-function is loss of function: assessing mutational signatures and impact of loss-of-function genetic variants,2017.0,25.0
 niko beerenwinkel,ISMB/ECCB 2017 proceedings,2017.0,
 yana bromberg,ISMB/ECCB 2017 proceedings,2017.0,
-rani arielly,Irys Extract,1753.0,
-yuval ebenstein,Irys Extract,1753.0,
 rory nolan,nandb—number and brightness in R with a novel automatic detrending algorithm,2017.0,12.0
 luis a j alvarez,nandb—number and brightness in R with a novel automatic detrending algorithm,2017.0,12.0
 jonathan elegheert,nandb—number and brightness in R with a novel automatic detrending algorithm,2017.0,12.0
@@ -4799,11 +4691,6 @@ zejun zheng,AlloSigMA: allosteric signaling and mutation analysis server,2017.0,
 igor n berezovsky,AlloSigMA: allosteric signaling and mutation analysis server,2017.0,58.0
 zhiqun xie,ISEScan: automated identification of insertion sequence elements in prokaryotic genomes,2017.0,
 haixu tang,ISEScan: automated identification of insertion sequence elements in prokaryotic genomes,2017.0,
-konstantinos sidiropoulos,Reactome enhanced pathway visualization,2014.0,
-guilherme viteri,Reactome enhanced pathway visualization,2014.0,
-cristoffer sevilla,Reactome enhanced pathway visualization,2014.0,
-steve jupe,Reactome enhanced pathway visualization,2014.0,
-marissa webber,Reactome enhanced pathway visualization,2014.0,
 xiang cheng,iATC-mISF: a multi-label classifier for predicting the classes of anatomical therapeutic chemicals,2017.0,203.0
 shuguang zhao,iATC-mISF: a multi-label classifier for predicting the classes of anatomical therapeutic chemicals,2017.0,203.0
 xuan xiao,iATC-mISF: a multi-label classifier for predicting the classes of anatomical therapeutic chemicals,2017.0,203.0
@@ -4959,9 +4846,6 @@ xianhong li,Matrix completion with side information and its applications in pred
 pengfei guo,Matrix completion with side information and its applications in predicting the antigenicity of influenza viruses,2017.0,10.0
 yuhua yao,Matrix completion with side information and its applications in predicting the antigenicity of influenza viruses,2017.0,10.0
 bo liao,Matrix completion with side information and its applications in predicting the antigenicity of influenza viruses,2017.0,10.0
-philipp c münch,EDEN: evolutionary dynamics within environments,2015.0,19.0
-bärbel stecher,EDEN: evolutionary dynamics within environments,2015.0,19.0
-alice c mchardy,EDEN: evolutionary dynamics within environments,2015.0,19.0
 minh n nguyen,The interfacial character of antibody paratopes: analysis of antibody–antigen structures,2017.0,24.0
 mohan r pradhan,The interfacial character of antibody paratopes: analysis of antibody–antigen structures,2017.0,24.0
 chandra verma,The interfacial character of antibody paratopes: analysis of antibody–antigen structures,2017.0,24.0
@@ -5065,9 +4949,6 @@ di he,JDINAC: joint density-based non-parametric differential interaction networ
 yang feng,JDINAC: joint density-based non-parametric differential interaction network analysis and classification using high-dimensional sparse omics data,2017.0,16.0
 yong he,JDINAC: joint density-based non-parametric differential interaction network analysis and classification using high-dimensional sparse omics data,2017.0,16.0
 fuzhong xue,JDINAC: joint density-based non-parametric differential interaction network analysis and classification using high-dimensional sparse omics data,2017.0,16.0
-andrew low,COMPASS: the COMPletely Arbitrary Sequence Simulator,1759.0,19.0
-nicolas rodrigue,COMPASS: the COMPletely Arbitrary Sequence Simulator,1759.0,19.0
-alex wong,COMPASS: the COMPletely Arbitrary Sequence Simulator,1759.0,19.0
 sangjun park,Glycan Reader is improved to recognize most sugar types and chemical modifications in the Protein Data Bank,2017.0,33.0
 jumin lee,Glycan Reader is improved to recognize most sugar types and chemical modifications in the Protein Data Bank,2017.0,33.0
 dhilon s patel,Glycan Reader is improved to recognize most sugar types and chemical modifications in the Protein Data Bank,2017.0,33.0
@@ -5189,8 +5070,6 @@ alexander botzki,PhyD3: a phylogenetic tree viewer with extended phyloXML suppor
 frederik coppens,PhyD3: a phylogenetic tree viewer with extended phyloXML support for functional genomics data visualization,2017.0,55.0
 klaas vandepoele,PhyD3: a phylogenetic tree viewer with extended phyloXML support for functional genomics data visualization,2017.0,55.0
 michiel van bel,PhyD3: a phylogenetic tree viewer with extended phyloXML support for functional genomics data visualization,2017.0,55.0
-michael j bell,On patterns and re-use in bioinformatics databases,2013.0,66.0
-phillip lord,On patterns and re-use in bioinformatics databases,2013.0,66.0
 bahjat f qaqish,Accelerating high-dimensional clustering with lossless data reduction,2017.0,3.0
 jonathon j o’brien,Accelerating high-dimensional clustering with lossless data reduction,2017.0,3.0
 jonathan c hibbard,Accelerating high-dimensional clustering with lossless data reduction,2017.0,3.0
@@ -5593,8 +5472,6 @@ sònia torres,rMSI: an R package for MS imaging data handling and visualization,
 noelia ramírez,rMSI: an R package for MS imaging data handling and visualization,2017.0,13.0
 esteban del castillo,rMSI: an R package for MS imaging data handling and visualization,2017.0,13.0
 oscar yanes,rMSI: an R package for MS imaging data handling and visualization,2017.0,13.0
-raymond g cavalcante,annotatr: genomic regions in context,2013.0,66.0
-maureen a sartor,annotatr: genomic regions in context,2013.0,66.0
 pedro j torres,PARTIE: a partition engine to separate metagenomic and amplicon projects in the Sequence Read Archive,2017.0,15.0
 robert a edwards,PARTIE: a partition engine to separate metagenomic and amplicon projects in the Sequence Read Archive,2017.0,15.0
 katelyn a mcnair,PARTIE: a partition engine to separate metagenomic and amplicon projects in the Sequence Read Archive,2017.0,15.0
@@ -5750,11 +5627,6 @@ silvia liu,Meta-analytic framework for liquid association,2017.0,
 ying ding,Meta-analytic framework for liquid association,2017.0,
 shinsheng yuan,Meta-analytic framework for liquid association,2017.0,
 yenyi ho,Meta-analytic framework for liquid association,2017.0,
-daniel schlauch,Estimating gene regulatory networks with pandaR,2015.0,2.0
-joseph n paulson,Estimating gene regulatory networks with pandaR,2015.0,2.0
-albert young,Estimating gene regulatory networks with pandaR,2015.0,2.0
-kimberly glass,Estimating gene regulatory networks with pandaR,2015.0,2.0
-john quackenbush,Estimating gene regulatory networks with pandaR,2015.0,2.0
 zhiwei zhou,MetCCS predictor: a web server for predicting collision cross-section values of metabolites in ion mobility-mass spectrometry based metabolomics,2017.0,41.0
 xin xiong,MetCCS predictor: a web server for predicting collision cross-section values of metabolites in ion mobility-mass spectrometry based metabolomics,2017.0,41.0
 zhengjiang zhu,MetCCS predictor: a web server for predicting collision cross-section values of metabolites in ion mobility-mass spectrometry based metabolomics,2017.0,41.0
@@ -5888,8 +5760,6 @@ feng liu,BiRen: predicting enhancers with a deep-learning-based model using the 
 chao ren,BiRen: predicting enhancers with a deep-learning-based model using the DNA sequence alone,2017.0,52.0
 zhangyi ouyang,BiRen: predicting enhancers with a deep-learning-based model using the DNA sequence alone,2017.0,52.0
 ziwei xie,BiRen: predicting enhancers with a deep-learning-based model using the DNA sequence alone,2017.0,52.0
-changshuai wei,A generalized association test based on U statistics,1998.0,244.0
-qing lu,A generalized association test based on U statistics,1998.0,244.0
 liang zhao,MapReduce for accurate error correction of next-generation sequencing data,2017.0,12.0
 qingfeng chen,MapReduce for accurate error correction of next-generation sequencing data,2017.0,12.0
 wencui li,MapReduce for accurate error correction of next-generation sequencing data,2017.0,12.0
@@ -6261,8 +6131,6 @@ s lutteropp,Multi-rate Poisson tree processes for single-locus species delimitat
 j zhang,Multi-rate Poisson tree processes for single-locus species delimitation under maximum likelihood and Markov chain Monte Carlo,2017.0,285.0
 k kobert,Multi-rate Poisson tree processes for single-locus species delimitation under maximum likelihood and Markov chain Monte Carlo,2017.0,285.0
 p pavlidis,Multi-rate Poisson tree processes for single-locus species delimitation under maximum likelihood and Markov chain Monte Carlo,2017.0,285.0
-hajkgeorg drost,Biomartr: genomic data retrieval with R,2013.0,5.0
-jerzy paszkowski,Biomartr: genomic data retrieval with R,2013.0,5.0
 mariusz butkiewicz,Introducing COCOS: codon consequence scanner for annotating reading frame changes induced by stop-lost and frame shift variants,2017.0,1.0
 jonathan l haines,Introducing COCOS: codon consequence scanner for annotating reading frame changes induced by stop-lost and frame shift variants,2017.0,1.0
 william s bush,Introducing COCOS: codon consequence scanner for annotating reading frame changes induced by stop-lost and frame shift variants,2017.0,1.0
@@ -6399,11 +6267,6 @@ sören lukas hellmann,AFS: identification and quantification of species composit
 hamid mohamadi,ntCard: a streaming algorithm for cardinality estimation in genomics data,2017.0,38.0
 hamza khan,ntCard: a streaming algorithm for cardinality estimation in genomics data,2017.0,38.0
 inanc birol,ntCard: a streaming algorithm for cardinality estimation in genomics data,2017.0,38.0
-malathi si dona,Powerful differential expression analysis incorporating network topology for next-generation sequencing data,2014.0,
-luke a prendergast,Powerful differential expression analysis incorporating network topology for next-generation sequencing data,2014.0,
-suresh mathivanan,Powerful differential expression analysis incorporating network topology for next-generation sequencing data,2014.0,
-shivakumar keerthikumar,Powerful differential expression analysis incorporating network topology for next-generation sequencing data,2014.0,
-agus salim,Powerful differential expression analysis incorporating network topology for next-generation sequencing data,2014.0,
 e drori,CircosVCF: circos visualization of whole-genome sequence variations stored in VCF files,2017.0,9.0
 d levy,CircosVCF: circos visualization of whole-genome sequence variations stored in VCF files,2017.0,9.0
 p smirinyosef,CircosVCF: circos visualization of whole-genome sequence variations stored in VCF files,2017.0,9.0
@@ -6545,11 +6408,6 @@ hiroyuki kuwahara,Systematic selection of chemical fingerprint features improves
 othman soufan,Systematic selection of chemical fingerprint features improves the Gibbs energy prediction of biochemical reactions,2019.0,3.0
 lizhong ding,Systematic selection of chemical fingerprint features improves the Gibbs energy prediction of biochemical reactions,2019.0,3.0
 xin gao,Systematic selection of chemical fingerprint features improves the Gibbs energy prediction of biochemical reactions,2019.0,3.0
-rongting huang,Systematic characterization and prediction of post-translational modification cross-talk between proteins,2015.0,27.0
-yuanhua huang,Systematic characterization and prediction of post-translational modification cross-talk between proteins,2015.0,27.0
-yubin guo,Systematic characterization and prediction of post-translational modification cross-talk between proteins,2015.0,27.0
-shangwei ji,Systematic characterization and prediction of post-translational modification cross-talk between proteins,2015.0,27.0
-ming lu,Systematic characterization and prediction of post-translational modification cross-talk between proteins,2015.0,27.0
 asher moshe,Ancestral sequence reconstruction: accounting for structural information by averaging over replacement matrices,2016.0,27.0
 tal pupko,Ancestral sequence reconstruction: accounting for structural information by averaging over replacement matrices,2016.0,27.0
 mirco michel,"PconsC4: fast, accurate and hassle-free contact predictions",2019.0,19.0
@@ -6885,11 +6743,6 @@ sébastien moretti,Condition-specific series of metabolic sub-networks and its a
 alix t coste,Condition-specific series of metabolic sub-networks and its application for gene set enrichment analysis,2019.0,6.0
 sara amorimvaz,Condition-specific series of metabolic sub-networks and its application for gene set enrichment analysis,2019.0,6.0
 dominique sanglard,Condition-specific series of metabolic sub-networks and its application for gene set enrichment analysis,2019.0,6.0
-ioannis a tamposis,Semi-supervised learning of Hidden Markov Models for biological sequence analysis,1997.0,12.0
-konstantinos d tsirigos,Semi-supervised learning of Hidden Markov Models for biological sequence analysis,1997.0,12.0
-margarita c theodoropoulou,Semi-supervised learning of Hidden Markov Models for biological sequence analysis,1997.0,12.0
-panagiota i kontou,Semi-supervised learning of Hidden Markov Models for biological sequence analysis,1997.0,12.0
-pantelis g bagos,Semi-supervised learning of Hidden Markov Models for biological sequence analysis,1997.0,12.0
 jikai zhang,BGSA: a bit-parallel global sequence alignment toolkit for multi-core and many-core architectures,2019.0,5.0
 haidong lan,BGSA: a bit-parallel global sequence alignment toolkit for multi-core and many-core architectures,2019.0,5.0
 yuandong chan,BGSA: a bit-parallel global sequence alignment toolkit for multi-core and many-core architectures,2019.0,5.0
@@ -6919,8 +6772,6 @@ anna leśniewska,"SeQuiLa: an elastic, fast and scalable SQL-oriented solution f
 agnieszka szmurło,"SeQuiLa: an elastic, fast and scalable SQL-oriented solution for processing and querying genomic intervals",2019.0,3.0
 kacper stępień,"SeQuiLa: an elastic, fast and scalable SQL-oriented solution for processing and querying genomic intervals",2019.0,3.0
 mateusz borowiak,"SeQuiLa: an elastic, fast and scalable SQL-oriented solution for processing and querying genomic intervals",2019.0,3.0
-jacob d davis,Metrics for regulated biochemical pathway systems,2012.0,138.0
-eberhard o voit,Metrics for regulated biochemical pathway systems,2012.0,138.0
 robert d stewart,MAGpy: a reproducible pipeline for the downstream analysis of metagenome-assembled genomes (MAGs),2019.0,19.0
 marc d auffret,MAGpy: a reproducible pipeline for the downstream analysis of metagenome-assembled genomes (MAGs),2019.0,19.0
 timothy j snelling,MAGpy: a reproducible pipeline for the downstream analysis of metagenome-assembled genomes (MAGs),2019.0,19.0
@@ -7353,9 +7204,6 @@ rui chen,De novo pattern discovery enables robust assessment of functional conse
 quan wang,De novo pattern discovery enables robust assessment of functional consequences of non-coding variants,2019.0,2.0
 qiang wei,De novo pattern discovery enables robust assessment of functional consequences of non-coding variants,2019.0,2.0
 ying ji,De novo pattern discovery enables robust assessment of functional consequences of non-coding variants,2019.0,2.0
-han cao,RMTL: an R library for multi-task learning,2011.0,312.0
-jiayu zhou,RMTL: an R library for multi-task learning,2011.0,312.0
-emanuel schwarz,RMTL: an R library for multi-task learning,2011.0,312.0
 florian plaza oñate,MSPminer: abundance-based reconstitution of microbial pan-genomes from shotgun metagenomic data,2019.0,23.0
 emmanuelle le chatelier,MSPminer: abundance-based reconstitution of microbial pan-genomes from shotgun metagenomic data,2019.0,23.0
 mathieu almeida,MSPminer: abundance-based reconstitution of microbial pan-genomes from shotgun metagenomic data,2019.0,23.0
@@ -7484,8 +7332,6 @@ marcel kucharík,Dante: genotyping of known complex and expanded short tandem re
 františek ďuriš,Dante: genotyping of known complex and expanded short tandem repeats,2019.0,5.0
 juraj gazdarica,Dante: genotyping of known complex and expanded short tandem repeats,2019.0,5.0
 michaela zrubcová,Dante: genotyping of known complex and expanded short tandem repeats,2019.0,5.0
-gayathri sambamoorthy,Understanding the evolution of functional redundancy in metabolic networks,2009.0,79.0
-karthik raman,Understanding the evolution of functional redundancy in metabolic networks,2009.0,79.0
 florian schmidt,An ontology-based method for assessing batch effect adjustment approaches in heterogeneous datasets,2018.0,8.0
 markus list,An ontology-based method for assessing batch effect adjustment approaches in heterogeneous datasets,2018.0,8.0
 engin cukuroglu,An ontology-based method for assessing batch effect adjustment approaches in heterogeneous datasets,2018.0,8.0
@@ -7652,11 +7498,6 @@ yang liu,Learning structural motif representations for efficient protein structu
 qing ye,Learning structural motif representations for efficient protein structure search,2018.0,13.0
 liwei wang,Learning structural motif representations for efficient protein structure search,2018.0,13.0
 jian peng,Learning structural motif representations for efficient protein structure search,2018.0,13.0
-nanne aben,iTOP: inferring the topology of omics data,2014.0,45.0
-johan a westerhuis,iTOP: inferring the topology of omics data,2014.0,45.0
-yipeng song,iTOP: inferring the topology of omics data,2014.0,45.0
-henk a l kiers,iTOP: inferring the topology of omics data,2014.0,45.0
-magali michaut,iTOP: inferring the topology of omics data,2014.0,45.0
 renmin han,An accurate and rapid continuous wavelet dynamic time warping algorithm for end-to-end mapping in ultra-long nanopore sequencing,2018.0,7.0
 yu li,An accurate and rapid continuous wavelet dynamic time warping algorithm for end-to-end mapping in ultra-long nanopore sequencing,2018.0,7.0
 xin gao,An accurate and rapid continuous wavelet dynamic time warping algorithm for end-to-end mapping in ultra-long nanopore sequencing,2018.0,7.0
@@ -7885,17 +7726,9 @@ filippo geraci,Dot2dot: accurate whole-genome tandem repeats discovery,2019.0,7.
 thomas r sibley,ISDB: a database toolkit for storing and analyzing viral integration site data,2019.0,2.0
 evan j silberman,ISDB: a database toolkit for storing and analyzing viral integration site data,2019.0,2.0
 james i mullins,ISDB: a database toolkit for storing and analyzing viral integration site data,2019.0,2.0
-lin shi,Variable selection and validation in multivariate modelling,2008.0,1854.0
-johan a westerhuis,Variable selection and validation in multivariate modelling,2008.0,1854.0
-johan rosén,Variable selection and validation in multivariate modelling,2008.0,1854.0
-rikard landberg,Variable selection and validation in multivariate modelling,2008.0,1854.0
-carl brunius,Variable selection and validation in multivariate modelling,2008.0,1854.0
 itamar kanter,A cluster robustness score for identifying cell subpopulations in single cell gene expression datasets from heterogeneous tissues and tumors,2019.0,6.0
 piero dalerba,A cluster robustness score for identifying cell subpopulations in single cell gene expression datasets from heterogeneous tissues and tumors,2019.0,6.0
 tomer kalisky,A cluster robustness score for identifying cell subpopulations in single cell gene expression datasets from heterogeneous tissues and tumors,2019.0,6.0
-brent kirkpatrick,Efficient computation of the kinship coefficients,1978.0,61.0
-shufei ge,Efficient computation of the kinship coefficients,1978.0,61.0
-liangliang wang,Efficient computation of the kinship coefficients,1978.0,61.0
 qichao tu,NCycDB: a curated integrative database for fast and accurate metagenomic profiling of nitrogen cycling genes,2019.0,13.0
 lu lin,NCycDB: a curated integrative database for fast and accurate metagenomic profiling of nitrogen cycling genes,2019.0,13.0
 lei cheng,NCycDB: a curated integrative database for fast and accurate metagenomic profiling of nitrogen cycling genes,2019.0,13.0
@@ -8043,11 +7876,6 @@ kuanlin huang,CharGer: clinical Characterization of Germline variants,2019.0,1.0
 amila weerasinghe,CharGer: clinical Characterization of Germline variants,2019.0,1.0
 r jay mashl,CharGer: clinical Characterization of Germline variants,2019.0,1.0
 qingsong gao,CharGer: clinical Characterization of Germline variants,2019.0,1.0
-z s wallace,On entropy and information in gene interaction networks,2006.0,124.0
-s b rosenthal,On entropy and information in gene interaction networks,2006.0,124.0
-k m fisch,On entropy and information in gene interaction networks,2006.0,124.0
-t ideker,On entropy and information in gene interaction networks,2006.0,124.0
-r sasik,On entropy and information in gene interaction networks,2006.0,124.0
 matthew higgins,PrimedRPA: primer design for recombinase polymerase amplification assays,2019.0,12.0
 matt ravenhall,PrimedRPA: primer design for recombinase polymerase amplification assays,2019.0,12.0
 daniel ward,PrimedRPA: primer design for recombinase polymerase amplification assays,2019.0,12.0
@@ -8118,8 +7946,6 @@ shiyang fei,PredMP: a web server for de novo prediction and visualization of mem
 zongan wang,PredMP: a web server for de novo prediction and visualization of membrane proteins,2019.0,16.0
 yu li,PredMP: a web server for de novo prediction and visualization of membrane proteins,2019.0,16.0
 jinbo xu,PredMP: a web server for de novo prediction and visualization of membrane proteins,2019.0,16.0
-florian schmidt,On the problem of confounders in modeling gene expression,2003.0,851.0
-marcel h schulz,On the problem of confounders in modeling gene expression,2003.0,851.0
 jack m fu,Detection of de novo copy number deletions from targeted sequencing of trios,2019.0,1.0
 elizabeth j leslie,Detection of de novo copy number deletions from targeted sequencing of trios,2019.0,1.0
 alan f scott,Detection of de novo copy number deletions from targeted sequencing of trios,2019.0,1.0
@@ -8252,11 +8078,6 @@ hua yu,Systematic discovery of novel and valuable plant gene modules by large-sc
 lu lu,Systematic discovery of novel and valuable plant gene modules by large-scale RNA-seq samples,2019.0,5.0
 bingke jiao,Systematic discovery of novel and valuable plant gene modules by large-scale RNA-seq samples,2019.0,5.0
 chengzhi liang,Systematic discovery of novel and valuable plant gene modules by large-scale RNA-seq samples,2019.0,5.0
-harun mustafa,Dynamic compression schemes for graph coloring,1991.0,1127.0
-ingo schilken,Dynamic compression schemes for graph coloring,1991.0,1127.0
-mikhail karasikov,Dynamic compression schemes for graph coloring,1991.0,1127.0
-carsten eickhoff,Dynamic compression schemes for graph coloring,1991.0,1127.0
-gunnar rätsch,Dynamic compression schemes for graph coloring,1991.0,1127.0
 shiquan sun,Heritability estimation and differential analysis of count data with generalized linear mixed models in genomic sequencing studies,2019.0,21.0
 jiaqiang zhu,Heritability estimation and differential analysis of count data with generalized linear mixed models in genomic sequencing studies,2019.0,21.0
 sahar mozaffari,Heritability estimation and differential analysis of count data with generalized linear mixed models in genomic sequencing studies,2019.0,21.0
@@ -8400,11 +8221,6 @@ marcin zablocki,RNAvista: a webserver to assess RNA secondary structures with no
 tomasz zok,RNAvista: a webserver to assess RNA secondary structures with non-canonical base pairs,2019.0,7.0
 agnieszka rybarczyk,RNAvista: a webserver to assess RNA secondary structures with non-canonical base pairs,2019.0,7.0
 jacek blazewicz,RNAvista: a webserver to assess RNA secondary structures with non-canonical base pairs,2019.0,7.0
-yuchen lo,Computational analysis of kinase inhibitor selectivity using structural knowledge,2011.0,719.0
-tianyun liu,Computational analysis of kinase inhibitor selectivity using structural knowledge,2011.0,719.0
-kari m morrissey,Computational analysis of kinase inhibitor selectivity using structural knowledge,2011.0,719.0
-satoko kakiuchikiyota,Computational analysis of kinase inhibitor selectivity using structural knowledge,2011.0,719.0
-adam r johnson,Computational analysis of kinase inhibitor selectivity using structural knowledge,2011.0,719.0
 chuan jiao,BrainEXP: a database featuring with spatiotemporal expression variations and co-expression organizations in human brains,2019.0,2.0
 pengpeng yan,BrainEXP: a database featuring with spatiotemporal expression variations and co-expression organizations in human brains,2019.0,2.0
 cuihua xia,BrainEXP: a database featuring with spatiotemporal expression variations and co-expression organizations in human brains,2019.0,2.0
@@ -8534,10 +8350,6 @@ junpeng zhang,LncmiRSRN: identification and analysis of long non-coding RNA rela
 lin liu,LncmiRSRN: identification and analysis of long non-coding RNA related miRNA sponge regulatory network in human cancer,2018.0,32.0
 jiuyong li,LncmiRSRN: identification and analysis of long non-coding RNA related miRNA sponge regulatory network in human cancer,2018.0,32.0
 thuc duy le,LncmiRSRN: identification and analysis of long non-coding RNA related miRNA sponge regulatory network in human cancer,2018.0,32.0
-soumita ghosh,SLIDE – a web-based tool for interactive visualization of large-scale – omics data,2015.0,22.0
-abhik datta,SLIDE – a web-based tool for interactive visualization of large-scale – omics data,2015.0,22.0
-kaisen tan,SLIDE – a web-based tool for interactive visualization of large-scale – omics data,2015.0,22.0
-hyungwon choi,SLIDE – a web-based tool for interactive visualization of large-scale – omics data,2015.0,22.0
 kendell clement,AmpUMI: design and analysis of unique molecular identifiers for deep amplicon sequencing,2018.0,11.0
 rick farouni,AmpUMI: design and analysis of unique molecular identifiers for deep amplicon sequencing,2018.0,11.0
 daniel e bauer,AmpUMI: design and analysis of unique molecular identifiers for deep amplicon sequencing,2018.0,11.0
@@ -8644,8 +8456,6 @@ andrey prjibelski,Versatile genome assembly evaluation with QUAST-LG,2018.0,155.
 vladislav saveliev,Versatile genome assembly evaluation with QUAST-LG,2018.0,155.0
 dmitry antipov,Versatile genome assembly evaluation with QUAST-LG,2018.0,155.0
 alexey gurevich,Versatile genome assembly evaluation with QUAST-LG,2018.0,155.0
-sushant patkar,An optimization framework for network annotation,2008.0,117.0
-roded sharan,An optimization framework for network annotation,2008.0,117.0
 christopher jürges,Dissecting newly transcribed and old RNA using GRAND-SLAM,2018.0,18.0
 lars dölken,Dissecting newly transcribed and old RNA using GRAND-SLAM,2018.0,18.0
 florian erhard,Dissecting newly transcribed and old RNA using GRAND-SLAM,2018.0,18.0
@@ -8737,9 +8547,6 @@ tapio pahikkala,Learning with multiple pairwise kernels for drug bioactivity pre
 sandor szedmak,Learning with multiple pairwise kernels for drug bioactivity prediction,2018.0,19.0
 heli julkunen,Learning with multiple pairwise kernels for drug bioactivity prediction,2018.0,19.0
 antti airola,Learning with multiple pairwise kernels for drug bioactivity prediction,2018.0,19.0
-wei zhang,Classifying tumors by supervised network propagation,2011.0,72.0
-jianzhu ma,Classifying tumors by supervised network propagation,2011.0,72.0
-trey ideker,Classifying tumors by supervised network propagation,2011.0,72.0
 jianwei zhu,Protein threading using residue co-variation and deep learning,2018.0,38.0
 sheng wang,Protein threading using residue co-variation and deep learning,2018.0,38.0
 dongbo bu,Protein threading using residue co-variation and deep learning,2018.0,38.0
@@ -8901,11 +8708,6 @@ david hoksza,MolArt: a molecular structure annotation and visualization tool,201
 piotr gawron,MolArt: a molecular structure annotation and visualization tool,2018.0,9.0
 marek ostaszewski,MolArt: a molecular structure annotation and visualization tool,2018.0,9.0
 reinhard schneider,MolArt: a molecular structure annotation and visualization tool,2018.0,9.0
-mathurin dorel,Modelling signalling networks from perturbation data,2012.0,180.0
-bertram klinger,Modelling signalling networks from perturbation data,2012.0,180.0
-torsten gross,Modelling signalling networks from perturbation data,2012.0,180.0
-anja sieber,Modelling signalling networks from perturbation data,2012.0,180.0
-anirudh prahallad,Modelling signalling networks from perturbation data,2012.0,180.0
 katarzyna z kedzierska,SONiCS: PCR stutter noise correction in genome-scale microsatellites,2018.0,3.0
 livia gerber,SONiCS: PCR stutter noise correction in genome-scale microsatellites,2018.0,3.0
 daniele cagnazzi,SONiCS: PCR stutter noise correction in genome-scale microsatellites,2018.0,3.0
@@ -8922,8 +8724,6 @@ joseph masison,mol2sphere: spherical decomposition of multi-domain molecules for
 paul j michalski,mol2sphere: spherical decomposition of multi-domain molecules for visualization and coarse grained spatial modeling,2018.0,2.0
 leslie m loew,mol2sphere: spherical decomposition of multi-domain molecules for visualization and coarse grained spatial modeling,2018.0,2.0
 adam d schuyler,mol2sphere: spherical decomposition of multi-domain molecules for visualization and coarse grained spatial modeling,2018.0,2.0
-kodi collins,PASTA for proteins,2007.0,251.0
-tandy warnow,PASTA for proteins,2007.0,251.0
 mehrdad mansouri,HUME: large-scale detection of causal genetic factors of adverse drug reactions,2018.0,4.0
 bowei yuan,HUME: large-scale detection of causal genetic factors of adverse drug reactions,2018.0,4.0
 colin j d ross,HUME: large-scale detection of causal genetic factors of adverse drug reactions,2018.0,4.0
@@ -9047,10 +8847,6 @@ ron shamir,Message from the ISCB: 2018 Outstanding Contributions to ISCB Award: 
 christiana n fogg,2018 ISCB Overton Prize awarded to Cole Trapnell,2018.0,
 diane e kovats,2018 ISCB Overton Prize awarded to Cole Trapnell,2018.0,
 ron shamir,2018 ISCB Overton Prize awarded to Cole Trapnell,2018.0,
-berke ç toptaş,Comparing complex variants in family trios,2014.0,64.0
-goran rakocevic,Comparing complex variants in family trios,2014.0,64.0
-péter kómár,Comparing complex variants in family trios,2014.0,64.0
-deniz kural,Comparing complex variants in family trios,2014.0,64.0
 anna m schmoker,An in silico proteomics screen to predict and prioritize protein–protein interactions dependent on post-translationally modified motifs,2018.0,2.0
 heather e driscoll,An in silico proteomics screen to predict and prioritize protein–protein interactions dependent on post-translationally modified motifs,2018.0,2.0
 stefanie r geiger,An in silico proteomics screen to predict and prioritize protein–protein interactions dependent on post-translationally modified motifs,2018.0,2.0
@@ -9252,11 +9048,6 @@ hao jiang,Single cell clustering based on cell-pair differentiability correlatio
 lydia l sohn,Single cell clustering based on cell-pair differentiability correlation and variance analysis,2018.0,25.0
 haiyan huang,Single cell clustering based on cell-pair differentiability correlation and variance analysis,2018.0,25.0
 luonan chen,Single cell clustering based on cell-pair differentiability correlation and variance analysis,2018.0,25.0
-johannes köster,Snakemake—a scalable bioinformatics workflow engine,2012.0,1116.0
-sven rahmann,Snakemake—a scalable bioinformatics workflow engine,2012.0,1116.0
-valérie marotlassauzaie,Correcting mistakes in predicting distributions,2004.0,1237.0
-michael bernhofer,Correcting mistakes in predicting distributions,2004.0,1237.0
-burkhard rost,Correcting mistakes in predicting distributions,2004.0,1237.0
 pallab bhowmick,MRMAssayDB: an integrated resource for validated targeted proteomics assays,2018.0,10.0
 yassene mohammed,MRMAssayDB: an integrated resource for validated targeted proteomics assays,2018.0,10.0
 christoph h borchers,MRMAssayDB: an integrated resource for validated targeted proteomics assays,2018.0,10.0
@@ -9827,11 +9618,6 @@ yi han,A comprehensive evaluation of alignment software for reduced representati
 liyuan zhou,A comprehensive evaluation of alignment software for reduced representation bisulfite sequencing data,2018.0,11.0
 enguo chen,A comprehensive evaluation of alignment software for reduced representation bisulfite sequencing data,2018.0,11.0
 bingjian lu,A comprehensive evaluation of alignment software for reduced representation bisulfite sequencing data,2018.0,11.0
-andrew r ghazi,Design tools for MPRA experiments,2011.0,17.0
-edward s chen,Design tools for MPRA experiments,2011.0,17.0
-david m henke,Design tools for MPRA experiments,2011.0,17.0
-namrata madan,Design tools for MPRA experiments,2011.0,17.0
-leonard c edelstein,Design tools for MPRA experiments,2011.0,17.0
 franklin delehelle,ASGART: fast and parallel genome scale segmental duplications mapping,2018.0,4.0
 sylvain cussatblanc,ASGART: fast and parallel genome scale segmental duplications mapping,2018.0,4.0
 jeanmarc alliot,ASGART: fast and parallel genome scale segmental duplications mapping,2018.0,4.0
@@ -9934,9 +9720,6 @@ christian dina,SMMB: a stochastic Markov blanket framework strategy for epistasi
 ghislain rocheleau,SMMB: a stochastic Markov blanket framework strategy for epistasis detection in GWAS,2018.0,11.0
 ivan yu chernyshov,REStLESS: automated translation of glycan sequences from residue-based notation to SMILES and atomic coordinates,2018.0,8.0
 philip v toukach,REStLESS: automated translation of glycan sequences from residue-based notation to SMILES and atomic coordinates,2018.0,8.0
-igor mandric,Repeat-aware evaluation of scaffolding tools,2015.0,56.0
-sergey knyazev,Repeat-aware evaluation of scaffolding tools,2015.0,56.0
-alex zelikovsky,Repeat-aware evaluation of scaffolding tools,2015.0,56.0
 paul monsarrat,Data mining of effect sizes from PubMed abstracts: a cross-study conceptual replication,2018.0,3.0
 jeannoel vergnes,Data mining of effect sizes from PubMed abstracts: a cross-study conceptual replication,2018.0,3.0
 qiaozhen meng,CoABind: a novel algorithm for Coenzyme A (CoA)- and CoA derivatives-binding residues prediction,2018.0,7.0
@@ -9947,10 +9730,6 @@ jörg fallmann,Accurate mapping of tRNA reads,2016.0,793.0
 elisa vilardo,Accurate mapping of tRNA reads,2016.0,793.0
 mario mörl,Accurate mapping of tRNA reads,2016.0,793.0
 peter f stadler,Accurate mapping of tRNA reads,2016.0,793.0
-vahid jalili,Using combined evidence from replicates to evaluate ChIP-seq peaks,2015.0,23.0
-matteo matteucci,Using combined evidence from replicates to evaluate ChIP-seq peaks,2015.0,23.0
-marco masseroli,Using combined evidence from replicates to evaluate ChIP-seq peaks,2015.0,23.0
-marco j morelli,Using combined evidence from replicates to evaluate ChIP-seq peaks,2015.0,23.0
 r w w brouwer,Nimbus: a design-driven analyses suite for amplicon-based NGS data,2018.0,4.0
 m c g n van den hout,Nimbus: a design-driven analyses suite for amplicon-based NGS data,2018.0,4.0
 c e m kockx,Nimbus: a design-driven analyses suite for amplicon-based NGS data,2018.0,4.0
@@ -10021,9 +9800,6 @@ julian c knight,AltHapAlignR: improved accuracy of RNA-seq analyses through the 
 giovanna ambrosini,PWMScan: a fast tool for scanning entire genomes with a position-specific weight matrix,2018.0,37.0
 romain groux,PWMScan: a fast tool for scanning entire genomes with a position-specific weight matrix,2018.0,37.0
 philipp bucher,PWMScan: a fast tool for scanning entire genomes with a position-specific weight matrix,2018.0,37.0
-yoojoong kim,GAIT: Gene expression Analysis for Interval Time,2003.0,146.0
-yeong seon kang,GAIT: Gene expression Analysis for Interval Time,2003.0,146.0
-junhee seok,GAIT: Gene expression Analysis for Interval Time,2003.0,146.0
 r shyama prasad rao,CarbonylDB: a curated data-resource of protein carbonylation sites,2018.0,6.0
 ning zhang,CarbonylDB: a curated data-resource of protein carbonylation sites,2018.0,6.0
 dong xu,CarbonylDB: a curated data-resource of protein carbonylation sites,2018.0,6.0
@@ -10234,11 +10010,6 @@ qiuming zhang,WDL-RF: predicting bioactivities of ligand molecules acting with G
 weijian wu,WDL-RF: predicting bioactivities of ligand molecules acting with G protein-coupled receptors by combining weighted deep learning and random forest,2018.0,13.0
 tao pang,WDL-RF: predicting bioactivities of ligand molecules acting with G protein-coupled receptors by combining weighted deep learning and random forest,2018.0,13.0
 haifeng hu,WDL-RF: predicting bioactivities of ligand molecules acting with G protein-coupled receptors by combining weighted deep learning and random forest,2018.0,13.0
-veer singh marwah,INfORM: Inference of NetwOrk Response Modules,2009.0,434.0
-pia anneli sofia kinaret,INfORM: Inference of NetwOrk Response Modules,2009.0,434.0
-angela serra,INfORM: Inference of NetwOrk Response Modules,2009.0,434.0
-giovanni scala,INfORM: Inference of NetwOrk Response Modules,2009.0,434.0
-antti lauerma,INfORM: Inference of NetwOrk Response Modules,2009.0,434.0
 pablo carbonell,Selenzyme: enzyme selection tool for pathway design,2018.0,29.0
 jerry wong,Selenzyme: enzyme selection tool for pathway design,2018.0,29.0
 neil swainston,Selenzyme: enzyme selection tool for pathway design,2018.0,29.0
@@ -10523,16 +10294,8 @@ izel fourie sørensen,qgg: an R package for large-scale quantitative genetic ana
 peter sørensen,qgg: an R package for large-scale quantitative genetic analyses,2020.0,7.0
 soumitra pal,Bioinformatics pipeline using JUDI: Just Do It!,2020.0,1.0
 teresa m przytycka,Bioinformatics pipeline using JUDI: Just Do It!,2020.0,1.0
-mayank baranwal,A deep learning architecture for metabolic pathway prediction,1994.0,16.0
-abram magner,A deep learning architecture for metabolic pathway prediction,1994.0,16.0
-paolo elvati,A deep learning architecture for metabolic pathway prediction,1994.0,16.0
-jacob saldinger,A deep learning architecture for metabolic pathway prediction,1994.0,16.0
-angela violi,A deep learning architecture for metabolic pathway prediction,1994.0,16.0
 chuanyi zhang,VEF: a variant filtering tool based on ensemble methods,2020.0,
 idoia ochoa,VEF: a variant filtering tool based on ensemble methods,2020.0,
-lorraine a k ayad,SMART: SuperMaximal approximate repeats tool,2010.0,49.0
-panagiotis charalampopoulos,SMART: SuperMaximal approximate repeats tool,2010.0,49.0
-solon p pissis,SMART: SuperMaximal approximate repeats tool,2010.0,49.0
 kristina l buschur,Causal network perturbations for instance-specific analysis of single cell and disease samples,2020.0,3.0
 maria chikina,Causal network perturbations for instance-specific analysis of single cell and disease samples,2020.0,3.0
 panayiotis v benos,Causal network perturbations for instance-specific analysis of single cell and disease samples,2020.0,3.0
@@ -10732,10 +10495,6 @@ zoltan hegedus,DNA Readout Viewer (DRV): visualization of specificity determinin
 readman chiu,Fusion-Bloom: fusion detection in assembled transcriptomes,2020.0,1.0
 ka ming nip,Fusion-Bloom: fusion detection in assembled transcriptomes,2020.0,1.0
 inanc birol,Fusion-Bloom: fusion detection in assembled transcriptomes,2020.0,1.0
-cyril f reboul,Point-group symmetry detection in three-dimensional charge density of biomolecules,2010.0,16.0
-simon kiesewetter,Point-group symmetry detection in three-dimensional charge density of biomolecules,2010.0,16.0
-dominika elmlund,Point-group symmetry detection in three-dimensional charge density of biomolecules,2010.0,16.0
-hans elmlund,Point-group symmetry detection in three-dimensional charge density of biomolecules,2010.0,16.0
 zongyang du,CATHER: a novel threading algorithm with predicted contacts,2020.0,1.0
 shuo pan,CATHER: a novel threading algorithm with predicted contacts,2020.0,1.0
 qi wu,CATHER: a novel threading algorithm with predicted contacts,2020.0,1.0
@@ -10771,11 +10530,6 @@ mehari b zerihun,pydca v1.0: a comprehensive software for direct coupling analys
 fabrizio pucci,pydca v1.0: a comprehensive software for direct coupling analysis of RNA and protein sequences,2020.0,3.0
 emanuel k peter,pydca v1.0: a comprehensive software for direct coupling analysis of RNA and protein sequences,2020.0,3.0
 alexander schug,pydca v1.0: a comprehensive software for direct coupling analysis of RNA and protein sequences,2020.0,3.0
-yuwei zhang,Designing a general method for predicting the regulatory relationships between long noncoding RNAs and protein-coding genes based on multi-omics characteristics,2015.0,
-tianfei yi,Designing a general method for predicting the regulatory relationships between long noncoding RNAs and protein-coding genes based on multi-omics characteristics,2015.0,
-huihui ji,Designing a general method for predicting the regulatory relationships between long noncoding RNAs and protein-coding genes based on multi-omics characteristics,2015.0,
-guofang zhao,Designing a general method for predicting the regulatory relationships between long noncoding RNAs and protein-coding genes based on multi-omics characteristics,2015.0,
-yang xi,Designing a general method for predicting the regulatory relationships between long noncoding RNAs and protein-coding genes based on multi-omics characteristics,2015.0,
 qingsu cheng,Organoid model of mammographic density displays a higher frequency of aberrant colony formations with radiation exposure,2020.0,1.0
 bahram parvin,Organoid model of mammographic density displays a higher frequency of aberrant colony formations with radiation exposure,2020.0,1.0
 jiang hu,NextPolish: a fast and efficient genome polishing tool for long-read assembly,2020.0,14.0
@@ -11130,9 +10884,6 @@ e pascualcarreras,PlanExp: intuitive integration of complex RNA-seq datasets wit
 j f abril,PlanExp: intuitive integration of complex RNA-seq datasets with planarian omics resources,2020.0,7.0
 chuanqi wang,SINC: a scale-invariant deep-neural-network classifier for bulk and single-cell RNA-seq data,2020.0,
 jun li,SINC: a scale-invariant deep-neural-network classifier for bulk and single-cell RNA-seq data,2020.0,
-alencar xavier,bWGR: Bayesian whole-genome regression,2015.0,
-william m muir,bWGR: Bayesian whole-genome regression,2015.0,
-katy m rainey,bWGR: Bayesian whole-genome regression,2015.0,
 maureen kachman,Deep annotation of untargeted LC-MS metabolomics data with Binner,2020.0,7.0
 hani habra,Deep annotation of untargeted LC-MS metabolomics data with Binner,2020.0,7.0
 william duren,Deep annotation of untargeted LC-MS metabolomics data with Binner,2020.0,7.0
@@ -11513,8 +11264,6 @@ anjun ma,QUBIC2: a novel and robust biclustering algorithm for analyses and inte
 yu zhang,QUBIC2: a novel and robust biclustering algorithm for analyses and interpretation of large-scale RNA-Seq data,2020.0,14.0
 bingqiang liu,QUBIC2: a novel and robust biclustering algorithm for analyses and interpretation of large-scale RNA-Seq data,2020.0,14.0
 sha cao,QUBIC2: a novel and robust biclustering algorithm for analyses and interpretation of large-scale RNA-Seq data,2020.0,14.0
-anthony federico,hypeR: an R package for geneset enrichment workflows,2012.0,5095.0
-stefano monti,hypeR: an R package for geneset enrichment workflows,2012.0,5095.0
 conrad stork,NERDD: a web portal providing access to in silico tools for drug discovery,2020.0,1.0
 gerd embruch,NERDD: a web portal providing access to in silico tools for drug discovery,2020.0,1.0
 martin šícho,NERDD: a web portal providing access to in silico tools for drug discovery,2020.0,1.0
@@ -12105,10 +11854,6 @@ cong pian,MM-6mAPred: identifying DNA N6-methyladenine sites based on Markov mod
 guangle zhang,MM-6mAPred: identifying DNA N6-methyladenine sites based on Markov model,2020.0,19.0
 fei li,MM-6mAPred: identifying DNA N6-methyladenine sites based on Markov model,2020.0,19.0
 xiaodan fan,MM-6mAPred: identifying DNA N6-methyladenine sites based on Markov model,2020.0,19.0
-ran su,Identification of expression signatures for non-small-cell lung carcinoma subtype classification,2014.0,125.0
-jiahang zhang,Identification of expression signatures for non-small-cell lung carcinoma subtype classification,2014.0,125.0
-xiaofeng liu,Identification of expression signatures for non-small-cell lung carcinoma subtype classification,2014.0,125.0
-leyi wei,Identification of expression signatures for non-small-cell lung carcinoma subtype classification,2014.0,125.0
 bowen liu,MEpurity: estimating tumor purity using DNA methylation data,2019.0,2.0
 xiaofei yang,MEpurity: estimating tumor purity using DNA methylation data,2019.0,2.0
 tingjie wang,MEpurity: estimating tumor purity using DNA methylation data,2019.0,2.0
@@ -12173,11 +11918,6 @@ benjamin chidester,Rotation equivariant and invariant neural networks for micros
 tianming zhou,Rotation equivariant and invariant neural networks for microscopy image analysis,2019.0,4.0
 minh n do,Rotation equivariant and invariant neural networks for microscopy image analysis,2019.0,4.0
 jian ma,Rotation equivariant and invariant neural networks for microscopy image analysis,2019.0,4.0
-di wang,Artificial intelligence-based multi-objective optimization protocol for protein structure refinement,2021.0,
-ling geng,Artificial intelligence-based multi-objective optimization protocol for protein structure refinement,2021.0,
-yujun zhao,Artificial intelligence-based multi-objective optimization protocol for protein structure refinement,2021.0,
-yang yang,Artificial intelligence-based multi-objective optimization protocol for protein structure refinement,2021.0,
-yan huang,Artificial intelligence-based multi-objective optimization protocol for protein structure refinement,2021.0,
 krister m swenson,Large-scale mammalian genome rearrangements coincide with chromatin interactions,2019.0,2.0
 mathieu blanchette,Large-scale mammalian genome rearrangements coincide with chromatin interactions,2019.0,2.0
 erin k molloy,TreeMerge: a new method for improving the scalability of species tree estimation methods,2019.0,8.0
@@ -12186,16 +11926,6 @@ markus list,Large-scale inference of competing endogenous RNA networks with spar
 azim dehghani amirabad,Large-scale inference of competing endogenous RNA networks with sparse partial correlation,2019.0,7.0
 dennis kostka,Large-scale inference of competing endogenous RNA networks with sparse partial correlation,2019.0,7.0
 marcel h schulz,Large-scale inference of competing endogenous RNA networks with sparse partial correlation,2019.0,7.0
-sahand khakabimamaghani,Collaborative intra-tumor heterogeneity detection,2012.0,136.0
-salem malikic,Collaborative intra-tumor heterogeneity detection,2012.0,136.0
-jeffrey tang,Collaborative intra-tumor heterogeneity detection,2012.0,136.0
-dujian ding,Collaborative intra-tumor heterogeneity detection,2012.0,136.0
-ryan morin,Collaborative intra-tumor heterogeneity detection,2012.0,136.0
-markus heinonen,Bayesian metabolic flux analysis reveals intracellular flux couplings,2011.0,17.0
-maria osmala,Bayesian metabolic flux analysis reveals intracellular flux couplings,2011.0,17.0
-henrik mannerström,Bayesian metabolic flux analysis reveals intracellular flux couplings,2011.0,17.0
-janne wallenius,Bayesian metabolic flux analysis reveals intracellular flux couplings,2011.0,17.0
-samuel kaski,Bayesian metabolic flux analysis reveals intracellular flux couplings,2011.0,17.0
 jian zhang,SCRIBER: accurate and partner type-specific prediction of protein-binding residues from proteins sequences,2019.0,12.0
 lukasz kurgan,SCRIBER: accurate and partner type-specific prediction of protein-binding residues from proteins sequences,2019.0,12.0
 xiao yang,Alignment-free filtering for cfNA fusion fragments,2019.0,2.0
@@ -12269,10 +11999,6 @@ longhao yuan,Predicting drug-induced transcriptome responses of a wide range of 
 qibin zhao,Predicting drug-induced transcriptome responses of a wide range of human cell lines by a novel tensor-train decomposition algorithm,2019.0,7.0
 yasuo tabei,Predicting drug-induced transcriptome responses of a wide range of human cell lines by a novel tensor-train decomposition algorithm,2019.0,7.0
 francois berenger,Predicting drug-induced transcriptome responses of a wide range of human cell lines by a novel tensor-train decomposition algorithm,2019.0,7.0
-sayedrzgar hosseini,Estimating the predictability of cancer evolution,2015.0,1328.0
-ramon diazuriarte,Estimating the predictability of cancer evolution,2015.0,1328.0
-florian markowetz,Estimating the predictability of cancer evolution,2015.0,1328.0
-niko beerenwinkel,Estimating the predictability of cancer evolution,2015.0,1328.0
 azat m tagirdzhanov,NPS: scoring and evaluating the statistical significance of peptidic natural product–spectrum matches,2019.0,5.0
 alexander shlemov,NPS: scoring and evaluating the statistical significance of peptidic natural product–spectrum matches,2019.0,5.0
 alexey gurevich,NPS: scoring and evaluating the statistical significance of peptidic natural product–spectrum matches,2019.0,5.0
@@ -12372,8 +12098,6 @@ yan gao,TideHunter: efficient and sensitive tandem repeat detection from noisy l
 bo liu,TideHunter: efficient and sensitive tandem repeat detection from noisy long-reads using seed-and-chain,2019.0,7.0
 yadong wang,TideHunter: efficient and sensitive tandem repeat detection from noisy long-reads using seed-and-chain,2019.0,7.0
 yi xing,TideHunter: efficient and sensitive tandem repeat detection from noisy long-reads using seed-and-chain,2019.0,7.0
-andré hennig,Efficient merging of genome profile alignments,2010.0,2871.0
-kay nieselt,Efficient merging of genome profile alignments,2010.0,2871.0
 jiafan zhu,A divide-and-conquer method for scalable phylogenetic network inference from multilocus data,2019.0,11.0
 xinhao liu,A divide-and-conquer method for scalable phylogenetic network inference from multilocus data,2019.0,11.0
 huw a ogilvie,A divide-and-conquer method for scalable phylogenetic network inference from multilocus data,2019.0,11.0
@@ -12513,9 +12237,6 @@ adam kaplan,Bayesian GWAS with Structured and Non-Local Priors,2020.0,
 eric f lock,Bayesian GWAS with Structured and Non-Local Priors,2020.0,
 mark fiecas,Bayesian GWAS with Structured and Non-Local Priors,2020.0,
 for the alzheimer’s disease neuroimaging initiative,Bayesian GWAS with Structured and Non-Local Priors,2020.0,
-jennifer d warrender,A fully computational and reasonable representation for karyotypes,1505.0,13.0
-anthony v moorman,A fully computational and reasonable representation for karyotypes,1505.0,13.0
-phillip lord,A fully computational and reasonable representation for karyotypes,1505.0,13.0
 erwan bigan,Genetic cooperativity in multi-layer networks implicates cell survival and senescence in the striatum of Huntington’s disease mice synchronous to symptoms,2020.0,2.0
 satish sasidharan nair,Genetic cooperativity in multi-layer networks implicates cell survival and senescence in the striatum of Huntington’s disease mice synchronous to symptoms,2020.0,2.0
 françoisxavier lejeune,Genetic cooperativity in multi-layer networks implicates cell survival and senescence in the striatum of Huntington’s disease mice synchronous to symptoms,2020.0,2.0
@@ -12624,10 +12345,6 @@ sangwoo kim,BAMixChecker: an automated checkup tool for matched sample pairs in 
 muhsen hammoud,iTUPA: an online automated application to perform Topographic-Unit Parsimony Analysis,2019.0,1.0
 charles morphy d santos,iTUPA: an online automated application to perform Topographic-Unit Parsimony Analysis,2019.0,1.0
 joão paulo gois,iTUPA: an online automated application to perform Topographic-Unit Parsimony Analysis,2019.0,1.0
-seyed ali madani tonekaboni,SIGN: similarity identification in gene expression,2013.0,41.0
-venkata satya kumar manem,SIGN: similarity identification in gene expression,2013.0,41.0
-nehme elhachem,SIGN: similarity identification in gene expression,2013.0,41.0
-benjamin haibekains,SIGN: similarity identification in gene expression,2013.0,41.0
 audrey mauguen,Testing clonal relatedness of two tumors from the same patient based on their mutational profiles: update of the Clonality R package,2019.0,1.0
 venkatraman e seshan,Testing clonal relatedness of two tumors from the same patient based on their mutational profiles: update of the Clonality R package,2019.0,1.0
 colin b begg,Testing clonal relatedness of two tumors from the same patient based on their mutational profiles: update of the Clonality R package,2019.0,1.0
@@ -12680,18 +12397,6 @@ janet m thornton,VarMap: a web tool for mapping genomic coordinates to protein s
 sam f l windels,Graphlet Laplacians for topology-function and topology-disease relationships,2019.0,2.0
 noël maloddognin,Graphlet Laplacians for topology-function and topology-disease relationships,2019.0,2.0
 nataša pržulj,Graphlet Laplacians for topology-function and topology-disease relationships,2019.0,2.0
-christiana n fogg,2019 ISCB Overton Prize: Christophe Dessimoz,1000.0,
-ron shamir,2019 ISCB Overton Prize: Christophe Dessimoz,1000.0,
-diane e kovats,2019 ISCB Overton Prize: Christophe Dessimoz,1000.0,
-christiana n fogg,2019 ISCB Innovator Award Recognizes William Stafford Noble,1000.0,
-ron shamir,2019 ISCB Innovator Award Recognizes William Stafford Noble,1000.0,
-diane e kovats,2019 ISCB Innovator Award Recognizes William Stafford Noble,1000.0,
-christiana n fogg,Bonnie Berger named ISCB 2019 ISCB Accomplishments by a Senior Scientist Award recipient,1000.0,
-ron shamir,Bonnie Berger named ISCB 2019 ISCB Accomplishments by a Senior Scientist Award recipient,1000.0,
-diane e kovats,Bonnie Berger named ISCB 2019 ISCB Accomplishments by a Senior Scientist Award recipient,1000.0,
-christiana n fogg,2019 Outstanding Contributions to ISCB Awarded to Barb Bryant,1000.0,
-ron shamir,2019 Outstanding Contributions to ISCB Awarded to Barb Bryant,1000.0,
-diane e kovats,2019 Outstanding Contributions to ISCB Awarded to Barb Bryant,1000.0,
 ayelet peres,RAbHIT: R Antibody Haplotype Inference Tool,2020.0,10.0
 moriah gidoni,RAbHIT: R Antibody Haplotype Inference Tool,2020.0,10.0
 pazit polak,RAbHIT: R Antibody Haplotype Inference Tool,2020.0,10.0
@@ -12735,16 +12440,6 @@ yanchun liang,A dynamic programing approach to integrate gene expression data an
 duolin wang,A dynamic programing approach to integrate gene expression data and network information for pathway model generation,2020.0,4.0
 dong xu,A dynamic programing approach to integrate gene expression data and network information for pathway model generation,2020.0,4.0
 trupti joshi,A dynamic programing approach to integrate gene expression data and network information for pathway model generation,2020.0,4.0
-jing ma,WDSPdb: an updated resource for WD40 proteins,2015.0,63.0
-ke an,WDSPdb: an updated resource for WD40 proteins,2015.0,63.0
-jingbo zhou,WDSPdb: an updated resource for WD40 proteins,2015.0,63.0
-nuosi wu,WDSPdb: an updated resource for WD40 proteins,2015.0,63.0
-yang wang,WDSPdb: an updated resource for WD40 proteins,2015.0,63.0
-sébastien morin,relax: the analysis of biomolecular kinetics and thermodynamics using NMR relaxation dispersion data,2014.0,33.0
-troels e linnet,relax: the analysis of biomolecular kinetics and thermodynamics using NMR relaxation dispersion data,2014.0,33.0
-mathilde lescanne,relax: the analysis of biomolecular kinetics and thermodynamics using NMR relaxation dispersion data,2014.0,33.0
-paul schanda,relax: the analysis of biomolecular kinetics and thermodynamics using NMR relaxation dispersion data,2014.0,33.0
-gary s thompson,relax: the analysis of biomolecular kinetics and thermodynamics using NMR relaxation dispersion data,2014.0,33.0
 joanna zyla,Gene set enrichment for reproducible science: comparison of CERNO and eight other algorithms,2019.0,26.0
 michal marczyk,Gene set enrichment for reproducible science: comparison of CERNO and eight other algorithms,2019.0,26.0
 teresa domaszewska,Gene set enrichment for reproducible science: comparison of CERNO and eight other algorithms,2019.0,26.0
@@ -12915,11 +12610,6 @@ arttu miettinen,NRStitcher: non-rigid stitching of terapixel-scale volumetric im
 ioannis vogiatzis oikonomidis,NRStitcher: non-rigid stitching of terapixel-scale volumetric images,2019.0,9.0
 anne bonnin,NRStitcher: non-rigid stitching of terapixel-scale volumetric images,2019.0,9.0
 marco stampanoni,NRStitcher: non-rigid stitching of terapixel-scale volumetric images,2019.0,9.0
-shahar alon,Corrigendum to: A new cis-acting regulatory element driving gene expression in the zebrafish pineal gland,2009.0,14.0
-eli eisenberg,Corrigendum to: A new cis-acting regulatory element driving gene expression in the zebrafish pineal gland,2009.0,14.0
-jasmine jacobhirsch,Corrigendum to: A new cis-acting regulatory element driving gene expression in the zebrafish pineal gland,2009.0,14.0
-gideon rechavi,Corrigendum to: A new cis-acting regulatory element driving gene expression in the zebrafish pineal gland,2009.0,14.0
-gad vatine,Corrigendum to: A new cis-acting regulatory element driving gene expression in the zebrafish pineal gland,2009.0,14.0
 leyi wei,Iterative feature representations improve N4-methylcytosine site prediction,2019.0,54.0
 ran su,Iterative feature representations improve N4-methylcytosine site prediction,2019.0,54.0
 shasha luan,Iterative feature representations improve N4-methylcytosine site prediction,2019.0,54.0
@@ -13042,9 +12732,6 @@ petar v todorov,INDRA-IPM: interactive pathway modeling using natural language w
 benjamin m gyori,INDRA-IPM: interactive pathway modeling using natural language with automated assembly,2019.0,10.0
 john a bachman,INDRA-IPM: interactive pathway modeling using natural language with automated assembly,2019.0,10.0
 peter k sorger,INDRA-IPM: interactive pathway modeling using natural language with automated assembly,2019.0,10.0
-páll melsted,"The barcode, UMI, set format and BUStools",1000.0,2.0
-vasilis ntranos,"The barcode, UMI, set format and BUStools",1000.0,2.0
-lior pachter,"The barcode, UMI, set format and BUStools",1000.0,2.0
 luis g leal,Identification of disease-associated loci using machine learning for genotype and network data integration,2019.0,5.0
 alessia david,Identification of disease-associated loci using machine learning for genotype and network data integration,2019.0,5.0
 marjoriita jarvelin,Identification of disease-associated loci using machine learning for genotype and network data integration,2019.0,5.0
@@ -13142,9 +12829,6 @@ juanita gil,NGSEP3: accurate variant calling across species and sequencing proto
 cristian d loaiza,NGSEP3: accurate variant calling across species and sequencing protocols,2019.0,13.0
 john j riascos,NGSEP3: accurate variant calling across species and sequencing protocols,2019.0,13.0
 nicolás cardozo,NGSEP3: accurate variant calling across species and sequencing protocols,2019.0,13.0
-ahmad borzou,Another look at matrix correlations,1971.0,303.0
-razie yousefi,Another look at matrix correlations,1971.0,303.0
-rovshan g sadygov,Another look at matrix correlations,1971.0,303.0
 ashraful arefeen,DeepPASTA: deep neural network based polyadenylation site analysis,2019.0,6.0
 xinshu xiao,DeepPASTA: deep neural network based polyadenylation site analysis,2019.0,6.0
 tao jiang,DeepPASTA: deep neural network based polyadenylation site analysis,2019.0,6.0
@@ -13241,11 +12925,6 @@ peter m roth,Biomedical image augmentation using Augmentor,2020.0,176.0
 andreas holzinger,Biomedical image augmentation using Augmentor,2020.0,176.0
 ramesh rajaby,SurVIndel: improving CNV calling from high-throughput sequencing data through statistical testing,2019.0,1.0
 wingkin sung,SurVIndel: improving CNV calling from high-throughput sequencing data through statistical testing,2019.0,1.0
-a oliva,Accounting for ambiguity in ancestral sequence reconstruction,1000.0,105.0
-s pulicani,Accounting for ambiguity in ancestral sequence reconstruction,1000.0,105.0
-v lefort,Accounting for ambiguity in ancestral sequence reconstruction,1000.0,105.0
-l bréhélin,Accounting for ambiguity in ancestral sequence reconstruction,1000.0,105.0
-o gascuel,Accounting for ambiguity in ancestral sequence reconstruction,1000.0,105.0
 jussi gillberg,Modelling G×E with historical weather information improves genomic prediction in new environments,2019.0,6.0
 pekka marttinen,Modelling G×E with historical weather information improves genomic prediction in new environments,2019.0,6.0
 hiroshi mamitsuka,Modelling G×E with historical weather information improves genomic prediction in new environments,2019.0,6.0
@@ -13288,9 +12967,6 @@ vassilis kalantzis,TeraPCA: a fast and scalable software package to study geneti
 eugeniamaria kontopoulou,TeraPCA: a fast and scalable software package to study genetic variation in tera-scale genotypes,2019.0,9.0
 mai elkady,TeraPCA: a fast and scalable software package to study genetic variation in tera-scale genotypes,2019.0,9.0
 peristera paschou,TeraPCA: a fast and scalable software package to study genetic variation in tera-scale genotypes,2019.0,9.0
-pengyuan li,Figure and caption extraction from biomedical documents,2008.0,120.0
-xiangying jiang,Figure and caption extraction from biomedical documents,2008.0,120.0
-hagit shatkay,Figure and caption extraction from biomedical documents,2008.0,120.0
 alberto magi,Nano-GLADIATOR: real-time detection of copy number alterations from nanopore sequencing data,2019.0,5.0
 davide bolognini,Nano-GLADIATOR: real-time detection of copy number alterations from nanopore sequencing data,2019.0,5.0
 niccoló bartalucci,Nano-GLADIATOR: real-time detection of copy number alterations from nanopore sequencing data,2019.0,5.0
@@ -13457,11 +13133,6 @@ reshmi ramakrishnan,Differential proteostatic regulation of insoluble and abunda
 bert houben,Differential proteostatic regulation of insoluble and abundant proteins,2019.0,2.0
 frederic rousseau,Differential proteostatic regulation of insoluble and abundant proteins,2019.0,2.0
 joost schymkowitz,Differential proteostatic regulation of insoluble and abundant proteins,2019.0,2.0
-timo m deist,Simulation-assisted machine learning,2008.0,84.0
-andrew patti,Simulation-assisted machine learning,2008.0,84.0
-zhaoqi wang,Simulation-assisted machine learning,2008.0,84.0
-david krane,Simulation-assisted machine learning,2008.0,84.0
-taylor sorenson,Simulation-assisted machine learning,2008.0,84.0
 malik yousef,maTE: discovering expressed interactions between microRNAs and their targets,2019.0,2.0
 loai abdallah,maTE: discovering expressed interactions between microRNAs and their targets,2019.0,2.0
 jens allmer,maTE: discovering expressed interactions between microRNAs and their targets,2019.0,2.0
@@ -13489,10 +13160,6 @@ javier delgado,"FoldX 5.0: working with RNA, small molecules and a new graphical
 leandro g radusky,"FoldX 5.0: working with RNA, small molecules and a new graphical interface",2019.0,33.0
 damiano cianferoni,"FoldX 5.0: working with RNA, small molecules and a new graphical interface",2019.0,33.0
 luis serrano,"FoldX 5.0: working with RNA, small molecules and a new graphical interface",2019.0,33.0
-insha ullah,Significance tests for analyzing gene expression data with small sample sizes,2007.0,822.0
-sudhir paul,Significance tests for analyzing gene expression data with small sample sizes,2007.0,822.0
-zhenjie hong,Significance tests for analyzing gene expression data with small sample sizes,2007.0,822.0
-yougan wang,Significance tests for analyzing gene expression data with small sample sizes,2007.0,822.0
 bruno henrique ribeiro da fonseca,mirtronDB: a mirtron knowledge base,2019.0,5.0
 douglas silva domingues,mirtronDB: a mirtron knowledge base,2019.0,5.0
 alexandre rossi paschoal,mirtronDB: a mirtron knowledge base,2019.0,5.0
@@ -13933,9 +13600,6 @@ maja zagorščak,IGLOSS: iterative gapless local similarity search,2019.0,
 strahil ristov,IGLOSS: iterative gapless local similarity search,2019.0,
 martin rosenzweig,IGLOSS: iterative gapless local similarity search,2019.0,
 pavle goldstein,IGLOSS: iterative gapless local similarity search,2019.0,
-wei zhang,Classifying tumors by supervised network propagation,2011.0,72.0
-jianzhu ma,Classifying tumors by supervised network propagation,2011.0,72.0
-trey ideker,Classifying tumors by supervised network propagation,2011.0,72.0
 alla mikheenko,Assembly Graph Browser: interactive visualization of assembly graphs,2019.0,5.0
 mikhail kolmogorov,Assembly Graph Browser: interactive visualization of assembly graphs,2019.0,5.0
 diogo b lima,Top-Down Garbage Collector: a tool for selecting high-quality top-down proteomics mass spectra,2019.0,2.0
@@ -14026,10 +13690,6 @@ huihui wang,The interplay between microRNA and alternative splicing of linear an
 hangxiao zhang,The interplay between microRNA and alternative splicing of linear and circular RNAs in eleven plant species,2019.0,8.0
 sheng liu,The interplay between microRNA and alternative splicing of linear and circular RNAs in eleven plant species,2019.0,8.0
 yongsheng wang,The interplay between microRNA and alternative splicing of linear and circular RNAs in eleven plant species,2019.0,8.0
-huy n nguyen,Tracing the ancestry of operons in bacteria,2003.0,23.0
-ashish jain,Tracing the ancestry of operons in bacteria,2003.0,23.0
-oliver eulenstein,Tracing the ancestry of operons in bacteria,2003.0,23.0
-iddo friedberg,Tracing the ancestry of operons in bacteria,2003.0,23.0
 mark r zucker,Inferring clonal heterogeneity in cancer using SNP arrays and whole genome sequencing,2019.0,1.0
 lynne v abruzzo,Inferring clonal heterogeneity in cancer using SNP arrays and whole genome sequencing,2019.0,1.0
 carmen d herling,Inferring clonal heterogeneity in cancer using SNP arrays and whole genome sequencing,2019.0,1.0
@@ -14040,11 +13700,6 @@ dongbo bu,Best-first search guided multistage mass spectrometry-based glycan ide
 chuncui huang,Best-first search guided multistage mass spectrometry-based glycan identification,2019.0,2.0
 hui wang,Best-first search guided multistage mass spectrometry-based glycan identification,2019.0,2.0
 jinyu zhou,Best-first search guided multistage mass spectrometry-based glycan identification,2019.0,2.0
-oskari timonen,Varanto: variant enrichment analysis and annotation,2015.0,
-mikko särkkä,Varanto: variant enrichment analysis and annotation,2015.0,
-tibor fülöp,Varanto: variant enrichment analysis and annotation,2015.0,
-anton mattsson,Varanto: variant enrichment analysis and annotation,2015.0,
-juha kekäläinen,Varanto: variant enrichment analysis and annotation,2015.0,
 xiaofei zhang,DiffNetFDR: differential network analysis with false discovery rate control,2019.0,5.0
 le ouyang,DiffNetFDR: differential network analysis with false discovery rate control,2019.0,5.0
 shuo yang,DiffNetFDR: differential network analysis with false discovery rate control,2019.0,5.0
@@ -14076,11 +13731,6 @@ bing wang,InterMineR: an R package for InterMine databases,2020.0,
 julie sullivan,InterMineR: an R package for InterMine databases,2020.0,
 rachel lyne,InterMineR: an R package for InterMine databases,2020.0,
 gos micklem,InterMineR: an R package for InterMine databases,2020.0,
-marzia a cremona,Functional data analysis for computational biology,1999.0,286.0
-hongyan xu,Functional data analysis for computational biology,1999.0,286.0
-kateryna d makova,Functional data analysis for computational biology,1999.0,286.0
-matthew reimherr,Functional data analysis for computational biology,1999.0,286.0
-francesca chiaromonte,Functional data analysis for computational biology,1999.0,286.0
 yang zhang,RIscoper: a tool for RNA–RNA interaction extraction from the literature,2019.0,13.0
 tianyuan liu,RIscoper: a tool for RNA–RNA interaction extraction from the literature,2019.0,13.0
 liqun chen,RIscoper: a tool for RNA–RNA interaction extraction from the literature,2019.0,13.0
@@ -14477,8 +14127,6 @@ erika n dort,Supervised learning on phylogenetically distributed data,2020.0,9.0
 richard hamelin,Supervised learning on phylogenetically distributed data,2020.0,9.0
 yue li,Supervised learning on phylogenetically distributed data,2020.0,9.0
 mathieu blanchette,Supervised learning on phylogenetically distributed data,2020.0,9.0
-david merrell,Inferring signaling pathways with probabilistic programming,2009.0,2.0
-anthony gitter,Inferring signaling pathways with probabilistic programming,2009.0,2.0
 yahui long,Ensembling graph attention networks for human microbe–drug association prediction,2020.0,
 min wu,Ensembling graph attention networks for human microbe–drug association prediction,2020.0,
 yong liu,Ensembling graph attention networks for human microbe–drug association prediction,2020.0,
@@ -14564,11 +14212,6 @@ stefan canzar,BiCoN: Network-constrained biclustering of patients and omics data
 kevin yuan,BiCoN: Network-constrained biclustering of patients and omics data,2020.0,1.0
 jan baumbach,BiCoN: Network-constrained biclustering of patients and omics data,2020.0,1.0
 david b blumenthal,BiCoN: Network-constrained biclustering of patients and omics data,2020.0,1.0
-e s zhvansky,The software for interactive evaluation of mass spectra stability and reproducibility,2015.0,1.0
-a a sorokin,The software for interactive evaluation of mass spectra stability and reproducibility,2015.0,1.0
-d s bormotov,The software for interactive evaluation of mass spectra stability and reproducibility,2015.0,1.0
-k v bocharov,The software for interactive evaluation of mass spectra stability and reproducibility,2015.0,1.0
-d s zavorotnyuk,The software for interactive evaluation of mass spectra stability and reproducibility,2015.0,1.0
 georgios iakovou,DockIT: a tool for interactive molecular docking and molecular complex construction,2020.0,
 mousa alhazzazi,DockIT: a tool for interactive molecular docking and molecular complex construction,2020.0,
 steven hayward,DockIT: a tool for interactive molecular docking and molecular complex construction,2020.0,
@@ -14692,9 +14335,6 @@ damiano piovesan,MobiDB-lite 3.0: fast consensus annotation of intrinsic disorde
 damiano clementel,MobiDB-lite 3.0: fast consensus annotation of intrinsic disorder flavors in proteins,2020.0,
 zsuzsanna dosztányi,MobiDB-lite 3.0: fast consensus annotation of intrinsic disorder flavors in proteins,2020.0,
 silvio c e tosatto,MobiDB-lite 3.0: fast consensus annotation of intrinsic disorder flavors in proteins,2020.0,
-florian privé,"LDpred2: better, faster, stronger",2013.0,79.0
-julyan arbel,"LDpred2: better, faster, stronger",2013.0,79.0
-bjarni j vilhjálmsson,"LDpred2: better, faster, stronger",2013.0,79.0
 daniel munro,DeMaSk: a deep mutational scanning substitution matrix and its use for variant impact prediction,2020.0,
 mona singh,DeMaSk: a deep mutational scanning substitution matrix and its use for variant impact prediction,2020.0,
 olga zolotareva,Identification Of Differentially Expressed Gene Modules In Heterogeneous Diseases,2020.0,
@@ -14724,9 +14364,6 @@ shubham chandak,Impact of lossy compression of nanopore raw signal data on basec
 kedar tatwawadi,Impact of lossy compression of nanopore raw signal data on basecalling and consensus accuracy,2020.0,
 srivatsan sridhar,Impact of lossy compression of nanopore raw signal data on basecalling and consensus accuracy,2020.0,
 tsachy weissman,Impact of lossy compression of nanopore raw signal data on basecalling and consensus accuracy,2020.0,
-uriel singer,On biases of attention in scientific discovery,2015.0,123.0
-kira radinsky,On biases of attention in scientific discovery,2015.0,123.0
-eric horvitz,On biases of attention in scientific discovery,2015.0,123.0
 s sinisi,Complete populations of virtual patients for in silico clinical trials,2020.0,1.0
 v alimguzhin,Complete populations of virtual patients for in silico clinical trials,2020.0,1.0
 t mancini,Complete populations of virtual patients for in silico clinical trials,2020.0,1.0
@@ -14735,8 +14372,6 @@ b leeners,Complete populations of virtual patients for in silico clinical trials
 giuseppe sgroi,PETAL: a Python tool for deep analysis of biological pathways,2020.0,
 giulia russo,PETAL: a Python tool for deep analysis of biological pathways,2020.0,
 francesco pappalardo,PETAL: a Python tool for deep analysis of biological pathways,2020.0,
-alaina shumate,Liftoff: accurate mapping of gene annotations,2013.0,1.0
-steven l salzberg,Liftoff: accurate mapping of gene annotations,2013.0,1.0
 dongshunyi li,Identifying signaling genes in spatial single-cell expression data,2020.0,1.0
 jun ding,Identifying signaling genes in spatial single-cell expression data,2020.0,1.0
 ziv barjoseph,Identifying signaling genes in spatial single-cell expression data,2020.0,1.0
@@ -14759,11 +14394,6 @@ marina sirota,dittoSeq: universal user-friendly single-cell and bulk RNA sequenc
 richard h adams,PhyloWGA: chromosome-aware phylogenetic interrogation of whole genome alignments,2020.0,
 todd a castoe,PhyloWGA: chromosome-aware phylogenetic interrogation of whole genome alignments,2020.0,
 michael degiorgio,PhyloWGA: chromosome-aware phylogenetic interrogation of whole genome alignments,2020.0,
-kexin huang,DeepPurpose: a deep learning library for drug–target interaction prediction,2004.0,2.0
-tianfan fu,DeepPurpose: a deep learning library for drug–target interaction prediction,2004.0,2.0
-lucas m glass,DeepPurpose: a deep learning library for drug–target interaction prediction,2004.0,2.0
-marinka zitnik,DeepPurpose: a deep learning library for drug–target interaction prediction,2004.0,2.0
-cao xiao,DeepPurpose: a deep learning library for drug–target interaction prediction,2004.0,2.0
 jesper beltoft lund,EWASex: an efficient R-package to predict sex in epigenome-wide association studies,2020.0,
 weilong li,EWASex: an efficient R-package to predict sex in epigenome-wide association studies,2020.0,
 afsaneh mohammadnejad,EWASex: an efficient R-package to predict sex in epigenome-wide association studies,2020.0,
@@ -14803,9 +14433,6 @@ sreeram kannan,QAlign: aligning nanopore reads accurately using current-level mo
 suhas diggavi,QAlign: aligning nanopore reads accurately using current-level modeling,2019.0,
 arthur m lesk,Neighbourhoods in the yeast regulatory network in different physiological states,2020.0,
 arun s konagurthu,Neighbourhoods in the yeast regulatory network in different physiological states,2020.0,
-benjamin hsu,Autoregressive modeling and diagnostics for qPCR amplification,2003.0,170.0
-valeriia sherina,Autoregressive modeling and diagnostics for qPCR amplification,2003.0,170.0
-matthew n mccall,Autoregressive modeling and diagnostics for qPCR amplification,2003.0,170.0
 michael f lin,Sparse project VCF: efficient encoding of population genotype matrices,2020.0,2.0
 xiaodong bai,Sparse project VCF: efficient encoding of population genotype matrices,2020.0,2.0
 william j salerno,Sparse project VCF: efficient encoding of population genotype matrices,2020.0,2.0
@@ -14826,9 +14453,6 @@ dongyu xue,FL-QSAR: a federated learning-based QSAR prototype for collaborative 
 guohui chuai,FL-QSAR: a federated learning-based QSAR prototype for collaborative drug discovery,2020.0,2.0
 qiang yang,FL-QSAR: a federated learning-based QSAR prototype for collaborative drug discovery,2020.0,2.0
 qi liu,FL-QSAR: a federated learning-based QSAR prototype for collaborative drug discovery,2020.0,2.0
-markus ekvall,Parallelized calculation of permutation tests,2015.0,
-michael höhle,Parallelized calculation of permutation tests,2015.0,
-lukas käll,Parallelized calculation of permutation tests,2015.0,
 a s rifaioglu,MDeePred: novel multi-channel protein featurization for deep learning-based binding affinity prediction in drug discovery,2020.0,1.0
 r cetin atalay,MDeePred: novel multi-channel protein featurization for deep learning-based binding affinity prediction in drug discovery,2020.0,1.0
 d cansen kahraman,MDeePred: novel multi-channel protein featurization for deep learning-based binding affinity prediction in drug discovery,2020.0,1.0
@@ -14928,13 +14552,6 @@ xiaofeng zhu,An iterative approach to detect pleiotropy and perform Mendelian Ra
 xiaoyin li,An iterative approach to detect pleiotropy and perform Mendelian Randomization analysis using GWAS summary statistics,2020.0,2.0
 rong xu,An iterative approach to detect pleiotropy and perform Mendelian Randomization analysis using GWAS summary statistics,2020.0,2.0
 tao wang,An iterative approach to detect pleiotropy and perform Mendelian Randomization analysis using GWAS summary statistics,2020.0,2.0
-priyesh agrawal,A machine learning-based method for prediction of macrocyclization patterns of polyketides and non-ribosomal peptides,2009.0,306.0
-debasisa mohanty,A machine learning-based method for prediction of macrocyclization patterns of polyketides and non-ribosomal peptides,2009.0,306.0
-santi santichaivekin,eMPRess: a systematic cophylogeny reconciliation tool,2010.0,72.0
-qing yang,eMPRess: a systematic cophylogeny reconciliation tool,2010.0,72.0
-jingyi liu,eMPRess: a systematic cophylogeny reconciliation tool,2010.0,72.0
-ross mawhorter,eMPRess: a systematic cophylogeny reconciliation tool,2010.0,72.0
-justin jiang,eMPRess: a systematic cophylogeny reconciliation tool,2010.0,72.0
 zhuohang yu,MetaADEDB 2.0: a comprehensive database on adverse drug events,2020.0,
 zengrui wu,MetaADEDB 2.0: a comprehensive database on adverse drug events,2020.0,
 weihua li,MetaADEDB 2.0: a comprehensive database on adverse drug events,2020.0,
@@ -14965,9 +14582,6 @@ emilio centeno,"A system-level analysis of patient disease trajectories based on
 miguelangel mayer,"A system-level analysis of patient disease trajectories based on clinical, phenotypic and molecular similarities",2020.0,
 ferran sanz,"A system-level analysis of patient disease trajectories based on clinical, phenotypic and molecular similarities",2020.0,
 laura i furlong,"A system-level analysis of patient disease trajectories based on clinical, phenotypic and molecular similarities",2020.0,
-francesco bardozzo,Signal metrics analysis of oscillatory patterns in bacterial multi-omic networks,2008.0,
-pietro lió,Signal metrics analysis of oscillatory patterns in bacterial multi-omic networks,2008.0,
-roberto tagliaferri,Signal metrics analysis of oscillatory patterns in bacterial multi-omic networks,2008.0,
 jiannan liu,CGPE: an integrated online server for Cancer Gene and Pathway Exploration,2020.0,
 chuanpeng dong,CGPE: an integrated online server for Cancer Gene and Pathway Exploration,2020.0,
 yunlong liu,CGPE: an integrated online server for Cancer Gene and Pathway Exploration,2020.0,
@@ -15090,9 +14704,6 @@ chong chu,HiTea: a computational pipeline to identify non-reference transposable
 burak han alver,HiTea: a computational pipeline to identify non-reference transposable element insertions in Hi-C data,2020.0,
 soohyun lee,HiTea: a computational pipeline to identify non-reference transposable element insertions in Hi-C data,2020.0,
 eunjung alice lee,HiTea: a computational pipeline to identify non-reference transposable element insertions in Hi-C data,2020.0,
-julio aracena,Finding the fixed points of a Boolean network from a positive feedback vertex set,2004.0,
-luis cabreracrot,Finding the fixed points of a Boolean network from a positive feedback vertex set,2004.0,
-lilian salinas,Finding the fixed points of a Boolean network from a positive feedback vertex set,2004.0,
 l baumgartner,Simulating intervertebral disc cell behaviour within 3D multifactorial environments,2019.0,1.0
 j j reagh,Simulating intervertebral disc cell behaviour within 3D multifactorial environments,2019.0,1.0
 m a gonzález ballester,Simulating intervertebral disc cell behaviour within 3D multifactorial environments,2019.0,1.0
@@ -15142,10 +14753,6 @@ xuanbai ren,iEnhancer-XG: interpretable sequence-based enhancers and their stren
 xiangzheng fu,iEnhancer-XG: interpretable sequence-based enhancers and their strength predictor,2020.0,
 li peng,iEnhancer-XG: interpretable sequence-based enhancers and their strength predictor,2020.0,
 mingyu gao,iEnhancer-XG: interpretable sequence-based enhancers and their strength predictor,2020.0,
-xin bai,KIMI: Knockoff Inference for Motif Identification from molecular sequences with controlled false discovery rate,2015.0,
-jie ren,KIMI: Knockoff Inference for Motif Identification from molecular sequences with controlled false discovery rate,2015.0,
-yingying fan,KIMI: Knockoff Inference for Motif Identification from molecular sequences with controlled false discovery rate,2015.0,
-fengzhu sun,KIMI: Knockoff Inference for Motif Identification from molecular sequences with controlled false discovery rate,2015.0,
 nan hao,Paternal reprogramming-escape histone H3K4me3 marks located within promoters of RNA splicing genes,2020.0,
 huawei xin,Paternal reprogramming-escape histone H3K4me3 marks located within promoters of RNA splicing genes,2020.0,
 xiaowei shi,Paternal reprogramming-escape histone H3K4me3 marks located within promoters of RNA splicing genes,2020.0,
@@ -15210,9 +14817,6 @@ ahmet sureyya rifaioglu,iBioProVis: interactive visualization and analysis of co
 aybar acar,iBioProVis: interactive visualization and analysis of compound bioactivity space,2020.0,2.0
 tunca doğan,iBioProVis: interactive visualization and analysis of compound bioactivity space,2020.0,2.0
 rengul cetinatalay,iBioProVis: interactive visualization and analysis of compound bioactivity space,2020.0,2.0
-baoshan ma,Inference of gene regulatory networks based on nonlinear ordinary differential equations,2014.0,99.0
-mingkun fang,Inference of gene regulatory networks based on nonlinear ordinary differential equations,2014.0,99.0
-xiangtian jiao,Inference of gene regulatory networks based on nonlinear ordinary differential equations,2014.0,99.0
 chen chen,GNET2: an R package for constructing gene regulatory networks from transcriptomic data,2020.0,
 jie hou,GNET2: an R package for constructing gene regulatory networks from transcriptomic data,2020.0,
 xiaowen shi,GNET2: an R package for constructing gene regulatory networks from transcriptomic data,2020.0,
@@ -15264,10 +14868,6 @@ peng liu,Unpaired data empowers association tests,2017.0,54.0
 frank c sciurba,Unpaired data empowers association tests,2017.0,54.0
 petar stojanov,Unpaired data empowers association tests,2017.0,54.0
 dacheng tao,Unpaired data empowers association tests,2017.0,54.0
-kexin huang,MolTrans: Molecular Interaction Transformer for drug–target interaction prediction,2004.0,
-cao xiao,MolTrans: Molecular Interaction Transformer for drug–target interaction prediction,2004.0,
-lucas m glass,MolTrans: Molecular Interaction Transformer for drug–target interaction prediction,2004.0,
-jimeng sun,MolTrans: Molecular Interaction Transformer for drug–target interaction prediction,2004.0,
 rajeeva musunuri,Somatic variant analysis of linked-reads sequencing data with Lancet,2020.0,
 kanika arora,Somatic variant analysis of linked-reads sequencing data with Lancet,2020.0,
 andré corvelo,Somatic variant analysis of linked-reads sequencing data with Lancet,2020.0,
@@ -15310,9 +14910,6 @@ j agustin cruz,dNEMO: a tool for quantification of mRNA and punctate structures 
 yue guo,dNEMO: a tool for quantification of mRNA and punctate structures in time-lapse images of single cells,2019.0,1.0
 qiuhong zhang,dNEMO: a tool for quantification of mRNA and punctate structures in time-lapse images of single cells,2019.0,1.0
 natalie sauerwald,dNEMO: a tool for quantification of mRNA and punctate structures in time-lapse images of single cells,2019.0,1.0
-julie jiang,Learning graph representations of biochemical networks and its application to enzymatic link prediction,2002.0,
-liping liu,Learning graph representations of biochemical networks and its application to enzymatic link prediction,2002.0,
-soha hassoun,Learning graph representations of biochemical networks and its application to enzymatic link prediction,2002.0,
 esaie kuitche,DoubleRecViz: a web-based tool for visualizing transcript–gene–species tree reconciliation,2020.0,
 yanchun qi,DoubleRecViz: a web-based tool for visualizing transcript–gene–species tree reconciliation,2020.0,
 nadia tahiri,DoubleRecViz: a web-based tool for visualizing transcript–gene–species tree reconciliation,2020.0,
@@ -15340,8 +14937,6 @@ johann f jadebeck,HOPS: high-performance library for (non-)uniform sampling of c
 axel theorell,HOPS: high-performance library for (non-)uniform sampling of convex-constrained models,2020.0,
 samuel leweke,HOPS: high-performance library for (non-)uniform sampling of convex-constrained models,2020.0,
 katharina nöh,HOPS: high-performance library for (non-)uniform sampling of convex-constrained models,2020.0,
-shijia wang,Particle Gibbs sampling for Bayesian phylogenetic inference,2012.0,9.0
-liangliang wang,Particle Gibbs sampling for Bayesian phylogenetic inference,2012.0,9.0
 john a rhodes,MSCquartets 1.0: Quartet methods for species trees and networks under the multispecies coalescent model in R,2020.0,
 hector baños,MSCquartets 1.0: Quartet methods for species trees and networks under the multispecies coalescent model in R,2020.0,
 jonathan d mitchell,MSCquartets 1.0: Quartet methods for species trees and networks under the multispecies coalescent model in R,2020.0,
@@ -15430,9 +15025,6 @@ shanwen sun,BP4RNAseq: a babysitter package for retrospective and newly generate
 lei xu,BP4RNAseq: a babysitter package for retrospective and newly generated RNA-seq data analyses using both alignment-based and alignment-free quantification method,2020.0,
 quan zou,BP4RNAseq: a babysitter package for retrospective and newly generated RNA-seq data analyses using both alignment-based and alignment-free quantification method,2020.0,
 guohua wang,BP4RNAseq: a babysitter package for retrospective and newly generated RNA-seq data analyses using both alignment-based and alignment-free quantification method,2020.0,
-tao jiang,Knockoff boosted tree for model-free variable selection,2002.0,
-yuanyuan li,Knockoff boosted tree for model-free variable selection,2002.0,
-alison a motsingerreif,Knockoff boosted tree for model-free variable selection,2002.0,
 hongdong li,IsoResolve: predicting splice isoform functions by integrating gene and isoform-level features with domain adaptation,2020.0,
 changhuo yang,IsoResolve: predicting splice isoform functions by integrating gene and isoform-level features with domain adaptation,2020.0,
 zhimin zhang,IsoResolve: predicting splice isoform functions by integrating gene and isoform-level features with domain adaptation,2020.0,
@@ -15798,18 +15390,11 @@ adán myers y gutiérrez,A public website for the automated assessment and valid
 karen davenport,A public website for the automated assessment and validation of SARS-CoV-2 diagnostic PCR assays,2020.0,
 mark flynn,A public website for the automated assessment and validation of SARS-CoV-2 diagnostic PCR assays,2020.0,
 bin hu,A public website for the automated assessment and validation of SARS-CoV-2 diagnostic PCR assays,2020.0,
-florian mock,"VIDHOP, viral host prediction with deep learning",2021.0,3.0
-adrian viehweger,"VIDHOP, viral host prediction with deep learning",2021.0,3.0
-emanuel barth,"VIDHOP, viral host prediction with deep learning",2021.0,3.0
-manja marz,"VIDHOP, viral host prediction with deep learning",2021.0,3.0
 liya wang,BSAseq: an interactive and integrated web-based workflow for identification of causal mutations in bulked F2 populations,2020.0,
 zhenyuan lu,BSAseq: an interactive and integrated web-based workflow for identification of causal mutations in bulked F2 populations,2020.0,
 michael regulski,BSAseq: an interactive and integrated web-based workflow for identification of causal mutations in bulked F2 populations,2020.0,
 yinping jiao,BSAseq: an interactive and integrated web-based workflow for identification of causal mutations in bulked F2 populations,2020.0,
 junping chen,BSAseq: an interactive and integrated web-based workflow for identification of causal mutations in bulked F2 populations,2020.0,
-oliver watson,A semi-supervised learning framework for quantitative structure–activity regression modelling,2001.0,
-isidro cortesciriano,A semi-supervised learning framework for quantitative structure–activity regression modelling,2001.0,
-james a watson,A semi-supervised learning framework for quantitative structure–activity regression modelling,2001.0,
 shixu he,SOAPMetaS: profiling large metagenome datasets efficiently on distributed clusters,2020.0,
 zhibo huang,SOAPMetaS: profiling large metagenome datasets efficiently on distributed clusters,2020.0,
 xiaohan wang,SOAPMetaS: profiling large metagenome datasets efficiently on distributed clusters,2020.0,
@@ -15893,10 +15478,6 @@ samuel melton,Discovering a sparse set of pairwise discriminating features in hi
 sharad ramanathan,Discovering a sparse set of pairwise discriminating features in high-dimensional data,2019.0,
 diogo pratas,Persistent minimal sequences of SARS-CoV-2,2020.0,30.0
 jorge m silva,Persistent minimal sequences of SARS-CoV-2,2020.0,30.0
-yasin ilkagan tepeli,PAMOGK: a pathway graph kernel-based multiomics approach for patient clustering,2021.0,
-ali burak ünal,PAMOGK: a pathway graph kernel-based multiomics approach for patient clustering,2021.0,
-furkan mustafa akdemir,PAMOGK: a pathway graph kernel-based multiomics approach for patient clustering,2021.0,
-oznur tastan,PAMOGK: a pathway graph kernel-based multiomics approach for patient clustering,2021.0,
 gustavo hernandezmejia,Uncovering antibody cross-reaction dynamics in influenza A infections,2020.0,2.0
 esteban a hernandezvargas,Uncovering antibody cross-reaction dynamics in influenza A infections,2020.0,2.0
 cunmei ji,AEMDA: inferring miRNA–disease associations based on deep autoencoder,2020.0,1.0
@@ -15959,10 +15540,6 @@ steven j hallam,Hive Panel Explorer: an interactive network visualization tool,2
 prashant singh,Scalable machine learning-assisted model exploration and inference using Sciope,2020.0,
 fredrik wrede,Scalable machine learning-assisted model exploration and inference using Sciope,2020.0,
 andreas hellander,Scalable machine learning-assisted model exploration and inference using Sciope,2020.0,
-august e woerner,Numt identification and removal with RtN!,2012.0,101.0
-jennifer churchill cihlar,Numt identification and removal with RtN!,2012.0,101.0
-utpal smart,Numt identification and removal with RtN!,2012.0,101.0
-bruce budowle,Numt identification and removal with RtN!,2012.0,101.0
 keno k bressem,Highly accurate classification of chest radiographic reports using a deep learning natural language model pre-trained on 3.8 million text reports,2020.0,
 lisa c adams,Highly accurate classification of chest radiographic reports using a deep learning natural language model pre-trained on 3.8 million text reports,2020.0,
 robert a gaudin,Highly accurate classification of chest radiographic reports using a deep learning natural language model pre-trained on 3.8 million text reports,2020.0,
@@ -16109,11 +15686,6 @@ berk a alpay,Combinatorial and statistical prediction of gene expression from ha
 pinar demetci,Combinatorial and statistical prediction of gene expression from haplotype sequence,2020.0,
 sorin istrail,Combinatorial and statistical prediction of gene expression from haplotype sequence,2020.0,
 derek aguiar,Combinatorial and statistical prediction of gene expression from haplotype sequence,2020.0,
-rui zhu,Privacy-preserving construction of generalized linear mixed model for biomedical computation,2009.0,98.0
-chao jiang,Privacy-preserving construction of generalized linear mixed model for biomedical computation,2009.0,98.0
-xiaofeng wang,Privacy-preserving construction of generalized linear mixed model for biomedical computation,2009.0,98.0
-shuang wang,Privacy-preserving construction of generalized linear mixed model for biomedical computation,2009.0,98.0
-hao zheng,Privacy-preserving construction of generalized linear mixed model for biomedical computation,2009.0,98.0
 qiuyu lian,Artificial-cell-type aware cell-type classification in CITE-seq,2020.0,1.0
 hongyi xin,Artificial-cell-type aware cell-type classification in CITE-seq,2020.0,1.0
 jianzhu ma,Artificial-cell-type aware cell-type classification in CITE-seq,2020.0,1.0
@@ -16139,8 +15711,6 @@ keonwoo kim,Improved survival analysis by learning shared genomic information fr
 junseok choe,Improved survival analysis by learning shared genomic information from pan-cancer data,2020.0,1.0
 inggeol lee,Improved survival analysis by learning shared genomic information from pan-cancer data,2020.0,1.0
 jaewoo kang,Improved survival analysis by learning shared genomic information from pan-cancer data,2020.0,1.0
-yannik schälte,Efficient exact inference for dynamical systems with noisy measurements using sequential approximate Bayesian computation,2013.0,97.0
-jan hasenauer,Efficient exact inference for dynamical systems with noisy measurements using sequential approximate Bayesian computation,2013.0,97.0
 n maloddognin,Chromatin network markers of leukemia,2020.0,5.0
 v pancaldi,Chromatin network markers of leukemia,2020.0,5.0
 a valencia,Chromatin network markers of leukemia,2020.0,5.0
@@ -16238,8 +15808,6 @@ yvan saeys,TinGa: fast and flexible trajectory inference with Growing Neural Gas
 nour almadhoun,Inference attacks against differentially private query results from genomic datasets including dependent tuples,2020.0,1.0
 erman ayday,Inference attacks against differentially private query results from genomic datasets including dependent tuples,2020.0,1.0
 özgür ulusoy,Inference attacks against differentially private query results from genomic datasets including dependent tuples,2020.0,1.0
-metin balaban,Phylogenetic double placement of mixed samples,2013.0,70.0
-siavash mirarab,Phylogenetic double placement of mixed samples,2013.0,70.0
 woosub shin,Isolating structural errors in reaction networks in systems biology,2020.0,
 joseph l hellerstein,Isolating structural errors in reaction networks in systems biology,2020.0,
 seunghyuk choi,MutCombinator: identification of mutated peptides allowing combinatorial mutations using nucleotide-based graph search,2020.0,
@@ -16271,8 +15839,6 @@ farid rashidi mehrabadi,PhISCS-BnB: a fast branch and bound algorithm for the pe
 salem malikić,PhISCS-BnB: a fast branch and bound algorithm for the perfect tumor phylogeny reconstruction problem,2020.0,5.0
 xuan cindy li,PhISCS-BnB: a fast branch and bound algorithm for the perfect tumor phylogeny reconstruction problem,2020.0,5.0
 osnat bartok,PhISCS-BnB: a fast branch and bound algorithm for the perfect tumor phylogeny reconstruction problem,2020.0,5.0
-torsten gross,Identifiability and experimental design in perturbation studies,1977.0,578.0
-nils blüthgen,Identifiability and experimental design in perturbation studies,1977.0,578.0
 zeyang shen,MAGGIE: leveraging genetic variation to identify DNA sequence motifs mediating transcription factor binding and function,2020.0,3.0
 marten a hoeksema,MAGGIE: leveraging genetic variation to identify DNA sequence motifs mediating transcription factor binding and function,2020.0,3.0
 zhengyu ouyang,MAGGIE: leveraging genetic variation to identify DNA sequence motifs mediating transcription factor binding and function,2020.0,3.0
@@ -16385,11 +15951,6 @@ ryan mclaughlin,TreeSAPP: the Tree-based Sensitive and Accurate Phylogenetic Pro
 zachary armstrong,TreeSAPP: the Tree-based Sensitive and Accurate Phylogenetic Profiler,2020.0,
 grace zhang,TreeSAPP: the Tree-based Sensitive and Accurate Phylogenetic Profiler,2020.0,
 kevin chan,TreeSAPP: the Tree-based Sensitive and Accurate Phylogenetic Profiler,2020.0,
-zhicheng zhang,matFR: a MATLAB toolbox for feature ranking,2011.0,217.0
-xiaokun liang,matFR: a MATLAB toolbox for feature ranking,2011.0,217.0
-wenjian qin,matFR: a MATLAB toolbox for feature ranking,2011.0,217.0
-shaode yu,matFR: a MATLAB toolbox for feature ranking,2011.0,217.0
-yaoqin xie,matFR: a MATLAB toolbox for feature ranking,2011.0,217.0
 prateek gupta,Reanalysis of genome sequences of tomato accessions and its wild relatives: development of Tomato Genomic Variation (TGV) database integrating SNPs and INDELs polymorphisms,2020.0,
 pankaj singh dholaniya,Reanalysis of genome sequences of tomato accessions and its wild relatives: development of Tomato Genomic Variation (TGV) database integrating SNPs and INDELs polymorphisms,2020.0,
 sameera devulapalli,Reanalysis of genome sequences of tomato accessions and its wild relatives: development of Tomato Genomic Variation (TGV) database integrating SNPs and INDELs polymorphisms,2020.0,
@@ -16433,11 +15994,6 @@ irina voineagu,TDAview: an online visualization tool for topological data analys
 kenong su,"Simulation, power evaluation and sample size recommendation for single-cell RNA-seq",2020.0,1.0
 zhijin wu,"Simulation, power evaluation and sample size recommendation for single-cell RNA-seq",2020.0,1.0
 hao wu,"Simulation, power evaluation and sample size recommendation for single-cell RNA-seq",2020.0,1.0
-khalique newaz,Network analysis of synonymous codon usage,2002.0,231.0
-gabriel wright,Network analysis of synonymous codon usage,2002.0,231.0
-jacob piland,Network analysis of synonymous codon usage,2002.0,231.0
-jun li,Network analysis of synonymous codon usage,2002.0,231.0
-patricia l clark,Network analysis of synonymous codon usage,2002.0,231.0
 anastasiia kim,PRANC: ML species tree estimation from the ranked gene trees under coalescence,2020.0,
 james h degnan,PRANC: ML species tree estimation from the ranked gene trees under coalescence,2020.0,
 peifeng ruan,mirPLS: a partial linear structure identifier method for cancer subtyping using microRNAs,2020.0,
@@ -16588,8 +16144,6 @@ david tichy,ccNetViz: a WebGL-based JavaScript library for visualization of larg
 robert moore,ccNetViz: a WebGL-based JavaScript library for visualization of large networks,2020.0,
 achilles rasquinha,ccNetViz: a WebGL-based JavaScript library for visualization of large networks,2020.0,
 caner akdas,ccNetViz: a WebGL-based JavaScript library for visualization of large networks,2020.0,
-david j burks,Higher-order Markov models for metagenomic sequence classification,2013.0,21.0
-rajeev k azad,Higher-order Markov models for metagenomic sequence classification,2013.0,21.0
 yonglin peng,Screening novel drug candidates for Alzheimer’s disease by an integrated network and transcriptome analysis,2020.0,
 meng yuan,Screening novel drug candidates for Alzheimer’s disease by an integrated network and transcriptome analysis,2020.0,
 juncai xin,Screening novel drug candidates for Alzheimer’s disease by an integrated network and transcriptome analysis,2020.0,
@@ -16609,11 +16163,6 @@ brendan reardon,CoMut: visualizing integrated molecular information with comutat
 eliezer m van allen,CoMut: visualizing integrated molecular information with comutation plots,2020.0,
 charles e vejnar,LabxDB: versatile databases for genomic sequencing and lab management,2020.0,2.0
 antonio j giraldez,LabxDB: versatile databases for genomic sequencing and lab management,2020.0,2.0
-zhong wang,HiGwas: how to compute longitudinal GWAS data in population designs,2003.0,135.0
-nating wang,HiGwas: how to compute longitudinal GWAS data in population designs,2003.0,135.0
-zilu wang,HiGwas: how to compute longitudinal GWAS data in population designs,2003.0,135.0
-libo jiang,HiGwas: how to compute longitudinal GWAS data in population designs,2003.0,135.0
-yaqun wang,HiGwas: how to compute longitudinal GWAS data in population designs,2003.0,135.0
 richard a schäfer,"GLASSgo in Galaxy: high-throughput, reproducible and easy-to-integrate prediction of sRNA homologs",2020.0,
 steffen c lott,"GLASSgo in Galaxy: high-throughput, reproducible and easy-to-integrate prediction of sRNA homologs",2020.0,
 jens georg,"GLASSgo in Galaxy: high-throughput, reproducible and easy-to-integrate prediction of sRNA homologs",2020.0,
@@ -16686,10 +16235,6 @@ carolina wählby,TissUUmaps: interactive visualization of large-scale spatial ge
 safyan aman memon,HECNet: a hierarchical approach to enzyme function classification using a Siamese Triplet Network,2020.0,
 kinaan aamir khan,HECNet: a hierarchical approach to enzyme function classification using a Siamese Triplet Network,2020.0,
 hammad naveed,HECNet: a hierarchical approach to enzyme function classification using a Siamese Triplet Network,2020.0,
-edith m ross,Allele-specific multi-sample copy number segmentation in ASCAT,2012.0,180.0
-kerstin haase,Allele-specific multi-sample copy number segmentation in ASCAT,2012.0,180.0
-peter van loo,Allele-specific multi-sample copy number segmentation in ASCAT,2012.0,180.0
-florian markowetz,Allele-specific multi-sample copy number segmentation in ASCAT,2012.0,180.0
 yet nguyen,rmRNAseq: differential expression analysis for repeated-measures RNA-seq data,2019.0,
 dan nettleton,rmRNAseq: differential expression analysis for repeated-measures RNA-seq data,2019.0,
 divya sharma,TaxoNN: ensemble of neural networks on stratified microbiome data for disease prediction,2020.0,1.0
@@ -16989,11 +16534,6 @@ carsten reuse,MIAMI––a tool for non-targeted detection of metabolic flux cha
 regine fuchs,MIAMI––a tool for non-targeted detection of metabolic flux changes for mode of action identification,2020.0,1.0
 janneke hendriks,MIAMI––a tool for non-targeted detection of metabolic flux changes for mode of action identification,2020.0,1.0
 veronique starck,MIAMI––a tool for non-targeted detection of metabolic flux changes for mode of action identification,2020.0,1.0
-robel kahsay,GlyGen data model and processing workflow,2021.0,
-jeet vora,GlyGen data model and processing workflow,2021.0,
-rahi navelkar,GlyGen data model and processing workflow,2021.0,
-reza mousavi,GlyGen data model and processing workflow,2021.0,
-brian c fochtman,GlyGen data model and processing workflow,2021.0,
 p d tar,A reformulation of pLSA for uncertainty estimation and hypothesis testing in bio-imaging,2020.0,
 n a thacker,A reformulation of pLSA for uncertainty estimation and hypothesis testing in bio-imaging,2020.0,
 s deepaisarn,A reformulation of pLSA for uncertainty estimation and hypothesis testing in bio-imaging,2020.0,
@@ -17047,10 +16587,6 @@ vittore f scolari,Serpentine: a flexible 2D binning method for differential Hi-C
 yuanjing ma,A novel normalization and differential abundance test framework for microbiome data,2020.0,1.0
 yuan luo,A novel normalization and differential abundance test framework for microbiome data,2020.0,1.0
 hongmei jiang,A novel normalization and differential abundance test framework for microbiome data,2020.0,1.0
-alper şen,Codon optimization: a mathematical programing approach,1992.0,414.0
-kamyar kargar,Codon optimization: a mathematical programing approach,1992.0,414.0
-esma akgün,Codon optimization: a mathematical programing approach,1992.0,414.0
-mustafa ç pınar,Codon optimization: a mathematical programing approach,1992.0,414.0
 elizaveta v starikova,Phigaro: high-throughput prophage sequence annotation,2020.0,5.0
 polina o tikhonova,Phigaro: high-throughput prophage sequence annotation,2020.0,5.0
 nikita a prianichnikov,Phigaro: high-throughput prophage sequence annotation,2020.0,5.0
@@ -17097,8 +16633,6 @@ daniel hoffmann,IgGeneUsage: differential gene usage in immune repertoires,2020.
 mark f rogers,CScape-somatic: distinguishing driver and passenger point mutations in the cancer genome,2020.0,2.0
 tom r gaunt,CScape-somatic: distinguishing driver and passenger point mutations in the cancer genome,2020.0,2.0
 colin campbell,CScape-somatic: distinguishing driver and passenger point mutations in the cancer genome,2020.0,2.0
-jakob raymaekers,Pooled variable scaling for cluster analysis,2014.0,9379.0
-ruben h zamar,Pooled variable scaling for cluster analysis,2014.0,9379.0
 alon bartal,EnrichrBot: Twitter bot tracking tweets about human genes,2020.0,
 alexander lachmann,EnrichrBot: Twitter bot tracking tweets about human genes,2020.0,
 daniel j b clarke,EnrichrBot: Twitter bot tracking tweets about human genes,2020.0,
@@ -17151,10 +16685,6 @@ jochen weile,MaveQuest: a web resource for planning experimental tests of human 
 roujia li,MaveQuest: a web resource for planning experimental tests of human variant effects,2020.0,2.0
 tom w ouellette,MaveQuest: a web resource for planning experimental tests of human variant effects,2020.0,2.0
 jarry a barber,MaveQuest: a web resource for planning experimental tests of human variant effects,2020.0,2.0
-timothy o’connor,T-Gene: improved target gene prediction,2011.0,94.0
-charles e grant,T-Gene: improved target gene prediction,2011.0,94.0
-mikael bodén,T-Gene: improved target gene prediction,2011.0,94.0
-timothy l bailey,T-Gene: improved target gene prediction,2011.0,94.0
 wenming wu,Joint learning dimension reduction and clustering of single-cell RNA-sequencing data,2020.0,5.0
 xiaoke ma,Joint learning dimension reduction and clustering of single-cell RNA-sequencing data,2020.0,5.0
 weibo zheng,ADFinder: accurate detection of programmed DNA elimination using NGS high-throughput sequencing data,2020.0,2.0
@@ -17205,11 +16735,6 @@ yang li,FUpred: detecting protein domains through deep-learning-based contact ma
 shouheng tuo,Multipopulation harmony search algorithm for the detection of high-order SNP interactions,2020.0,3.0
 haiyan liu,Multipopulation harmony search algorithm for the detection of high-order SNP interactions,2020.0,3.0
 hao chen,Multipopulation harmony search algorithm for the detection of high-order SNP interactions,2020.0,3.0
-josejesus fernandez,PolishEM: image enhancement in FIB–SEM,2005.0,151.0
-teobaldo e torres,PolishEM: image enhancement in FIB–SEM,2005.0,151.0
-eva martinsolana,PolishEM: image enhancement in FIB–SEM,2005.0,151.0
-gerardo f goya,PolishEM: image enhancement in FIB–SEM,2005.0,151.0
-mariarosario fernandezfernandez,PolishEM: image enhancement in FIB–SEM,2005.0,151.0
 hongchun li,QuartataWeb: Integrated Chemical–Protein-Pathway Mapping for Polypharmacology and Chemogenomics,2020.0,2.0
 fen pei,QuartataWeb: Integrated Chemical–Protein-Pathway Mapping for Polypharmacology and Chemogenomics,2020.0,2.0
 d lansing taylor,QuartataWeb: Integrated Chemical–Protein-Pathway Mapping for Polypharmacology and Chemogenomics,2020.0,2.0
@@ -17322,9 +16847,6 @@ qi xu,primirTSS: an R package for identifying cell-specific microRNA transcripti
 xu hua,primirTSS: an R package for identifying cell-specific microRNA transcription start sites,2020.0,
 zhongwei xie,primirTSS: an R package for identifying cell-specific microRNA transcription start sites,2020.0,
 jie li,primirTSS: an R package for identifying cell-specific microRNA transcription start sites,2020.0,
-etminan naznooshsadat,FAME: fast and memory efficient multiple sequences alignment tool through compatible chain of roots,2014.0,397.0
-parvinnia elham,FAME: fast and memory efficient multiple sequences alignment tool through compatible chain of roots,2014.0,397.0
-sharifizarchi ali,FAME: fast and memory efficient multiple sequences alignment tool through compatible chain of roots,2014.0,397.0
 qingyang ding,VISAR: an interactive tool for dissecting chemical features learned by deep neural network QSAR models,2020.0,
 siyu hou,VISAR: an interactive tool for dissecting chemical features learned by deep neural network QSAR models,2020.0,
 songpeng zu,VISAR: an interactive tool for dissecting chemical features learned by deep neural network QSAR models,2020.0,
@@ -17387,11 +16909,6 @@ jia li,CPS analysis: self-contained validation of biomedical data clustering,202
 louis j taylor,grabseqs: simple downloading of reads and metadata from multiple next-generation sequencing data repositories,2020.0,1.0
 arwa abbas,grabseqs: simple downloading of reads and metadata from multiple next-generation sequencing data repositories,2020.0,1.0
 frederic d bushman,grabseqs: simple downloading of reads and metadata from multiple next-generation sequencing data repositories,2020.0,1.0
-siniša biđin,Leitmotif: protein motif scanning 2.0,2009.0,56.0
-ivan vujaklija,Leitmotif: protein motif scanning 2.0,2009.0,56.0
-tina paradžik,Leitmotif: protein motif scanning 2.0,2009.0,56.0
-ana bielen,Leitmotif: protein motif scanning 2.0,2009.0,56.0
-dušica vujaklija,Leitmotif: protein motif scanning 2.0,2009.0,56.0
 alexander gress,SphereCon—a method for precise estimation of residue relative solvent accessible area from limited structural information,2020.0,
 olga v kalinina,SphereCon—a method for precise estimation of residue relative solvent accessible area from limited structural information,2020.0,
 jianpeng zhou,iATC-FRAKEL: a simple multi-label web server for recognizing anatomical therapeutic chemical classes of drugs with their fingerprints only,2020.0,10.0
@@ -17416,9 +16933,6 @@ gaoxiang jia,MIXnorm: normalizing RNA-seq data from formalin-fixed paraffin-embe
 yang xie,MIXnorm: normalizing RNA-seq data from formalin-fixed paraffin-embedded samples,2020.0,2.0
 kewei liu,iMRM: a platform for simultaneously identifying multiple kinds of RNA modifications,2020.0,32.0
 wei chen,iMRM: a platform for simultaneously identifying multiple kinds of RNA modifications,2020.0,32.0
-anastasia chasapi,The bioinformatics wealth of nations,2021.0,
-vasilis j promponas,The bioinformatics wealth of nations,2021.0,
-christos a ouzounis,The bioinformatics wealth of nations,2021.0,
 michael schwarz,"MESA: automated assessment of synthetic DNA fragments and simulation of DNA synthesis, storage, sequencing and PCR errors",2020.0,
 marius welzel,"MESA: automated assessment of synthetic DNA fragments and simulation of DNA synthesis, storage, sequencing and PCR errors",2020.0,
 tolganay kabdullayeva,"MESA: automated assessment of synthetic DNA fragments and simulation of DNA synthesis, storage, sequencing and PCR errors",2020.0,

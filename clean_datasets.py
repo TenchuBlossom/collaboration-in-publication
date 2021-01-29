@@ -9,10 +9,14 @@ import pandas as pd
 # TODO - Merge bioinformatics datasets
 # TODO - Group by year
 
-SRC = './data/plos/raw'
+SRC = './data/bioinformatics/stage_2_processed'
 YEARS = [2016, 2017, 2018, 2019, 2020]
+SAMPLE = dict(
+    active=False,
+    size=450
+)
 
-dir = './data/plos/stage_3_processed'
+dir = './data/bioinformatics/stage_3_processed'
 if not os.path.exists(dir):
     os.mkdir(dir)
     
@@ -25,7 +29,7 @@ for f in files:
     
     if merged_data is None:
         merged_data = data
-        
+
     else:
         merged_data = merged_data.append(data, sort=False)
 
@@ -35,6 +39,11 @@ data_of_interest = []
 for year in YEARS:
     data = groups.get_group(year)
     data.to_csv(os.path.join(dir, f'{year}-bi-articles.csv'), index=False)
+
+merged_data = merged_data[merged_data['year'].isin(YEARS)]
+
+if SAMPLE['active']:
+    merged_data = merged_data.groupby(['year'], group_keys=False).apply(lambda x: x.sample(SAMPLE['size']))
 
 merged_data.to_csv(os.path.join(dir, 'all-bi-articles.csv'), index=False)
 

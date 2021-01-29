@@ -62,7 +62,7 @@ def execute(in_path, out_dir_path):
 
 
 if __name__ == '__main__':
-    src = './data/plos/stage_3_processed'
+    src = './data/bioinformatics/stage_3_processed'
     files = os.listdir(src)
     for f in files:
         file_year = f[:4]
@@ -72,5 +72,10 @@ if __name__ == '__main__':
 
         execute(
             in_path=os.path.join(src, f),
-            out_dir_path=['./data/plos', 'stage_4_processed', f'{file_year}']
+            out_dir_path=['./data/bioinformatics', 'stage_4_processed', f'{file_year}']
         )
+
+    # execute(
+    #     in_path=os.path.join(src, '2016-2018-2020-bi-articles.csv'),
+    #     out_dir_path=['./data/bioinformatics', 'stage_4_processed', f'2016-2018-2020']
+    # )
