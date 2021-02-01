@@ -20,33 +20,38 @@ for j in range(len(sorted_groups)):
 
     for i in tqdm(range(len(group_df)), desc=f'Iteration: {j} Community Group: {group_id}'):
         auth = auth_table["name"].iloc[group_df['Id'].iloc[i]]
-        search_q = next(scholarly.search_author(auth), None)
 
-        # TODO add authers to tempory list is that list is less than two items then do not add it
-        # TDOD to the main authors, pub or relations tables as it is a single author.
-        if search_q is None:
+        try:
+            search_q = next(scholarly.search_author(auth), None)
+            if search_q is None:
+                interests.append(np.nan)
+                h_indexes.append(np.nan)
+                affiliations.append(np.nan)
+                continue
+
+            author = scholarly.fill(search_q, sections=['basics', 'indices'])
+            interest = author.get('interests')
+            affiliation = author.get('affiliation')
+            h_index = author.get('hindex')
+
+            if interest is None:
+                interest = np.nan
+
+            if affiliation is None:
+                affiliation = np.nan
+
+            if h_index is None:
+                h_index = np.nan
+
+            interests.append(interest)
+            affiliations.append(affiliation)
+            h_indexes.append(h_index)
+
+        except Exception:
             interests.append(np.nan)
             h_indexes.append(np.nan)
             affiliations.append(np.nan)
-            continue
 
-        author = scholarly.fill(search_q, sections=['basics', 'indices'])
-        interest = author.get('interests')
-        affiliation = author.get('affiliation')
-        h_index = author.get('hindex')
-
-        if interest is None:
-            interest = np.nan
-
-        if affiliation is None:
-            affiliation = np.nan
-
-        if h_index is None:
-            h_index = np.nan
-
-        interests.append(interest)
-        affiliations.append(affiliation)
-        h_indexes.append(h_index)
 
     # if j == MAX_COMMUNITIES:
     #     break
